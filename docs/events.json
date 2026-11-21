@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-21T20:00:11Z",
+"updated": "2026-11-21T20:03:38Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -135,7 +135,7 @@
 {
 "name": "Cajundome",
 "ok": true,
-"count": 6
+"count": 7
 },
 {
 "name": "Rock'n'Bowl de Lafayette",
@@ -931,6 +931,25 @@
 "image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/11/King_Kate-Gordon-1.jpg",
 "source": "Acadiana Center for the Arts (all events)",
 "id": "dd19b18d07"
+},
+{
+"title": "ATT Expo Presents Lafayette Christmas Market",
+"start": "2026-11-22T10:00",
+"end": null,
+"allDay": false,
+"ongoing": false,
+"venue": "Cajundome",
+"address": "444 Cajundome Blvd, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"community"
+],
+"desc": "ATT Expo Market Presents the Lafayette Christmas Market\nEvent Dates: Friday – Sunday, November 20-22, 2026\nShow Times:\nFriday, Nov. 20: 10 AM - 5 PM\nSaturday, Nov. 21: 10 AM - 5 PM\nSunday, Nov. 22: 10 AM - 4 PM\nDoors Open: 9:30 AM each morning\nAll minors under the age of 16 must be accompanied by an adult.",
+"url": "https://www.cajundome.com/events/detail/attlftholidaymarket26",
+"image": "",
+"source": "Cajundome",
+"id": "39df2bdf4d"
 },
 {
 "title": "Valcour Presents: Joel Savoy’s Honky Tonk Merry Go Round Brunch",

@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-21T16:54:57Z",
+"updated": "2026-11-21T18:57:21Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -130,7 +130,7 @@
 {
 "name": "Submitted",
 "ok": true,
-"count": 1
+"count": 2
 },
 {
 "name": "Blue Moon Saloon",
@@ -470,6 +470,26 @@
 "Lafayette Travel"
 ],
 "id": "a4f3a05e4b"
+},
+{
+"title": "Scrappie’s 1st Annual Gumbowl",
+"start": "2026-11-21T11:00",
+"end": "2026-11-21T18:00",
+"allDay": false,
+"ongoing": false,
+"venue": "Scrappie Studio",
+"address": "2116 Johnston St, Lafayette",
+"price": "Varies",
+"free": false,
+"cats": [
+"music",
+"food"
+],
+"desc": "",
+"url": "https://www.instagram.com/reel/DgAq-gUyrZ5/?cnvx=MXRydTdzODlwc3Zhaw==",
+"image": "",
+"source": "Submitted",
+"id": "33694a0207"
 },
 {
 "title": "MainStreet Holiday Shop & Stroll",

@@ -114,7 +114,7 @@ header.top { position: sticky; top: 0; z-index: 20; background: color-mix(in srg
 .phead { display: flex; justify-content: space-between; align-items: baseline; padding: 0 16px; }
 .phead h2 { font-family: Fraunces, Georgia, serif; font-size: 18px; margin: 0; }
 .phead .swipehint { color: var(--ink-2); font-size: 13px; }
-.prow { display: flex; gap: 12px; overflow-x: auto; scroll-snap-type: x mandatory; padding: 8px 16px 12px; scrollbar-width: none; }
+.prow { display: flex; gap: 12px; overflow-x: auto; scroll-snap-type: x mandatory; scroll-padding-inline: 16px; padding: 8px 16px 12px; scrollbar-width: none; }
 .prow::-webkit-scrollbar { display: none; }
 .prow .pcard { flex: 0 0 68%; align-items: stretch; margin: 0; width: auto; grid-template-columns: none; gap: 0; max-width: 250px; scroll-snap-align: start; display: flex; flex-direction: column; text-align: left; padding: 0; border: 1px solid var(--line); border-radius: 14px; background: var(--surface); box-shadow: var(--shadow); overflow: hidden; color: var(--ink); font: inherit; }
 .prow .pcard::before { display: none; }
@@ -292,7 +292,7 @@ footer h4 { margin: 0 0 6px; color: var(--ink); font-size: 15px; }
 
 <script>
 // Bump this whenever the page changes, so open apps notice and reload themselves.
-const APP_VERSION = "2026-11-21.4";
+const APP_VERSION = "2026-11-21.6";
 
 // "Submit an event" sends answers to this Google Form; they land in a Google Sheet for approval.
 // The numbers are the form's question IDs, in the form's question order.
@@ -1047,7 +1047,8 @@ $("scrim").addEventListener("click", closeSheet);
 let touch = null;
 $("main").addEventListener("touchstart", ev => {
   const t = ev.touches[0];
-  touch = ev.touches.length === 1 ? { x: t.clientX, y: t.clientY, at: Date.now() } : null;
+  // Swiping the Top picks photo row only scrolls the photos; day-swiping is for the event list
+  touch = ev.touches.length === 1 && !ev.target.closest(".picks") ? { x: t.clientX, y: t.clientY, at: Date.now() } : null;
 }, { passive: true });
 $("main").addEventListener("touchend", ev => {
   if (!touch || !state.data || state.saved || state.venue || searching() || !$("sheet").hidden) return (touch = null);

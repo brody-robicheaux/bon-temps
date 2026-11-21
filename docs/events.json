@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-21T18:57:21Z",
+"updated": "2026-11-21T20:00:11Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -133,6 +133,21 @@
 "count": 2
 },
 {
+"name": "Cajundome",
+"ok": true,
+"count": 6
+},
+{
+"name": "Rock'n'Bowl de Lafayette",
+"ok": true,
+"count": 2
+},
+{
+"name": "Lafayette Public Library",
+"ok": true,
+"count": 3
+},
+{
 "name": "Blue Moon Saloon",
 "ok": true,
 "count": 34
@@ -186,6 +201,7 @@
 "url": "https://www.downtownlafayette.org/event/southern-screen-festival",
 "image": "",
 "source": "Downtown Lafayette",
+"hot": true,
 "id": "c5ae6b4100"
 },
 {
@@ -342,6 +358,7 @@
 "alsoOn": [
 "Acadiana Center for the Arts (all events)"
 ],
+"hot": true,
 "id": "d5773c2e0f"
 },
 {
@@ -405,6 +422,7 @@
 "alsoOn": [
 "Acadiana Center for the Arts (all events)"
 ],
+"hot": true,
 "id": "87f8b83e87"
 },
 {
@@ -487,8 +505,9 @@
 ],
 "desc": "",
 "url": "https://www.instagram.com/reel/DgAq-gUyrZ5/?cnvx=MXRydTdzODlwc3Zhaw==",
-"image": "",
+"image": "img/scrappie-gumbowl.webp",
 "source": "Submitted",
+"pick": true,
 "id": "33694a0207"
 },
 {
@@ -549,8 +568,11 @@
 ],
 "desc": "",
 "url": "https://ragincajuns.com/calendar.aspx?game_id=15366&sport_id=3",
-"image": "",
+"image": "img/cajun-field.jpg",
 "source": "Ragin' Cajuns home games",
+"imageCredit": "Photo: Spatms, CC BY-SA 4.0, via Wikimedia Commons",
+"imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajun_Field_(Lafayette,_Louisiana).jpg",
+"hot": true,
 "id": "d4b9fbf344"
 },
 {
@@ -823,6 +845,7 @@
 "Happening Next (music)",
 "Happening Next (performances)"
 ],
+"hot": true,
 "id": "e510e14f94"
 },
 {
@@ -1092,8 +1115,10 @@
 ],
 "desc": "",
 "url": "https://ragincajuns.com/calendar.aspx?game_id=15514&sport_id=10",
-"image": "",
+"image": "img/cajundome.jpg",
 "source": "Ragin' Cajuns home games",
+"imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
+"imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
 "id": "721b3fc2ad"
 },
 {
@@ -1168,8 +1193,10 @@
 ],
 "desc": "",
 "url": "https://ragincajuns.com/calendar.aspx?game_id=15531&sport_id=6",
-"image": "",
+"image": "img/cajundome.jpg",
 "source": "Ragin' Cajuns home games",
+"imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
+"imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
 "id": "5547485764"
 },
 {
@@ -1633,6 +1660,7 @@
 "Happening Next (food & drinks)",
 "Happening Next (music)"
 ],
+"hot": true,
 "id": "1e4ed9a36e"
 },
 {
@@ -1670,8 +1698,10 @@
 ],
 "desc": "",
 "url": "https://ragincajuns.com/calendar.aspx?game_id=15532&sport_id=6",
-"image": "",
+"image": "img/cajundome.jpg",
 "source": "Ragin' Cajuns home games",
+"imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
+"imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
 "id": "5cd63fbd7c"
 },
 {
@@ -1877,8 +1907,10 @@
 ],
 "desc": "",
 "url": "https://ragincajuns.com/calendar.aspx?game_id=15517&sport_id=10",
-"image": "",
+"image": "img/cajundome.jpg",
 "source": "Ragin' Cajuns home games",
+"imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
+"imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
 "id": "8d0efbb06f"
 },
 {
@@ -1923,6 +1955,7 @@
 "Happening Next (concerts)",
 "Heymann Performing Arts Center"
 ],
+"hot": true,
 "id": "1f86d48481"
 },
 {
@@ -2133,6 +2166,7 @@
 "Happening Next (art)",
 "Happening Next (comedy)"
 ],
+"hot": true,
 "id": "9b39519cf5"
 },
 {
@@ -2150,8 +2184,10 @@
 ],
 "desc": "",
 "url": "https://ragincajuns.com/calendar.aspx?game_id=15533&sport_id=6",
-"image": "",
+"image": "img/cajundome.jpg",
 "source": "Ragin' Cajuns home games",
+"imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
+"imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
 "id": "4cf8c03852"
 },
 {
@@ -2436,6 +2472,7 @@
 "url": "https://www.downtownlafayette.org/event/twinkle-light-night",
 "image": "",
 "source": "Downtown Lafayette",
+"hot": true,
 "id": "ac89a3a911"
 },
 {
@@ -2737,6 +2774,25 @@
 "id": "e187bd1c8a"
 },
 {
+"title": "Live at the Public Library -- Holiday Music Concert",
+"start": "2026-12-05T13:00",
+"end": "2026-12-05T14:00",
+"allDay": false,
+"ongoing": false,
+"venue": "South Regional Library",
+"address": "",
+"price": "",
+"free": false,
+"cats": [
+"music"
+],
+"desc": "SATURDAY - DECEMBER 5TH\n\n1:00PM - 2:00PM\n\nTake a moment away from the busy hustle & bustle of Christmas shopping to come enjoy live holiday music. There will be piano, keyboard, guitar, banjo, bass, drums and (of course) singing as we play traditional and popular tunes. \"The best way to spread Christmas cheer is singing loud for all to hear.\" -Buddy the Elf.\n\nNOTE: All ages welcome. We ask that parents with young children respect the musicians & other patrons' experience by stepping out if children become disruptive at the program. Thank you for your understanding & consideration!",
+"url": "https://lafayettela.libcal.com/event/17662759",
+"image": "",
+"source": "Lafayette Public Library",
+"id": "cdad265fc5"
+},
+{
 "title": "Noel a Broussard",
 "start": "2026-12-05T15:00",
 "end": "2026-12-05T19:00",
@@ -2844,6 +2900,7 @@
 "Happening Next (music)",
 "Happening Next (performances)"
 ],
+"hot": true,
 "id": "74041e49a6"
 },
 {
@@ -3079,6 +3136,7 @@
 "url": "https://www.lafayettetravel.com/event/sonic-christmas-parade/27992/",
 "image": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/lafayette/sonic-parade_0908b060-5056-b3a8-49558ed42cd675f4.jpg",
 "source": "Lafayette Travel",
+"hot": true,
 "id": "be35969641"
 },
 {
@@ -3179,6 +3237,25 @@
 "id": "6807c3728b"
 },
 {
+"title": "USA Boxing National Championships",
+"start": "2026-12-07T12:00",
+"end": null,
+"allDay": false,
+"ongoing": false,
+"venue": "Cajundome",
+"address": "444 Cajundome Blvd, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"sports"
+],
+"desc": "2026 USA Boxing National Championships & Professional Pathway Tournament CAJUNDOME\nPublic Admission Daily December 7-12, 2026, Starting at 11 AM\nSession 1: 12 PM (Box Office Opens at 11 AM)\nSession 2: 6 PM\nFinals will take place on Saturday, December 12, 2026\nChildren 7 & Under Free Admission\nTicket Information\nDecember 7th - 12th: Daily General Admission tickets are $25 each and available for purchase at the CAJUNDOME Box Office only.",
+"url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
+"image": "",
+"source": "Cajundome",
+"id": "ac7306e0d5"
+},
+{
 "title": "Noël Acadien au Village",
 "start": "2026-12-07T17:30",
 "end": "2026-12-07T21:00",
@@ -3218,6 +3295,25 @@
 "id": "9925a69856"
 },
 {
+"title": "USA Boxing National Championships",
+"start": "2026-12-08T12:00",
+"end": null,
+"allDay": false,
+"ongoing": false,
+"venue": "Cajundome",
+"address": "444 Cajundome Blvd, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"sports"
+],
+"desc": "2026 USA Boxing National Championships & Professional Pathway Tournament CAJUNDOME\nPublic Admission Daily December 7-12, 2026, Starting at 11 AM\nSession 1: 12 PM (Box Office Opens at 11 AM)\nSession 2: 6 PM\nFinals will take place on Saturday, December 12, 2026\nChildren 7 & Under Free Admission\nTicket Information\nDecember 7th - 12th: Daily General Admission tickets are $25 each and available for purchase at the CAJUNDOME Box Office only.",
+"url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
+"image": "",
+"source": "Cajundome",
+"id": "925c27b074"
+},
+{
 "title": "Noël Acadien au Village",
 "start": "2026-12-08T17:30",
 "end": "2026-12-08T21:00",
@@ -3255,6 +3351,25 @@
 "image": "https://cdn.happeningnext.com/events1/banners/c60b09bc1e3ff19b4f086756bd3419fbf4ff873b9e4536ee1c03cc686b227376-rimg-w1200-h675-dc083828-gmir?v=1794938412",
 "source": "Happening Next (music)",
 "id": "d089cd9b20"
+},
+{
+"title": "USA Boxing National Championships",
+"start": "2026-12-09T12:00",
+"end": null,
+"allDay": false,
+"ongoing": false,
+"venue": "Cajundome",
+"address": "444 Cajundome Blvd, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"sports"
+],
+"desc": "2026 USA Boxing National Championships & Professional Pathway Tournament CAJUNDOME\nPublic Admission Daily December 7-12, 2026, Starting at 11 AM\nSession 1: 12 PM (Box Office Opens at 11 AM)\nSession 2: 6 PM\nFinals will take place on Saturday, December 12, 2026\nChildren 7 & Under Free Admission\nTicket Information\nDecember 7th - 12th: Daily General Admission tickets are $25 each and available for purchase at the CAJUNDOME Box Office only.",
+"url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
+"image": "",
+"source": "Cajundome",
+"id": "4f89739324"
 },
 {
 "title": "Line Dance Class & Holiday Social",
@@ -3405,6 +3520,25 @@
 "id": "5793a9b13e"
 },
 {
+"title": "USA Boxing National Championships",
+"start": "2026-12-10T12:00",
+"end": null,
+"allDay": false,
+"ongoing": false,
+"venue": "Cajundome",
+"address": "444 Cajundome Blvd, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"sports"
+],
+"desc": "2026 USA Boxing National Championships & Professional Pathway Tournament CAJUNDOME\nPublic Admission Daily December 7-12, 2026, Starting at 11 AM\nSession 1: 12 PM (Box Office Opens at 11 AM)\nSession 2: 6 PM\nFinals will take place on Saturday, December 12, 2026\nChildren 7 & Under Free Admission\nTicket Information\nDecember 7th - 12th: Daily General Admission tickets are $25 each and available for purchase at the CAJUNDOME Box Office only.",
+"url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
+"image": "",
+"source": "Cajundome",
+"id": "93bac03628"
+},
+{
 "title": "The American Creed in Words and Images",
 "start": "2026-12-10T16:30",
 "end": "2026-12-10T19:30",
@@ -3426,6 +3560,25 @@
 "Happening Next (festivals)"
 ],
 "id": "bcb604c719"
+},
+{
+"title": "Movies at Main",
+"start": "2026-12-10T17:30",
+"end": "2026-12-10T19:30",
+"allDay": false,
+"ongoing": false,
+"venue": "Main Library",
+"address": "",
+"price": "",
+"free": false,
+"cats": [
+"arts"
+],
+"desc": "Enjoy nostalgic movies at the Main Library. No registration required. Ages 14 and up. December 10: The Nightmare Before Christmas (PG, 1993). December 17: A Christmas Carol (PG, 2009).",
+"url": "https://lafayettela.libcal.com/event/17532845",
+"image": "",
+"source": "Lafayette Public Library",
+"id": "11aac89b9f"
 },
 {
 "title": "Noël Acadien au Village",
@@ -3530,6 +3683,44 @@
 "id": "42d950b013"
 },
 {
+"title": "USA Boxing National Championships",
+"start": "2026-12-11T12:00",
+"end": null,
+"allDay": false,
+"ongoing": false,
+"venue": "Cajundome",
+"address": "444 Cajundome Blvd, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"sports"
+],
+"desc": "2026 USA Boxing National Championships & Professional Pathway Tournament CAJUNDOME\nPublic Admission Daily December 7-12, 2026, Starting at 11 AM\nSession 1: 12 PM (Box Office Opens at 11 AM)\nSession 2: 6 PM\nFinals will take place on Saturday, December 12, 2026\nChildren 7 & Under Free Admission\nTicket Information\nDecember 7th - 12th: Daily General Admission tickets are $25 each and available for purchase at the CAJUNDOME Box Office only.",
+"url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
+"image": "",
+"source": "Cajundome",
+"id": "5876381c12"
+},
+{
+"title": "Holiday Chocolate Tasting",
+"start": "2026-12-11T15:30",
+"end": "2026-12-11T16:30",
+"allDay": false,
+"ongoing": false,
+"venue": "East Regional Library",
+"address": "",
+"price": "",
+"free": false,
+"cats": [
+"food"
+],
+"desc": "Help decide East Regional's favorite type of chocolate. Visit the branch to sample a variety of chocolates, then vote for the one you think is best. While supplies last.\n\nAges 12-18\n\nNo registration required.",
+"url": "https://lafayettela.libcal.com/event/17555232",
+"image": "",
+"source": "Lafayette Public Library",
+"id": "0cd33390cf"
+},
+{
 "title": "2026 Diocesan Celebration of Our Lady of Guadalupe",
 "start": "2026-12-11T17:30",
 "end": null,
@@ -3546,6 +3737,7 @@
 "url": "https://happeningnext.com/event/2026-diocesan-celebration-of-our-lady-of-guadalupe-eid3a0eali0vf",
 "image": "https://cdn.happeningnext.com/events5/banners/b6ced64ec51bf2dd103b2d70ba270d24f339a466a2f6a6a46fd97213e913d314-rimg-w1200-h1600-dc080808-gmir?v=1794451813",
 "source": "Happening Next (festivals)",
+"hot": true,
 "id": "b9a57018c7"
 },
 {
@@ -3593,6 +3785,7 @@
 "Happening Next (music)",
 "Happening Next (performances)"
 ],
+"hot": true,
 "id": "a80c31712f"
 },
 {
@@ -3684,6 +3877,7 @@
 "Happening Next (food & drinks)",
 "Happening Next (performances)"
 ],
+"hot": true,
 "id": "a3c02a4671"
 },
 {
@@ -3749,6 +3943,7 @@
 "Happening Next (music)",
 "Happening Next (performances)"
 ],
+"hot": true,
 "id": "aa3d26ce8e"
 },
 {
@@ -3891,6 +4086,25 @@
 "image": "https://cdn.happeningnext.com/events10/banners/2f5537d9feed6f2d70f5fb3e53834440ae00f6f35a65c976464034aaa28dadae-rimg-w1200-h1552-dce8f8f8-gmir?v=1791176738",
 "source": "Happening Next (food & drinks)",
 "id": "e158a4b8ee"
+},
+{
+"title": "USA Boxing National Championships",
+"start": "2026-12-12T12:00",
+"end": null,
+"allDay": false,
+"ongoing": false,
+"venue": "Cajundome",
+"address": "444 Cajundome Blvd, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"sports"
+],
+"desc": "2026 USA Boxing National Championships & Professional Pathway Tournament CAJUNDOME\nPublic Admission Daily December 7-12, 2026, Starting at 11 AM\nSession 1: 12 PM (Box Office Opens at 11 AM)\nSession 2: 6 PM\nFinals will take place on Saturday, December 12, 2026\nChildren 7 & Under Free Admission\nTicket Information\nDecember 7th - 12th: Daily General Admission tickets are $25 each and available for purchase at the CAJUNDOME Box Office only.",
+"url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
+"image": "",
+"source": "Cajundome",
+"id": "c0d1dca356"
 },
 {
 "title": "Fall '26 End of Season Shows: Day 1",
@@ -4300,6 +4514,25 @@
 "id": "9b656d9383"
 },
 {
+"title": "Rusty Metoyer & Zydeco Krush",
+"start": "2026-12-13T17:00",
+"end": null,
+"allDay": false,
+"ongoing": false,
+"venue": "Rock'n'Bowl® de Lafayette",
+"address": "905 Jefferson St, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"music"
+],
+"desc": "Zydeco Sunday!",
+"url": "https://www.rocknbowl.com/events/rusty-metoyer-zydeco-krush-12-13-26",
+"image": "https://static.wixstatic.com/media/ddf1fb_baa6309f10604b6e9a34dacd12d3d16f~mv2.jpg/v1/fill/w_638,h_409,al_c,q_80/ddf1fb_baa6309f10604b6e9a34dacd12d3d16f~mv2.jpg",
+"source": "Rock'n'Bowl de Lafayette",
+"id": "46be7579c7"
+},
+{
 "title": "Noël Acadien au Village",
 "start": "2026-12-13T17:30",
 "end": "2026-12-13T21:00",
@@ -4513,8 +4746,10 @@
 ],
 "desc": "",
 "url": "https://ragincajuns.com/calendar.aspx?game_id=15460&sport_id=6",
-"image": "",
+"image": "img/cajundome.jpg",
 "source": "Ragin' Cajuns home games",
+"imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
+"imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
 "id": "58faff33e2"
 },
 {
@@ -4702,6 +4937,7 @@
 "Happening Next (festivals)",
 "Happening Next (music)"
 ],
+"hot": true,
 "id": "a9cba6446a"
 },
 {
@@ -4837,8 +5073,10 @@
 ],
 "desc": "",
 "url": "https://ragincajuns.com/calendar.aspx?game_id=15442&sport_id=10",
-"image": "",
+"image": "img/cajundome.jpg",
 "source": "Ragin' Cajuns home games",
+"imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
+"imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
 "id": "f3f04fc572"
 },
 {
@@ -4857,8 +5095,10 @@
 ],
 "desc": "",
 "url": "https://ragincajuns.com/calendar.aspx?game_id=15461&sport_id=6",
-"image": "",
+"image": "img/cajundome.jpg",
 "source": "Ragin' Cajuns home games",
+"imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
+"imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
 "id": "5651f18d4c"
 },
 {
@@ -5270,6 +5510,7 @@
 "Happening Next (music)",
 "Heymann Performing Arts Center"
 ],
+"hot": true,
 "id": "bb624d87ee"
 },
 {
@@ -5372,7 +5613,27 @@
 "Happening Next (concerts)",
 "Happening Next (performances)"
 ],
+"hot": true,
 "id": "c68863470c"
+},
+{
+"title": "Chubby Carrier & Bayou Swamp Band",
+"start": "2026-12-27T17:00",
+"end": null,
+"allDay": false,
+"ongoing": false,
+"venue": "Rock'n'Bowl® de Lafayette",
+"address": "905 Jefferson St, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"music"
+],
+"desc": "Zydeco Sunday!",
+"url": "https://www.rocknbowl.com/events/chubby-carrier-bayou-swamp-band-12-27-26",
+"image": "https://static.wixstatic.com/media/79b74f_41720cd3d1a5421ab053e77e95bb55d9~mv2.jpg/v1/fill/w_1000,h_638,al_c,q_85/79b74f_41720cd3d1a5421ab053e77e95bb55d9~mv2.jpg",
+"source": "Rock'n'Bowl de Lafayette",
+"id": "85a4b80637"
 },
 {
 "title": "BAG O' BANDS 3000",
@@ -5408,8 +5669,10 @@
 ],
 "desc": "",
 "url": "https://ragincajuns.com/calendar.aspx?game_id=15523&sport_id=10",
-"image": "",
+"image": "img/cajundome.jpg",
 "source": "Ragin' Cajuns home games",
+"imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
+"imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
 "id": "5205e3c8e7"
 },
 {
@@ -5466,8 +5729,10 @@
 ],
 "desc": "",
 "url": "https://ragincajuns.com/calendar.aspx?game_id=15443&sport_id=10",
-"image": "",
+"image": "img/cajundome.jpg",
 "source": "Ragin' Cajuns home games",
+"imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
+"imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
 "id": "3e20fb37d5"
 },
 {
@@ -5523,8 +5788,10 @@
 ],
 "desc": "",
 "url": "https://ragincajuns.com/calendar.aspx?game_id=15444&sport_id=10",
-"image": "",
+"image": "img/cajundome.jpg",
 "source": "Ragin' Cajuns home games",
+"imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
+"imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
 "id": "2c6853d3ec"
 },
 {
@@ -5587,8 +5854,10 @@
 ],
 "desc": "",
 "url": "https://ragincajuns.com/calendar.aspx?game_id=15464&sport_id=6",
-"image": "",
+"image": "img/cajundome.jpg",
 "source": "Ragin' Cajuns home games",
+"imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
+"imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
 "id": "9b2abffb53"
 },
 {
@@ -5782,8 +6051,10 @@
 ],
 "desc": "",
 "url": "https://ragincajuns.com/calendar.aspx?game_id=15465&sport_id=6",
-"image": "",
+"image": "img/cajundome.jpg",
 "source": "Ragin' Cajuns home games",
+"imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
+"imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
 "id": "3b5f504e3d"
 },
 {
@@ -5962,8 +6233,10 @@
 ],
 "desc": "",
 "url": "https://ragincajuns.com/calendar.aspx?game_id=15447&sport_id=10",
-"image": "",
+"image": "img/cajundome.jpg",
 "source": "Ragin' Cajuns home games",
+"imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
+"imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
 "id": "b826009fcf"
 },
 {
@@ -6064,8 +6337,10 @@
 ],
 "desc": "",
 "url": "https://ragincajuns.com/calendar.aspx?game_id=15448&sport_id=10",
-"image": "",
+"image": "img/cajundome.jpg",
 "source": "Ragin' Cajuns home games",
+"imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
+"imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
 "id": "ef8432ce0f"
 },
 {

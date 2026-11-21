@@ -39,14 +39,20 @@ page for a while because GitHub Pages lets browsers cache it.
 | Happening Next (music, theater, comedy, art, food, wellness, festivals…) | Event data built into the page, plus each event's page for the full write-up (third-party listings site) |
 | Lafayette city government | The public events calendar; routine business (regular council and commission meetings, office closures, classes) is skipped |
 | Ragin' Cajuns home games | UL Athletics' public calendar feed; only home games are kept |
+| Cajundome | Each event page linked from its events page (games come from UL's feed instead; graduations and box-office notices are skipped) |
+| Rock'n'Bowl de Lafayette | Event pages from its sitemap; New Orleans shows are left out |
+| Lafayette Public Library | Its public LibCal calendar feed, special events only (concerts, films, author visits, festivals); storytimes, clubs, classes and anything repeating are skipped |
 | Ticketmaster (Cajundome & touring shows) | Free API key (optional, see below) |
 | Your own additions | `collector/manual.json` |
 | Submitted by the public | "Submit an event" form, after you approve it |
 
-**Off for now:** Cajundome, Rock'n'Bowl, Parish Brewing and the Lafayette Public Library need an AI
-service to read their pages, and GitHub Models was retired in July 2026. UL's own arts calendar,
-Artmosphere and Instagram/Facebook can't be read either. UL performances still come in through
+**Off for now:** Parish Brewing (its events load from another service with no public feed), UL's own
+arts calendar, Artmosphere and Instagram/Facebook can't be read. UL performances still come in through
 Happening Next; cover the rest with `manual.json` and submissions.
+
+**If a source breaks** (errors, or finds nothing when it usually has events) for more than a day,
+the collector opens a GitHub issue called "Event sources not working" (GitHub emails you); it closes
+by itself once the source works again. Its memory of each source is `collector/health.json`.
 
 To add or turn off a source, edit `collector/sources.json`. Useful settings there:
 
@@ -96,8 +102,13 @@ venues and bands).
 Behind the scenes the form sends answers to a Google Form, and every submission lands as a row
 in its Google Sheet (*Bon Temps event submissions*).
 
-- **To publish an event,** type `yes` in its **Approved** column. It appears on the site at the
-  next update (within 2 hours, or about 3 minutes if you click *Run workflow* on the Actions tab).
+- **To publish an event,** type `yes` in its **Approved** column. It appears on the site within
+  about 15 minutes: the *Approved submissions* workflow re-reads only the sheet every 10 minutes.
+  You can fix a submission's Category (or anything else) in the sheet before or after approving.
+- **Category:** the form starts on "Not sure", which arrives blank, and Bon Temps picks categories
+  from the event's name and description.
+- **Photo or Flyer** (optional): a direct image link is used as is; for a page link (a website,
+  an Eventbrite event) the page's preview picture is used. Instagram links don't give a picture.
 - **To take one down,** delete the `yes`.
 - **Get an email for each new one:** in the Google Form, *Responses → ⋮ → Get email notifications
   for new responses*.
@@ -138,6 +149,17 @@ Categories: `music`, `theater`, `food`, `arts`, `wellness`, `family`, `sports`, 
 
 [CHANGELOG.md](CHANGELOG.md) is a plain-English list of every round of updates. Add an entry at
 the top after each one.
+
+## Photos and Top picks you set
+
+In `collector/sources.json`:
+- `photos`: pictures saved in `docs/img/` and attached to events by name (a flyer someone sent you,
+  or the stadium photo every Ragin' Cajuns home game uses). Add `credit` for photos that need one.
+- `topPicks`: events that always make Top picks while they're within the coming week.
+
+Photo credits (Creative Commons, via Wikimedia Commons):
+- `docs/img/cajun-field.jpg`: [Cajun Field](https://commons.wikimedia.org/wiki/File:Cajun_Field_(Lafayette,_Louisiana).jpg) by Spatms, CC BY-SA 4.0
+- `docs/img/cajundome.jpg`: [Cajundome](https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg) by TheLionHasSeen, CC BY-SA 4.0
 
 ## Sharing
 

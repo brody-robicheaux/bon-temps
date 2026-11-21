@@ -234,15 +234,30 @@
       "link": "https://ragincajuns.com/calendar",
       "keep": "\\bvs\\.? .* @ Lafayette\\b",
       "rename": [
-        ["^\\[\\w+\\]\\s*", ""],
-        ["^University of Louisiana at Lafayette\\s+", "Ragin' Cajuns "]
+        [
+          "^\\[\\w+\\]\\s*",
+          ""
+        ],
+        [
+          "^University of Louisiana at Lafayette\\s+",
+          "Ragin' Cajuns "
+        ]
       ],
       "renameLocation": [
-        ["^Lafayette\\\\?,\\s*(La\\.,\\s*)?", ""]
+        [
+          "^Lafayette\\\\?,\\s*(La\\.,\\s*)?",
+          ""
+        ]
       ],
       "renameLink": [
-        ["//admin\\.ragincajuns\\.com/", "//ragincajuns.com/"],
-        ["&amp;", "&"]
+        [
+          "//admin\\.ragincajuns\\.com/",
+          "//ragincajuns.com/"
+        ],
+        [
+          "&amp;",
+          "&"
+        ]
       ],
       "cats": [
         "sports"
@@ -261,22 +276,30 @@
     },
     {
       "name": "Cajundome",
-      "type": "page",
+      "type": "cajundome",
       "url": "https://www.cajundome.com/events",
       "venue": "Cajundome",
-      "enabled": false,
-      "_note": "Needs an AI service to read the page; GitHub Models was retired in July 2026."
+      "address": "444 Cajundome Blvd, Lafayette",
+      "skipSlugs": "^(?:mbb|wbb|vb|fb|sb|bb)vs|boxoffice|office|closure|food-drive|parking",
+      "skip": "commencement|graduation|job fair|career fair|orientation|registration",
+      "_note": "Reads each event page linked from the Cajundome's events page. Ragin' Cajuns games are skipped here (their times sometimes disagree with UL's own feed, which covers them), as are box office and office notices, graduations and job fairs."
     },
     {
       "name": "Rock'n'Bowl de Lafayette",
-      "type": "page",
-      "url": "https://www.rocknbowl.com/lafayette",
+      "type": "wixsitemap",
+      "url": "https://www.rocknbowl.com/event-pages-sitemap.xml",
       "venue": "Rock'n'Bowl de Lafayette",
+      "requireAddress": "Lafayette",
+      "renameTitle": [
+        [
+          "\\s*\\|\\s*\\d{1,2}-\\d{1,2}-\\d{2,4}$",
+          ""
+        ]
+      ],
       "cats": [
         "music"
       ],
-      "enabled": false,
-      "_note": "Needs an AI service to read the page; GitHub Models was retired in July 2026."
+      "_note": "Wix site: reads upcoming event pages from its sitemap. The sitemap also lists the New Orleans Rock'n'Bowl, so only events at the Lafayette address are kept."
     },
     {
       "name": "Parish Brewing",
@@ -284,14 +307,29 @@
       "url": "https://parishbeer.com/events/",
       "venue": "Parish Brewing Co., Broussard",
       "enabled": false,
-      "_note": "Needs an AI service to read the page; GitHub Models was retired in July 2026."
+      "_note": "Still off: its events load with JavaScript from another service, and it has no public feed (checked Nov 2026)."
     },
     {
       "name": "Lafayette Public Library",
-      "type": "page",
-      "url": "https://lafayettepubliclibrary.org/",
-      "enabled": false,
-      "_note": "Needs an AI service to read the page; GitHub Models was retired in July 2026."
+      "type": "ical",
+      "url": "https://lafayettela.libcal.com/ical_subscribe.php?src=p&cid=11334",
+      "link": "https://lafayettela.libcal.com/calendar",
+      "rename": [
+        [
+          "\\s*:\\s*[\\w ]*(?:Regional|Main) Library\\s*$",
+          ""
+        ]
+      ],
+      "renameLocation": [
+        [
+          "^.*?,\\s*(?=[^,]*Library)",
+          ""
+        ]
+      ],
+      "require": "concert|music|jazz|zydeco|cajun|creole|blues|author|book signing|film|movie|screening|festival|\\bfair\\b|celebration|kwanzaa|hanukkah|mardi gras|performance|theat(?:er|re)|magic show|lecture|panel|exhibit|expo|day of the dead|juneteenth|tasting",
+      "skip": "storytime|story time|baby|toddler|lego|makerspace|book buddy|grab ?& ?go|\\bclub\\b|lessons?|\\bclass\\b|fitness|zumba|yoga|tai chi|craft|gaming|diamond painting|genealogy|tutor|\\besl\\b|computer|homework|\\bteens?\\b|tweens?|\\bkids?\\b|seniors|mah jongg|knit|crochet|chess|sensory|cancel|session|week \\d|drop-?in|open access|practice|meeting|orientation|tree|cones|cardboard|body talk|\\bboys\\b|\\bgirls\\b|ornament|coloring|scavenger|puppet",
+      "maxRepeats": 2,
+      "_note": "The library's public LibCal calendar (about 500 events). To avoid clutter only special events are kept (concerts, author visits, films, festivals, holiday events: 'require'), never regular programs like storytime, LEGO club or classes ('skip'), and nothing that repeats more than twice in two months ('maxRepeats')."
     },
     {
       "name": "Blue Moon Saloon",
@@ -401,13 +439,49 @@
     "400 Polly Ln": "The Blake at Lafayette"
   },
   "bigEvents": [
-    {"name": "Festival International de Louisiane", "match": "festival ?international", "usually": "04-22", "tip": "Five days downtown, last week of April. festivalinternational.org"},
-    {"name": "Festivals Acadiens et Créoles", "match": "festivals? acadiens", "usually": "10-09", "tip": "Second weekend of October at Girard Park. festivalsacadiens.com"},
-    {"name": "Mardi Gras parades", "match": "mardi ?gras|krewe", "usually": "mardigras-12", "leadDays": 40, "tip": "Lafayette's parades run the two weekends before Mardi Gras. gomardigras.com"},
-    {"name": "Noël Acadien au Village", "match": "no[eë]l acadi", "usually": "12-01", "tip": "Nightly through Dec 23 at LARC's Acadian Village. Add next year's dates in manual.json."},
-    {"name": "Downtown Alive! (spring)", "match": "downtown alive", "usually": "03-20", "tip": "Friday evening concerts downtown. downtownlafayette.org"},
-    {"name": "Downtown Alive! (fall)", "match": "downtown alive", "usually": "09-11", "tip": "Friday evening concerts downtown. downtownlafayette.org"},
-    {"name": "Bach Lunch", "match": "bach lunch", "usually": "03-13", "tip": "Friday lunchtime concerts at Parc Sans Souci. downtownlafayette.org"}
+    {
+      "name": "Festival International de Louisiane",
+      "match": "festival ?international",
+      "usually": "04-22",
+      "tip": "Five days downtown, last week of April. festivalinternational.org"
+    },
+    {
+      "name": "Festivals Acadiens et Créoles",
+      "match": "festivals? acadiens",
+      "usually": "10-09",
+      "tip": "Second weekend of October at Girard Park. festivalsacadiens.com"
+    },
+    {
+      "name": "Mardi Gras parades",
+      "match": "mardi ?gras|krewe",
+      "usually": "mardigras-12",
+      "leadDays": 40,
+      "tip": "Lafayette's parades run the two weekends before Mardi Gras. gomardigras.com"
+    },
+    {
+      "name": "Noël Acadien au Village",
+      "match": "no[eë]l acadi",
+      "usually": "12-01",
+      "tip": "Nightly through Dec 23 at LARC's Acadian Village. Add next year's dates in manual.json."
+    },
+    {
+      "name": "Downtown Alive! (spring)",
+      "match": "downtown alive",
+      "usually": "03-20",
+      "tip": "Friday evening concerts downtown. downtownlafayette.org"
+    },
+    {
+      "name": "Downtown Alive! (fall)",
+      "match": "downtown alive",
+      "usually": "09-11",
+      "tip": "Friday evening concerts downtown. downtownlafayette.org"
+    },
+    {
+      "name": "Bach Lunch",
+      "match": "bach lunch",
+      "usually": "03-13",
+      "tip": "Friday lunchtime concerts at Parc Sans Souci. downtownlafayette.org"
+    }
   ],
   "_bigEventsHelp": "Big yearly events Bon Temps should never miss. usually: month-day it normally starts (or mardigras-N: N days before Mardi Gras). Starting leadDays (default 45) before that date, if no listing matches 'match', the collector opens a GitHub issue (GitHub emails you) so you can add the dates by hand.",
   "_venueNamesHelp": "venueNames: street address -> venue name, for listings that only give an address. The collector also learns these from listings that include both.",
@@ -466,6 +540,49 @@
       "NiteTown",
       "4509 Lounge",
       "City Club"
+    ]
+  },
+  "photos": {
+    "_help": "Pictures you add yourself, like a flyer someone texted you. Save the image in docs/img/ (on GitHub: open the docs/img folder, Add file, Upload files), then add an entry: match is part of the event's name (case doesn't matter), image is the file's path. It replaces any other picture for every listing whose name matches. Add credit (and creditUrl) for photos that need one, like Creative Commons photos; it shows under the picture.",
+    "items": [
+      {
+        "match": "scrappie.*gumbowl",
+        "image": "img/scrappie-gumbowl.webp"
+      },
+      {
+        "match": "ragin.? cajuns.*football",
+        "image": "img/cajun-field.jpg",
+        "credit": "Photo: Spatms, CC BY-SA 4.0, via Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Cajun_Field_(Lafayette,_Louisiana).jpg"
+      },
+      {
+        "match": "ragin.? cajuns.*basketball",
+        "image": "img/cajundome.jpg",
+        "credit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg"
+      }
+    ]
+  },
+  "trending": [
+    {
+      "url": "https://www.happeningnext.com/lafayette",
+      "type": "jsonld",
+      "_note": "Happening Next's 'Trending Events in Lafayette' on its city page."
+    },
+    {
+      "url": "https://www.lafayettetravel.com/",
+      "type": "links",
+      "pattern": "href=\"/event/([^/\"]+)/",
+      "_note": "Events featured on Lafayette Travel's home page."
+    }
+  ],
+  "_trendingHelp": "Pages whose featured events count as popular for Top picks (marked 'hot'). type jsonld: the page's event data; type links: event links on the page (pattern picks out the name).",
+  "topPicks": {
+    "_help": "Events that should always be in Top picks (when they're within the coming week), whatever the automatic ranking says. match is part of the event's name (case doesn't matter).",
+    "items": [
+      {
+        "match": "scrappie.*gumbowl"
+      }
     ]
   }
 }

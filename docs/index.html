@@ -32,7 +32,7 @@
   /* Acadiana flag: flag blue, festival red, gold */
   --bg: #FAF8F3; --surface: #FFFFFF; --surface-2: #EEEBE3; --ink: #1B2433; --ink-2: #5C6575; --line: #E4E0D6;
   --brand: #1F5BA6; --brand-ink: #FFFFFF; --accent: #C62F3E; --gold: #F4B41A;
-  --music: #C62F3E; --theater: #B0357A; --food: #A86B00; --arts: #6B4FA0; --wellness: #23855F; --family: #1F7FA6; --civic: #B4532A; --sports: #0F7C80; --community: #5C6575;
+  --music: #B02936; --theater: #B0357A; --food: #8F5B00; --arts: #6B4FA0; --wellness: #1D7652; --family: #1A6F92; --civic: #A44A24; --sports: #0B6A6E; --community: #5C6575;
   --shadow: 0 1px 2px rgba(20,30,50,.06), 0 4px 14px rgba(20,30,50,.06);
   --radius: 14px;
   color-scheme: light;
@@ -62,15 +62,15 @@ a { color: inherit; }
 
 /* header */
 header.top { position: sticky; top: 0; z-index: 20; background: color-mix(in srgb, var(--bg) 92%, transparent); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-bottom: 1px solid var(--line); padding-top: env(safe-area-inset-top, 0px); }
-.bar { display: flex; align-items: center; gap: 12px; padding: 14px 0 12px; }
+.bar { display: flex; align-items: center; gap: 8px; padding: 14px 0 12px; }
 .logo { display: flex; align-items: center; gap: 11px; text-decoration: none; flex: 1; min-width: 0; }
 .logo img { flex: none; width: 38px; height: 38px; border-radius: 10px; box-shadow: 0 0 0 1px var(--line); }
-.logo b { display: block; font-size: 23px; line-height: 1.1; letter-spacing: -.01em; color: var(--brand); font-weight: 800; }
+.logo b { display: block; font-size: 22px; white-space: nowrap; line-height: 1.1; letter-spacing: -.01em; color: var(--brand); font-weight: 800; }
 .logo b, .day, .sheet h2, .venuebar b, footer h4, .tip b { font-family: Fraunces, Georgia, "Times New Roman", serif; }
 .day { font-weight: 700; font-size: 16.5px; letter-spacing: .005em; }
 .logo span { min-width: 0; }
 .logo small { display: block; color: var(--ink-2); font-size: 12.5px; margin-top: 2px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-.iconbtn { position: relative; flex: none; width: 40px; height: 40px; display: grid; place-items: center; border: 1px solid var(--line); background: var(--surface); border-radius: 50%; color: var(--ink-2); }
+.iconbtn { position: relative; flex: none; width: 44px; height: 44px; display: grid; place-items: center; border: 1px solid var(--line); background: var(--surface); border-radius: 50%; color: var(--ink-2); }
 .iconbtn[aria-pressed="true"] { color: var(--accent); border-color: color-mix(in srgb, var(--accent) 40%, var(--line)); }
 .iconbtn .badge { position: absolute; top: -3px; right: -3px; min-width: 18px; height: 18px; padding: 0 5px; border-radius: 9px; background: var(--accent); color: #fff; font-size: 11px; font-weight: 700; line-height: 18px; text-align: center; }
 .iconbtn.spin svg { animation: spin .8s linear infinite; }
@@ -99,7 +99,7 @@ header.top { position: sticky; top: 0; z-index: 20; background: color-mix(in srg
 /* categories: one quiet scrolling row */
 .chips { display: flex; gap: 6px; overflow-x: auto; padding: 0 16px; margin: 0 -16px; scrollbar-width: none; -webkit-mask-image: linear-gradient(90deg, transparent 0, #000 16px, #000 calc(100% - 24px), transparent); mask-image: linear-gradient(90deg, transparent 0, #000 16px, #000 calc(100% - 24px), transparent); }
 .chips::-webkit-scrollbar { display: none; }
-.chip { flex: none; border: 0; background: none; border-radius: 999px; padding: 6px 11px; font-size: 14px; font-weight: 550; color: var(--ink-2); white-space: nowrap; display: inline-flex; align-items: center; gap: 6px; }
+.chip { flex: none; border: 0; background: none; border-radius: 999px; padding: 6px 11px; min-height: 38px; font-size: 14px; font-weight: 550; color: var(--ink-2); white-space: nowrap; display: inline-flex; align-items: center; gap: 6px; }
 .chip:hover { background: var(--surface-2); }
 .chip[aria-pressed="true"] { background: color-mix(in srgb, var(--c, var(--brand)) 14%, transparent); color: var(--c, var(--brand)); }
 .chip .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--c); }
@@ -107,7 +107,30 @@ header.top { position: sticky; top: 0; z-index: 20; background: color-mix(in srg
 .savedbar { display: flex; justify-content: space-between; align-items: center; background: color-mix(in srgb, var(--accent) 10%, transparent); color: var(--ink); border-radius: 11px; padding: 9px 12px; font-weight: 600; font-size: 14px; }
 .savedbar button { border: 0; background: none; color: var(--accent); font-weight: 650; }
 .savedbar.searchbar { margin: 10px 0 4px; }
-.card.over { opacity: .6; }
+.card.over { box-shadow: none; border-style: dashed; }
+.card.over h3, .card.over .when { color: var(--ink-2); }
+.card.over .save { opacity: .7; }
+.picks { margin: 12px -16px 2px; }
+.phead { display: flex; justify-content: space-between; align-items: baseline; padding: 0 16px; }
+.phead h2 { font-family: Fraunces, Georgia, serif; font-size: 18px; margin: 0; }
+.phead .swipehint { color: var(--ink-2); font-size: 13px; }
+.prow { display: flex; gap: 12px; overflow-x: auto; scroll-snap-type: x mandatory; padding: 8px 16px 12px; scrollbar-width: none; }
+.prow::-webkit-scrollbar { display: none; }
+.prow .pcard { flex: 0 0 68%; align-items: stretch; margin: 0; width: auto; grid-template-columns: none; gap: 0; max-width: 250px; scroll-snap-align: start; display: flex; flex-direction: column; text-align: left; padding: 0; border: 1px solid var(--line); border-radius: 14px; background: var(--surface); box-shadow: var(--shadow); overflow: hidden; color: var(--ink); font: inherit; }
+.prow .pcard::before { display: none; }
+.pcard .ph { position: relative; display: block; aspect-ratio: 16 / 10; background: var(--surface-2); overflow: hidden; }
+.pcard .ph img { width: 100%; height: 100%; object-fit: cover; object-position: center top; display: block; }
+.pcard .poster { display: none; }
+.pcard.noimg .poster { position: absolute; inset: 0; display: flex; flex-direction: column; justify-content: flex-end; gap: 6px; padding: 12px 64px 12px 12px; background: #F1E4C8; overflow: hidden; }
+.pcard .poster img { position: absolute; right: -34px; top: -10px; width: 120px; height: 120px; transform: rotate(9deg); border-radius: 16px; }
+.pcard .poster i { align-self: flex-start; font-style: normal; background: #C62F3E; color: #F1E4C8; font: 700 10.5px/1 Oswald, "Segoe UI", sans-serif; letter-spacing: .18em; text-transform: uppercase; padding: 4px 7px; transform: rotate(-2deg); }
+.pcard .poster b { font-family: Fraunces, Georgia, serif; font-weight: 800; font-size: 19px; line-height: 1.1; color: #1F4F96; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.pcard.noimg .ptx b { display: none; }  /* the name is already on the poster */
+.pcard .pwhen { position: absolute; left: 8px; top: 8px; background: rgba(16,19,26,.78); color: #fff; font-size: 12.5px; font-weight: 700; padding: 3px 8px; border-radius: 999px; }
+.pcard .ptx { display: block; padding: 9px 11px 11px; }
+.pcard .ptx b { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; font-size: 15px; line-height: 1.25; }
+.pcard .ptx small { display: block; margin-top: 3px; color: var(--ink-2); font-size: 13px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.vh { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 .sharelist { display: flex; align-items: center; justify-content: center; gap: 8px; margin: 18px auto 4px; border: 1px solid var(--line); background: var(--surface); color: var(--brand); border-radius: 999px; padding: 9px 16px; font-weight: 650; font-size: 14px; }
 main.slide-l { animation: slideL .22s ease-out; } main.slide-r { animation: slideR .22s ease-out; }
 @keyframes slideL { from { opacity: .3; transform: translateX(28px); } to { opacity: 1; transform: none; } }
@@ -121,6 +144,7 @@ main.slide-l { animation: slideL .22s ease-out; } main.slide-r { animation: slid
 .fixform .row button { border: 1px solid var(--line); background: var(--surface-2); border-radius: 10px; padding: 8px 14px; font-weight: 600; }
 .fixform .row .go { background: var(--brand); color: var(--brand-ink); border-color: var(--brand); }
 .card.over::before { background: var(--line); }
+:where(button, a, summary, [role=button]):focus-visible { outline: 3px solid var(--brand); outline-offset: 2px; border-radius: 10px; }
 .ended { font-weight: 650; color: var(--ink-2); }
 .venuebar { display: flex; justify-content: space-between; align-items: center; gap: 10px; background: color-mix(in srgb, var(--brand) 10%, transparent); color: var(--ink); border-radius: 11px; padding: 10px 12px; font-size: 14px; margin-top: 4px; }
 .venuebar b { display: block; font-size: 15.5px; }
@@ -151,7 +175,7 @@ main { padding: 6px 0 40px; }
 .tags { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 7px; }
 .tag { font-size: 12px; padding: 2px 8px; border-radius: 999px; background: color-mix(in srgb, var(--c) 13%, transparent); color: var(--c); font-weight: 600; }
 .tag.free { --c: var(--wellness); }
-.save { border: 0; background: none; padding: 4px; color: var(--ink-2); border-radius: 8px; }
+.save { border: 0; background: none; padding: 11px; margin: -8px -6px 0 0; color: var(--ink-2); border-radius: 8px; }
 .save[aria-pressed="true"] { color: var(--accent); }
 .empty { text-align: center; color: var(--ink-2); padding: 48px 12px; }
 .more { display: block; margin: 16px auto; border: 1px solid var(--line); background: var(--surface); border-radius: 999px; padding: 10px 20px; }
@@ -201,6 +225,8 @@ footer h4 { margin: 0 0 6px; color: var(--ink); font-size: 15px; }
 .grab { width: 40px; height: 5px; border-radius: 3px; background: var(--line); margin: 4px auto 10px; }
 .sheet img.hero { width: 100%; max-height: 220px; object-fit: cover; border-radius: 12px; margin-bottom: 12px; background: var(--surface-2); }
 .sheet h2 { margin: 6px 0 4px; font-size: 22px; line-height: 1.25; }
+.sheet .credit { margin: -6px 0 8px; font-size: 11.5px; color: var(--ink-2); }
+.sheet .credit a { color: inherit; }
 .sheet .row { display: flex; gap: 10px; align-items: flex-start; margin: 10px 0; color: var(--ink); }
 .sheet .row svg { flex: none; color: var(--ink-2); margin-top: 2px; }
 .sheet p.desc { color: var(--ink); margin: 0; white-space: pre-line; }
@@ -250,6 +276,7 @@ footer h4 { margin: 0 0 6px; color: var(--ink); font-size: 15px; }
   </div>
 </header>
 
+<h1 class="vh">Bon Temps: events in Lafayette, Louisiana</h1>
 <main class="wrap" id="main" aria-live="polite"></main>
 
 <footer class="wrap">
@@ -265,7 +292,7 @@ footer h4 { margin: 0 0 6px; color: var(--ink); font-size: 15px; }
 
 <script>
 // Bump this whenever the page changes, so open apps notice and reload themselves.
-const APP_VERSION = "2026-11-20.2";
+const APP_VERSION = "2026-11-21.4";
 
 // "Submit an event" sends answers to this Google Form; they land in a Google Sheet for approval.
 // The numbers are the form's question IDs, in the form's question order.
@@ -274,6 +301,7 @@ const SUBMIT_FIELDS = {
   name: "entry.1947685435", date: "entry.1436712317", start: "entry.1497677929", end: "entry.222007628",
   venue: "entry.1081429117", address: "entry.811791712", price: "entry.1586951292", category: "entry.1671384174",
   link: "entry.894822772", description: "entry.1861025068",
+  photo: "entry.1982639986",  // "Photo or Flyer" (optional)
 };
 
 // Visitor counts: the site code from goatcounter.com (for https://CODE.goatcounter.com/count).
@@ -292,6 +320,7 @@ const CATS = {
 // The strip: three ranges, then one tile per day for the next two weeks ("d:2026-11-21")
 const WHEN = { picks: "Top picks", tonight: "Tonight", weekend: "Weekend" };
 const PICKS = 10;  // how many events "Top picks" shows (from the next 7 days)
+const TODAY_PICKS = 4;  // how many of them can be today's (today's best come first)
 const STRIP_DAYS = 14;
 // (runs while the page is starting up, so it only uses function declarations)
 function validWhen(w) { return !!WHEN[w] || (/^d:\d{4}-\d{2}-\d{2}$/.test(w || "") && w.slice(2) >= iso10(lafNow())); }
@@ -344,7 +373,12 @@ function viewTitle() {
   return `${cats ? cats + " · " : ""}${state.free ? "Free · " : ""}${when}${state.q ? ` · “${state.q}”` : ""} in Lafayette`;
 }
 async function shareView() {
-  const url = location.origin + location.pathname + "?" + viewParams().toString().replace(/%2C/g, ",");
+  // A single day shares its day page (docs/d/<date>.html), whose link preview reads
+  // "Saturday, Nov 21 in Lafayette · 42 events"; other views share the regular address.
+  const p = viewParams(), day = state.when.startsWith("d:") && state.when.slice(2);
+  if (day) p.delete("when");
+  const q = p.toString().replace(/%2C/g, ",");
+  const url = day ? `${SITE}d/${day}${q ? "?" + q : ""}` : location.origin + location.pathname + "?" + q;
   const title = viewTitle();
   try {
     if (navigator.share) await navigator.share({ title: "Bon Temps", text: title, url });
@@ -356,13 +390,12 @@ async function shareView() {
 const savedEvents = store.get("savedEvents", {});
 const saved = new Set([...store.get("saved", []), ...Object.keys(savedEvents)]);
 
-// Opens on "Tonight" in the evening and on today's tile during the day. A choice made during this
-// visit sticks until the tab is closed.
+// Opens on Top picks. A choice made during this visit sticks until the tab is closed.
 function pickWhen() {
   let chosen = null;
   try { chosen = sessionStorage.getItem("bt-when"); } catch (_) {}
   if (validWhen(chosen)) return chosen;
-  return lafNow().getHours() >= 16 ? "tonight" : "d:" + iso10(lafNow());
+  return "picks";
 }
 function rememberWhen(w) { try { sessionStorage.setItem("bt-when", w); } catch (_) {} }
 function persistSaved() { store.set("saved", [...saved]); store.set("savedEvents", savedEvents); }
@@ -533,27 +566,51 @@ function filtered() {
   const pool = state.saved ? Object.values(savedEvents).sort((x, y) => x.start.localeCompare(y.start)) : state.data.events;
   const list = pool.filter(e => passes(e) && inWindow(e, a, b));
   if (state.when !== "picks" || state.saved || searching()) return list;
-  // Top picks: the best-scoring events of the week, shown in date order
+  return rankPicks(list);
+}
+// Top picks: the best-scoring events of the week, shown in date order
+function rankPicks(list) {
   // A weekly regular repeats over 2+ weeks (Cajun Jam); a play's 3-night run doesn't count
   const dates = {};
   for (const e of state.data.events) (dates[titleRoot(e)] ||= []).push(parse(e.start));
   const repeats = {};
   for (const [t, ds] of Object.entries(dates)) repeats[t] = ds.length >= 3 && (Math.max(...ds) - Math.min(...ds)) >= 13 * 864e5 ? ds.length : 0;
-  const ranked = list.filter(e => !e.ongoing).map(e => [e, pickScore(e, repeats)]).sort((x, y) => y[1] - x[1]);
+  // Only events with a real sign of being a big deal can be picked (see bigDeal); on a quiet
+  // week that means fewer than PICKS
+  const ranked = list.filter(e => !e.ongoing && bigDeal(e, repeats)).map(e => [e, pickScore(e, repeats)]).sort((x, y) => y[1] - x[1]);
+  // Today's best come first (up to TODAY_PICKS), then the rest of the week, at most 2 a day and
+  // one per show so the list covers several days. Shown in order of day and time.
+  const today = iso10(lafNow());
   const picks = [], perDay = {}, seen = new Set();
-  for (const [e] of ranked) {  // at most 2 a day, one per show, so the list covers the week
-    const day = e.start.slice(0, 10), root = titleRoot(e);
-    if ((perDay[day] || 0) >= 2 || seen.has(root)) continue;
+  const take = (e, cap) => {
+    const day = e.start.slice(0, 10) < today ? today : e.start.slice(0, 10), root = titleRoot(e);
+    if ((perDay[day] || 0) >= cap || seen.has(root) || picks.length >= PICKS) return;
     perDay[day] = (perDay[day] || 0) + 1; seen.add(root); picks.push(e);
-    if (picks.length === PICKS) break;
-  }
-  return picks.sort((x, y) => x.start.localeCompare(y.start));
+  };
+  for (const [e] of ranked) if (e.start.slice(0, 10) <= today) take(e, TODAY_PICKS);
+  for (const [e] of ranked) if (e.start.slice(0, 10) > today) take(e, 2);
+  // Shows that began earlier and are still running sort with today
+  const at = e => e.start.slice(0, 10) < today ? today + "T00:00" : e.start;
+  return picks.sort((x, y) => at(x).localeCompare(at(y)));
 }
 
-// There's no public "how many people are going" data, so picks are ranked on signals that
-// track it well enough: how many separate sites list the event, whether it's ticketed, a
-// photo and a real write-up. Weekly regulars (every Wednesday's Cajun Jam) are pushed down.
-const BIG_VENUES = /heymann|cajundome|acadiana center|blue moon|moncus|vermilionville|cit[eé] des arts|rock.?n.?bowl|wonderland|feed n seed|club 337|hideaway/i;
+// There's no public "how many people are going" data, so picks rest on outside signs that an
+// event is a big deal: local listing sites featuring it as trending ("hot", from the collector),
+// a ticketed show at a major venue, a festival or parade, a Ragin' Cajuns home game, or many
+// separate sites listing it. Without one of those an event never makes Top picks.
+const BIG_VENUES = /heymann|cajundome|lourdes stadium|acadiana center|blue moon|moncus|vermilionville|cit[eé] des arts|rock.?n.?bowl|wonderland|feed n seed|club 337|hideaway/i;
+const BIG_WORDS = /festival|\bfest\b|parade|mardi gras|courir|no[eë]l acadien|downtown alive|bach lunch|gala|championships?|symphony|orchestra|ballet|nutcracker|tribute to|live in concert|candlelight/i;
+const SMALL_WORDS = /\b(?:talk|lecture|class|workshop|round ?up|yoga|tai chi|book club|trivia|karaoke|open mic|meet ?up|tour with|pop-?up|food drive|drive|sale|market|registration|job fair|storytime|crafts?)\b/i;
+function bigDeal(e, repeats) {
+  if (e.pick) return true;   // on the "always in Top picks" list (collector/sources.json topPicks)
+  if (SMALL_WORDS.test(e.title) && !e.hot && !BIG_WORDS.test(e.title)) return false;
+  if ((repeats[titleRoot(e)] || 0) >= 3 && !homeGame(e)) return false;   // weekly regulars
+  const families = new Set([e.source, ...(e.alsoOn || [])].map(x => x.replace(/\s*\(.*\)$/, ""))).size;
+  return !!(e.hot || homeGame(e) || BIG_WORDS.test(e.title) || families >= 3
+    || (e.price && !e.free && BIG_VENUES.test(e.venue))
+    || (e.cats.includes("theater") && BIG_VENUES.test(e.venue)));
+}
+const homeGame = e => e.cats.includes("sports") && /ragin.? cajuns/i.test(e.title) && /\bvs\.?\s/i.test(e.title);
 const titleRoot = e => e.title.toLowerCase().split(/ [-–—|:(] /)[0].replace(/[^a-z]/g, "").slice(0, 12);
 function pickScore(e, repeats) {
   const families = new Set([e.source, ...(e.alsoOn || [])].map(x => x.replace(/\s*\(.*\)$/, "")));
@@ -562,11 +619,14 @@ function pickScore(e, repeats) {
   if (BIG_VENUES.test(e.venue)) score += 2;
   if (e.cats.includes("theater")) score += 2;
   if (e.cats.includes("music")) score += 1.5;
-  if (/festival|fest\b|gala|parade|premiere|anniversary|annual|championship|live in concert/i.test(e.title)) score += 3;
+  if (e.hot) score += 6;                              // featured as trending by local listing sites
+  if (e.pick) score += 20;                            // always in Top picks
+  if (BIG_WORDS.test(e.title)) score += 3;
   if ((e.desc || "").length > 200) score += 1;
   if (e.image) score += 0.5;
   if (/\b(?:talk|lecture|class|workshop|round ?up|yoga|tai chi|book club|trivia|meet ?up|tour with)\b/i.test(e.title)) score -= 3;
-  if ((repeats[titleRoot(e)] || 0) >= 3) score -= 4;   // weekly regulars
+  if (homeGame(e)) score += /football/i.test(e.title) ? 6 : 3;  // Ragin' Cajuns at home (football is the big one)
+  if ((repeats[titleRoot(e)] || 0) >= 3 && !homeGame(e)) score -= 4;   // weekly regulars (a season of games isn't one)
   if (e.allDay) score -= 1;
   return score;
 }
@@ -580,6 +640,32 @@ function inWindow(e, a, b) {
   const s = parse(e.start), en = parse(e.end) || (e.allDay ? addDays(dayStart(s), 1) : new Date(+s + 2 * 3600e3));
   // all-day listings belong to whole days: "Tonight" (until 3 AM) shouldn't pull in tomorrow's
   return en > a && s < (e.allDay ? dayStart(b) : b);
+}
+
+// On the Top picks tab, the picks also show as a swipeable row of picture cards at the top
+// (the list below gives them by day). Events without a photo get a card in their category's color.
+function picksRow() {
+  if (!state.data || state.when !== "picks" || state.saved || state.venue || searching()) return "";
+  const picks = filtered();
+  if (picks.length < 2) return "";
+  const short = d => `${DOW[d.getDay()].slice(0, 3)} ${fmtTime(d)}`;
+  const cardHtml = e => {
+    const s = parse(e.start), en = parse(e.end), c = e.cats[0] || "community";
+    const when = s < dayStart(lafNow()) && en ? `Thru ${DOW[en.getDay()].slice(0, 3)}`  // started earlier, still on
+      : e.allDay || (!s.getHours() && !s.getMinutes()) ? `${DOW[s.getDay()].slice(0, 3)}, ${MON[s.getMonth()]} ${s.getDate()}` : short(s);  // "12 AM" usually means no time was given
+    const ph = e.image
+      ? `<img src="${esc(e.image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.closest('.pcard').classList.add('noimg');this.remove()">`
+      : "";
+    // No photo: a mini Bon Temps poster (cream paper, the flag, the event's name) that never
+    // guesses a category
+    return `<button type="button" class="pcard card${e.image ? "" : " noimg"}" data-id="${e.id}" aria-label="${esc(e.title)}, ${when}${e.venue ? ", " + esc(e.venue) : ""}">
+      <span class="ph">${ph}<span class="poster" aria-hidden="true"><img src="icon.svg" alt=""><i>Lafayette, La.</i><b>${esc(e.title)}</b></span><span class="pwhen">${when}</span></span>
+      <span class="ptx"><b>${esc(e.title)}</b><small>${esc(e.venue || e.address || "")}</small></span>
+    </button>`;
+  };
+  return `<section class="picks" aria-label="Top picks this week">
+    <div class="phead"><h2>Top picks this week</h2><span class="swipehint" aria-hidden="true">Swipe →</span></div>
+    <div class="prow">${picks.map(cardHtml).join("")}</div></section>`;
 }
 
 function card(e, started = false) {
@@ -632,7 +718,7 @@ function render() {
   let h = state.saved ? `<div class="savedbar">♥ Saved events (${saved.size})<button type="button" data-saved>Back to all</button></div>` : "";
   if (state.venue) h = `<div class="venuebar"><div><b>${esc(state.venue.name)}</b><small>${list.length} upcoming event${list.length === 1 ? "" : "s"}</small></div><button type="button" data-allvenues>Back to all</button></div>`;
   else if (searching()) h += `<div class="savedbar searchbar">🔍 ${list.length} match${list.length === 1 ? "" : "es"} in all upcoming events<button type="button" data-clearq>Clear</button></div>`;
-  else if (!state.saved) h += tipHtml();
+  else if (!state.saved) h += tipHtml() + picksRow();
   if (!list.length) {
     h += `<div class="empty">${state.venue ? "Nothing coming up here right now." : state.saved ? "Nothing saved yet. Tap ♥ on an event to keep it here." : state.q ? `No events match “${esc(state.q)}”.` : state.when.startsWith("d:") ? (holidayOn(parse(state.when.slice(2))) ? `Happy ${holidayOn(parse(state.when.slice(2))).name}! Nothing's listed for this day yet. Try another day or Top picks.` : "Nothing listed for this day yet. Try another day or Top picks.") : "No events in this window. Try Top picks."}</div>`;
   } else {
@@ -652,7 +738,7 @@ function render() {
       const diff = Math.round((g.d - today) / 864e5);
       const label = diff === 0 ? "Today" : diff === 1 ? "Tomorrow" : DOW[g.d.getDay()];
       const hol = holidayOn(g.d);
-      h += `<div class="day">${label} <span>${MON[g.d.getMonth()]} ${g.d.getDate()}</span>${hol ? `<span class="holname">${hol.emoji} ${hol.name}</span>` : ""}</div>`;
+      h += `<div class="day" role="heading" aria-level="2">${label} <span>${MON[g.d.getMonth()]} ${g.d.getDate()}</span>${hol ? `<span class="holname">${hol.emoji} ${hol.name}</span>` : ""}</div>`;
       h += g.timed.map(e => card(e)).join("");
       if (g.allday.length) {
         const names = g.allday.slice(0, 2).map(x => esc(x.e.title)).join(", ") + (g.allday.length > 2 ? ` +${g.allday.length - 2}` : "");
@@ -711,6 +797,7 @@ function openSheet(id) {
   const ic = p => `<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">${p}</svg>`;
   $("sheet").innerHTML = `<div class="grab"></div><button class="close" type="button" id="close" aria-label="Close">×</button>
     ${e.image ? `<img class="hero" src="${esc(e.image)}" alt="" loading="lazy" onerror="this.remove()">` : ""}
+    ${e.image && e.imageCredit ? `<p class="credit">${e.imageCreditUrl ? `<a href="${esc(e.imageCreditUrl)}" target="_blank" rel="noopener">${esc(e.imageCredit)}</a>` : esc(e.imageCredit)}</p>` : ""}
     <div class="tags">${e.cats.map(k => `<span class="tag" style="--c:${catColor(k)}">${CATS[k]}</span>`).join("")}${e.free ? `<span class="tag free">Free</span>` : ""}</div>
     <h2 id="sheet-title">${esc(e.title)}</h2>
     <div class="row">${ic('<rect x="3" y="5" width="18" height="16" rx="2"/><path d="M16 3v4M8 3v4M3 10h18"/>')}<div>${when}</div></div>
@@ -764,7 +851,9 @@ function tipHtml() {
 // ---------- submit an event ----------
 function openSubmit() {
   const today = iso10(lafNow());
-  const opts = Object.entries(CATS).map(([k, v]) => `<option value="${v}">${v}</option>`).join("");
+  // The first choice is sent blank, and the collector picks categories from the name and
+  // description (a dropdown that starts on "Music" made gumbo cook-offs into music events).
+  const opts = `<option value="">Not sure</option>` + Object.entries(CATS).map(([k, v]) => `<option value="${v}">${v}</option>`).join("");
   $("sheet").innerHTML = `<div class="grab"></div><button class="close" type="button" id="close" aria-label="Close">×</button>
     <form class="form" id="subform" novalidate>
       <h2 id="sheet-title">Submit an event</h2>
@@ -787,6 +876,8 @@ function openSubmit() {
       </div>
       <label for="f-link">Link <small>(tickets, Instagram post or website)</small></label>
       <input id="f-link" name="link" type="url" inputmode="url" maxlength="300" placeholder="https://">
+      ${SUBMIT_FIELDS.photo ? `<label for="f-photo">Photo or flyer <small>(optional: link to the image, or to a page that shows it)</small></label>
+      <input id="f-photo" name="photo" type="url" inputmode="url" maxlength="500" placeholder="https://">` : ""}
       <label for="f-desc">Description <small>(optional)</small></label>
       <textarea id="f-desc" name="description" maxlength="1500" placeholder="A sentence or two about the event"></textarea>
       <div class="hp" aria-hidden="true"><label>Leave this empty<input name="website" tabindex="-1" autocomplete="off"></label></div>
@@ -817,7 +908,7 @@ function openFix(e) {
       venue: e.venue || "-", address: e.address, category: "Correction", link: location.origin + location.pathname + "#" + e.id,
       description: `${note}\n\n(Listing from ${e.source}. Event id ${e.id}.)` };
     const body = new URLSearchParams();
-    for (const [k, id] of Object.entries(SUBMIT_FIELDS)) body.append(id, v[k] || "-");
+    for (const [k, id] of Object.entries(SUBMIT_FIELDS)) if (id) body.append(id, v[k] || "-");
     try {
       await fetch(SUBMIT_FORM, { method: "POST", mode: "no-cors", body });
       $("fix").innerHTML = `<p class="fine">Thanks! We'll take a look and fix it.</p>`;
@@ -839,6 +930,9 @@ async function sendSubmission(ev) {
   if (!v.date) bad.push(["f-date", "Pick the date."]);
   else if (v.date < iso10(lafNow())) bad.push(["f-date", "That date has already passed."]);
   if (!v.venue) bad.push(["f-venue", "Add where it's happening."]);
+  if (v.photo && !/^https?:\/\/\S+\.\S+/i.test(v.photo)) {
+    if (/^\S+\.\S+$/.test(v.photo)) v.photo = "https://" + v.photo; else bad.push(["f-photo", "That photo link doesn't look right. Long-press the image and choose Copy, or copy the page's address."]);
+  }
   if (v.link && !/^https?:\/\/\S+\.\S+/i.test(v.link)) {
     if (/^\S+\.\S+$/.test(v.link)) v.link = "https://" + v.link; else bad.push(["f-link", "That link doesn't look right. Copy it from your browser's address bar."]);
   }
@@ -854,7 +948,7 @@ async function sendSubmission(ev) {
       const body = new URLSearchParams();
       // Blank answers go as "-": if a question is ever set to "Required" in the Google Form,
       // an empty answer would make Google silently reject the whole submission.
-      for (const [k, id] of Object.entries(SUBMIT_FIELDS)) body.append(id, v[k] || "-");
+      for (const [k, id] of Object.entries(SUBMIT_FIELDS)) if (id) body.append(id, v[k] || "-");
       await fetch(SUBMIT_FORM, { method: "POST", mode: "no-cors", body });
     }
     $("sheet").innerHTML = `<div class="grab"></div><button class="close" type="button" id="close" aria-label="Close">×</button>

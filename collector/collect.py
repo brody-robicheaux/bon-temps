@@ -842,6 +842,65 @@ def src_lafayette_travel(src, start, end):
     return out
 
 
+# ---------- source: Cajundome (one page per event) ----------
+
+_MONTHS = "January February March April May June July August September October November December".split()
+
+
+def src_cajundome(src, start, end):
+    """The events page links to one page per event. Each page prints the dates as text: 'Date
+    November 20 - 22, 2026', then one line per show day ('Nov 22Sunday' / '/ 10:00AM'), or a
+    single 'Event Starts 6:00PM'."""
+    listing = fetch(src["url"])
+    links = sorted(set(re.findall(r'href="(https://www\.cajundome\.com/events/detail/[^"#?]+)"', listing)))
+    if not links:  # the page didn't load properly (counts as a failure, so last run's events stay)
+        raise RuntimeError(f"no event links on the events page ({len(listing)} bytes)")
+    skip = re.compile(src.get("skipSlugs") or r"$^", re.I)
+    out = []
+    for url in links:
+        if skip.search(url.rsplit("/", 1)[-1]):
+            continue
+        try:
+            page = fetch(url)
+        except urllib.error.URLError:
+            continue
+        lines = [re.sub(r"\s*\[https?://[^\]]+\]\s*", " ", l).strip() for l in page_text(page, url).split("\n")]
+        lines = [l for l in lines if l]
+        dl = next((i for i, l in enumerate(lines) if l.startswith("Date ")), None)
+        if dl is None:
+            continue
+        m = re.search(r"<h1[^>]*>(.*?)</h1>", page, re.S) or re.search(r'<meta property="og:title" content="([^"]+)"', page)
+        title = clean(m.group(1)) if m else ""
+        title = re.sub(r"\s*[|·-]\s*CAJUNDOME.*$", "", title, flags=re.I).strip()
+        if not title or title.lower() == "skip to content":
+            continue
+        year = (re.search(r"(\d{4})", lines[dl]) or [None, str(now_central().year)])[1]
+        shows = []
+        for i, l in enumerate(lines):
+            m = re.fullmatch(r"([A-Z][a-z]{2}) ?(\d{1,2})(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)", l)
+            if m and i + 1 < len(lines):
+                t = _time_24h(lines[i + 1].lstrip("/ "))
+                mon = next(k for k, n in enumerate(_MONTHS, 1) if n.startswith(m[1]))
+                shows.append((f"{year}-{mon:02d}-{int(m[2]):02d}", t))
+        if not shows:  # single date: "Date November 28, 2026" + "Event Starts" / "6:00PM"
+            m = re.search(r"Date ([A-Z][a-z]+) (\d{1,2})(?:\s*-\s*\d{1,2})?, (\d{4})", lines[dl])
+            if not m:
+                continue
+            mon = next(k for k, n in enumerate(_MONTHS, 1) if n == m[1])
+            ts = next((lines[i + 1] for i, l in enumerate(lines) if l in ("Event Starts", "Doors Open") and i + 1 < len(lines)), "")
+            shows.append((f"{m[3]}-{mon:02d}-{int(m[2]):02d}", _time_24h(ts)))
+        try:
+            k = lines.index("Event Details")
+            desc = "\n".join(lines[k + 1:k + 9])
+        except ValueError:
+            desc = ""
+        for day, t in shows:
+            out.append(make_event(src, title=title, start=f"{day}T{t}" if t else day, url=url, desc=desc,
+                                  venue=src.get("venue", ""), address=src.get("address", "")))
+        time.sleep(0.5)
+    return out
+
+
 # ---------- source: Lafayette Consolidated Government events calendar ----------
 
 def src_lcg(src, start, end):
@@ -1046,6 +1105,88 @@ def _sheet_date(d: str) -> str | None:
 APPROVED = {"yes", "y", "x", "approved", "approve", "ok", "true", "✓", "✔"}
 
 
+def mark_trending(events: list[dict], config: dict) -> int:
+    """Marks events that local listing sites are featuring right now ("hot": true), which the site
+    uses to pick its Top picks. Nobody publishes how many people plan to go, so this is the best
+    outside sign of what's popular: Happening Next's "Trending Events in Lafayette" and the events
+    on Lafayette Travel's home page."""
+    hot: list[tuple[set, str | None]] = []  # (title words, date if known)
+    for src in config.get("trending", []):
+        try:
+            page = fetch(src["url"])
+        except (urllib.error.URLError, TimeoutError, ValueError) as err:
+            print(f"   (trending: couldn't read {src['url']}: {err})")
+            continue
+        if src["type"] == "jsonld":
+            for x in jsonld_events(page):
+                hot.append((_words(html.unescape(x.get("name", ""))), (x.get("startDate") or "")[:10] or None))
+        else:  # links: "/event/football%3a-ragin-cajuns-v-coastal-carolina/47021/" -> words of the slug
+            for slug in set(re.findall(src["pattern"], page)):
+                hot.append((_words(urllib.parse.unquote(slug).replace("-", " ")), None))
+    for hw, hd in hot:
+        if len(hw) < 2:
+            continue
+        matches = []
+        for e in events:
+            words = _words(e["title"])
+            common = len(words & hw)
+            if hd:  # dated (Happening Next): same name, same day or the next
+                if abs((datetime.fromisoformat(hd) - datetime.fromisoformat(e["start"][:10])).days) <= 1 \
+                        and common >= 2 and common >= 0.6 * min(len(words), len(hw)):
+                    matches.append(e)
+            elif common >= 2 and common >= 0.75 * len(hw):  # no date: most of its name, best match only
+                matches.append((common / len(hw), e["start"], e))
+        if hd:
+            for e in matches:
+                e["hot"] = True
+        elif matches:  # the closest name, then the soonest date (the featured one is the next)
+            best = max(m[0] for m in matches)
+            min((m for m in matches if m[0] == best), key=lambda m: m[1])[2]["hot"] = True
+    return sum(1 for e in events if e.get("hot"))
+
+
+def apply_photos(events: list[dict], config: dict) -> None:
+    """sources.json "photos": pictures you add yourself (a flyer someone texted you), saved in
+    docs/img/ and attached to every listing whose title matches. They replace any other picture."""
+    for p in config.get("topPicks", {}).get("items", []):  # always in Top picks
+        pat = re.compile(p["match"], re.I)
+        for e in events:
+            if pat.search(e["title"]):
+                e["pick"] = True
+    for p in config.get("photos", {}).get("items", []):
+        pat = re.compile(p["match"], re.I)
+        url = p["image"] if p["image"].startswith("http") else p["image"].lstrip("/")  # relative: works live and in a local preview
+        for e in events:
+            if pat.search(e["title"]):
+                e["image"] = url
+                if p.get("credit"):
+                    e["imageCredit"] = p["credit"]
+                    e["imageCreditUrl"] = p.get("creditUrl", "")
+
+
+_PHOTOS: dict[str, str] = {}
+
+
+def _photo_url(link: str) -> str:
+    """A submitted "Photo or flyer" link -> an image address. A direct image link is used as is;
+    for a page (a venue's website, an Eventbrite or Facebook event), its preview picture
+    (og:image) is used when the page shares one. Instagram hides it, so those come back empty."""
+    link = (link or "").strip()
+    if not link.startswith(("http://", "https://")):
+        return ""
+    if re.search(r"\.(?:jpe?g|png|webp|gif|avif)(?:\?|$)", link, re.I) or "googleusercontent.com" in link:
+        return link
+    if link not in _PHOTOS:
+        try:
+            page = fetch(link, timeout=20)
+            m = re.search(r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)', page) or \
+                re.search(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image["\']', page)
+            _PHOTOS[link] = html.unescape(m.group(1)) if m else ""
+        except (urllib.error.URLError, TimeoutError, ValueError):
+            _PHOTOS[link] = ""
+    return _PHOTOS[link]
+
+
 def src_sheet(src, start, end):
     """Events people submitted through the site's form. Only rows with Approved = yes are used."""
     import csv
@@ -1066,10 +1207,11 @@ def src_sheet(src, start, end):
         link = r.get("link", "")
         if link and not link.startswith("http"):
             link = "https://" + link
+        photo = next((v for k, v in r.items() if "photo" in k or "flyer" in k or "image" in k), "")
         out.append(make_event(
             s, title=r.get("event name"), start=f"{date}T{st}" if st else date,
             end=f"{date}T{et}" if et else None, venue=r.get("venue", ""), address=r.get("address", ""),
-            price=r.get("price", ""), url=link, desc=r.get("description", "")))
+            price=r.get("price", ""), url=link, desc=r.get("description", ""), image=_photo_url(photo)))
     return out
 
 
@@ -1285,12 +1427,59 @@ def venue_key(v: str) -> str:
 
 RUNNERS = {"tribe": src_tribe, "jsonld": src_jsonld, "ical": src_ical, "saffire": src_saffire,
            "squarespace": src_squarespace, "downtown": src_downtown, "lcg": src_lcg,
-           "lafayettetravel": src_lafayette_travel, "sheet": src_sheet, "eventlinks": src_eventlinks,
+           "lafayettetravel": src_lafayette_travel, "cajundome": src_cajundome, "sheet": src_sheet, "eventlinks": src_eventlinks,
            "wixsitemap": src_wixsitemap, "mecrest": src_mecrest,
            "ticketmaster": src_ticketmaster, "page": src_page}
 
 
+def quick_submissions() -> None:
+    """`collect.py --submissions`: only re-read the "Submit an event" sheet and update the approved
+    events on the site, without checking any other source. Runs every 10 minutes, so an event you
+    approve shows up within about 15 minutes instead of waiting for the next full update."""
+    config = json.loads(SOURCES_FILE.read_text(encoding="utf-8"))
+    src = next(s for s in config["sources"] if s["type"] == "sheet" and s.get("enabled", True))
+    data = json.loads(OUT_FILE.read_text(encoding="utf-8"))
+    start = now_central().replace(hour=0, minute=0, second=0, microsecond=0)
+    end = start + timedelta(days=DAYS_AHEAD)
+    fresh = [e for e in src_sheet(src, start, end) if e and (e["end"] or e["start"]) >= iso(start) and e["start"] <= iso(end)]
+    for e in fresh:
+        e["address"] = short_address(e.get("address", ""))
+    apply_photos(fresh, config)
+
+    sig = lambda e: (e["title"], e["start"], e.get("end"), e["venue"], e.get("address"), e.get("price"), e.get("desc"), e.get("url"), e.get("image"), tuple(e.get("cats") or []))
+    had = sorted(sig(e) for e in data["events"] if e["source"] == src["name"])
+    if had == sorted(sig(e) for e in fresh) and not any(src["name"] in (e.get("alsoOn") or []) for e in data["events"]):
+        print("submissions: no changes")
+        return
+
+    # Take out the old submitted listings, then add the approved ones (or note them on a matching event)
+    events = [e for e in data["events"] if e["source"] != src["name"]]
+    for e in events:
+        if src["name"] in (e.get("alsoOn") or []):
+            e["alsoOn"] = [x for x in e["alsoOn"] if x != src["name"]]
+    added = 0
+    for e in fresh:
+        twin = next((x for x in events if _same_event(x, e) or _likely_same(x, e)), None)
+        if twin:
+            twin["alsoOn"] = sorted(set(twin.get("alsoOn") or []) | {src["name"]})
+            continue
+        for k in ("_guess", "_order", "_yield"):
+            e.pop(k, None)
+        e["id"] = hashlib.sha1(_key(e).encode()).hexdigest()[:10]
+        events.append(e)
+        added += 1
+    events.sort(key=lambda e: (e["start"], e["title"]))
+    data["events"] = events
+    OUT_FILE.write_text(json.dumps(data, ensure_ascii=False, indent=0), encoding="utf-8")
+    write_calendar_files(events)
+    write_event_pages(events)
+    write_day_pages(events)
+    print(f"submissions: {len(fresh)} approved ({added} new on the site, {len(fresh) - added} matched an event already listed)")
+
+
 def main(argv):
+    if len(argv) > 1 and argv[1] == "--submissions":
+        return quick_submissions()
     only = argv[1].lower() if len(argv) > 1 else ""
     # keep everything from today (since midnight), so today's earlier events stay listed
     start = now_central().replace(hour=0, minute=0, second=0, microsecond=0)
@@ -1329,9 +1518,20 @@ def main(argv):
             if src.get("skip"):  # titles this source gets wrong or that are routine business
                 skip = re.compile(src["skip"], re.I)
                 found = [e for e in found if not skip.search(e["title"])]
+            for pat, rep in src.get("renameTitle", []):  # "Shotgun Lillie | 10-30-26" -> "Shotgun Lillie"
+                for e in found:
+                    e["title"] = re.sub(pat, rep, e["title"]).strip()
             if src.get("require"):  # only these kinds of events from this source (big ones)
                 need = re.compile(src["require"], re.I)
                 found = [e for e in found if need.search(e["title"])]
+            if src.get("requireAddress"):  # sites with more than one location (Rock'n'Bowl New Orleans)
+                here = re.compile(src["requireAddress"], re.I)
+                found = [e for e in found if here.search(f"{e['venue']} {e['address']}")]
+            if src.get("maxRepeats"):  # programs that repeat all month (storytime at four branches)
+                count: dict[str, int] = {}
+                for e in found:
+                    count[title_key(e["title"])] = count.get(title_key(e["title"]), 0) + 1
+                found = [e for e in found if count[title_key(e["title"])] <= src["maxRepeats"]]
             for e in found:
                 e["_order"] = order
                 e["_yield"] = bool(src.get("yield"))
@@ -1431,6 +1631,10 @@ def main(argv):
         missing = check_big_events(events, config["bigEvents"])
         print(f"big yearly events check: {len(missing)} missing")
         report_big_events(missing)
+    if not only:
+        check_sources(report)
+    apply_photos(events, config)
+    print(f"trending: {mark_trending(events, config)} events featured by local listing sites")
 
     events.sort(key=lambda e: (e["start"], e["title"]))
     for e in events:
@@ -1446,6 +1650,7 @@ def main(argv):
     }, ensure_ascii=False, indent=0), encoding="utf-8")
     write_calendar_files(events)
     write_event_pages(events)
+    write_day_pages(events)
     print(f"\nwrote {len(events)} events to {OUT_FILE.relative_to(ROOT)} (and a calendar file for each)")
 
 
@@ -1500,15 +1705,65 @@ def check_big_events(events: list[dict], big: list[dict]) -> list[str]:
 
 
 def report_big_events(missing: list[str]) -> None:
-    """Prints the list, adds it to the Actions run summary, and keeps one GitHub issue up to date
-    (GitHub emails you when it's opened). The issue closes itself once everything is listed."""
-    title = "Big events missing dates"
-    for m in missing:
+    keep_issue("Big events missing dates", missing,
+               "These big yearly events usually start soon, but no source lists them yet. Add this year's "
+               "dates to `collector/manual.json` (see the Noël Acadien entry for a nightly run), or close "
+               "this if it isn't happening.")
+
+
+# ---------- alert when a source stops working ----------
+
+HEALTH_FILE = ROOT / "collector" / "health.json"
+BROKEN_AFTER = timedelta(hours=24)  # a day of failures, not one bad run
+
+
+def check_sources(report: list[dict]) -> None:
+    """Remembers since when each source has been failing (an error, or no events when it usually
+    has some) in collector/health.json. Sources down for more than a day go into one GitHub issue,
+    "Event sources not working" (GitHub emails you), which closes itself once they all work again."""
+    try:
+        health = json.loads(HEALTH_FILE.read_text(encoding="utf-8")) if HEALTH_FILE.exists() else {}
+    except ValueError:
+        health = {}
+    now = datetime.now(timezone.utc).replace(microsecond=0)
+    broken = []
+    for s in report:
+        if s["ok"] is None:  # turned off on purpose (no Ticketmaster key, nothing to read)
+            continue
+        h = health.setdefault(s["name"], {})
+        failing = s["ok"] is False or (s["count"] == 0 and h.get("usual", 0) > 0)
+        if not failing:
+            if s["count"]:
+                h["usual"] = s["count"]
+            h.pop("since", None)
+            h.pop("why", None)
+            continue
+        h.setdefault("since", now.isoformat())
+        h["why"] = s.get("note") or "found no events (it usually has some)"
+        down = now - datetime.fromisoformat(h["since"])
+        if down >= BROKEN_AFTER:
+            broken.append(f"**{s['name']}**: not working for {down.days or 1} day{'s' if down.days > 1 else ''}. {h['why']}")
+    names = {s["name"] for s in report}
+    health = {k: v for k, v in health.items() if k in names}
+    HEALTH_FILE.write_text(json.dumps(health, indent=1, ensure_ascii=False), encoding="utf-8")
+    print(f"source check: {len(broken)} not working for over a day")
+    keep_issue("Event sources not working", broken,
+               "These sources have failed for more than a day, so their events aren't updating (the site "
+               "keeps showing their last good events for now). Usually the site changed its layout or "
+               "moved its calendar. Ask Claude to take a look, or turn the source off in "
+               "`collector/sources.json`. This closes by itself once they work again.")
+
+
+def keep_issue(title: str, items: list[str], intro: str) -> None:
+    """Prints the list, adds it to the Actions run summary, and keeps one GitHub issue with this
+    title up to date (GitHub emails you when it's opened). It closes itself when the list is empty."""
+    for m in items:
         print("   ! " + re.sub(r"\*\*", "", m))
     summary = os.environ.get("GITHUB_STEP_SUMMARY")
-    if summary and missing:
+    if summary and items:
         with open(summary, "a", encoding="utf-8") as f:
-            f.write("### Big events missing dates\n\n" + "\n".join(f"- {m}" for m in missing) + "\n")
+            f.write(f"### {title}\n\n" + "\n".join(f"- {m}" for m in items) + "\n")
+    missing = items
     token, repo = os.environ.get("GITHUB_TOKEN"), os.environ.get("GITHUB_REPOSITORY")
     if not (token and repo):
         return
@@ -1524,9 +1779,7 @@ def report_big_events(missing: list[str]) -> None:
     try:
         issue = next((i for i in api("GET", "/issues?state=open&per_page=100")
                       if i["title"] == title and "pull_request" not in i), None)
-        body = ("These big yearly events usually start soon, but no source lists them yet. Add this year's "
-                "dates to `collector/manual.json` (see the Noël Acadien entry for a nightly run), or close "
-                "this if it isn't happening.\n\n" + "\n".join(f"- {m}" for m in missing))
+        body = intro + "\n\n" + "\n".join(f"- {m}" for m in missing)
         if missing and not issue:
             api("POST", "/issues", {"title": title, "body": body})
         elif missing and issue["body"] != body:
@@ -1592,6 +1845,52 @@ def write_event_pages(events: list[dict]) -> None:
 </head><body><p><a href="{h(target)}">{h(title)}</a> on Bon Temps</p></body></html>
 """
         path = PAGE_DIR / f"{e['id']}.html"
+        if not path.exists() or path.read_text(encoding="utf-8") != text:
+            path.write_text(text, encoding="utf-8", newline="\n")
+
+
+DAY_DIR = ROOT / "docs" / "d"
+DAY_PAGES = 14  # the date strip's two weeks
+
+
+def write_day_pages(events: list[dict]) -> None:
+    """docs/d/<date>.html for each day on the date strip, so "Share this list" on a day previews as
+    'Saturday, Nov 21 in Lafayette · 42 events' (one summary line, never a list of names), then
+    opens that day with the same filters."""
+    DAY_DIR.mkdir(parents=True, exist_ok=True)
+    today = now_central().date()
+    days = [today + timedelta(days=i) for i in range(DAY_PAGES)]
+    keep = {f"{d:%Y-%m-%d}.html" for d in days}
+    for old in DAY_DIR.glob("*.html"):
+        if old.name not in keep:
+            old.unlink()
+    for d in days:
+        iso_day = f"{d:%Y-%m-%d}"
+        n = sum(1 for e in events if not e.get("ongoing") and e["start"][:10] <= iso_day <= (e.get("end") or e["start"])[:10])
+        when = "today" if d == today else "tomorrow" if d == today + timedelta(days=1) else f"on {d:%A}"
+        title = f"{d:%A}, {d:%b} {d.day} in Lafayette · {n} event{'s' if n != 1 else ''}"
+        blurb = f"Live music, theater, food, arts, sports and more around Lafayette {when}."
+        url, target = f"{SITE_URL}d/{iso_day}", f"../?when={iso_day}"
+        h = lambda x: html.escape(x, quote=True)
+        text = f"""<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{h(title)}</title>
+<meta name="description" content="{h(blurb)}">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Bon Temps">
+<meta property="og:title" content="{h(title)}">
+<meta property="og:description" content="{h(blurb)}">
+<meta property="og:url" content="{h(url)}">
+<meta property="og:image" content="{SITE_URL}og-poster.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta http-equiv="refresh" content="0; url={h(target)}">
+<script>location.replace({json.dumps(target)} + location.search.replace(/^\\?/, "&"));</script>
+</head><body><p><a href="{h(target)}">{h(title)}</a> on Bon Temps</p></body></html>
+"""
+        path = DAY_DIR / f"{iso_day}.html"
         if not path.exists() or path.read_text(encoding="utf-8") != text:
             path.write_text(text, encoding="utf-8", newline="\n")
 

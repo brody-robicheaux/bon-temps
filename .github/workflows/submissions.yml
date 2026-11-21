@@ -1,0 +1,38 @@
+name: Approved submissions
+
+# Every 10 minutes, re-read only the "Submit an event" Google Sheet and put newly approved events
+# on the site (or take down ones whose "yes" was removed). No other source is checked; the full
+# "Collect events" run still happens every 2 hours.
+on:
+  schedule:
+    - cron: "*/10 * * * *"   # GitHub may run it a few minutes late
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect            # never at the same time as the full update
+  cancel-in-progress: false
+
+jobs:
+  submissions:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Check the sheet for approved events
+        run: python collector/collect.py --submissions
+      - name: Save if anything changed
+        run: |
+          git config user.name "bon-temps-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/events.json
+          git add -A docs/cal docs/e docs/d
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "Update approved submissions"
+          git pull --rebase
+          git push

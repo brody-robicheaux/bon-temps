@@ -4,6 +4,16 @@ A plain-English list of updates, newest first. For the technical details, see th
 [page changes](https://github.com/brody-robicheaux/bon-temps/commits/main/docs/index.html) and
 [collector changes](https://github.com/brody-robicheaux/bon-temps/commits/main/collector/collect.py).
 
+## Nov 21, 2026: Top picks photo row, more sources, faster approvals
+
+- The site opens on **Top picks**, now with a swipeable row of photo cards. Events without a photo get a small Bon Temps poster with their name.
+- Back on: the **Cajundome** (concerts, markets, championships), **Rock'n'Bowl** (Lafayette shows) and the **Lafayette Public Library** (special events only, like concerts and films; no storytimes or classes).
+- Approved submissions show up within about 15 minutes instead of up to 2 hours.
+- The submit form can take a photo or flyer link, and its category starts on "Not sure" so Bon Temps picks one (no more gumbo cook-offs filed under Music).
+- Sharing a day's list previews as, for example, "Saturday, Nov 21 in Lafayette · 42 events".
+- Easier to read and use: stronger contrast on tags and finished events, bigger buttons, clearer keyboard focus, better screen-reader headings.
+- Behind the scenes: an email alert if a source stops working for a day.
+
 ## Nov 20, 2026: Event previews and Apple Calendar on the Home Screen
 
 - Sharing an event now sends a link whose preview shows the event: name, day, time and venue.

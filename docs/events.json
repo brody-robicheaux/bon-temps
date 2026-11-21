@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-21T14:58:57Z",
+"updated": "2026-11-21T16:54:57Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -361,9 +361,6 @@
 "url": "https://acadianacenterforthearts.org/kate-gordon/?occurrence=2026-11-21",
 "image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/11/King_Kate-Gordon-1.jpg",
 "source": "Acadiana Center for the Arts",
-"alsoOn": [
-"Acadiana Center for the Arts (all events)"
-],
 "id": "6f39470b37"
 },
 {
@@ -872,6 +869,25 @@
 "Happening Next (performances)"
 ],
 "id": "68187dac38"
+},
+{
+"title": "Kate Gordon: Tender Terrain",
+"start": "2026-11-22T09:00",
+"end": "2026-11-22T17:00",
+"allDay": false,
+"ongoing": false,
+"venue": "Acadiana Center for the Arts",
+"address": "",
+"price": "Free",
+"free": true,
+"cats": [
+"arts"
+],
+"desc": "",
+"url": "https://acadianacenterforthearts.org/kate-gordon/?occurrence=2026-11-22",
+"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/11/King_Kate-Gordon-1.jpg",
+"source": "Acadiana Center for the Arts (all events)",
+"id": "dd19b18d07"
 },
 {
 "title": "Valcour Presents: Joel Savoy’s Honky Tonk Merry Go Round Brunch",

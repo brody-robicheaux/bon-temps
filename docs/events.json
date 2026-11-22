@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-22T14:57:08Z",
+"updated": "2026-11-22T16:55:20Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -134,8 +134,9 @@
 },
 {
 "name": "Cajundome",
-"ok": true,
-"count": 7
+"ok": false,
+"count": 7,
+"note": "RuntimeError: no event links on the events page (48110 bytes) (showing last good results)"
 },
 {
 "name": "Rock'n'Bowl de Lafayette",
@@ -389,9 +390,6 @@
 "url": "https://acadianacenterforthearts.org/kate-gordon/?occurrence=2026-11-22",
 "image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/11/King_Kate-Gordon-1.jpg",
 "source": "Acadiana Center for the Arts",
-"alsoOn": [
-"Acadiana Center for the Arts (all events)"
-],
 "id": "dd19b18d07"
 },
 {
@@ -478,7 +476,8 @@
 "url": "https://www.cajundome.com/events/detail/attlftholidaymarket26",
 "image": "",
 "source": "Cajundome",
-"id": "39df2bdf4d"
+"id": "39df2bdf4d",
+"alsoOn": []
 },
 {
 "title": "Valcour Presents: Joel Savoy's Honky Tonk Merry Go Round Brunch",
@@ -611,6 +610,25 @@
 "image": "https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54756026/diamond%20j%20profile_8Llb.jpg",
 "source": "Blue Moon Saloon",
 "id": "b193240001"
+},
+{
+"title": "Kate Gordon: Tender Terrain",
+"start": "2026-11-23T09:00",
+"end": "2026-11-23T17:00",
+"allDay": false,
+"ongoing": false,
+"venue": "Acadiana Center for the Arts",
+"address": "",
+"price": "Free",
+"free": true,
+"cats": [
+"arts"
+],
+"desc": "",
+"url": "https://acadianacenterforthearts.org/kate-gordon/?occurrence=2026-11-23",
+"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/11/King_Kate-Gordon-1.jpg",
+"source": "Acadiana Center for the Arts (all events)",
+"id": "f837b93ee6"
 },
 {
 "title": "\"This Place\" UL Lafayette Choirs Fall Concert",
@@ -2848,7 +2866,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "ac7306e0d5"
+"id": "ac7306e0d5",
+"alsoOn": []
 },
 {
 "title": "Noël Acadien au Village",
@@ -2906,7 +2925,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "925c27b074"
+"id": "925c27b074",
+"alsoOn": []
 },
 {
 "title": "Noël Acadien au Village",
@@ -2964,7 +2984,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "4f89739324"
+"id": "4f89739324",
+"alsoOn": []
 },
 {
 "title": "Line Dance Class & Holiday Social",
@@ -3131,7 +3152,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "93bac03628"
+"id": "93bac03628",
+"alsoOn": []
 },
 {
 "title": "The American Creed in Words and Images",
@@ -3294,7 +3316,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "5876381c12"
+"id": "5876381c12",
+"alsoOn": []
 },
 {
 "title": "Holiday Chocolate Tasting",
@@ -3704,7 +3727,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "c0d1dca356"
+"id": "c0d1dca356",
+"alsoOn": []
 },
 {
 "title": "Fall '26 End of Season Shows: Day 1",
@@ -4169,7 +4193,7 @@
 ],
 "desc": "Mayrunner, Drive, Doctor! Drive!, and Elle H live at the Loose Caboose for Mayrunner’s curtain call!",
 "url": "https://www.instagram.com/p/DdVA0UoteHz/?cnvx=MWIzNHp5M2IyZzlyZw==",
-"image": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=rvneqkKWuL0Q7kNvwG6cjam&_nc_oc=Adou6goLakBzsMtPKoKwnK6JYMGpnJ31-WCx4Q78ICK-adkkcMpeig0MhZm2HZA59pA&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=RZXrSjdyVUA623Y0Aj5szw&_nc_ss=7b60f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQSlT5IdDxfu5rJFNTHGfb4MN8wSYuM3O5sKJmujFjD6Iw&oe=6B08F075",
+"image": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=rvneqkKWuL0Q7kNvwHifm-o&_nc_oc=Adrf6-QC8kzG0sbCfiVAsNzvmhMMljsb1hNRk5LsrLAgj_Y7McgJ8001V-L0zbt4S5Q&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=8HNeHQt1s1BHe44m-eR2EQ&_nc_ss=7b60f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQRBhuYrrVRzf2bnDYs5nGXXr-KCdNEU741XEYA0kFaNkA&oe=6B08F075",
 "source": "Submitted",
 "id": "213b36c084"
 },

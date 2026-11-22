@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-22T18:56:46Z",
+"updated": "2026-11-22T20:55:16Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -24,7 +24,7 @@
 {
 "name": "Lafayette Travel",
 "ok": true,
-"count": 13
+"count": 19
 },
 {
 "name": "Heymann Performing Arts Center",
@@ -201,6 +201,7 @@
 "url": "https://www.downtownlafayette.org/event/southern-screen-festival",
 "image": "",
 "source": "Downtown Lafayette",
+"hot": true,
 "id": "c5ae6b4100"
 },
 {
@@ -368,6 +369,7 @@
 "alsoOn": [
 "Acadiana Center for the Arts (all events)"
 ],
+"hot": true,
 "id": "d5773c2e0f"
 },
 {
@@ -431,6 +433,7 @@
 "alsoOn": [
 "Acadiana Center for the Arts (all events)"
 ],
+"hot": true,
 "id": "87f8b83e87"
 },
 {
@@ -1273,6 +1276,7 @@
 "source": "Ragin' Cajuns home games",
 "imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
 "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
+"hot": true,
 "id": "5cd63fbd7c"
 },
 {
@@ -1635,6 +1639,25 @@
 "Happening Next (performances)"
 ],
 "id": "5200ed3a37"
+},
+{
+"title": "Chorale Acadienne Presents: Christmas by Candlelight",
+"start": "2026-12-01T19:00",
+"end": null,
+"allDay": false,
+"ongoing": false,
+"venue": "St. Mary Mother of the Church",
+"address": "419 Doucet Road, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"music"
+],
+"desc": "Join Chorale Acadienne for Christmas by Candlelight, two beautiful evenings of music and merriment at St. Mary Catholic Church in Lafayette, Louisiana 419 Doucet Rd, Lafayette, LA 70503. The concerts will feature selections from Handel's Messiah, classic carols for all to sing, and other festive arrangements for choir and orchestra. And as always, Chorale Acadienne will conclude the night with a candlelit finale. Tickets are available in advance at choraleacadienne.com/tickets or by calling 337-349-5342. Tickets will also be available at the door. General Admission: $25 Seniors (65+): $20 Students: $10",
+"url": "https://www.lafayettetravel.com/event/chorale-acadienne-presents%3a-christmas-by-candlelight/45834/",
+"image": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/lafayette/Screenshot-2025-11-17-at-09-28-01-Chorale-Acadienne---Lafayette-LA_B8428DFF-02A8-B3A3-8D8739C948086D7D_b842c878-f025-4066-10064fc6b4a06f02.png",
+"source": "Lafayette Travel",
+"id": "1c9cb6c3c5"
 },
 {
 "title": "Fall Concert: \"This Place\"",
@@ -2057,6 +2080,25 @@
 "source": "Downtown Lafayette",
 "hot": true,
 "id": "ac89a3a911"
+},
+{
+"title": "Chorale Acadienne Presents: Christmas by Candlelight",
+"start": "2026-12-04T19:00",
+"end": null,
+"allDay": false,
+"ongoing": false,
+"venue": "St. Mary Mother of the Church",
+"address": "419 Doucet Road, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"music"
+],
+"desc": "Join Chorale Acadienne for Christmas by Candlelight, two beautiful evenings of music and merriment at St. Mary Catholic Church in Lafayette, Louisiana 419 Doucet Rd, Lafayette, LA 70503. The concerts will feature selections from Handel's Messiah, classic carols for all to sing, and other festive arrangements for choir and orchestra. And as always, Chorale Acadienne will conclude the night with a candlelit finale. Tickets are available in advance at choraleacadienne.com/tickets or by calling 337-349-5342. Tickets will also be available at the door. General Admission: $25 Seniors (65+): $20 Students: $10",
+"url": "https://www.lafayettetravel.com/event/chorale-acadienne-presents%3a-christmas-by-candlelight/45834/",
+"image": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/lafayette/Screenshot-2025-11-17-at-09-28-01-Chorale-Acadienne---Lafayette-LA_B8428DFF-02A8-B3A3-8D8739C948086D7D_b842c878-f025-4066-10064fc6b4a06f02.png",
+"source": "Lafayette Travel",
+"id": "4b8338f4fb"
 },
 {
 "title": "Christmas by Candlelight: Glorious Season | Grantee Event",
@@ -4143,7 +4185,7 @@
 ],
 "desc": "Mayrunner, Drive, Doctor! Drive!, and Elle H live at the Loose Caboose for Mayrunner’s curtain call!",
 "url": "https://www.instagram.com/p/DdVA0UoteHz/?cnvx=MWIzNHp5M2IyZzlyZw==",
-"image": "https://scontent-sea5-2.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=rvneqkKWuL0Q7kNvwGpYNBr&_nc_oc=Adq0b5lxy13EdzxYIEwe505pgTGG65OzzQ0RgjEF2_Opj_dF91jg8av5FcEyFWrLKwQ&_nc_zt=23&_nc_ht=scontent-sea5-2.cdninstagram.com&_nc_gid=UOTnkgwiKS4qhuSt3_29NA&_nc_ss=7b60f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQTToE_SnYyJWcNBvH5N-r-k0v7Xz2pZw-mwVwvUz8Ut3Q&oe=6B0928B5",
+"image": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=rvneqkKWuL0Q7kNvwEwR6V0&_nc_oc=AdpQdCJCmNwYRMG3Vhraz08dimHoaFZMsINfQOZBZ1H8fCwuVXdhDkH_0_suG7RA628&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=iaPUURcpcq1915fPucQgLw&_nc_ss=7b60f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQRtqb1AQR2_yvg6MWleSaIonO6YULenF_HWLmkm9w6BJQ&oe=6B0928B5",
 "source": "Submitted",
 "id": "213b36c084"
 },

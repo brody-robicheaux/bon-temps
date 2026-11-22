@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-22T20:55:16Z",
+"updated": "2026-11-22T22:53:02Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -39,7 +39,7 @@
 {
 "name": "Hideaway on Lee",
 "ok": true,
-"count": 20
+"count": 19
 },
 {
 "name": "Happening Next (Lafayette live music)",
@@ -74,7 +74,7 @@
 {
 "name": "Happening Next (music)",
 "ok": true,
-"count": 56
+"count": 63
 },
 {
 "name": "Happening Next (art)",
@@ -461,7 +461,7 @@
 {
 "title": "Valcour Presents: Joel Savoy's Honky Tonk Merry Go Round Brunch",
 "start": "2026-11-22T11:00",
-"end": "2026-11-22T14:00",
+"end": null,
 "allDay": false,
 "ongoing": false,
 "venue": "Hideaway on Lee",
@@ -469,7 +469,6 @@
 "price": "",
 "free": false,
 "cats": [
-"music",
 "food"
 ],
 "desc": "Join Joel Savoy & Friends for a special Honky Tonk Brunch at the Hideaway to round out a fun and festive weekend!",
@@ -477,8 +476,7 @@
 "image": "https://cdn.happeningnext.com/events5/banners/1f00c527d95ac15ff87c6503e8c4dc92d78dd0f217ae8b20e9a55b9277af2286-rimg-w1200-h675-dce8e8e8-gmir?v=1795285793",
 "source": "Happening Next (performances)",
 "alsoOn": [
-"Happening Next (music)",
-"Hideaway on Lee"
+"Happening Next (music)"
 ],
 "id": "4496f58a5a"
 },
@@ -1056,6 +1054,26 @@
 "id": "717cfebdb8"
 },
 {
+"title": "Vibe 25: Celebrating 25 Years of the Blue Moon",
+"start": "2026-11-27T18:00",
+"end": null,
+"allDay": false,
+"ongoing": false,
+"venue": "Blue Moon Saloon",
+"address": "215 E Convent St, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"music",
+"food"
+],
+"desc": "The Blue Moon Saloon is turning 25, and we're throwing a two-day party to celebrate! Join us November 27 & 28 for an incredible lineup of old friends and favorite bands, a gumbo cookoff, and plenty of good times. Come celebrate 25 years of music, memories, and keepin' the vibe alive!\nFriday, November 27\nDoors Open 6:00 PM\nMusic Starts 7:00 PM\nFeaturing Troy Richard (Solo), Roddie Romero & the Hub City Allstars, and $ideQue$t.\nSaturday, November 28\n1-3pm Front porch Cajun jam and Gumbo cook off\n3pm Elise Riley Band\n5pm Slackers\n7pm Grand Nathaniel\n9pm BrassBed\n11pm Knives in the Champion",
+"url": "https://happeningnext.com/event/vibe-25-celebrating-25-years-of-the-blue-moon-eid3a0ec65sk2",
+"image": "https://cdn.happeningnext.com/events1/banners/1b6575efe85e17b5551364dc674d8d98bf290541da0570862cab21b24202b3a9-rimg-w530-h812-dce8b808-gmir?v=1795357730",
+"source": "Happening Next (music)",
+"id": "97c6efac74"
+},
+{
 "title": "Troy Richard",
 "start": "2026-11-27T19:00",
 "end": null,
@@ -1088,10 +1106,13 @@
 "music",
 "family"
 ],
-"desc": "",
-"url": "https://www.hideawayonlee.com/events/savoy-family-cajun-band-2",
-"image": "https://images.squarespace-cdn.com/content/v1/5e5959c0bfd4157aee22bd55/1795030014409-52EMVCBX4IX71RZLQGKO/867085518_1744984810960057_7152275771124314139_n.jpg",
-"source": "Hideaway on Lee",
+"desc": "Savoy Family Cajun Band",
+"url": "https://happeningnext.com/event/savoy-family-cajun-band-eid3a0ec6boft",
+"image": "https://cdn.happeningnext.com/events9/banners/e0caec1ad4ddbb687245b3967518d11d859c70b4376b44b1dc6a0e0a0693914f-rimg-w1200-h675-dc180808-gmir?v=1795360994",
+"source": "Happening Next (music)",
+"alsoOn": [
+"Hideaway on Lee"
+],
 "id": "82d4e009f7"
 },
 {
@@ -1949,6 +1970,7 @@
 "image": "https://cdn.happeningnext.com/events4/banners/5160398dc447cabac5519847683eb9d4449245d366201cccbaa214fe44a77291-rimg-w1200-h628-dc080808-gmir?v=1795356920",
 "source": "Happening Next (performances)",
 "alsoOn": [
+"Happening Next (music)",
 "Hideaway on Lee"
 ],
 "id": "de12670ac4"
@@ -2553,6 +2575,7 @@
 "image": "https://cdn.happeningnext.com/events3/banners/a7e0b3d9f86ce003791da66f5da8b01086250b8fe785b74246678d614322fcf6-rimg-w1200-h630-dc080808-gmir?v=1795356913",
 "source": "Happening Next (performances)",
 "alsoOn": [
+"Happening Next (music)",
 "Hideaway on Lee"
 ],
 "id": "a09a14f006"
@@ -3511,6 +3534,7 @@
 "source": "Happening Next (performances)",
 "alsoOn": [
 "Happening Next (festivals)",
+"Happening Next (music)",
 "Hideaway on Lee"
 ],
 "id": "14f2e62a25"
@@ -4185,7 +4209,7 @@
 ],
 "desc": "Mayrunner, Drive, Doctor! Drive!, and Elle H live at the Loose Caboose for Mayrunner’s curtain call!",
 "url": "https://www.instagram.com/p/DdVA0UoteHz/?cnvx=MWIzNHp5M2IyZzlyZw==",
-"image": "https://scontent-sea5-2.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=rvneqkKWuL0Q7kNvwEKk_mN&_nc_oc=AdrfJQAzvD3T8GGMUQfhA4U-ozIePsK7lB6NVxnXlH5ZUF3S-6UyZhH_U8XqtQ9ksfI&_nc_zt=23&_nc_ht=scontent-sea5-2.cdninstagram.com&_nc_gid=ReJQpRBBGgZAeauYM4GnTw&_nc_ss=7b60f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQDAUyAGcxXL3eyjv5RWAZ6K3ACijWJUUL3jKLwboXiHQ&oe=6B0928B5",
+"image": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=rvneqkKWuL0Q7kNvwGeNkxd&_nc_oc=AdrcXZ28red99dDdCgMrizx1dP6O4EcjO-iete-dXRNdMxNDFrA05lUjgfXuKozPdaM&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=_aFguS5AlqwRXSNOUzqhjw&_nc_ss=7b60f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQSjgEAy9WAZJMRD-6drfuwFCBR9NO8NQT0peau3JqTRMw&oe=6B0960F5",
 "source": "Submitted",
 "id": "213b36c084"
 },
@@ -4485,6 +4509,7 @@
 "source": "Happening Next (performances)",
 "alsoOn": [
 "Happening Next (concerts)",
+"Happening Next (music)",
 "Hideaway on Lee"
 ],
 "id": "db0703545b"
@@ -5044,6 +5069,9 @@
 "url": "https://www.hideawayonlee.com/events/hmjgx5qjxfphg61r6y1vh3hvlg8aht-p6cxm",
 "image": "https://images.squarespace-cdn.com/content/v1/5e5959c0bfd4157aee22bd55/1789927430139-KXL1Q4LI6ZVNS9LO7WG8/805924360_1692821042843101_6953230594546101094_n.jpg",
 "source": "Hideaway on Lee",
+"alsoOn": [
+"Happening Next (music)"
+],
 "id": "a3d7d11d8b"
 },
 {

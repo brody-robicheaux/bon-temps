@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-22T07:18:05Z",
+"updated": "2026-11-22T08:57:05Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -74,7 +74,7 @@
 {
 "name": "Happening Next (music)",
 "ok": true,
-"count": 53
+"count": 56
 },
 {
 "name": "Happening Next (art)",
@@ -499,6 +499,7 @@
 "image": "https://cdn.happeningnext.com/events5/banners/1f00c527d95ac15ff87c6503e8c4dc92d78dd0f217ae8b20e9a55b9277af2286-rimg-w1200-h675-dce8e8e8-gmir?v=1795285793",
 "source": "Happening Next (performances)",
 "alsoOn": [
+"Happening Next (music)",
 "Hideaway on Lee"
 ],
 "id": "4496f58a5a"
@@ -1531,6 +1532,7 @@
 "source": "Happening Next (Lafayette live music)",
 "alsoOn": [
 "Happening Next (concerts)",
+"Happening Next (music)",
 "Hideaway on Lee"
 ],
 "id": "d1bdf24e4b"
@@ -2011,6 +2013,25 @@
 "image": "",
 "source": "Bon Temps",
 "id": "ef62d8da98"
+},
+{
+"title": "River Ranch HOA Christmas Cocktail Party",
+"start": "2026-12-04T18:00",
+"end": "2026-12-04T21:00",
+"allDay": false,
+"ongoing": false,
+"venue": "POUR Restaurant & Bar",
+"address": "1 Degaulle Square, Lafayette",
+"price": "Free",
+"free": true,
+"cats": [
+"food"
+],
+"desc": "Dress like Christmas for a casual, fun River Ranch HOA gathering with cocktails, light snacks, and live Christmas tunes for friends and fami\nAbout this Event\n\nRiver Ranch HOA Christmas Cocktail Party Date & Time: December 4, 2026 at 6:00 PM (Central Time)\nVenue: POUR Restaurant & Bar\nGet ready to deck the halls and your outfit! We invite you to jingle all the way to a festive evening filled with cocktails, delicious food, and live music . It’s the perfect recipe to sleigh your holiday spirit and have a merry good time with your neighbors. Don your most dazzling Christmas attire and join us for a night that’s sure to be tree-mendously fun!",
+"url": "https://happeningnext.com/event/river-ranch-hoa-christmas-cocktail-party-eid1ef0l8wvvlha",
+"image": "https://cdn.happeningnext.com/events10/banners/6a3ae83bbbfa967194d5aa85b84a07bf410a8dff3388ea29d98e1e3594c0355e-rimg-w1200-h801-dc080808-gmir.jpg?v=1794612726",
+"source": "Happening Next (music)",
+"id": "fe05ada4a4"
 },
 {
 "title": "Twinkle Light Night",
@@ -4127,7 +4148,7 @@
 ],
 "desc": "Mayrunner, Drive, Doctor! Drive!, and Elle H live at the Loose Caboose for Mayrunner’s curtain call!",
 "url": "https://www.instagram.com/p/DdVA0UoteHz/?cnvx=MWIzNHp5M2IyZzlyZw==",
-"image": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=rvneqkKWuL0Q7kNvwF4Iq0C&_nc_oc=AdohhqTMh2TYayVJMiSNmmywDjj7zk3txqBbVlMWB-U2C9DZYNTwYzwhxxs9CMTvAxI&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=4S25xlg0jiZZtoInGGO1EA&_nc_ss=7b60f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQTlIJZDcl4qy39dy5pz5vG8wMeET3wk8hmRINxP3g5wLQ&oe=6B087FF5",
+"image": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=rvneqkKWuL0Q7kNvwEcyDym&_nc_oc=AdoIcPbnldxGHG2i935EwfnAz40cbsfe4DKy9bzdBaMysygibKMW-IzRXVoIGDfsLYE&_nc_zt=23&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_gid=kDbdEuPq3gOl1tRaznco5g&_nc_ss=7b60f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQSoemddewuZc9jWphlpLugeQiBHKYiWgq21Dp1nsCKJqQ&oe=6B087FF5",
 "source": "Submitted",
 "id": "213b36c084"
 },

@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-22T16:55:20Z",
+"updated": "2026-11-22T18:56:46Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -24,7 +24,7 @@
 {
 "name": "Lafayette Travel",
 "ok": true,
-"count": 19
+"count": 13
 },
 {
 "name": "Heymann Performing Arts Center",
@@ -134,9 +134,8 @@
 },
 {
 "name": "Cajundome",
-"ok": false,
-"count": 7,
-"note": "RuntimeError: no event links on the events page (48110 bytes) (showing last good results)"
+"ok": true,
+"count": 6
 },
 {
 "name": "Rock'n'Bowl de Lafayette",
@@ -151,7 +150,7 @@
 {
 "name": "Blue Moon Saloon",
 "ok": true,
-"count": 33
+"count": 34
 },
 {
 "name": "Wonderland Performing Arts",
@@ -202,7 +201,6 @@
 "url": "https://www.downtownlafayette.org/event/southern-screen-festival",
 "image": "",
 "source": "Downtown Lafayette",
-"hot": true,
 "id": "c5ae6b4100"
 },
 {
@@ -370,7 +368,6 @@
 "alsoOn": [
 "Acadiana Center for the Arts (all events)"
 ],
-"hot": true,
 "id": "d5773c2e0f"
 },
 {
@@ -434,7 +431,6 @@
 "alsoOn": [
 "Acadiana Center for the Arts (all events)"
 ],
-"hot": true,
 "id": "87f8b83e87"
 },
 {
@@ -458,26 +454,6 @@
 "Acadiana Center for the Arts (all events)"
 ],
 "id": "e607e2d6a3"
-},
-{
-"title": "ATT Expo Presents Lafayette Christmas Market",
-"start": "2026-11-22T10:00",
-"end": null,
-"allDay": false,
-"ongoing": false,
-"venue": "Cajundome",
-"address": "444 Cajundome Blvd, Lafayette",
-"price": "",
-"free": false,
-"cats": [
-"community"
-],
-"desc": "ATT Expo Market Presents the Lafayette Christmas Market\nEvent Dates: Friday – Sunday, November 20-22, 2026\nShow Times:\nFriday, Nov. 20: 10 AM - 5 PM\nSaturday, Nov. 21: 10 AM - 5 PM\nSunday, Nov. 22: 10 AM - 4 PM\nDoors Open: 9:30 AM each morning\nAll minors under the age of 16 must be accompanied by an adult.",
-"url": "https://www.cajundome.com/events/detail/attlftholidaymarket26",
-"image": "",
-"source": "Cajundome",
-"id": "39df2bdf4d",
-"alsoOn": []
 },
 {
 "title": "Valcour Presents: Joel Savoy's Honky Tonk Merry Go Round Brunch",
@@ -750,6 +726,25 @@
 "image": "https://cdn.happeningnext.com/events10/banners/b0c9ccbb4e435a9a1329cadc26a20337a9730102ccb0584e8dab5362295cca59-rimg-w1200-h675-dc481898-gmir?v=1794938406",
 "source": "Happening Next (music)",
 "id": "6352ec1298"
+},
+{
+"title": "The Link Up with Sadney!",
+"start": "2026-11-24T19:00",
+"end": null,
+"allDay": false,
+"ongoing": false,
+"venue": "Blue Moon Saloon and Guest House",
+"address": "215 East Convent Street, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"music"
+],
+"desc": "🍽️🎶 THE LINK-UP: FRIENDSGIVING POTLUCK 🦃🖤\n\nLafayette musicians, artists, and creatives — let's get together!\n\nJoin us Tuesday, November 24th at 7 PM at the Blue Moon Saloon for an evening of good food, good people, fresh ideas, and new connections.\n\nHosted by Sadney, this is your chance to meet fellow creatives, swap ideas, find collaborators, and build community with the people making things happen right here in Lafayette.\n\n🥘 Bring a dish to share if you can.\n🎨 Bring your ideas.\n🎸 Bring your creative energy.\n🤝 Come ready to connect!\n\n$5 entry\n\nWe're thankful for each other, and we saved you a seat. ♡\n\n📍 Blue Moon Saloon | Lafayette, LA\n📅 Tuesday, November 24\n⏰ 7 PM",
+"url": "https://events.timely.fun/kw4jncf1/event/78522711/20261124190000",
+"image": "https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54756026/Link%20up%2011-24_dmIp.png",
+"source": "Blue Moon Saloon",
+"id": "be9579af97"
 },
 {
 "title": "Ragin' Cajuns Men's Basketball vs Louisiana Christian",
@@ -1278,7 +1273,6 @@
 "source": "Ragin' Cajuns home games",
 "imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
 "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
-"hot": true,
 "id": "5cd63fbd7c"
 },
 {
@@ -1641,25 +1635,6 @@
 "Happening Next (performances)"
 ],
 "id": "5200ed3a37"
-},
-{
-"title": "Chorale Acadienne Presents: Christmas by Candlelight",
-"start": "2026-12-01T19:00",
-"end": null,
-"allDay": false,
-"ongoing": false,
-"venue": "St. Mary Mother of the Church",
-"address": "419 Doucet Road, Lafayette",
-"price": "",
-"free": false,
-"cats": [
-"music"
-],
-"desc": "Join Chorale Acadienne for Christmas by Candlelight, two beautiful evenings of music and merriment at St. Mary Catholic Church in Lafayette, Louisiana 419 Doucet Rd, Lafayette, LA 70503. The concerts will feature selections from Handel's Messiah, classic carols for all to sing, and other festive arrangements for choir and orchestra. And as always, Chorale Acadienne will conclude the night with a candlelit finale. Tickets are available in advance at choraleacadienne.com/tickets or by calling 337-349-5342. Tickets will also be available at the door. General Admission: $25 Seniors (65+): $20 Students: $10",
-"url": "https://www.lafayettetravel.com/event/chorale-acadienne-presents%3a-christmas-by-candlelight/45834/",
-"image": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/lafayette/Screenshot-2025-11-17-at-09-28-01-Chorale-Acadienne---Lafayette-LA_B8428DFF-02A8-B3A3-8D8739C948086D7D_b842c878-f025-4066-10064fc6b4a06f02.png",
-"source": "Lafayette Travel",
-"id": "1c9cb6c3c5"
 },
 {
 "title": "Fall Concert: \"This Place\"",
@@ -2082,25 +2057,6 @@
 "source": "Downtown Lafayette",
 "hot": true,
 "id": "ac89a3a911"
-},
-{
-"title": "Chorale Acadienne Presents: Christmas by Candlelight",
-"start": "2026-12-04T19:00",
-"end": null,
-"allDay": false,
-"ongoing": false,
-"venue": "St. Mary Mother of the Church",
-"address": "419 Doucet Road, Lafayette",
-"price": "",
-"free": false,
-"cats": [
-"music"
-],
-"desc": "Join Chorale Acadienne for Christmas by Candlelight, two beautiful evenings of music and merriment at St. Mary Catholic Church in Lafayette, Louisiana 419 Doucet Rd, Lafayette, LA 70503. The concerts will feature selections from Handel's Messiah, classic carols for all to sing, and other festive arrangements for choir and orchestra. And as always, Chorale Acadienne will conclude the night with a candlelit finale. Tickets are available in advance at choraleacadienne.com/tickets or by calling 337-349-5342. Tickets will also be available at the door. General Admission: $25 Seniors (65+): $20 Students: $10",
-"url": "https://www.lafayettetravel.com/event/chorale-acadienne-presents%3a-christmas-by-candlelight/45834/",
-"image": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/lafayette/Screenshot-2025-11-17-at-09-28-01-Chorale-Acadienne---Lafayette-LA_B8428DFF-02A8-B3A3-8D8739C948086D7D_b842c878-f025-4066-10064fc6b4a06f02.png",
-"source": "Lafayette Travel",
-"id": "4b8338f4fb"
 },
 {
 "title": "Christmas by Candlelight: Glorious Season | Grantee Event",
@@ -2866,8 +2822,7 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "ac7306e0d5",
-"alsoOn": []
+"id": "ac7306e0d5"
 },
 {
 "title": "Noël Acadien au Village",
@@ -2925,8 +2880,7 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "925c27b074",
-"alsoOn": []
+"id": "925c27b074"
 },
 {
 "title": "Noël Acadien au Village",
@@ -2984,8 +2938,7 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "4f89739324",
-"alsoOn": []
+"id": "4f89739324"
 },
 {
 "title": "Line Dance Class & Holiday Social",
@@ -3152,8 +3105,7 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "93bac03628",
-"alsoOn": []
+"id": "93bac03628"
 },
 {
 "title": "The American Creed in Words and Images",
@@ -3316,8 +3268,7 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "5876381c12",
-"alsoOn": []
+"id": "5876381c12"
 },
 {
 "title": "Holiday Chocolate Tasting",
@@ -3727,8 +3678,7 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "c0d1dca356",
-"alsoOn": []
+"id": "c0d1dca356"
 },
 {
 "title": "Fall '26 End of Season Shows: Day 1",
@@ -4193,7 +4143,7 @@
 ],
 "desc": "Mayrunner, Drive, Doctor! Drive!, and Elle H live at the Loose Caboose for Mayrunner’s curtain call!",
 "url": "https://www.instagram.com/p/DdVA0UoteHz/?cnvx=MWIzNHp5M2IyZzlyZw==",
-"image": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=rvneqkKWuL0Q7kNvwFjQrwO&_nc_oc=Ado-5PlcoxNB_kekaFbsRK4k26UGmbs1VycDZeffbZkyUZN_-D1hsBT0OZEGoes47tI&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=b5EA4xzbTPU_bLZRX1_iqQ&_nc_ss=7b60f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQSnhxUXwq1ISjpKUxVtMN08KmkY5FN-4IIW7qoJW1HTTA&oe=6B08F075",
+"image": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=rvneqkKWuL0Q7kNvwGxvFu7&_nc_oc=AdrARwE3GdXOtyPtOJk_2XC4SpdYI4eVQaIP44yKpvBUE5-JA2Oun8qf95m4t2ZVT_c&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=jd9RnpdOX8OwHHh3ZvIF2g&_nc_ss=7b60f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQn0enW_VwVJFXnXpl785KOG4UFdSARKcGzQVF6vYiqHg&oe=6B0928B5",
 "source": "Submitted",
 "id": "213b36c084"
 },

@@ -12,7 +12,7 @@
   "usual": 10
  },
  "Lafayette Travel": {
-  "usual": 19
+  "usual": 13
  },
  "Heymann Performing Arts Center": {
   "usual": 10
@@ -73,9 +73,7 @@
   "usual": 2
  },
  "Cajundome": {
-  "usual": 7,
-  "since": "2026-11-22T16:55:19+00:00",
-  "why": "RuntimeError: no event links on the events page (48110 bytes) (showing last good results)"
+  "usual": 6
  },
  "Rock'n'Bowl de Lafayette": {
   "usual": 2
@@ -84,7 +82,7 @@
   "usual": 3
  },
  "Blue Moon Saloon": {
-  "usual": 33
+  "usual": 34
  },
  "Wonderland Performing Arts": {},
  "Bon Temps": {

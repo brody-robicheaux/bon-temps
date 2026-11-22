@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-22T01:14:30Z",
+"updated": "2026-11-22T02:58:25Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -134,9 +134,8 @@
 },
 {
 "name": "Cajundome",
-"ok": false,
-"count": 7,
-"note": "RuntimeError: no event links on the events page (47996 bytes) (showing last good results)"
+"ok": true,
+"count": 6
 },
 {
 "name": "Rock'n'Bowl de Lafayette",
@@ -837,26 +836,6 @@
 "Acadiana Center for the Arts (all events)"
 ],
 "id": "dd19b18d07"
-},
-{
-"title": "ATT Expo Presents Lafayette Christmas Market",
-"start": "2026-11-22T10:00",
-"end": null,
-"allDay": false,
-"ongoing": false,
-"venue": "Cajundome",
-"address": "444 Cajundome Blvd, Lafayette",
-"price": "",
-"free": false,
-"cats": [
-"community"
-],
-"desc": "ATT Expo Market Presents the Lafayette Christmas Market\nEvent Dates: Friday – Sunday, November 20-22, 2026\nShow Times:\nFriday, Nov. 20: 10 AM - 5 PM\nSaturday, Nov. 21: 10 AM - 5 PM\nSunday, Nov. 22: 10 AM - 4 PM\nDoors Open: 9:30 AM each morning\nAll minors under the age of 16 must be accompanied by an adult.",
-"url": "https://www.cajundome.com/events/detail/attlftholidaymarket26",
-"image": "",
-"source": "Cajundome",
-"id": "39df2bdf4d",
-"alsoOn": []
 },
 {
 "title": "Valcour Presents: Joel Savoy's Honky Tonk Merry Go Round Brunch",
@@ -3188,8 +3167,7 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "ac7306e0d5",
-"alsoOn": []
+"id": "ac7306e0d5"
 },
 {
 "title": "Noël Acadien au Village",
@@ -3247,8 +3225,7 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "925c27b074",
-"alsoOn": []
+"id": "925c27b074"
 },
 {
 "title": "Noël Acadien au Village",
@@ -3306,8 +3283,7 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "4f89739324",
-"alsoOn": []
+"id": "4f89739324"
 },
 {
 "title": "Line Dance Class & Holiday Social",
@@ -3474,8 +3450,7 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "93bac03628",
-"alsoOn": []
+"id": "93bac03628"
 },
 {
 "title": "The American Creed in Words and Images",
@@ -3638,8 +3613,7 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "5876381c12",
-"alsoOn": []
+"id": "5876381c12"
 },
 {
 "title": "Holiday Chocolate Tasting",
@@ -4044,8 +4018,7 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "c0d1dca356",
-"alsoOn": []
+"id": "c0d1dca356"
 },
 {
 "title": "Fall '26 End of Season Shows: Day 1",
@@ -4510,7 +4483,7 @@
 ],
 "desc": "Mayrunner, Drive, Doctor! Drive!, and Elle H live at the Loose Caboose for Mayrunner’s curtain call!",
 "url": "https://www.instagram.com/p/DdVA0UoteHz/?cnvx=MWIzNHp5M2IyZzlyZw==",
-"image": "https://scontent-sea5-2.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=rvneqkKWuL0Q7kNvwG2ClU7&_nc_oc=AdpqwRq7xhT0s3Tch4a1BD01bY8IM9I_fVbUGQxUtdaPMI1Fm3LaDftRdB8172OalLw&_nc_zt=23&_nc_ht=scontent-sea5-2.cdninstagram.com&_nc_gid=E5Z87rO2D46wkxMkNdrh7Q&_nc_ss=7b60f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQTdqM6ATF1u21o6FaJS6q8aLwEFyKiCUb-XYm0eI0tONw&oe=6B080F75",
+"image": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=rvneqkKWuL0Q7kNvwEqMBsD&_nc_oc=Adpgtt2FOyjyJ_TF38htqw4uWDBoUN4_YSkZfI7TXfgimZpQ6Ml_SEnWnpVgvhyJvw8&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=wfMf4po8qipcV5hSVH2X1Q&_nc_ss=7b60f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQS-iMkR9JeUDH8BuqmWEdlgIAeSUGOJ66kWKDXXmEHnCw&oe=6B0847B5",
 "source": "Submitted",
 "id": "213b36c084"
 },

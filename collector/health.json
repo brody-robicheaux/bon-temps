@@ -21,25 +21,25 @@
   "usual": 10
  },
  "Hideaway on Lee": {
-  "usual": 20
+  "usual": 21
  },
  "Happening Next (Lafayette live music)": {
-  "usual": 44
+  "usual": 42
  },
  "Happening Next (theatre)": {
   "usual": 12
  },
  "Happening Next (performances)": {
-  "usual": 52
+  "usual": 48
  },
  "Happening Next (comedy)": {
   "usual": 9
  },
  "Happening Next (dance)": {
-  "usual": 18
+  "usual": 14
  },
  "Happening Next (concerts)": {
-  "usual": 30
+  "usual": 27
  },
  "Happening Next (music)": {
   "usual": 59
@@ -48,19 +48,19 @@
   "usual": 38
  },
  "Happening Next (exhibitions)": {
-  "usual": 5
+  "usual": 4
  },
  "Happening Next (food & drinks)": {
-  "usual": 29
+  "usual": 27
  },
  "Happening Next (health wellness)": {
-  "usual": 16
+  "usual": 15
  },
  "Happening Next (fitness)": {
   "usual": 10
  },
  "Happening Next (festivals)": {
-  "usual": 12
+  "usual": 11
  },
  "Cité des Arts": {
   "usual": 16
@@ -73,7 +73,9 @@
   "usual": 3
  },
  "Cajundome": {
-  "usual": 7
+  "usual": 7,
+  "since": "2026-11-22T01:14:30+00:00",
+  "why": "RuntimeError: no event links on the events page (47996 bytes) (showing last good results)"
  },
  "Rock'n'Bowl de Lafayette": {
   "usual": 2

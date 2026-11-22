@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-21T22:50:35Z",
+"updated": "2026-11-22T01:14:30Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -39,12 +39,12 @@
 {
 "name": "Hideaway on Lee",
 "ok": true,
-"count": 20
+"count": 21
 },
 {
 "name": "Happening Next (Lafayette live music)",
 "ok": true,
-"count": 44
+"count": 42
 },
 {
 "name": "Happening Next (theatre)",
@@ -54,7 +54,7 @@
 {
 "name": "Happening Next (performances)",
 "ok": true,
-"count": 52
+"count": 48
 },
 {
 "name": "Happening Next (comedy)",
@@ -64,12 +64,12 @@
 {
 "name": "Happening Next (dance)",
 "ok": true,
-"count": 18
+"count": 14
 },
 {
 "name": "Happening Next (concerts)",
 "ok": true,
-"count": 30
+"count": 27
 },
 {
 "name": "Happening Next (music)",
@@ -84,17 +84,17 @@
 {
 "name": "Happening Next (exhibitions)",
 "ok": true,
-"count": 5
+"count": 4
 },
 {
 "name": "Happening Next (food & drinks)",
 "ok": true,
-"count": 29
+"count": 27
 },
 {
 "name": "Happening Next (health wellness)",
 "ok": true,
-"count": 16
+"count": 15
 },
 {
 "name": "Happening Next (fitness)",
@@ -104,7 +104,7 @@
 {
 "name": "Happening Next (festivals)",
 "ok": true,
-"count": 12
+"count": 11
 },
 {
 "name": "Cité des Arts",
@@ -134,8 +134,9 @@
 },
 {
 "name": "Cajundome",
-"ok": true,
-"count": 7
+"ok": false,
+"count": 7,
+"note": "RuntimeError: no event links on the events page (47996 bytes) (showing last good results)"
 },
 {
 "name": "Rock'n'Bowl de Lafayette",
@@ -362,25 +363,6 @@
 "id": "d5773c2e0f"
 },
 {
-"title": "Kate Gordon: Tender Terrain",
-"start": "2026-11-21T09:00",
-"end": "2026-11-21T17:00",
-"allDay": false,
-"ongoing": false,
-"venue": "Acadiana Center for the Arts",
-"address": "",
-"price": "Free",
-"free": true,
-"cats": [
-"arts"
-],
-"desc": "",
-"url": "https://acadianacenterforthearts.org/kate-gordon/?occurrence=2026-11-21",
-"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/11/King_Kate-Gordon-1.jpg",
-"source": "Acadiana Center for the Arts",
-"id": "6f39470b37"
-},
-{
 "title": "Philip Gould: A Selection of Works",
 "start": "2026-11-21T09:00",
 "end": "2026-11-28T17:00",
@@ -448,25 +430,6 @@
 "id": "e607e2d6a3"
 },
 {
-"title": "Native American Culture Day -- FREE Festival",
-"start": "2026-11-21T10:00",
-"end": "2026-11-21T16:00",
-"allDay": false,
-"ongoing": false,
-"venue": "Vermilionville",
-"address": "300 Fisher Rd, Lafayette",
-"price": "",
-"free": false,
-"cats": [
-"community"
-],
-"desc": "Native American Culture Day is slated for Saturday, November 21, 2026 10 AM – 4 PM at Vermilionville. Admission is free. For more information call 337-233-4077 or visit www.vermilionville.org.",
-"url": "https://happeningnext.com/event/native-american-culture-day-free-festival-eid3a0e7lffp9",
-"image": "https://cdn.happeningnext.com/events6/banners/65e21e78e3bcacbb1d99b1c9b314e76507149586bdc0cc24776f3779937cbd30-rimg-w1200-h1195-dcf8f8f8-gmir?v=1792789379",
-"source": "Happening Next (festivals)",
-"id": "027117f638"
-},
-{
 "title": "Bayou Bloodfest Horror Expo",
 "start": "2026-11-21T11:00",
 "end": "2026-11-22T18:00",
@@ -509,30 +472,6 @@
 "source": "Submitted",
 "pick": true,
 "id": "33694a0207"
-},
-{
-"title": "MainStreet Holiday Shop & Stroll",
-"start": "2026-11-21T12:00",
-"end": "2026-11-21T15:00",
-"allDay": false,
-"ongoing": false,
-"venue": "MainStreet River Ranch",
-"address": "201 Settlers Trace Blvd, Lafayette",
-"price": "",
-"free": false,
-"cats": [
-"music",
-"food",
-"family"
-],
-"desc": "🌟 Join us for an unforgettable shopping event at Mainstreet River Ranch! 🎉\nBring the whole family and enjoy our MainStreet River Ranch Shop & Stroll event on November 21st, from noon to 3 PM.\nExplore fantastic retail deals, indulge in delicious food & drink specials from MainStreet restaurants, and soak in the festive spirit with live music by Marlon Brave plus an exclusive visit, pics and storytelling with Mrs. Claus near the MainStreet Fountain.\n\n✨ Event Highlights✨\n🎤 Live Music by the popular Marlon Brave\n🤶 Storytelling with Mrs. Claus: Gather around the fountain for enchanting tales.\n🛍️ Retail Discounts: Find great deals on gifts and more.\n🥘 Food & Drink Specials: Satisfy your cravings with delightful options.\nThis is the perfect way to kick off the holiday season with fun for everyone. We look forward to seeing you there! 🎄🛍️\n#HolidayFun #HolidayShopping #ShopAndStroll #RiverRanchEvents",
-"url": "https://happeningnext.com/event/mainstreet-holiday-shop-andamp-stroll-eid3a0e8epoc8",
-"image": "https://cdn.happeningnext.com/events4/banners/b08cd066bd16cfc2a838a5dfeae66fd108f4f5dc3093760cab0f9e4e0781ddea-rimg-w1200-h628-dc181818-gmir?v=1793142692",
-"source": "Happening Next (Lafayette live music)",
-"alsoOn": [
-"Happening Next (food & drinks)"
-],
-"id": "2e6137fe2d"
 },
 {
 "title": "Autumn Still Life",
@@ -670,31 +609,8 @@
 "desc": "Join us for a special DOUBLE throwdown on Saturday, November 21st at the Sidecar in Lafayette.\n5-7 pm: Garden Party ft. Boma Bango! Celebrate their newest release, On Va Voir, with Valcour Records and friends*\nAt 7 pm, we'll open up the other side of the venue for a special evening concert ft. Johnny Nicholas, Katie Shore, Nadine Landry + Sammy Lind, Caleb Klauder + Reeb Willms, Kelli Jones + Tif Lamson, and more special guests. Music starts at 8 pm.\nFOOD POP UPS from Jolie Meaux at Porch, Wine, & Gravy and Barataria Beauties Oyster Company will be open from 5-9 pm or as long as supplies last.\nTICKETS AVAILABLE AT THE DOOR:\nGarden Party: $10\nEvening Concert: $20\nJOINT TICKET: $25\n*Entrance to the Garden Party will be FREE for Coop members. Not a member of the Coop yet? Sign up for a year membership at the link below today, and receive free entrance to the party, as well as special party perks, discounted concert tickets, AND access to over 50 episodes of exclusive Louisiana stories, recipes, music, and more.\nhttps://www.valcourrecords.com/the-coop",
 "url": "https://happeningnext.com/event/valcour-records-presents-garden-party-w-boma-bango-evening-concert-at-the-sidecar-eid3a0e7u6huj",
 "image": "https://cdn.happeningnext.com/events5/banners/775ee00704075780e2e95aa5c62eb47ae5f95130f198e1d89c30de3686329532-rimg-w1200-h675-dc98c8e8-gmir?v=1792848639",
-"source": "Happening Next (Lafayette live music)",
-"alsoOn": [
-"Happening Next (concerts)",
-"Happening Next (music)"
-],
+"source": "Happening Next (music)",
 "id": "f02a10f69f"
-},
-{
-"title": "The Last Mangos",
-"start": "2026-11-21T18:00",
-"end": null,
-"allDay": false,
-"ongoing": false,
-"venue": "329 Dulles Dr, Lafayette",
-"address": "",
-"price": "",
-"free": false,
-"cats": [
-"arts"
-],
-"desc": "Come enjoy this free, live show with the whole fam.",
-"url": "https://happeningnext.com/event/the-last-mangos-eid3a0ebra38d",
-"image": "https://cdn.happeningnext.com/events7/banners/3a4070bc432fa7cb1755d190992c89be2e3c29ba40e625d76b2d142c628eb989-rimg-w960-h720-dc080808-gmir?v=1795101005",
-"source": "Happening Next (performances)",
-"id": "636abeb382"
 },
 {
 "title": "State of LA Danse, Saturday November 21 7PM",
@@ -712,12 +628,9 @@
 "desc": "Faculty and Guest Artist Dance Concert from the UL Lafayette Dance Program",
 "url": "https://happeningnext.com/event/state-of-la-danse-saturday-november-21-7pm-eid1ef0l915cjjr",
 "image": "https://cdn.happeningnext.com/events3/banners/e8b48be325563f676f9730f74a78179947e50be3e1b9be051ec57bb94708fbd8-rimg-w1080-h1920-dc080808-gmir.jpg?v=1793290566",
-"source": "Happening Next (performances)",
+"source": "Happening Next (music)",
 "alsoOn": [
-"Happening Next (art)",
-"Happening Next (concerts)",
-"Happening Next (dance)",
-"Happening Next (music)"
+"Happening Next (art)"
 ],
 "id": "d646168e85"
 },
@@ -732,15 +645,12 @@
 "price": "",
 "free": false,
 "cats": [
-"arts"
+"music"
 ],
 "desc": "one night a year, we dance 🦇\nMy beloved fellow immortals, the time has once again returned to meet on the dance floor 🩸 In your best vampiric cloth, meet us on the 21st night of November for dancing, drinking, and deadly looks\n11.21.26\nTHE LOOSE CABOOSE.\n18+. 7PM-2AM.\nCOSTUMES HEAVILY ENCOURAGED.\nSCORPIOS GET IN FREE!!!",
 "url": "https://happeningnext.com/event/vampire-nightclub-v-eid3a0e832jjb",
 "image": "https://cdn.happeningnext.com/events3/banners/074ead250e64cb71711fa5fefda1f54484479fb2eb8a8308ddec1be85950ab91-rimg-w844-h844-dc080808-gmir?v=1792973224",
-"source": "Happening Next (dance)",
-"alsoOn": [
-"Happening Next (music)"
-],
+"source": "Happening Next (music)",
 "id": "dcfec558d7"
 },
 {
@@ -797,10 +707,7 @@
 "desc": "Marble Orchard and Mourning Star are rolling through Freetown on their Ruin & Damnation tour! Local support TBA.\n\nDoors 8pm\nCover $10\n18 TO ENTER, 21 TO DRINK",
 "url": "https://happeningnext.com/event/marble-orchard-mourning-star-tba-eid3a0eahxlpm",
 "image": "https://cdn.happeningnext.com/events10/banners/0f68ee8e844f6f20bcb368ab3c92e7b1e8e7a58a3572f9d419205a8a381da39d-rimg-w1200-h1600-dc080808-gmir?v=1794390547",
-"source": "Happening Next (performances)",
-"alsoOn": [
-"Happening Next (music)"
-],
+"source": "Happening Next (music)",
 "id": "c5b97864a4"
 },
 {
@@ -823,12 +730,12 @@
 "id": "bec4d0f2df"
 },
 {
-"title": "Spank the Monkey | Rock'n'Bowl® de Lafayette",
+"title": "Rock-n-Bowl de Lafayette SPANK with School of Rock Lafayette",
 "start": "2026-11-21T21:00",
 "end": null,
 "allDay": false,
 "ongoing": false,
-"venue": "Rock'n'Bowl de Lafayette",
+"venue": "Rock 'n' Bowl de Lafayette",
 "address": "905 Jefferson St, Lafayette",
 "price": "",
 "free": false,
@@ -836,17 +743,13 @@
 "music"
 ],
 "desc": "Turn it up, Lafayette! Spank the Monkey, the 90's rock band, rocks Rock'n'Bowl® de Lafayette on Saturday, November 21 at 9:00 PM. Bring your crew and rock out all night!",
-"url": "https://happeningnext.com/event/spank-the-monkey-rocknbowl-de-lafayette-eid3a0ebj589l",
-"image": "https://cdn.happeningnext.com/events10/banners/67bc23a946754e4270c1f21f04bd4ed62c2d3b4b3abe0ddd36c2576cdc2e8c48-rimg-w1200-h628-dc081838-gmir?v=1794987798",
-"source": "Happening Next (Lafayette live music)",
+"url": "https://happeningnext.com/event/rock-n-bowl-de-lafayette-spank-with-school-of-rock-lafayette-eid3a0ea1rbv4",
+"image": "https://cdn.happeningnext.com/events5/banners/7b2baf03684b068220517aeef70fc88374dc2e115940007dd3804b1cc8c88517-rimg-w1200-h800-dc080808-gmir?v=1794149073",
+"source": "Happening Next (comedy)",
 "alsoOn": [
-"Happening Next (comedy)",
-"Happening Next (concerts)",
-"Happening Next (music)",
-"Happening Next (performances)"
+"Happening Next (music)"
 ],
-"hot": true,
-"id": "e510e14f94"
+"id": "a9f56f66b4"
 },
 {
 "title": "Bayou Bloodfest Horror Expo 2026",
@@ -929,7 +832,10 @@
 "desc": "",
 "url": "https://acadianacenterforthearts.org/kate-gordon/?occurrence=2026-11-22",
 "image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/11/King_Kate-Gordon-1.jpg",
-"source": "Acadiana Center for the Arts (all events)",
+"source": "Acadiana Center for the Arts",
+"alsoOn": [
+"Acadiana Center for the Arts (all events)"
+],
 "id": "dd19b18d07"
 },
 {
@@ -949,26 +855,30 @@
 "url": "https://www.cajundome.com/events/detail/attlftholidaymarket26",
 "image": "",
 "source": "Cajundome",
-"id": "39df2bdf4d"
+"id": "39df2bdf4d",
+"alsoOn": []
 },
 {
-"title": "Valcour Presents: Joel Savoy’s Honky Tonk Merry Go Round Brunch",
+"title": "Valcour Presents: Joel Savoy's Honky Tonk Merry Go Round Brunch",
 "start": "2026-11-22T11:00",
 "end": "2026-11-22T14:00",
 "allDay": false,
 "ongoing": false,
 "venue": "Hideaway on Lee",
-"address": "407 Lee Ave, Lafayette",
+"address": "407 Lee Avenue, Lafayette",
 "price": "",
 "free": false,
 "cats": [
 "music",
 "food"
 ],
-"desc": "",
-"url": "https://www.hideawayonlee.com/events/valcour-presents-joel-savoys-honky-tonk-merry-go-round-brunch",
-"image": "https://images.squarespace-cdn.com/content/v1/5e5959c0bfd4157aee22bd55/1794765431868-HZ14R09M0A1GMCCV0ZFV/image0.jpeg",
-"source": "Hideaway on Lee",
+"desc": "Join Joel Savoy & Friends for a special Honky Tonk Brunch at the Hideaway to round out a fun and festive weekend!",
+"url": "https://happeningnext.com/event/valcour-presents-joel-savoys-honky-tonk-merry-go-round-brunch-eid3a0ec2dfx3",
+"image": "https://cdn.happeningnext.com/events5/banners/1f00c527d95ac15ff87c6503e8c4dc92d78dd0f217ae8b20e9a55b9277af2286-rimg-w1200-h675-dce8e8e8-gmir?v=1795285793",
+"source": "Happening Next (performances)",
+"alsoOn": [
+"Hideaway on Lee"
+],
 "id": "4496f58a5a"
 },
 {
@@ -1216,6 +1126,7 @@
 "source": "Ragin' Cajuns home games",
 "imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
 "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
+"hot": true,
 "id": "5547485764"
 },
 {
@@ -1396,6 +1307,7 @@
 "url": "https://happeningnext.com/event/el-sidos-zydeco-andamp-blues-annual-food-drive-eid3a0eahxl7q",
 "image": "https://cdn.happeningnext.com/events2/banners/d86b4b5adc44d0859dd4f4d72ddf7b1f7d3e0ca63a4760b8646fb3628fefd2d8-rimg-w960-h960-dc381858-gmir?v=1794390540",
 "source": "Happening Next (music)",
+"hot": true,
 "id": "dbc9ed7734"
 },
 {
@@ -1990,10 +1902,14 @@
 "cats": [
 "music"
 ],
-"desc": "",
-"url": "https://www.hideawayonlee.com/events/two-bands-minos-the-saint-burris",
-"image": "https://images.squarespace-cdn.com/content/v1/5e5959c0bfd4157aee22bd55/1795030098619-B9PKL13MEAOJOF25H0OR/866681728_1744988960959642_4060356555958215023_n.jpg",
-"source": "Hideaway on Lee",
+"desc": "Two Bands: Minos the Saint & Burris",
+"url": "https://happeningnext.com/event/two-bands-minos-the-saint-andamp-burris-eid3a0ec2fxeq",
+"image": "https://cdn.happeningnext.com/events4/banners/14a01158bc6a57163c45d64fba5d38ef80827717610421e68bcf70f2564a3cb2-rimg-w1200-h675-dc383838-gmir?v=1795287286",
+"source": "Happening Next (Lafayette live music)",
+"alsoOn": [
+"Happening Next (concerts)",
+"Hideaway on Lee"
+],
 "id": "d1bdf24e4b"
 },
 {
@@ -3272,7 +3188,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "ac7306e0d5"
+"id": "ac7306e0d5",
+"alsoOn": []
 },
 {
 "title": "Noël Acadien au Village",
@@ -3330,7 +3247,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "925c27b074"
+"id": "925c27b074",
+"alsoOn": []
 },
 {
 "title": "Noël Acadien au Village",
@@ -3388,7 +3306,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "4f89739324"
+"id": "4f89739324",
+"alsoOn": []
 },
 {
 "title": "Line Dance Class & Holiday Social",
@@ -3555,7 +3474,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "93bac03628"
+"id": "93bac03628",
+"alsoOn": []
 },
 {
 "title": "The American Creed in Words and Images",
@@ -3718,7 +3638,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "5876381c12"
+"id": "5876381c12",
+"alsoOn": []
 },
 {
 "title": "Holiday Chocolate Tasting",
@@ -4123,7 +4044,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "c0d1dca356"
+"id": "c0d1dca356",
+"alsoOn": []
 },
 {
 "title": "Fall '26 End of Season Shows: Day 1",
@@ -4310,6 +4232,7 @@
 "alsoOn": [
 "Happening Next (food & drinks)"
 ],
+"hot": true,
 "id": "620ef67a0a"
 },
 {
@@ -4530,6 +4453,7 @@
 "alsoOn": [
 "Happening Next (food & drinks)"
 ],
+"hot": true,
 "id": "9b656d9383"
 },
 {
@@ -4586,7 +4510,7 @@
 ],
 "desc": "Mayrunner, Drive, Doctor! Drive!, and Elle H live at the Loose Caboose for Mayrunner’s curtain call!",
 "url": "https://www.instagram.com/p/DdVA0UoteHz/?cnvx=MWIzNHp5M2IyZzlyZw==",
-"image": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=rvneqkKWuL0Q7kNvwG9Xu2Q&_nc_oc=AdqAHIAf2w02faHoa7KaHqtVzk-CAVmIRmQfsoFZrTv4Q85K-yLKLDGoUHLdzzEqE2Q&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=7LB4kO7dxKjOXatdFCR1Xg&_nc_ss=7b60f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQSafbj5wdUF0ULgSRPKqqN9g6RWP4tJQP5NE1Xo-jgzlA&oe=6B080F75",
+"image": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMiJ9&_nc_ohc=rvneqkKWuL0Q7kNvwEY_Mr9&_nc_oc=AdoRMY215fMLamv2Ibk2tx5xPmpClzHl0HI6USqtm881uCLA3zSaMadtcs2mJ1tWbhQ&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=rFb1cZMuv3zeN7M4Y7d9Gw&_nc_ss=7b60f&_nc_ct=RQgsPBUKFQIAAAA&oh=00_AQSSn5BXG_bIo3DM8lDAetwnzvz3342CKwIfGUVFfgA0lQ&oe=6B080F75",
 "source": "Submitted",
 "id": "213b36c084"
 },
@@ -4789,6 +4713,25 @@
 "imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
 "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
 "id": "58faff33e2"
+},
+{
+"title": "Trivia Night with Jay Steiner",
+"start": "2026-12-16T19:00",
+"end": "2026-12-16T21:00",
+"allDay": false,
+"ongoing": false,
+"venue": "Hideaway on Lee",
+"address": "407 Lee Ave, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"music"
+],
+"desc": "",
+"url": "https://www.hideawayonlee.com/events/xe75yzxtxzfmkl4-y83kt-ckpfl-mfjmk",
+"image": "https://images.squarespace-cdn.com/content/v1/5e5959c0bfd4157aee22bd55/1610159750942-LGVZ4UC44SZR3RB2VVO8/136058381_2722098468050625_7279102965653302622_o.jpg",
+"source": "Hideaway on Lee",
+"id": "05bc7975aa"
 },
 {
 "title": "Cajun Jam",
@@ -5229,6 +5172,7 @@
 "Happening Next (comedy)",
 "Happening Next (festivals)"
 ],
+"hot": true,
 "id": "4e2b9f1889"
 },
 {

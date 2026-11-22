@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-22T13:00:52Z",
+"updated": "2026-11-22T14:57:08Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -44,7 +44,7 @@
 {
 "name": "Happening Next (Lafayette live music)",
 "ok": true,
-"count": 42
+"count": 43
 },
 {
 "name": "Happening Next (theatre)",
@@ -54,7 +54,7 @@
 {
 "name": "Happening Next (performances)",
 "ok": true,
-"count": 48
+"count": 54
 },
 {
 "name": "Happening Next (comedy)",
@@ -69,7 +69,7 @@
 {
 "name": "Happening Next (concerts)",
 "ok": true,
-"count": 27
+"count": 28
 },
 {
 "name": "Happening Next (music)",
@@ -104,7 +104,7 @@
 {
 "name": "Happening Next (festivals)",
 "ok": true,
-"count": 11
+"count": 12
 },
 {
 "name": "Cité des Arts",
@@ -582,10 +582,13 @@
 "cats": [
 "music"
 ],
-"desc": "",
-"url": "https://www.hideawayonlee.com/events/the-revelers-1-bmggc-ffdxe-rp9sn-h7735-37b7r-jycg6",
-"image": "https://images.squarespace-cdn.com/content/v1/5e5959c0bfd4157aee22bd55/1776019116543-07AH8KCU0XE59ERA7XQ9/657525260_1537516115040262_9125378360694364511_n.jpg",
-"source": "Hideaway on Lee",
+"desc": "The Revelers live and in person!",
+"url": "https://happeningnext.com/event/the-revelers-eid3a0ec642hp",
+"image": "https://cdn.happeningnext.com/events4/banners/7e1e0e494cb39fea03e8896f3ce2cb60f819ef0902cbc3d69f3c0bc3a5122f73-rimg-w1200-h675-dc080808-gmir?v=1795356911",
+"source": "Happening Next (performances)",
+"alsoOn": [
+"Hideaway on Lee"
+],
 "id": "bec59a1da9"
 },
 {
@@ -1190,6 +1193,7 @@
 "alsoOn": [
 "Happening Next (fitness)"
 ],
+"hot": true,
 "id": "0300f2f260"
 },
 {
@@ -1924,10 +1928,13 @@
 "cats": [
 "music"
 ],
-"desc": "",
-"url": "https://www.hideawayonlee.com/events/nouveau-string-band-4-9hpj6-8ktz8-dzbxl-6x6hr-yd459-ylka6-3mf97-d5e2p-9rsm3-ft957-fwkj4-jblr4-jnrnh-2cte4-ryekc-hnz4m-zl7x4-xbdj5-9cdxd-5bbp7-zgsww-lpa3t-xd3gs-h9k73-hskk9-ldxab",
-"image": "https://images.squarespace-cdn.com/content/v1/5e5959c0bfd4157aee22bd55/1674421066512-IBHHTWNOANJO7RV4VR9O/318084926_3218628638397603_8174122633813339770_n.jpg",
-"source": "Hideaway on Lee",
+"desc": "John Buckelew- fiddle and vocals is a Louisiana native and songwriter that learned to play fiddle from James Marvin Choate, whose band The Melody Aces backed rising country stars such as George Jones and Jimmy C. Newman at The Louisiana Hayride in Shreveport, LA. He is from Jonesboro, Louisiana and moved to South Louisiana in the late 70’s where he mentored under Cajun Swing fiddler, Hadley J. Castille and often performed with Hadley and his band The Sharecroppers. He is an original member of NSB and also an original member of the all star Lafayette musicians Western Swing ensemble Stop the Clock Cowboy Jazz.\nDrummer, vocalist Danny Kimball began his performing and recording journey in the mid 60’s with the rock n’ roll of The Bad Roads. For the next five decades his musical road took him through rhythm n’ blues, cajun, zydeco, country blues, Americana roots rock, honky tonk country, and on to the country jazz swing of the Nouveau String Band’s Great American Road Trip. Along the way he has performed with legendary artists Bobby Charles, Jimmy C. Newman, Rufus Thibodeaux, Lightning Hopkins, and Paul Simon among others. His long history with Jazz Fest includes performances with The Red Beans and Rice Revue, Coteau, Sonny Landreth, Marcia Ball, File’, Little Queenie and Backtalk, The Traituers, Hadley Castille and the Sharecroppers, and Paula and the Pontiacs. With the Nouveau String Band Danny provides the backbeat and swing of the groove; “cause it ain’t no thing, if it don’t got that swing!”\nLee Tedrow- guitar and vocals began playing when he was five years old. Lee has been hailed as a “wizard of six string technique” and …. The best slide guitarists in Minnesota with the notable exception of Leo Kottke. He had opened or played with such greats as Willie Dixon, Albert King, Sonny Landreth, The Hawaiian Slack Key Masters and Geno Delafose and French Rocking Boogie.\nDave Trainer- mandolin, fiddle and vocals, began his musical career playing in West Coast Bluegrass bands opening for such notable legends as Ralph Stanley and Bill Monroe. Proficient on fiddle, mandolin, guitar and piano, Dave lives and teaches music in Lafayette, Louisiana and is in demand as a versatile and talented multi instrumentalist.\nJimmie Duhon- upright bass and vocals grew up in a musical family and has been playing since he was eight years old. A music graduate of UL Lafayette, Jimmie has played in many bands throughout his career and plays guitar, bass and French horn. He is known as an experienced and knowledgeable sound engineer and has provided sound for many years at Festival Acadiens et Creole. Jimmie lives in Lafayette and is a proud family man and grandfather.",
+"url": "https://happeningnext.com/event/nouveau-string-band-eid3a0ec643m9",
+"image": "https://cdn.happeningnext.com/events4/banners/5160398dc447cabac5519847683eb9d4449245d366201cccbaa214fe44a77291-rimg-w1200-h628-dc080808-gmir?v=1795356920",
+"source": "Happening Next (performances)",
+"alsoOn": [
+"Hideaway on Lee"
+],
 "id": "de12670ac4"
 },
 {
@@ -2025,12 +2032,16 @@
 "price": "Free",
 "free": true,
 "cats": [
+"music",
 "food"
 ],
 "desc": "Dress like Christmas for a casual, fun River Ranch HOA gathering with cocktails, light snacks, and live Christmas tunes for friends and fami\nAbout this Event\n\nRiver Ranch HOA Christmas Cocktail Party Date & Time: December 4, 2026 at 6:00 PM (Central Time)\nVenue: POUR Restaurant & Bar\nGet ready to deck the halls and your outfit! We invite you to jingle all the way to a festive evening filled with cocktails, delicious food, and live music . It’s the perfect recipe to sleigh your holiday spirit and have a merry good time with your neighbors. Don your most dazzling Christmas attire and join us for a night that’s sure to be tree-mendously fun!",
 "url": "https://happeningnext.com/event/river-ranch-hoa-christmas-cocktail-party-eid1ef0l8wvvlha",
 "image": "https://cdn.happeningnext.com/events10/banners/6a3ae83bbbfa967194d5aa85b84a07bf410a8dff3388ea29d98e1e3594c0355e-rimg-w1200-h801-dc080808-gmir.jpg?v=1794612726",
-"source": "Happening Next (music)",
+"source": "Happening Next (Lafayette live music)",
+"alsoOn": [
+"Happening Next (music)"
+],
 "id": "fe05ada4a4"
 },
 {
@@ -2517,12 +2528,17 @@
 "price": "",
 "free": false,
 "cats": [
-"music"
+"music",
+"arts",
+"theater"
 ],
-"desc": "",
-"url": "https://www.hideawayonlee.com/events/ruben-moreno-5bcm9",
-"image": "https://images.squarespace-cdn.com/content/v1/5e5959c0bfd4157aee22bd55/1789926618186-ZCM7P4SW35RGBQFCZ67S/801873423_1692823946176144_6470466070425172101_n.jpg",
-"source": "Hideaway on Lee",
+"desc": "Ruben Moreno is a musical alchemist whose Zydeco journey began at the tender age of 7, when the rhythmic patter of a washboard first sparked his creative fire. By 10, he was lighting up the stage at Austin’s iconic Continental Club with Leroy Thomas & the Zydeco Roadrunners, setting the tone for a career that blends tradition with innovation.\nMentored by legends like Leroy Thomas, C.J. Chenier, and Andre Thierry, Ruben quickly emerged as the youngest gem in C.J. Chenier’s Red-Hot Louisiana Band. His 2011 debut solo album, Por Ti Volare, produced by Thierry, soared like a phoenix, earning accolades from icons such as Buckwheat Zydeco.\nEver the boundary-breaker, Ruben weaves Zydeco with soulful threads of blues, Chicano grooves, and hip-hop. His creative ventures include a Certified Gold collaboration on Texas Sun with Khruangbin and Leon Bridges, as well as dynamic projects with Baby Bash that bridge the gap between classic Zydeco rhythms and contemporary beats. His latest work showcases that versatility: At the Trailride: Live at Stubb’s has already surpassed 175K streams across platforms, while his single The Recipe (This Heart) has earned more than 1 million streams and continues to grow, spotlighting his ability to craft music that is both deeply authentic and universally relatable.\nFrom enchanting nights at the New Orleans Jazz Fest to electrifying 70,000-strong audiences at Austin City Limits Festival 2024, Ruben’s performances are vibrant canvases where passion meets innovation. With international tours, competition accolades, and congressional recognition for his community contributions, Ruben Moreno continues to light the way—blending the timeless spirit of Zydeco with the pulse of tomorrow.",
+"url": "https://happeningnext.com/event/ruben-moreno-eid3a0ec642tk",
+"image": "https://cdn.happeningnext.com/events3/banners/a7e0b3d9f86ce003791da66f5da8b01086250b8fe785b74246678d614322fcf6-rimg-w1200-h630-dc080808-gmir?v=1795356913",
+"source": "Happening Next (performances)",
+"alsoOn": [
+"Hideaway on Lee"
+],
 "id": "a09a14f006"
 },
 {
@@ -3470,12 +3486,17 @@
 "price": "",
 "free": false,
 "cats": [
-"music"
+"music",
+"community"
 ],
-"desc": "",
-"url": "https://www.hideawayonlee.com/events/julian-primeaux-3-w92yy-g9tnb-jtzps-aklzs-45ldw-apmcp-4w9tt-aebt8",
-"image": "https://images.squarespace-cdn.com/content/v1/5e5959c0bfd4157aee22bd55/1753064011097-M91GXXEMY7QU6JSXHHGY/518337892_1310893694369173_3083855644395358307_n.jpg",
-"source": "Hideaway on Lee",
+"desc": "Julian Primeaux is the bastard son of rock’n’roll and southern gospel. Hailing from the swamps of Louisiana and sounding like a Gritty Rock 'N' Roll Freight Train guided through a Dirty Blues Spiritual Explosion. The blues runs deep in his songs of both heartache & joy. Revelation don’t come on the mountain, it comes way down in the valley where you’ll find him preaching his electric sermons.\n\nAs a fourth generation musician, Julian has been groomed from a young age to perform. His passion for playing guitar started when he was 8 and by age 12, Julian was performing live on a regular basis. Ever since, he has sang & played everywhere from clubs in Louisiana to Times Square in New York to concert halls & festivals all over Europe.��In 2009 he released his first solo album, 'Flowers From My Bones'. 'Rock 'n Roll Boy' followed in 2011 and his third album, 'This Guilded, Swaying Heart' in 2016.\nHe has performed and/or opened for a who’s who of local, national and international artists/acts, including Gary Clark Jr., Dr. John, Dick Dale, Rev. Horton Heat, Dax Riggs, Lazy Lester, Lil’ Nathan & The Zydeco Big Timers, Grammy-nominee Corey Ledet, and many more.",
+"url": "https://happeningnext.com/event/julian-primeaux-eid3a0ec6437f",
+"image": "https://cdn.happeningnext.com/events5/banners/d9a49d8a4ec70251527165d5f689f391d9e46e0b0339f80bd9175680eb3de84e-rimg-w1200-h675-dc683838-gmir?v=1795356916",
+"source": "Happening Next (performances)",
+"alsoOn": [
+"Happening Next (festivals)",
+"Hideaway on Lee"
+],
 "id": "14f2e62a25"
 },
 {
@@ -4148,7 +4169,7 @@
 ],
 "desc": "Mayrunner, Drive, Doctor! Drive!, and Elle H live at the Loose Caboose for Mayrunner’s curtain call!",
 "url": "https://www.instagram.com/p/DdVA0UoteHz/?cnvx=MWIzNHp5M2IyZzlyZw==",
-"image": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=rvneqkKWuL0Q7kNvwFELCet&_nc_oc=Adoo95iU_zZUY0EYgfP0vH-shYMDwxA9CBfl6wGYD18llwwRcDgzwW93IooSv_i7674&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=nEPnRptyQ-x8RZEM0TqPgg&_nc_ss=7b60f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQRrAaXGesf5viWPxdJ7KrDd6W4Ib0FEgpe5H9GgPzbiew&oe=6B08B835",
+"image": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=rvneqkKWuL0Q7kNvwF5YMFS&_nc_oc=Adqp4Yg0N4qmFq5h3JpnLvqJb76lVxPfPi8AVrdZQ-XenQpTVUrKo0_P_fgZplDCoOQ&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=XdbdJQv4ADHDWfqicCzP9g&_nc_ss=7b20f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQRdReGKtmSlUYElpUYg1awVr6D8cMv3NBej0957xzi9ng&oe=6B08F075",
 "source": "Submitted",
 "id": "213b36c084"
 },
@@ -4442,10 +4463,14 @@
 "cats": [
 "music"
 ],
-"desc": "",
-"url": "https://www.hideawayonlee.com/events/6th-annual-christmas-caroling-with-wilson-savoy",
-"image": "https://images.squarespace-cdn.com/content/v1/5e5959c0bfd4157aee22bd55/1795120178576-C5HQARTU4ONSK0M0DFJ0/895931508_1756024673189404_384162248054806791_n.jpg",
-"source": "Hideaway on Lee",
+"desc": "EARLY and free show starting off with a group caroling then we'll invite a singer or groups of singers to sing their faves (like a live karaoke with Wilson on piano) - special guests musicians to join",
+"url": "https://happeningnext.com/event/6th-annual-christmas-caroling-with-wilson-savoy-eid3a0ec642qm",
+"image": "https://cdn.happeningnext.com/events1/banners/be1299bc456cd506eb2544b8636f61affe40cecf7db8cfd28ca2fd8358f9e707-rimg-w1200-h675-dc181808-gmir?v=1795356913",
+"source": "Happening Next (performances)",
+"alsoOn": [
+"Happening Next (concerts)",
+"Hideaway on Lee"
+],
 "id": "db0703545b"
 },
 {
@@ -5233,16 +5258,15 @@
 "Happening Next (concerts)",
 "Happening Next (performances)"
 ],
-"hot": true,
 "id": "c68863470c"
 },
 {
-"title": "Chubby Carrier & Bayou Swamp Band",
+"title": "Chubby Carrier & Bayou Swamp Band | Rock'n'Bowl® de Lafayette",
 "start": "2026-12-27T17:00",
 "end": null,
 "allDay": false,
 "ongoing": false,
-"venue": "Rock'n'Bowl® de Lafayette",
+"venue": "Rock'n'Bowl de Lafayette",
 "address": "905 Jefferson St, Lafayette",
 "price": "",
 "free": false,
@@ -5250,10 +5274,13 @@
 "music"
 ],
 "desc": "Zydeco Sunday!",
-"url": "https://www.rocknbowl.com/events/chubby-carrier-bayou-swamp-band-12-27-26",
-"image": "https://static.wixstatic.com/media/79b74f_41720cd3d1a5421ab053e77e95bb55d9~mv2.jpg/v1/fill/w_1000,h_638,al_c,q_85/79b74f_41720cd3d1a5421ab053e77e95bb55d9~mv2.jpg",
-"source": "Rock'n'Bowl de Lafayette",
-"id": "85a4b80637"
+"url": "https://happeningnext.com/event/chubby-carrier-andamp-bayou-swamp-band-rocknbowl-de-lafayette-eid3a0ec65q1q",
+"image": "https://cdn.happeningnext.com/events4/banners/09a0cdca2200ff12c3760f7f688858e271b7c1efaca52cff14a4dd5c2719445c-rimg-w1200-h628-dc3878b8-gmir?v=1795357636",
+"source": "Happening Next (performances)",
+"alsoOn": [
+"Rock'n'Bowl de Lafayette"
+],
+"id": "ca5d635c8b"
 },
 {
 "title": "BAG O' BANDS 3000",

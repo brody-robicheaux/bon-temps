@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-22T02:58:25Z",
+"updated": "2026-11-22T05:04:35Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -135,7 +135,7 @@
 {
 "name": "Cajundome",
 "ok": true,
-"count": 6
+"count": 7
 },
 {
 "name": "Rock'n'Bowl de Lafayette",
@@ -836,6 +836,25 @@
 "Acadiana Center for the Arts (all events)"
 ],
 "id": "dd19b18d07"
+},
+{
+"title": "ATT Expo Presents Lafayette Christmas Market",
+"start": "2026-11-22T10:00",
+"end": null,
+"allDay": false,
+"ongoing": false,
+"venue": "Cajundome",
+"address": "444 Cajundome Blvd, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"community"
+],
+"desc": "ATT Expo Market Presents the Lafayette Christmas Market\nEvent Dates: Friday – Sunday, November 20-22, 2026\nShow Times:\nFriday, Nov. 20: 10 AM - 5 PM\nSaturday, Nov. 21: 10 AM - 5 PM\nSunday, Nov. 22: 10 AM - 4 PM\nDoors Open: 9:30 AM each morning\nAll minors under the age of 16 must be accompanied by an adult.",
+"url": "https://www.cajundome.com/events/detail/attlftholidaymarket26",
+"image": "",
+"source": "Cajundome",
+"id": "39df2bdf4d"
 },
 {
 "title": "Valcour Presents: Joel Savoy's Honky Tonk Merry Go Round Brunch",
@@ -4483,7 +4502,7 @@
 ],
 "desc": "Mayrunner, Drive, Doctor! Drive!, and Elle H live at the Loose Caboose for Mayrunner’s curtain call!",
 "url": "https://www.instagram.com/p/DdVA0UoteHz/?cnvx=MWIzNHp5M2IyZzlyZw==",
-"image": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=rvneqkKWuL0Q7kNvwHrwpWU&_nc_oc=AdqGfb9q5cnnuPunSUl3GI5ApFlaZsUWKKpPUgxdK7vDNlaa8hQjx-cjnGG4Ir-vJ-4&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=oCGoI1spETsmJZYppewp6w&_nc_ss=7b60f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQRCmYYYFsRzMpM8DDSZG9FAYp9DDjNEe5rC3fClA_W0Vw&oe=6B0847B5",
+"image": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=rvneqkKWuL0Q7kNvwE62IT9&_nc_oc=AdrFGMJbkm3FWHzuDEoIbAmI4W4MmvqfM49pJebm3cfzapSiCW_j2YggBYkYgiiUa34&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=vA6CQdbXYPA22gF6nFKtEw&_nc_ss=7b60f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQSJ_xg9UP6M8HOQx-R_fbGisdDqFkxhWgamvHavODYhow&oe=6B0847B5",
 "source": "Submitted",
 "id": "213b36c084"
 },

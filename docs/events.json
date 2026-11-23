@@ -1,10 +1,10 @@
 {
-"updated": "2026-11-23T17:12:54Z",
+"updated": "2026-11-23T19:14:32Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
 "ok": true,
-"count": 4
+"count": 5
 },
 {
 "name": "Acadiana Center for the Arts",
@@ -609,6 +609,7 @@
 "url": "https://www.hideawayonlee.com/events/bonsoir-catin-turkey-giveaway-special-show",
 "image": "https://images.squarespace-cdn.com/content/v1/5e5959c0bfd4157aee22bd55/1794768867550-RO1SL72ZXCCUZJPIX76G/884789974_1744985494293322_6294533251426956489_n.jpg",
 "source": "Hideaway on Lee",
+"hot": true,
 "id": "64106f5fcb"
 },
 {
@@ -1068,7 +1069,6 @@
 "source": "Ragin' Cajuns home games",
 "imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
 "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
-"hot": true,
 "id": "5cd63fbd7c"
 },
 {
@@ -1477,6 +1477,25 @@
 "Happening Next (music)"
 ],
 "id": "345b9e370d"
+},
+{
+"title": "Museum Makers: Portraits in Blue — An Introduction to Cyanotype Photography",
+"start": "2026-12-02T17:00",
+"end": "2026-12-02T20:00",
+"allDay": false,
+"ongoing": false,
+"venue": "Hilliard Art Museum",
+"address": "710 E St Mary Blvd, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"arts"
+],
+"desc": "Discover one of photography’s oldest printing processes, led by James Billeaudeau. In this hands-on workshop, participants will explore the art of cyanotype, a historic photographic technique known for its rich blue tones. Each participant will have their portrait taken and learn how to transform it into a one-of-a-kind cyanotype print using light-sensitive paper and UV light. No photography experience is necessary, and everyone will leave with a handmade photographic portrait of their own.\n\nMember Rate: $60 per person\n\nNon-Member Rate: $75 per person\n\nAdvance registration is required, as space is limited.",
+"url": "https://hilliardartmuseum.org/event/museum-makers-portraits-in-blue-an-introduction-to-cyanotype-photography/",
+"image": "https://hilliardartmuseum.org/wp-content/uploads/2026/11/HAM_MuseumMakers_WebsiteFeature.webp",
+"source": "Hilliard Art Museum",
+"id": "c5a0413100"
 },
 {
 "title": "Noël Acadien au Village",
@@ -4050,7 +4069,7 @@
 ],
 "desc": "Mayrunner, Drive, Doctor! Drive!, and Elle H live at the Loose Caboose for Mayrunner’s curtain call!",
 "url": "https://www.instagram.com/p/DdVA0UoteHz/?cnvx=MWIzNHp5M2IyZzlyZw==",
-"image": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=rvneqkKWuL0Q7kNvwF7Ogfa&_nc_oc=AdpK-EN598_9tbZH52dKJpHNAOETSehl9k9xEVX0pTiuHvqPlbhVdYF5hp7Lr1ErSqI&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=tIfwNkvCK2r-yJJ36_Wp_A&_nc_ss=7b60f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQTxx4u33xLL9d2Q_J7_4CDJfEHvcyxdEMSSJ8g-ZwNDDw&oe=6B0A41F5",
+"image": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=JqcaSNl7vvAQ7kNvwH2gI_I&_nc_oc=Adp3sYKUiDDVNBBUFDe4VjzdCmgGL8ICP3TsI2ab89_m7HMDPA3HHhAAD8O3cd-M1To&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=1yC_Bghun4K0TEyeTchhKQ&_nc_ss=7b60f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQS2Neuwx42a3DEkjk5uyf60loBYbr5vmDzIQkmI0XGPHQ&oe=6B0A7A35",
 "source": "Submitted",
 "id": "213b36c084"
 },

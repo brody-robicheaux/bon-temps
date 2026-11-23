@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-23T13:28:09Z",
+"updated": "2026-11-23T15:14:22Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -44,7 +44,7 @@
 {
 "name": "Happening Next (Lafayette live music)",
 "ok": true,
-"count": 45
+"count": 46
 },
 {
 "name": "Happening Next (theatre)",
@@ -54,7 +54,7 @@
 {
 "name": "Happening Next (performances)",
 "ok": true,
-"count": 49
+"count": 53
 },
 {
 "name": "Happening Next (comedy)",
@@ -64,12 +64,12 @@
 {
 "name": "Happening Next (dance)",
 "ok": true,
-"count": 14
+"count": 15
 },
 {
 "name": "Happening Next (concerts)",
 "ok": true,
-"count": 28
+"count": 30
 },
 {
 "name": "Happening Next (music)",
@@ -89,7 +89,7 @@
 {
 "name": "Happening Next (food & drinks)",
 "ok": true,
-"count": 27
+"count": 28
 },
 {
 "name": "Happening Next (health wellness)",
@@ -104,7 +104,7 @@
 {
 "name": "Happening Next (festivals)",
 "ok": true,
-"count": 11
+"count": 13
 },
 {
 "name": "Cité des Arts",
@@ -262,9 +262,6 @@
 "url": "https://acadianacenterforthearts.org/kate-gordon/?occurrence=2026-11-23",
 "image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/11/King_Kate-Gordon-1.jpg",
 "source": "Acadiana Center for the Arts",
-"alsoOn": [
-"Acadiana Center for the Arts (all events)"
-],
 "id": "f837b93ee6"
 },
 {
@@ -357,6 +354,25 @@
 "Happening Next (performances)"
 ],
 "id": "a4cefae2c0"
+},
+{
+"title": "Kate Gordon: Tender Terrain",
+"start": "2026-11-24T09:00",
+"end": "2026-11-24T17:00",
+"allDay": false,
+"ongoing": false,
+"venue": "Acadiana Center for the Arts",
+"address": "",
+"price": "Free",
+"free": true,
+"cats": [
+"arts"
+],
+"desc": "",
+"url": "https://acadianacenterforthearts.org/kate-gordon/?occurrence=2026-11-24",
+"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/11/King_Kate-Gordon-1.jpg",
+"source": "Acadiana Center for the Arts (all events)",
+"id": "23ee0e5910"
 },
 {
 "title": "Yin Yoga with Sound Bath - Cami",
@@ -634,8 +650,11 @@
 ],
 "desc": "Join us at the Legends Annex patio (or indoors if the weather is not agreeable) for FIVE rounds of general knowledge trivia. Great way to spend the evening with visiting family or friends. Teams can have up to 8 players. Trivia starts at 7pm sharp.",
 "url": "https://www.downtownlafayette.org/event/overstuffed-trivia-night-at-legends-annex",
-"image": "",
+"image": "https://cdn.happeningnext.com/events7/banners/320280cd4484810a647fa15e42c2e5e20c883ddc841f723bde7d454dac385bb4-rimg-w1200-h630-dcf8b848-gmir?v=1795427340",
 "source": "Downtown Lafayette",
+"alsoOn": [
+"Happening Next (food & drinks)"
+],
 "id": "ac0372ad1a"
 },
 {
@@ -1149,8 +1168,9 @@
 "desc": "As most people will tell you, there’s an undeniable connection between versatility and variation. Suffice it to say that each depends on the other. In the case of Seattle-based Marley’s Ghost, that eclectic energy has resulted in a broad repertoire that has defied any ability to tag them to any one particular genre. Their dozen albums to date— like the output of The Band— survey a broad scope of Americana and acoustic music in general, refusing to confine them to any singular niche.\n“It is, and always has been, about the music,” bassist, fiddler, guitarist, singer and chief songwriter Dan Wheetman insists. “That’s what’s kept this band going for so long. It’s always been about digging a little deeper, honing our skills and celebrating the entire playing process. That drives us forward.”\nWith their current album, the aptly named Travelin’ Shoes, Marley’s Ghost veers towards a path that doesn’t detract from that overarched umbrella, but instead helps define it further. Produced by acclaimed virtuoso Larry Campbell (Bob Dylan, Levon Helm), who was previously behind the boards for The Woodstock Sessions, their highly acclaimed 2016 album, Travelin’ Shoes is a joyous and surprisingly diverse set of songs, a celebratory salute to the finest traditions of American music.",
 "url": "https://happeningnext.com/event/marleys-ghost-west-coast-cali-washington-eid3a0ecbdvql",
 "image": "https://cdn.happeningnext.com/events1/banners/d3b00c4395ec316f7685b12740e6abd289d1f25ff7922f604e15e51a37fcc494-rimg-w960-h540-dc080808-gmir?v=1795427332",
-"source": "Happening Next (music)",
+"source": "Happening Next (performances)",
 "alsoOn": [
+"Happening Next (music)",
 "Hideaway on Lee"
 ],
 "id": "1a8f172a93"
@@ -1666,23 +1686,26 @@
 "id": "2c3f198d6b"
 },
 {
-"title": "A Cajun Night Before Christmas",
+"title": "A Cajun Night Before Christmas at Heymann Performing Arts Center",
 "start": "2026-12-03T19:00",
-"end": null,
+"end": "2026-12-03T21:00",
 "allDay": false,
 "ongoing": false,
 "venue": "Heymann Performing Arts Center",
-"address": "1373 S College Rd, Lafayette",
+"address": "1373 S. College Rd, Lafayette",
 "price": "",
 "free": false,
 "cats": [
-"community"
+"arts"
 ],
 "desc": "AGES 2 AND UP NEED A TICKET\nExperience the magic of Louisiana's most beloved Christmas tale",
-"url": "https://www.heymanncenter.com/events/2025/a-cajun-night-before-christmas",
-"image": "https://cdn.saffire.com/images.ashx?t=ig&rid=HeymannCenter&i=ASO_42_CajunNightsmall.png&cb=d3e47810",
-"source": "Heymann Performing Arts Center",
-"id": "7dcde58ea8"
+"url": "https://happeningnext.com/event/a-cajun-night-before-christmas-at-heymann-performing-arts-center-eid15hwid39lse",
+"image": "https://cdn.happeningnext.com/events10/banners/579c6030-e6d3-11f1-b8a0-65efcc089f98-rimg-w1080-h1080-dc080808-gmir.png?v=1795393080",
+"source": "Happening Next (performances)",
+"alsoOn": [
+"Heymann Performing Arts Center"
+],
+"id": "bf344e8b66"
 },
 {
 "title": "It's a Wonderful Life: A Live Radio Play",
@@ -1722,6 +1745,7 @@
 "image": "https://cdn.happeningnext.com/events4/banners/5160398dc447cabac5519847683eb9d4449245d366201cccbaa214fe44a77291-rimg-w1200-h628-dc080808-gmir?v=1795356920",
 "source": "Happening Next (performances)",
 "alsoOn": [
+"Happening Next (festivals)",
 "Happening Next (music)",
 "Hideaway on Lee"
 ],
@@ -2347,6 +2371,8 @@
 "image": "https://cdn.happeningnext.com/events3/banners/a7e0b3d9f86ce003791da66f5da8b01086250b8fe785b74246678d614322fcf6-rimg-w1200-h630-dc080808-gmir?v=1795356913",
 "source": "Happening Next (Lafayette live music)",
 "alsoOn": [
+"Happening Next (dance)",
+"Happening Next (festivals)",
 "Happening Next (music)",
 "Happening Next (performances)",
 "Hideaway on Lee"
@@ -3307,6 +3333,7 @@
 "image": "https://cdn.happeningnext.com/events5/banners/d9a49d8a4ec70251527165d5f689f391d9e46e0b0339f80bd9175680eb3de84e-rimg-w1200-h675-dc683838-gmir?v=1795356916",
 "source": "Happening Next (Lafayette live music)",
 "alsoOn": [
+"Happening Next (concerts)",
 "Happening Next (festivals)",
 "Happening Next (music)",
 "Happening Next (performances)",
@@ -3926,6 +3953,26 @@
 "id": "7d98a7febf"
 },
 {
+"title": "Sounds of the Season",
+"start": "2026-12-13T15:30",
+"end": null,
+"allDay": false,
+"ongoing": false,
+"venue": "Lafayette High School",
+"address": "3000 W Congress St, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"music",
+"family"
+],
+"desc": "Join us for our FREE Christmas concert on December 13th at 3:30pm in Lafayette High's Scotty Walker Auditorium. Santa will be making an appearance, too!\n\nWe invite you to join us in donning our best ugly sweaters to ring in the season!",
+"url": "https://happeningnext.com/event/sounds-of-the-season-eid3a0ec643v4",
+"image": "https://cdn.happeningnext.com/events2/banners/99841b079339c1a2159bebf906c4cedba37618d1426c67ad101063624d5ef149-rimg-w1200-h797-dc080808-gmir?v=1795356922",
+"source": "Happening Next (concerts)",
+"id": "1888e105c5"
+},
+{
 "title": "Magical Christmas Party",
 "start": "2026-12-13T17:00",
 "end": "2026-12-14T17:30",
@@ -4003,7 +4050,7 @@
 ],
 "desc": "Mayrunner, Drive, Doctor! Drive!, and Elle H live at the Loose Caboose for Mayrunner’s curtain call!",
 "url": "https://www.instagram.com/p/DdVA0UoteHz/?cnvx=MWIzNHp5M2IyZzlyZw==",
-"image": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=rvneqkKWuL0Q7kNvwGYqLXN&_nc_oc=Adq_wIXvnt6s3oaMsvIqGKgOKv2g3I8_f4iojvjg3SpBgpbvWw-7-W3EbneQusukmsk&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=RVVUix1D5-XuJNwC6TOpig&_nc_ss=7b60f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQSuBCVjzdGXEDRfszDaYUzlEanRB_oEODR09GgH5lv57w&oe=6B0A41F5",
+"image": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=rvneqkKWuL0Q7kNvwG37G9Z&_nc_oc=Adrv1LYwzu8P6JOExfm5sh-T7-bTJRN4jovmIeW1QtASLDHIVd2izZQPcr0_YLf0a7s&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=IBJS7xM9szhs1Hr0skQxBA&_nc_ss=7b60f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQTi07fFboYFAZmcIKsDKoemmX5CzEfXC5uVBOpnTsLpsg&oe=6B0A41F5",
 "source": "Submitted",
 "id": "213b36c084"
 },
@@ -4664,8 +4711,9 @@
 "desc": "Experience the magic of the holidays, Louisiana style! Join us for The Creole Nutcracker on Saturday, December 19, 2026, at the Heymann Performing Arts Center in Lafayette, Louisiana. This reimagining of the beloved holiday classic celebrates the rich culture, vibrant traditions, and joyful spirit of Louisiana through dance, music, and storytelling. Gather your family and friends for a journey filled with familiar Louisiana flavor, festive surprises, and holiday wonder. Make The Creole Nutcracker part of your holiday tradition! Visit thecreolenutcracker.com for tickets and more information.",
 "url": "https://happeningnext.com/event/the-creole-nutcracker-eid3a0e832i7q",
 "image": "https://cdn.happeningnext.com/events2/banners/7ebd83de6ee5125bf20ed3f8a2bed88bdeb8173962431d23c75408ded1a9cd02-rimg-w1200-h1200-dc082808-gmir?v=1792973216",
-"source": "Happening Next (dance)",
+"source": "Happening Next (performances)",
 "alsoOn": [
+"Happening Next (dance)",
 "Happening Next (music)",
 "Heymann Performing Arts Center"
 ],
@@ -4716,7 +4764,9 @@
 "image": "https://images.squarespace-cdn.com/content/v1/5e5959c0bfd4157aee22bd55/1661657988610-7W0WMG5PVUGO9JN5FIJ7/299559843_3130398437220624_1203581314919374758_n.jpg",
 "source": "Hideaway on Lee",
 "alsoOn": [
-"Happening Next (music)"
+"Happening Next (Lafayette live music)",
+"Happening Next (music)",
+"Happening Next (performances)"
 ],
 "id": "a65b31e064"
 },
@@ -5124,6 +5174,7 @@
 "Happening Next (concerts)",
 "Happening Next (performances)"
 ],
+"hot": true,
 "id": "c68863470c"
 },
 {

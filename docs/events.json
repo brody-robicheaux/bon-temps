@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-22T22:53:02Z",
+"updated": "2026-11-23T01:22:12Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -79,7 +79,7 @@
 {
 "name": "Happening Next (art)",
 "ok": true,
-"count": 31
+"count": 30
 },
 {
 "name": "Happening Next (exhibitions)",
@@ -258,10 +258,7 @@
 "desc": "",
 "url": "https://happeningnext.com/event/bayou-bloodfest-horror-expo-eid3a0d76ahf9",
 "image": "https://cdn.happeningnext.com/events5/banners/bfbfdbe1612c94bb1de4f59e906aee53093a3dfc2140068549ec77f6a98c7b7b-rimg-w940-h788-dc080808-gmir?v=1787574510",
-"source": "Happening Next (art)",
-"alsoOn": [
-"Happening Next (exhibitions)"
-],
+"source": "Happening Next (exhibitions)",
 "id": "a4f3a05e4b"
 },
 {
@@ -371,25 +368,6 @@
 ],
 "hot": true,
 "id": "d5773c2e0f"
-},
-{
-"title": "Kate Gordon: Tender Terrain",
-"start": "2026-11-22T09:00",
-"end": "2026-11-22T17:00",
-"allDay": false,
-"ongoing": false,
-"venue": "Acadiana Center for the Arts",
-"address": "",
-"price": "Free",
-"free": true,
-"cats": [
-"arts"
-],
-"desc": "",
-"url": "https://acadianacenterforthearts.org/kate-gordon/?occurrence=2026-11-22",
-"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/11/King_Kate-Gordon-1.jpg",
-"source": "Acadiana Center for the Arts",
-"id": "dd19b18d07"
 },
 {
 "title": "Philip Gould: A Selection of Works",
@@ -604,7 +582,10 @@
 "desc": "",
 "url": "https://acadianacenterforthearts.org/kate-gordon/?occurrence=2026-11-23",
 "image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/11/King_Kate-Gordon-1.jpg",
-"source": "Acadiana Center for the Arts (all events)",
+"source": "Acadiana Center for the Arts",
+"alsoOn": [
+"Acadiana Center for the Arts (all events)"
+],
 "id": "f837b93ee6"
 },
 {
@@ -889,6 +870,7 @@
 "alsoOn": [
 "Happening Next (music)"
 ],
+"hot": true,
 "id": "29413b5c8f"
 },
 {
@@ -947,7 +929,6 @@
 "url": "https://happeningnext.com/event/el-sidos-zydeco-andamp-blues-annual-food-drive-eid3a0eahxl7q",
 "image": "https://cdn.happeningnext.com/events2/banners/d86b4b5adc44d0859dd4f4d72ddf7b1f7d3e0ca63a4760b8646fb3628fefd2d8-rimg-w960-h960-dc381858-gmir?v=1794390540",
 "source": "Happening Next (music)",
-"hot": true,
 "id": "dbc9ed7734"
 },
 {
@@ -1071,6 +1052,7 @@
 "url": "https://happeningnext.com/event/vibe-25-celebrating-25-years-of-the-blue-moon-eid3a0ec65sk2",
 "image": "https://cdn.happeningnext.com/events1/banners/1b6575efe85e17b5551364dc674d8d98bf290541da0570862cab21b24202b3a9-rimg-w530-h812-dce8b808-gmir?v=1795357730",
 "source": "Happening Next (music)",
+"hot": true,
 "id": "97c6efac74"
 },
 {
@@ -1113,6 +1095,7 @@
 "alsoOn": [
 "Hideaway on Lee"
 ],
+"hot": true,
 "id": "82d4e009f7"
 },
 {
@@ -2578,6 +2561,7 @@
 "Happening Next (music)",
 "Hideaway on Lee"
 ],
+"hot": true,
 "id": "a09a14f006"
 },
 {
@@ -3537,6 +3521,7 @@
 "Happening Next (music)",
 "Hideaway on Lee"
 ],
+"hot": true,
 "id": "14f2e62a25"
 },
 {
@@ -3931,7 +3916,6 @@
 "alsoOn": [
 "Happening Next (food & drinks)"
 ],
-"hot": true,
 "id": "620ef67a0a"
 },
 {
@@ -4152,7 +4136,6 @@
 "alsoOn": [
 "Happening Next (food & drinks)"
 ],
-"hot": true,
 "id": "9b656d9383"
 },
 {
@@ -4209,7 +4192,7 @@
 ],
 "desc": "Mayrunner, Drive, Doctor! Drive!, and Elle H live at the Loose Caboose for Mayrunner’s curtain call!",
 "url": "https://www.instagram.com/p/DdVA0UoteHz/?cnvx=MWIzNHp5M2IyZzlyZw==",
-"image": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=rvneqkKWuL0Q7kNvwFGZKRW&_nc_oc=AdptJF6kwkAv6NM2n5UO7IYm37qH_8kt4xIyrv6TgYCfRW7b9Tv_FWwUMWtMHnl3s1Y&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=HawoX7OaUKdMKDsx0VF-fg&_nc_ss=7b60f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQSd2lqZQg43d4qB4lIG2d3LgOx_avDJrcuDJG1sD3UPfQ&oe=6B0960F5",
+"image": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=rvneqkKWuL0Q7kNvwH5jpaD&_nc_oc=AdqI24A6282Q13L8oalIT5PnBufe30QGs_MaxXp1KIjAas6wc7D6wGdAGvczugria6M&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=lo8MTL00WVkEpw9jyswpNQ&_nc_ss=7b60f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQWIgR4k40SruPtPPff_qGd-XBLhso80KGrlKKoZIFjhg&oe=6B0960F5",
 "source": "Submitted",
 "id": "213b36c084"
 },

@@ -1,10 +1,10 @@
 {
-"updated": "2026-11-23T05:27:56Z",
+"updated": "2026-11-23T07:42:29Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
 "ok": true,
-"count": 3
+"count": 4
 },
 {
 "name": "Acadiana Center for the Arts",
@@ -14,7 +14,7 @@
 {
 "name": "Acadiana Center for the Arts (all events)",
 "ok": true,
-"count": 10
+"count": 9
 },
 {
 "name": "Moncus Park",
@@ -24,7 +24,7 @@
 {
 "name": "Lafayette Travel",
 "ok": true,
-"count": 19
+"count": 18
 },
 {
 "name": "Heymann Performing Arts Center",
@@ -34,12 +34,12 @@
 {
 "name": "Downtown Lafayette",
 "ok": true,
-"count": 9
+"count": 8
 },
 {
 "name": "Hideaway on Lee",
 "ok": true,
-"count": 19
+"count": 18
 },
 {
 "name": "Happening Next (Lafayette live music)",
@@ -74,7 +74,7 @@
 {
 "name": "Happening Next (music)",
 "ok": true,
-"count": 63
+"count": 60
 },
 {
 "name": "Happening Next (art)",
@@ -94,7 +94,7 @@
 {
 "name": "Happening Next (health wellness)",
 "ok": true,
-"count": 16
+"count": 17
 },
 {
 "name": "Happening Next (fitness)",
@@ -109,7 +109,7 @@
 {
 "name": "Cité des Arts",
 "ok": true,
-"count": 14
+"count": 13
 },
 {
 "name": "Lafayette city government",
@@ -119,7 +119,7 @@
 {
 "name": "Ragin' Cajuns home games",
 "ok": true,
-"count": 15
+"count": 17
 },
 {
 "name": "Ticketmaster (Cajundome & touring shows)",
@@ -150,7 +150,7 @@
 {
 "name": "Blue Moon Saloon",
 "ok": true,
-"count": 34
+"count": 33
 },
 {
 "name": "Wonderland Performing Arts",
@@ -182,27 +182,6 @@
 "image": "https://cdn.happeningnext.com/events4/banners/905f676dfafbb33eb7d34879636ced3b553bc80def1f6b643411172b4310d4fe-rimg-w1200-h675-dcb8c878-gmir?v=1792973222",
 "source": "Happening Next (exhibitions)",
 "id": "2bc6311c38"
-},
-{
-"title": "Southern Screen Festival",
-"start": "2026-11-19T17:00",
-"end": "2026-11-22T22:00",
-"allDay": false,
-"ongoing": true,
-"venue": "Acadiana Center for the Arts",
-"address": "101 W Vermilion St",
-"price": "",
-"free": false,
-"cats": [
-"arts",
-"community"
-],
-"desc": "Multiple Options: Passes or Individual Tickets\nWhether you are flying in from many miles away or trekking across town, Southern Screen Festival attracts entertainment lovers and creators to see something new and learn something unforgettable. With dozens of films screenings, plus an array of workshops, panels, parties, and live performances, the four day from November 19-22 is sure to entertain, educate, and inspire.\n​\nLet Southern Screen show you how the heart of Cajun Country showcases emerging and innovative storytellers!\n​",
-"url": "https://www.downtownlafayette.org/event/southern-screen-festival",
-"image": "",
-"source": "Downtown Lafayette",
-"hot": true,
-"id": "c5ae6b4100"
 },
 {
 "title": "Guided Meditation - Jenni",
@@ -244,69 +223,8 @@
 "id": "59f28890ec"
 },
 {
-"title": "Bayou Bloodfest Horror Expo 2026",
-"start": "2026-11-22T00:00",
-"end": null,
-"allDay": true,
-"ongoing": false,
-"venue": "DoubleTree by Hilton Lafayette",
-"address": "1521 W. Pinhook Rd, Lafayette",
-"price": "",
-"free": false,
-"cats": [
-"arts"
-],
-"desc": "Bayou Bloodfest Horror Expo brings horror fans, filmmakers, artists, cosplayers, and pop culture enthusiasts together for a thrilling weekend of entertainment in Lafayette. Held at the DoubleTree by Hilton, the inaugural event features celebrity guest appearances, autograph sessions, panel discussions, vendors, artists, cosplay, collectibles, and immersive horror-themed experiences. Bayou Bloodfest adds a unique genre convention to Lafayette's event calendar while attracting visitors from across the Gulf South for a weekend celebrating all things horror.",
-"url": "https://www.lafayettetravel.com/event/bayou-bloodfest-horror-expo-2026/48273/",
-"image": "",
-"source": "Lafayette Travel",
-"id": "f205d059d0"
-},
-{
-"title": "Southern Screen Festival | 16th Annual",
-"start": "2026-11-22T00:00",
-"end": null,
-"allDay": true,
-"ongoing": false,
-"venue": "Acadiana Center for the Arts",
-"address": "101 W Vermilion St, Lafayette",
-"price": "Free",
-"free": true,
-"cats": [
-"arts",
-"community"
-],
-"desc": "Whether you are flying in from many miles away or trekking across town, Southern Screen Festival attracts entertainment lovers and creators to see something new and learn something unforgettable. With dozens of films screenings, plus an array of workshops, panels, parties, and live performances, the four day celebration every November is sure to entertain, educate, and inspire. Let Southern Screen show you how the heart of Cajun Country showcases emerging and innovative storytellers! Every year, the Southern Screen Festival is honored to host some of the most interesting and innovative creators from across Louisiana and the globe. Spanning film, television, music, podcasts and emerging media, Southern Screen welcomes professionals who can share knowledge and inspire our Southern Louisiana communities Southern Screen is a multidisciplinary 501(c)(3) nonprofit arts organization dedicated to supporting and celebrating storytellers across film, music, and the broader creative arts. Through year-round events, workshops, and community programming, we provide emerging and established artists opportunities to develop their craft, share their work, and connect with audiences. By expanding access to diverse forms of storytelling, Southern Screen strengthens the creative community and culminates this work each year with theSouthern Screen Festival in November.",
-"url": "https://www.southernscreen.org/attend?occurrence=2026-11-22",
-"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/09/SS2026-ACA-Cover-Image.jpg",
-"source": "Acadiana Center for the Arts",
-"alsoOn": [
-"Acadiana Center for the Arts (all events)"
-],
-"id": "fccd3113d1"
-},
-{
-"title": "UL Symphony Presents Prokofiev’s Peter and the Wolf",
-"start": "2026-11-22T00:00",
-"end": null,
-"allDay": true,
-"ongoing": false,
-"venue": "University of Louisiana at Lafayette; School of Music; 601 East St Mary, Lafayette, LA, United States, Louisiana 70501",
-"address": "601 E St Mary Blvd, Lafayette",
-"price": "",
-"free": false,
-"cats": [
-"music"
-],
-"desc": "",
-"url": "https://happeningnext.com/event/ul-symphony-presents-prokofiev’s-peter-and-the-wolf-eid3a0ea1rc5x",
-"image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9kMDIxZGRjYWE1Yzk1YTc1MWQ0MjJiN2I5M2Y1OTA3NDNjMjZkNGZiZDIwMDZmNTcyMzJjNzMyNzYwM2ZmZmE3LXJpbWctdzEyMDAtaDkwMC1kYzA4MDgwOC1nbWlyP3Y9MTc5NDE0OTA3NA.avif",
-"source": "Happening Next (music)",
-"id": "68187dac38"
-},
-{
 "title": "Artists’ Alliance",
-"start": "2026-11-22T09:00",
+"start": "2026-11-23T09:00",
 "end": "2027-01-09T17:00",
 "allDay": false,
 "ongoing": true,
@@ -318,7 +236,7 @@
 "arts"
 ],
 "desc": "",
-"url": "https://acadianacenterforthearts.org/artists-alliance/?occurrence=2026-11-22",
+"url": "https://acadianacenterforthearts.org/artists-alliance/?occurrence=2026-11-23",
 "image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/08/Spring-Summer-Fall-and-Winter-Light-2026-oil-on-canvas-24_-x-36_.jpeg",
 "source": "Acadiana Center for the Arts",
 "alsoOn": [
@@ -326,172 +244,6 @@
 ],
 "hot": true,
 "id": "d5773c2e0f"
-},
-{
-"title": "Philip Gould: A Selection of Works",
-"start": "2026-11-22T09:00",
-"end": "2026-11-28T17:00",
-"allDay": false,
-"ongoing": true,
-"venue": "Acadiana Center for the Arts",
-"address": "",
-"price": "Free",
-"free": true,
-"cats": [
-"arts"
-],
-"desc": "",
-"url": "https://acadianacenterforthearts.org/philip-gould-2026?occurrence=2026-11-22",
-"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/11/GouldHeader.jpg",
-"source": "Acadiana Center for the Arts",
-"alsoOn": [
-"Acadiana Center for the Arts (all events)"
-],
-"id": "c7f5af1cb0"
-},
-{
-"title": "Sebastian Lodrige: Burden | Artificial & Natural",
-"start": "2026-11-22T09:00",
-"end": "2026-12-23T17:00",
-"allDay": false,
-"ongoing": true,
-"venue": "Acadiana Center for the Arts",
-"address": "",
-"price": "Free",
-"free": true,
-"cats": [
-"arts"
-],
-"desc": "",
-"url": "https://acadianacenterforthearts.org/sebastian-lodrige/?occurrence=2026-11-22",
-"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/10/Asset-1-scaled.png",
-"source": "Acadiana Center for the Arts",
-"alsoOn": [
-"Acadiana Center for the Arts (all events)"
-],
-"hot": true,
-"id": "87f8b83e87"
-},
-{
-"title": "Valcour Records | 20 Years",
-"start": "2026-11-22T09:00",
-"end": "2027-02-27T17:00",
-"allDay": false,
-"ongoing": true,
-"venue": "Acadiana Center for the Arts",
-"address": "",
-"price": "Free",
-"free": true,
-"cats": [
-"arts"
-],
-"desc": "",
-"url": "https://acadianacenterforthearts.org/valcour-records?occurrence=2026-11-22",
-"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/11/ValcourHeader.jpg",
-"source": "Acadiana Center for the Arts",
-"alsoOn": [
-"Acadiana Center for the Arts (all events)"
-],
-"id": "e607e2d6a3"
-},
-{
-"title": "Valcour Presents: Joel Savoy's Honky Tonk Merry Go Round Brunch",
-"start": "2026-11-22T11:00",
-"end": null,
-"allDay": false,
-"ongoing": false,
-"venue": "Hideaway on Lee",
-"address": "407 Lee Avenue, Lafayette",
-"price": "",
-"free": false,
-"cats": [
-"food"
-],
-"desc": "Join Joel Savoy & Friends for a special Honky Tonk Brunch at the Hideaway to round out a fun and festive weekend!",
-"url": "https://happeningnext.com/event/valcour-presents-joel-savoys-honky-tonk-merry-go-round-brunch-eid3a0ec2dfx3",
-"image": "https://cdn.happeningnext.com/events5/banners/1f00c527d95ac15ff87c6503e8c4dc92d78dd0f217ae8b20e9a55b9277af2286-rimg-w1200-h675-dce8e8e8-gmir?v=1795285793",
-"source": "Happening Next (music)",
-"id": "4496f58a5a"
-},
-{
-"title": "Bal du Dimanche -- Balfa Toujours",
-"start": "2026-11-22T13:00",
-"end": "2026-11-22T16:00",
-"allDay": false,
-"ongoing": false,
-"venue": "Vermilionville",
-"address": "300 Fisher Rd, Lafayette",
-"price": "",
-"free": false,
-"cats": [
-"music",
-"food",
-"arts"
-],
-"desc": "Bayou Vermilion District & Vermilionville host the Bal du Dimanche (Sunday Dance) EVERY WEEK (may be pre-empted by private events). This live music series is held in Vermilionville’s Performance Center and rustic dancehall from 1-4 p.m. Admission is $12 and includes a self-guided tour of the Vermilionville Living History Museum.\nCome early and grab lunch at Vermilionville’s restaurant, La Cuisine de Maman. The restaurant is open every Sunday from 11 a.m.-2 p.m. and features authentic Cajun and Creole cuisine. On Sundays, the restaurant features an all-you-can-eat Sunday buffet. Le Bal du Dimanche is broadcast live on KRVS Public Media 1-3 PM.\nSunday, November 22: Balfas Toujours\nAdmission to the Live Concert Series is included in your Bayou Vermilion District & Vermilionville membership. To purchase or renew your membership online, visit this link:\nhttps://bayouvermiliondistrict.org/membership\">https://bayouvermiliondistrict.org/membership\nAll proceeds from this event go towards helping the Bayou Vermilion District and Vermilionville fulfill their local, environmental and cultural missions.",
-"url": "https://happeningnext.com/event/bal-du-dimanche-balfa-toujours-eid3a0e5hk2s4",
-"image": "https://cdn.happeningnext.com/events2/banners/59201c57c2d0e2dfc15a493c90e000dd0171b213a9210fe875e904130bc54000-rimg-w800-h538-dc785858-gmir?v=1791353156",
-"source": "Happening Next (music)",
-"id": "ae8e268805"
-},
-{
-"title": "Othello by William Shakespeare",
-"start": "2026-11-22T14:00",
-"end": "2026-11-22T16:00",
-"allDay": false,
-"ongoing": false,
-"venue": "Cité des Arts",
-"address": "109 Vine St, Lafayette",
-"price": "",
-"free": false,
-"cats": [
-"theater"
-],
-"desc": "The fourth play in the Cite des Arts 2026 theater season",
-"url": "https://www.citedesarts.org/events/othello-by-william-shakespeare-2026-11-22-14-00",
-"image": "https://static.wixstatic.com/media/62d2c2_b1f62c0e454c4daab44a309656e50576~mv2.jpg/v1/fill/w_662,h_1024,al_c,q_85/62d2c2_b1f62c0e454c4daab44a309656e50576~mv2.jpg",
-"source": "Cité des Arts",
-"id": "408d01003f"
-},
-{
-"title": "The Revelers",
-"start": "2026-11-22T19:00",
-"end": "2026-11-22T21:00",
-"allDay": false,
-"ongoing": false,
-"venue": "Hideaway on Lee",
-"address": "407 Lee Ave, Lafayette",
-"price": "",
-"free": false,
-"cats": [
-"music"
-],
-"desc": "",
-"url": "https://www.hideawayonlee.com/events/the-revelers-1-bmggc-ffdxe-rp9sn-h7735-37b7r-jycg6",
-"image": "https://images.squarespace-cdn.com/content/v1/5e5959c0bfd4157aee22bd55/1776019116543-07AH8KCU0XE59ERA7XQ9/657525260_1537516115040262_9125378360694364511_n.jpg",
-"source": "Hideaway on Lee",
-"id": "bec59a1da9"
-},
-{
-"title": "Southern Screen Film Festival with Live Music by Diamond J and the Ruby Red Raindrops",
-"start": "2026-11-22T21:00",
-"end": null,
-"allDay": false,
-"ongoing": false,
-"venue": "Blue Moon Saloon and Guest House",
-"address": "215 East Convent Street, Lafayette",
-"price": "",
-"free": false,
-"cats": [
-"music",
-"arts",
-"community"
-],
-"desc": "We're going back to the Moon for Southern Screen's official Wrap Party! Close out the festival in true Southern Screen style and join filmmakers, musicians, and festival guests for a night celebrating the stories shared, the connections made, and the creativity that brought us together. Diamond J and the Ruby Red Raindrops bring their soulful R&B sound and slow boogie grooves for one last dance with the incredible community that makes Southern Screen shine.\n\n \n\nDiamond J & The Ruby Red Raindrops is a regional music group from the Acadiana / Lafayette area in Louisiana known for a swamp-pop, slow-boogie, and swamp-and-roll style.",
-"url": "https://events.timely.fun/kw4jncf1/event/78509494/20261122210000",
-"image": "https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54756026/diamond%20j%20profile_8Llb.jpg",
-"source": "Blue Moon Saloon",
-"id": "b193240001"
 },
 {
 "title": "Kate Gordon: Tender Terrain",
@@ -514,6 +266,73 @@
 "Acadiana Center for the Arts (all events)"
 ],
 "id": "f837b93ee6"
+},
+{
+"title": "Philip Gould: A Selection of Works",
+"start": "2026-11-23T09:00",
+"end": "2026-11-28T17:00",
+"allDay": false,
+"ongoing": true,
+"venue": "Acadiana Center for the Arts",
+"address": "",
+"price": "Free",
+"free": true,
+"cats": [
+"arts"
+],
+"desc": "",
+"url": "https://acadianacenterforthearts.org/philip-gould-2026?occurrence=2026-11-23",
+"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/11/GouldHeader.jpg",
+"source": "Acadiana Center for the Arts",
+"alsoOn": [
+"Acadiana Center for the Arts (all events)"
+],
+"id": "c7f5af1cb0"
+},
+{
+"title": "Sebastian Lodrige: Burden | Artificial & Natural",
+"start": "2026-11-23T09:00",
+"end": "2026-12-23T17:00",
+"allDay": false,
+"ongoing": true,
+"venue": "Acadiana Center for the Arts",
+"address": "",
+"price": "Free",
+"free": true,
+"cats": [
+"arts"
+],
+"desc": "",
+"url": "https://acadianacenterforthearts.org/sebastian-lodrige/?occurrence=2026-11-23",
+"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/10/Asset-1-scaled.png",
+"source": "Acadiana Center for the Arts",
+"alsoOn": [
+"Acadiana Center for the Arts (all events)"
+],
+"hot": true,
+"id": "87f8b83e87"
+},
+{
+"title": "Valcour Records | 20 Years",
+"start": "2026-11-23T09:00",
+"end": "2027-02-27T17:00",
+"allDay": false,
+"ongoing": true,
+"venue": "Acadiana Center for the Arts",
+"address": "",
+"price": "Free",
+"free": true,
+"cats": [
+"arts"
+],
+"desc": "",
+"url": "https://acadianacenterforthearts.org/valcour-records?occurrence=2026-11-23",
+"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/11/ValcourHeader.jpg",
+"source": "Acadiana Center for the Arts",
+"alsoOn": [
+"Acadiana Center for the Arts (all events)"
+],
+"id": "e607e2d6a3"
 },
 {
 "title": "\"This Place\" UL Lafayette Choirs Fall Concert",
@@ -4161,7 +3980,7 @@
 ],
 "desc": "Mayrunner, Drive, Doctor! Drive!, and Elle H live at the Loose Caboose for Mayrunner’s curtain call!",
 "url": "https://www.instagram.com/p/DdVA0UoteHz/?cnvx=MWIzNHp5M2IyZzlyZw==",
-"image": "https://scontent-sea5-2.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=rvneqkKWuL0Q7kNvwH8G9Hf&_nc_oc=AdoPzJ9DXgxpWC-3-BYxRkGZf0g8GJfABnw2h0-zNy-Iw6voW2Do2Xj3QUgbmqdva0Y&_nc_zt=23&_nc_ht=scontent-sea5-2.cdninstagram.com&_nc_gid=bXv58PCWzqVad7_qw8GdVQ&_nc_ss=7b60f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQTu6E7K9v2RzncufNs-zVJHtGnfBeogllFkJJdOofwnRQ&oe=6B099935",
+"image": "https://scontent-sea5-2.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=rvneqkKWuL0Q7kNvwH8kzEF&_nc_oc=AdpSnbevTluXZjwfe8sBXREFNRQ6DiENIerZYDV2wCFM-kFXkQTfQi95-DQttSPRTuA&_nc_zt=23&_nc_ht=scontent-sea5-2.cdninstagram.com&_nc_gid=HC5s6ucIuZ1mZ4tQ4PmVUQ&_nc_ss=7b20f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQsPw895gPtxUg3VKGEZ8vTMpyg2ZLsP0XTT9_l811_QQ&oe=6B09D175",
 "source": "Submitted",
 "id": "213b36c084"
 },
@@ -5883,27 +5702,28 @@
 "id": "b826009fcf"
 },
 {
-"title": "We Will Rock You",
+"title": "We Will Rock You (Streva Productions)",
 "start": "2027-01-14T19:00",
-"end": "2027-01-14T21:30",
+"end": "2027-01-16T21:45",
 "allDay": false,
 "ongoing": false,
 "venue": "Acadiana Center for the Arts",
 "address": "101 W Vermilion St, Lafayette",
-"price": "",
-"free": false,
+"price": "Free",
+"free": true,
 "cats": [
 "music"
 ],
-"desc": "🎸 WE WILL ROCK YOU! 👑\nTHE MUSIC OF QUEEN COMES ALIVE IN LAFAYETTE!\nGet ready, Acadiana — WE WILL ROCK YOU! 🤘🔥\nStreva Productions proudly presents WE WILL ROCK YOU, the electrifying rock musical featuring the legendary music of QUEEN!\nDirected by Jenny Ballard, this high-energy theatrical experience brings Queen's unforgettable anthems to life with powerhouse vocals, explosive performances, and all the rock 'n' roll energy you can handle!\n🎶 Featuring legendary hits including:\n🎤 Bohemian Rhapsody\n⚡ We Are the Champions\n❤️ Somebody to Love\n🔥 Another One Bites the Dust\n🤘 We Will Rock You\nSet in a futuristic world where individuality and rock music are forbidden, a group of young rebels dares to challenge the system and bring back the power of ROCK!\nIt's a celebration of freedom, individuality, and the music that defined generations.\n🎭 Produced by Streva Productions\n🎬 Directed by Jenny Ballard\nWhether you're a lifelong Queen fan or discovering these iconic songs for the first time, this is one theatrical experience you won't want to miss!\n👑 THE LEGENDS. THE MUSIC. THE REVOLUTION.\nInvite your friends, spread the word, and get ready to ROCK Lafayette!\n#WeWillRockYou #Queen #StrevaProductions #JennyBallard #LafayetteLA #AcadianaArts #LiveTheatre #RockMusical",
-"url": "https://happeningnext.com/event/we-will-rock-you-eid3a0e9kc225",
-"image": "https://cdn.happeningnext.com/events7/banners/82de412070c77cb61506f485f837ed89a16c191809fd4b79302de9d89d21ef37-rimg-w1200-h800-dc080808-gmir?v=1793936984",
-"source": "Happening Next (Lafayette live music)",
+"desc": "WE WILL ROCK YOU, produced by Streva Productions and directed by Jenny Ballard, the worldwide smash-hit musical by Queen and Ben Elton is coming to Acadiana Center for the Arts January 14-16 for four electrifying performances! This multi- million dollar show dazzles all the senses in breathtaking style. Guaranteed to blow your mind, this global theatrical masterpiece is not to be missed! We Will Rock You is a high-energy jukebox musical featuring the iconic songs of Queen, set in a dystopian future where a powerful corporation has outlawed individuality and live music. When a group of rebellious outsiders known as the Bohemians rise up against the conformist regime of the Killer Queen, two young misfits—Galileo and Scaramouche—embark on a quest to rediscover real rock music and the freedom it represents. Packed with humor, heart, and legendary anthems like “Bohemian Rhapsody,” “We Will Rock You,” “Under Pressure,” “Another One Bites the Dust,” “We Are the Champions,” and many other Queen classics, the show celebrates self-expression, community, and the enduring power of rock ’n’ roll. Dates & Times: Thursday, 1/14/2027 7:00–9:45pm Friday, 1/15/2027 7:00–9:45pm Saturday, 1/16/2027 1:00–3:45pm 7:00–9:45pm",
+"url": "https://acadianacenterforthearts.org/events/we-will-rock-you/?occurrence=2027-01-14",
+"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/04/WWRY-with-Words-1-1.jpg",
+"source": "Acadiana Center for the Arts",
 "alsoOn": [
+"Happening Next (Lafayette live music)",
 "Happening Next (music)",
 "Happening Next (theatre)"
 ],
-"id": "69eb2afaea"
+"id": "4e17ff0663"
 },
 {
 "title": "Miss Louisiana Ultimate USA Scholarship Pageant",
@@ -6066,6 +5886,87 @@
 "image": "https://cdn.saffire.com/images.ashx?t=ig&rid=HeymannCenter&i=LL_2026_250x250.jpg&cb=395ebb6f",
 "source": "Heymann Performing Arts Center",
 "id": "30d898d097"
+},
+{
+"title": "Bienvenu Lecture Series: Dorothea Lange",
+"start": "2027-01-21T17:00",
+"end": "2027-01-21T18:30",
+"allDay": false,
+"ongoing": false,
+"venue": "Hilliard Art Museum",
+"address": "710 E St Mary Blvd, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"arts",
+"community"
+],
+"desc": "Join the Hilliard Art Museum for the 2026 John B. Bienvenu Lecture, a deep dive into the legacy of photographer Dorothea Lange, one of the greatest 20th century photographers, whose work is featured in the exhibition Century in Focus: 20th Century Photography by Women .\n\n5 p.m. Reception\n\n5:30 p.m. Lecture",
+"url": "https://hilliardartmuseum.org/event/bienvenu-lecture-series-dorothea-lange/",
+"image": "https://hilliardartmuseum.org/wp-content/uploads/2026/08/Dorothea-Lange-American-1895–1965-Greg-Running-1958-Gelatin-silver-print-printed-1965-e1787000143362.webp",
+"source": "Hilliard Art Museum",
+"id": "c0703ceabf"
+},
+{
+"title": "Ragin' Cajuns Women's Basketball vs Louisiana Tech",
+"start": "2027-01-21T17:00",
+"end": "2027-01-21T19:00",
+"allDay": false,
+"ongoing": false,
+"venue": "Cajundome",
+"address": "444 Cajundome Blvd, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"sports"
+],
+"desc": "",
+"url": "https://ragincajuns.com/calendar.aspx?game_id=15449&sport_id=10",
+"image": "img/cajundome.jpg",
+"source": "Ragin' Cajuns home games",
+"imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
+"imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
+"id": "08ffd50c1d"
+},
+{
+"title": "GOODWOLF 200hr RYT Yoga Teacher Training",
+"start": "2027-01-21T17:30",
+"end": null,
+"allDay": false,
+"ongoing": false,
+"venue": "GoodWolf Power Yoga / Pilates Reformer Studio",
+"address": "1921 Kaliste Saloom Rd, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"wellness"
+],
+"desc": "",
+"url": "https://happeningnext.com/event/goodwolf-200hr-ryt-yoga-teacher-training-eid3a0ebra3h8",
+"image": "https://cdn.happeningnext.com/events2/banners/8ed0f46919860accf1fe5b26542ac6052a994a4f98a374e9fdbd377296c6683e-rimg-w940-h788-dcf8f8f8-gmir?v=1795101005",
+"source": "Happening Next (health wellness)",
+"id": "8631dbaf0b"
+},
+{
+"title": "Ragin' Cajuns Men's Basketball vs South Alabama - Welcome Back Students | White Out | Greek Night | Lace Up with Lourdes",
+"start": "2027-01-21T19:30",
+"end": "2027-01-21T21:30",
+"allDay": false,
+"ongoing": false,
+"venue": "Cajundome",
+"address": "444 Cajundome Blvd, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"sports"
+],
+"desc": "",
+"url": "https://ragincajuns.com/calendar.aspx?game_id=15467&sport_id=6",
+"image": "img/cajundome.jpg",
+"source": "Ragin' Cajuns home games",
+"imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
+"imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
+"id": "4944b18bb3"
 }
 ]
 }

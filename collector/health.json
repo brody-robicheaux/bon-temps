@@ -1,27 +1,27 @@
 {
  "Hilliard Art Museum": {
-  "usual": 3
+  "usual": 4
  },
  "Acadiana Center for the Arts": {
   "usual": 10
  },
  "Acadiana Center for the Arts (all events)": {
-  "usual": 10
+  "usual": 9
  },
  "Moncus Park": {
   "usual": 10
  },
  "Lafayette Travel": {
-  "usual": 19
+  "usual": 18
  },
  "Heymann Performing Arts Center": {
   "usual": 10
  },
  "Downtown Lafayette": {
-  "usual": 9
+  "usual": 8
  },
  "Hideaway on Lee": {
-  "usual": 19
+  "usual": 18
  },
  "Happening Next (Lafayette live music)": {
   "usual": 45
@@ -42,7 +42,7 @@
   "usual": 28
  },
  "Happening Next (music)": {
-  "usual": 63
+  "usual": 60
  },
  "Happening Next (art)": {
   "usual": 30
@@ -54,7 +54,7 @@
   "usual": 27
  },
  "Happening Next (health wellness)": {
-  "usual": 16
+  "usual": 17
  },
  "Happening Next (fitness)": {
   "usual": 10
@@ -63,11 +63,11 @@
   "usual": 11
  },
  "Cité des Arts": {
-  "usual": 14
+  "usual": 13
  },
  "Lafayette city government": {},
  "Ragin' Cajuns home games": {
-  "usual": 15
+  "usual": 17
  },
  "Submitted": {
   "usual": 2
@@ -82,7 +82,7 @@
   "usual": 3
  },
  "Blue Moon Saloon": {
-  "usual": 34
+  "usual": 33
  },
  "Wonderland Performing Arts": {},
  "Bon Temps": {

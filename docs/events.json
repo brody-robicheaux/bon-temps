@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-23T20:59:59Z",
+"updated": "2026-11-23T23:00:32Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -59,7 +59,7 @@
 {
 "name": "Happening Next (comedy)",
 "ok": true,
-"count": 8
+"count": 9
 },
 {
 "name": "Happening Next (dance)",
@@ -134,9 +134,8 @@
 },
 {
 "name": "Cajundome",
-"ok": false,
-"count": 6,
-"note": "RuntimeError: no event links on the events page (48152 bytes) (showing last good results)"
+"ok": true,
+"count": 6
 },
 {
 "name": "Rock'n'Bowl de Lafayette",
@@ -531,6 +530,25 @@
 "image": "https://cdn.happeningnext.com/events10/banners/0107e8dd8030c373ca5ea319af4208655daf9c1412380a8f55b5cc56a128a23c-rimg-w1200-h675-dc586868-gmir?v=1795101024",
 "source": "Happening Next (fitness)",
 "id": "f90efdda61"
+},
+{
+"title": "Sissy Nobby",
+"start": "2026-11-25T12:00",
+"end": "2026-11-26T01:30",
+"allDay": false,
+"ongoing": false,
+"venue": "Truth",
+"address": "114 McKinley St, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"theater"
+],
+"desc": "",
+"url": "https://happeningnext.com/event/sissy-nobby-eid27punced6ap",
+"image": "https://cdn.happeningnext.com/events6/banners/7d720640-e6e5-11f1-b8a0-65efcc089f98-rimg-w1122-h1402-dc380808-gmir.png?v=1795400875",
+"source": "Happening Next (comedy)",
+"id": "e88562ce05"
 },
 {
 "title": "Camellia Crossing: Acadiana’s Gleaux Run",
@@ -2707,8 +2725,7 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "ac7306e0d5",
-"alsoOn": []
+"id": "ac7306e0d5"
 },
 {
 "title": "Noël Acadien au Village",
@@ -2766,8 +2783,7 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "925c27b074",
-"alsoOn": []
+"id": "925c27b074"
 },
 {
 "title": "Noël Acadien au Village",
@@ -2825,8 +2841,7 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "4f89739324",
-"alsoOn": []
+"id": "4f89739324"
 },
 {
 "title": "Line Dance Class & Holiday Social",
@@ -2993,8 +3008,7 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "93bac03628",
-"alsoOn": []
+"id": "93bac03628"
 },
 {
 "title": "The American Creed in Words and Images",
@@ -3157,8 +3171,7 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "5876381c12",
-"alsoOn": []
+"id": "5876381c12"
 },
 {
 "title": "Holiday Chocolate Tasting",
@@ -3572,8 +3585,7 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "c0d1dca356",
-"alsoOn": []
+"id": "c0d1dca356"
 },
 {
 "title": "Fall '26 End of Season Shows: Day 1",
@@ -4076,7 +4088,7 @@
 ],
 "desc": "Mayrunner, Drive, Doctor! Drive!, and Elle H live at the Loose Caboose for Mayrunner’s curtain call!",
 "url": "https://www.instagram.com/p/DdVA0UoteHz/?cnvx=MWIzNHp5M2IyZzlyZw==",
-"image": "https://scontent-sea5-2.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=JqcaSNl7vvAQ7kNvwGPwD5g&_nc_oc=Ado-tzLLcxo-JLfCXMKy-DNT_NT1Lv6GPpnT0htVQcc3r4SvQV0vwsMr8t8sOfF9WZA&_nc_zt=23&_nc_ht=scontent-sea5-2.cdninstagram.com&_nc_gid=1qipu258ru4nCdK2dt5VVQ&_nc_ss=7b20f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQT4LSvtGA2UV7IuTFxdhf8zMPZ3w-HqE1CNQ8i8cbl80g&oe=6B0AB275",
+"image": "https://scontent-sea5-2.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=JqcaSNl7vvAQ7kNvwHMucXx&_nc_oc=AdpIGkP8m4EMzPkjbAQNNjHaH7Jp2cDakezCT5G98Kwjnp-qQwovs4dj0XCKpWrJM0s&_nc_zt=23&_nc_ht=scontent-sea5-2.cdninstagram.com&_nc_gid=lpdakp19Bb332R0iu7Jd3A&_nc_ss=7b60f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQRhcY-g_syal4-aJKWoLCeA0l2QyI5robeRjc_gucq0_g&oe=6B0AB275",
 "source": "Submitted",
 "id": "213b36c084"
 },

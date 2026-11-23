@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-23T19:14:32Z",
+"updated": "2026-11-23T20:59:59Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -134,8 +134,9 @@
 },
 {
 "name": "Cajundome",
-"ok": true,
-"count": 6
+"ok": false,
+"count": 6,
+"note": "RuntimeError: no event links on the events page (48152 bytes) (showing last good results)"
 },
 {
 "name": "Rock'n'Bowl de Lafayette",
@@ -1491,7 +1492,7 @@
 "cats": [
 "arts"
 ],
-"desc": "Discover one of photography’s oldest printing processes, led by James Billeaudeau. In this hands-on workshop, participants will explore the art of cyanotype, a historic photographic technique known for its rich blue tones. Each participant will have their portrait taken and learn how to transform it into a one-of-a-kind cyanotype print using light-sensitive paper and UV light. No photography experience is necessary, and everyone will leave with a handmade photographic portrait of their own.\n\nMember Rate: $60 per person\n\nNon-Member Rate: $75 per person\n\nAdvance registration is required, as space is limited.",
+"desc": "Discover one of photography’s oldest printing processes, led by James Billeaudeau. In this hands-on workshop, participants will explore the art of cyanotype, a historic photographic technique known for its rich blue tones. Each participant will have their portrait taken and learn how to transform it into a one-of-a-kind cyanotype print using light-sensitive paper and UV light. No photography experience is necessary, and everyone will leave with a handmade photographic portrait of their own.\n\nMember Rate: $65 per person\n\nNon-Member Rate: $75 per person\n\nAdvance registration is required, as space is limited.",
 "url": "https://hilliardartmuseum.org/event/museum-makers-portraits-in-blue-an-introduction-to-cyanotype-photography/",
 "image": "https://hilliardartmuseum.org/wp-content/uploads/2026/11/HAM_MuseumMakers_WebsiteFeature.webp",
 "source": "Hilliard Art Museum",
@@ -2706,7 +2707,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "ac7306e0d5"
+"id": "ac7306e0d5",
+"alsoOn": []
 },
 {
 "title": "Noël Acadien au Village",
@@ -2764,7 +2766,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "925c27b074"
+"id": "925c27b074",
+"alsoOn": []
 },
 {
 "title": "Noël Acadien au Village",
@@ -2822,7 +2825,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "4f89739324"
+"id": "4f89739324",
+"alsoOn": []
 },
 {
 "title": "Line Dance Class & Holiday Social",
@@ -2966,7 +2970,7 @@
 "cats": [
 "arts"
 ],
-"desc": "Become a Hilliard Society Member and receive an invitation to this exclusive annual holiday experience. Visit the Membership page to join and explore all membership benefits.",
+"desc": "Once a year, the Hilliard invites members of the Hilliard Society and Director’s Circle, the museum’s leading circle of support, to a festive evening in the galleries. Live jazz, holiday cocktails, and passed hors d’oeuvres, surrounded by the season’s exhibitions and the permanent collection. Joined by university leadership and the UL Lafayette Foundation Board.\n\nBy invitation | Cocktail attire\n\nTo join the Hilliard Society and receive an invitation, contact hilliard@louisiana.edu .",
 "url": "https://hilliardartmuseum.org/event/hilliard-society-holiday-party-2/",
 "image": "https://hilliardartmuseum.org/wp-content/uploads/2026/08/Hilliard_MemberHolidayParty_December2025_089-e1786999973206.webp",
 "source": "Hilliard Art Museum",
@@ -2989,7 +2993,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "93bac03628"
+"id": "93bac03628",
+"alsoOn": []
 },
 {
 "title": "The American Creed in Words and Images",
@@ -3152,7 +3157,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "5876381c12"
+"id": "5876381c12",
+"alsoOn": []
 },
 {
 "title": "Holiday Chocolate Tasting",
@@ -3566,7 +3572,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "c0d1dca356"
+"id": "c0d1dca356",
+"alsoOn": []
 },
 {
 "title": "Fall '26 End of Season Shows: Day 1",
@@ -4069,7 +4076,7 @@
 ],
 "desc": "Mayrunner, Drive, Doctor! Drive!, and Elle H live at the Loose Caboose for Mayrunner’s curtain call!",
 "url": "https://www.instagram.com/p/DdVA0UoteHz/?cnvx=MWIzNHp5M2IyZzlyZw==",
-"image": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=JqcaSNl7vvAQ7kNvwE_UCm7&_nc_oc=AdosY-BiWTbMiqU0jUbJq46Tf4b0KKxUqUrkKV91Zx5vOT4KCRwwKADhNjWR6GM-NtE&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=X_M0-0d4ptXuLgYw7eXTcw&_nc_ss=7b60f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQoPMC_spX5BgUQUrsm7htA-Cwcs9-sLvVyIVKriZtj5A&oe=6B0A7A35",
+"image": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=JqcaSNl7vvAQ7kNvwH67lnD&_nc_oc=AdoN1dOGQNE9Z1vzrAth3wiFkJ8ngIhvR9l7ngScIxWkcKAqC12CtYHoOxGXzKh646E&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=w3fAJwQcjHxYYfbEA2LUyg&_nc_ss=7b60f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQTZxpjNRpCAZ0Uq2kabdqCJSB8mq8aEcWeHLob52BVckA&oe=6B0A7A35",
 "source": "Submitted",
 "id": "213b36c084"
 },

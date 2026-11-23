@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-23T11:15:04Z",
+"updated": "2026-11-23T13:28:09Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -79,7 +79,7 @@
 {
 "name": "Happening Next (art)",
 "ok": true,
-"count": 30
+"count": 31
 },
 {
 "name": "Happening Next (exhibitions)",
@@ -4003,7 +4003,7 @@
 ],
 "desc": "Mayrunner, Drive, Doctor! Drive!, and Elle H live at the Loose Caboose for Mayrunner’s curtain call!",
 "url": "https://www.instagram.com/p/DdVA0UoteHz/?cnvx=MWIzNHp5M2IyZzlyZw==",
-"image": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=rvneqkKWuL0Q7kNvwFiqQBN&_nc_oc=AdoLjPJUJpgFfVA2e_iqzDKBBxLyv6-BECclXflyGtZoaKy3Q6S3O2InawKpgeDbIYM&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=NZ-nZNrgLmkubTVzfThwog&_nc_ss=7b60f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQHZ4cIyekgsKq6Gapa5-votSYF4RuyoL1oSd7e5dKCZA&oe=6B0A09B5",
+"image": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMiJ9&_nc_ohc=rvneqkKWuL0Q7kNvwGcEXYe&_nc_oc=Adp7k896X1B_J2khbf-HlNFbC18QDVbsxrz5eyWfvJSDSriKMKR2eTN7CEhBx8T--Gk&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=Yco9pyNy8YQ1a2iOI7qm0Q&_nc_ss=7b60f&_nc_ct=RQgsPBUKFQIAAAA&oh=00_AQQnZ4z_ZO90Q0e6Pu8p5XNH2RYe3zlZM47woQfqPbpdrQ&oe=6B0A09B5",
 "source": "Submitted",
 "id": "213b36c084"
 },
@@ -4577,6 +4577,9 @@
 "url": "https://happeningnext.com/event/stars-siblings-talk-about-real-stuff-eid3a0ecbdvtj",
 "image": "https://cdn.happeningnext.com/events4/banners/2f71c34c2f3f976504a726fe9f103b390d863709dcd24634e9ad50eade296e32-rimg-w742-h960-dce88858-gmir?v=1795427333",
 "source": "Happening Next (music)",
+"alsoOn": [
+"Happening Next (art)"
+],
 "id": "6fa7ae7509"
 },
 {

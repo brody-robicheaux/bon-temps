@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-23T01:22:12Z",
+"updated": "2026-11-23T03:02:34Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -44,17 +44,17 @@
 {
 "name": "Happening Next (Lafayette live music)",
 "ok": true,
-"count": 43
+"count": 45
 },
 {
 "name": "Happening Next (theatre)",
 "ok": true,
-"count": 12
+"count": 11
 },
 {
 "name": "Happening Next (performances)",
 "ok": true,
-"count": 54
+"count": 49
 },
 {
 "name": "Happening Next (comedy)",
@@ -84,7 +84,7 @@
 {
 "name": "Happening Next (exhibitions)",
 "ok": true,
-"count": 4
+"count": 3
 },
 {
 "name": "Happening Next (food & drinks)",
@@ -94,7 +94,7 @@
 {
 "name": "Happening Next (health wellness)",
 "ok": true,
-"count": 15
+"count": 16
 },
 {
 "name": "Happening Next (fitness)",
@@ -104,7 +104,7 @@
 {
 "name": "Happening Next (festivals)",
 "ok": true,
-"count": 12
+"count": 11
 },
 {
 "name": "Cité des Arts",
@@ -205,61 +205,23 @@
 "id": "c5ae6b4100"
 },
 {
-"title": "🐉 How to Train Your Dragon: The Musical JR. 🔥",
-"start": "2026-11-20T19:00",
-"end": "2026-11-22T14:00",
+"title": "Guided Meditation - Jenni",
+"start": "2026-11-20T16:00",
+"end": "2026-11-24T16:30",
 "allDay": false,
-"ongoing": false,
-"venue": "Wonderland Performing Arts",
-"address": "2807 Johnston St, Lafayette",
+"ongoing": true,
+"venue": "Paths to Restoration",
+"address": "107 Montrose Ave, Lafayette",
 "price": "",
 "free": false,
 "cats": [
-"theater"
+"wellness"
 ],
-"desc": "🐉 How to Train Your Dragon: The Musical JR. 🔥\nGet ready to soar into an unforgettable adventure with Wonderland Performing Arts!\nFollow Hiccup, a young Viking who challenges tradition and befriends a dragon named Toothless. Together, they discover the power of friendship, courage, and embracing what makes us different.\nJoin our talented young performers as they bring this magical story to life on stage! 🎭✨\n🎭 4 SHOWTIMES:\n* Friday, 11/20 at 7 PM\n* Saturday, 11/21 at 2 PM & 7 PM\n* Sunday, 11/22 at 2 PM\n📍 Wonderland Performing Arts\n2807 Johnston Street, Lafayette, LA\n🐲 A fun-filled theatrical adventure for the whole family!\n🎟️ Get your tickets now before they’re gone!",
-"url": "https://happeningnext.com/event/how-to-train-your-dragon-the-musical-jr-eid3a0ebg3xop",
-"image": "https://cdn.happeningnext.com/events1/banners/71dce3bd38b088829b42b89a823d18e7f9f38e094065a81d0d0ebacc49fe504f-rimg-w1200-h1187-dcf8f8f8-gmir?v=1794938416",
-"source": "Happening Next (theatre)",
-"id": "aed61bae8e"
-},
-{
-"title": "White Boy Wasted : Project X Edition",
-"start": "2026-11-21T00:00",
-"end": "2026-11-22T00:00",
-"allDay": true,
-"ongoing": false,
-"venue": "GRANT ST DANCE HALL",
-"address": "113 West Grant Street, Lafayette",
-"price": "",
-"free": false,
-"cats": [
-"music"
-],
-"desc": "",
-"url": "https://happeningnext.com/event/white-boy-wasted-project-x-edition-eid1ef0l9brnoxr",
-"image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy8zY2ExOTA5NTU2OTVjNzgyZTUzMTJlMTlmZDg5MmJkYTI4Y2RiZDM2ZDAyODBlYTY1ZjgxNzYyZGNiMDY1ZDMxLXJpbWctdzExMzQtaDEzODctZGMwODA4MDgtZ21pci5qcGc_dj0xNzk0MDk3ODY0.avif",
-"source": "Happening Next (Lafayette live music)",
-"id": "feb721947e"
-},
-{
-"title": "Bayou Bloodfest Horror Expo",
-"start": "2026-11-21T11:00",
-"end": "2026-11-22T18:00",
-"allDay": false,
-"ongoing": false,
-"venue": "DoubleTree by Hilton Hotel Lafayette",
-"address": "Doubletree-Lafayette, 1521 W Pinhook Rd, Lafayette",
-"price": "",
-"free": false,
-"cats": [
-"arts"
-],
-"desc": "",
-"url": "https://happeningnext.com/event/bayou-bloodfest-horror-expo-eid3a0d76ahf9",
-"image": "https://cdn.happeningnext.com/events5/banners/bfbfdbe1612c94bb1de4f59e906aee53093a3dfc2140068549ec77f6a98c7b7b-rimg-w940-h788-dc080808-gmir?v=1787574510",
-"source": "Happening Next (exhibitions)",
-"id": "a4f3a05e4b"
+"desc": "This class offers a guided experience to slow down, quiet the mind, and reconnect with yourself through breath,\nreflection, stillness, and nature-inspired meditation.",
+"url": "https://happeningnext.com/event/guided-meditation-jenni-eid3a0ebra8x1",
+"image": "https://cdn.happeningnext.com/events3/banners/84cdff9238978ae1355512514674bd599d9d8aa1dd68cba91783c8d507633648-rimg-w960-h540-dc080808-gmir?v=1795101023",
+"source": "Happening Next (health wellness)",
+"id": "9c7a50f827"
 },
 {
 "title": "Miracle on Jefferson St",
@@ -339,11 +301,7 @@
 "desc": "",
 "url": "https://happeningnext.com/event/ul-symphony-presents-prokofiev’s-peter-and-the-wolf-eid3a0ea1rc5x",
 "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9kMDIxZGRjYWE1Yzk1YTc1MWQ0MjJiN2I5M2Y1OTA3NDNjMjZkNGZiZDIwMDZmNTcyMzJjNzMyNzYwM2ZmZmE3LXJpbWctdzEyMDAtaDkwMC1kYzA4MDgwOC1nbWlyP3Y9MTc5NDE0OTA3NA.avif",
-"source": "Happening Next (Lafayette live music)",
-"alsoOn": [
-"Happening Next (music)",
-"Happening Next (performances)"
-],
+"source": "Happening Next (music)",
 "id": "68187dac38"
 },
 {
@@ -452,10 +410,7 @@
 "desc": "Join Joel Savoy & Friends for a special Honky Tonk Brunch at the Hideaway to round out a fun and festive weekend!",
 "url": "https://happeningnext.com/event/valcour-presents-joel-savoys-honky-tonk-merry-go-round-brunch-eid3a0ec2dfx3",
 "image": "https://cdn.happeningnext.com/events5/banners/1f00c527d95ac15ff87c6503e8c4dc92d78dd0f217ae8b20e9a55b9277af2286-rimg-w1200-h675-dce8e8e8-gmir?v=1795285793",
-"source": "Happening Next (performances)",
-"alsoOn": [
-"Happening Next (music)"
-],
+"source": "Happening Next (music)",
 "id": "4496f58a5a"
 },
 {
@@ -476,13 +431,7 @@
 "desc": "Bayou Vermilion District & Vermilionville host the Bal du Dimanche (Sunday Dance) EVERY WEEK (may be pre-empted by private events). This live music series is held in Vermilionville’s Performance Center and rustic dancehall from 1-4 p.m. Admission is $12 and includes a self-guided tour of the Vermilionville Living History Museum.\nCome early and grab lunch at Vermilionville’s restaurant, La Cuisine de Maman. The restaurant is open every Sunday from 11 a.m.-2 p.m. and features authentic Cajun and Creole cuisine. On Sundays, the restaurant features an all-you-can-eat Sunday buffet. Le Bal du Dimanche is broadcast live on KRVS Public Media 1-3 PM.\nSunday, November 22: Balfas Toujours\nAdmission to the Live Concert Series is included in your Bayou Vermilion District & Vermilionville membership. To purchase or renew your membership online, visit this link:\nhttps://bayouvermiliondistrict.org/membership\">https://bayouvermiliondistrict.org/membership\nAll proceeds from this event go towards helping the Bayou Vermilion District and Vermilionville fulfill their local, environmental and cultural missions.",
 "url": "https://happeningnext.com/event/bal-du-dimanche-balfa-toujours-eid3a0e5hk2s4",
 "image": "https://cdn.happeningnext.com/events2/banners/59201c57c2d0e2dfc15a493c90e000dd0171b213a9210fe875e904130bc54000-rimg-w800-h538-dc785858-gmir?v=1791353156",
-"source": "Happening Next (Lafayette live music)",
-"alsoOn": [
-"Happening Next (concerts)",
-"Happening Next (food & drinks)",
-"Happening Next (music)",
-"Happening Next (performances)"
-],
+"source": "Happening Next (music)",
 "id": "ae8e268805"
 },
 {
@@ -505,25 +454,6 @@
 "id": "408d01003f"
 },
 {
-"title": "BJ's Pizza House 4th Sunday cruise-in",
-"start": "2026-11-22T15:00",
-"end": null,
-"allDay": false,
-"ongoing": false,
-"venue": "BJ's Pizza House",
-"address": "2484 W Congress St, Lafayette",
-"price": "",
-"free": false,
-"cats": [
-"food"
-],
-"desc": "popular event back for November! Come join us for great pizza and fellowship!",
-"url": "https://happeningnext.com/event/bjs-pizza-house-4th-sunday-cruise-in-eid3a0ebau7u0",
-"image": "https://cdn.happeningnext.com/events6/banners/81fee95ae725ea33e02b174d7fb9d60a98bc3c0413cda14a1d61c4e88d99662a-rimg-w960-h554-dcf8f8f8-gmir?v=1794860671",
-"source": "Happening Next (food & drinks)",
-"id": "55c41c9d8d"
-},
-{
 "title": "The Revelers",
 "start": "2026-11-22T19:00",
 "end": "2026-11-22T21:00",
@@ -536,13 +466,10 @@
 "cats": [
 "music"
 ],
-"desc": "The Revelers live and in person!",
-"url": "https://happeningnext.com/event/the-revelers-eid3a0ec642hp",
-"image": "https://cdn.happeningnext.com/events4/banners/7e1e0e494cb39fea03e8896f3ce2cb60f819ef0902cbc3d69f3c0bc3a5122f73-rimg-w1200-h675-dc080808-gmir?v=1795356911",
-"source": "Happening Next (performances)",
-"alsoOn": [
-"Hideaway on Lee"
-],
+"desc": "",
+"url": "https://www.hideawayonlee.com/events/the-revelers-1-bmggc-ffdxe-rp9sn-h7735-37b7r-jycg6",
+"image": "https://images.squarespace-cdn.com/content/v1/5e5959c0bfd4157aee22bd55/1776019116543-07AH8KCU0XE59ERA7XQ9/657525260_1537516115040262_9125378360694364511_n.jpg",
+"source": "Hideaway on Lee",
 "id": "bec59a1da9"
 },
 {
@@ -912,6 +839,26 @@
 "id": "d8ea2e0cf8"
 },
 {
+"title": "Community Thanksgiving Dinner – Free Meal & Delivery Available",
+"start": "2026-11-26T00:00",
+"end": null,
+"allDay": true,
+"ongoing": false,
+"venue": "Caffe Cottage",
+"address": "1013 E St Mary Blvd, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"food"
+],
+"desc": "",
+"url": "https://happeningnext.com/event/community-thanksgiving-dinner-–-free-meal-andamp-delivery-available-eid3a0ec6qba0",
+"image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvOGQ3NDBkMTljMTVhNGFjNjViZDA0ZjkyNGIzODFlZmJhZGYxZGQ4Y2NiNGY4YzMyODRmZjI0YjBmM2MzMWY3My1yaW1nLXc5NjAtaDk2MC1kY2Y4ZjhmOC1nbWlyP3Y9MTc5NTM2NzM4MA.avif",
+"source": "Happening Next (food & drinks)",
+"hot": true,
+"id": "72917e823e"
+},
+{
 "title": "El Sidos Zydeco & Blues ANNUAL food drive",
 "start": "2026-11-26T00:00",
 "end": null,
@@ -1091,8 +1038,11 @@
 "desc": "Savoy Family Cajun Band",
 "url": "https://happeningnext.com/event/savoy-family-cajun-band-eid3a0ec6boft",
 "image": "https://cdn.happeningnext.com/events9/banners/e0caec1ad4ddbb687245b3967518d11d859c70b4376b44b1dc6a0e0a0693914f-rimg-w1200-h675-dc180808-gmir?v=1795360994",
-"source": "Happening Next (music)",
+"source": "Happening Next (Lafayette live music)",
 "alsoOn": [
+"Happening Next (concerts)",
+"Happening Next (music)",
+"Happening Next (performances)",
 "Hideaway on Lee"
 ],
 "hot": true,
@@ -1894,26 +1844,23 @@
 "id": "2c3f198d6b"
 },
 {
-"title": "A Cajun Night Before Christmas at Heymann Performing Arts Center",
+"title": "A Cajun Night Before Christmas",
 "start": "2026-12-03T19:00",
-"end": "2026-12-03T21:00",
+"end": null,
 "allDay": false,
 "ongoing": false,
 "venue": "Heymann Performing Arts Center",
-"address": "1373 S. College Rd, Lafayette",
+"address": "1373 S College Rd, Lafayette",
 "price": "",
 "free": false,
 "cats": [
-"arts"
+"community"
 ],
 "desc": "AGES 2 AND UP NEED A TICKET\nExperience the magic of Louisiana's most beloved Christmas tale",
-"url": "https://happeningnext.com/event/a-cajun-night-before-christmas-at-heymann-performing-arts-center-eid15hwid39lse",
-"image": "https://cdn.happeningnext.com/events1/banners/53b85300-e153-11f1-ab69-a76145f05a1c-rimg-w1080-h1080-dc080808-gmir.png?v=1794788342",
-"source": "Happening Next (performances)",
-"alsoOn": [
-"Heymann Performing Arts Center"
-],
-"id": "bf344e8b66"
+"url": "https://www.heymanncenter.com/events/2025/a-cajun-night-before-christmas",
+"image": "https://cdn.saffire.com/images.ashx?t=ig&rid=HeymannCenter&i=ASO_42_CajunNightsmall.png&cb=d3e47810",
+"source": "Heymann Performing Arts Center",
+"id": "7dcde58ea8"
 },
 {
 "title": "It's a Wonderful Life: A Live Radio Play",
@@ -2556,9 +2503,10 @@
 "desc": "Ruben Moreno is a musical alchemist whose Zydeco journey began at the tender age of 7, when the rhythmic patter of a washboard first sparked his creative fire. By 10, he was lighting up the stage at Austin’s iconic Continental Club with Leroy Thomas & the Zydeco Roadrunners, setting the tone for a career that blends tradition with innovation.\nMentored by legends like Leroy Thomas, C.J. Chenier, and Andre Thierry, Ruben quickly emerged as the youngest gem in C.J. Chenier’s Red-Hot Louisiana Band. His 2011 debut solo album, Por Ti Volare, produced by Thierry, soared like a phoenix, earning accolades from icons such as Buckwheat Zydeco.\nEver the boundary-breaker, Ruben weaves Zydeco with soulful threads of blues, Chicano grooves, and hip-hop. His creative ventures include a Certified Gold collaboration on Texas Sun with Khruangbin and Leon Bridges, as well as dynamic projects with Baby Bash that bridge the gap between classic Zydeco rhythms and contemporary beats. His latest work showcases that versatility: At the Trailride: Live at Stubb’s has already surpassed 175K streams across platforms, while his single The Recipe (This Heart) has earned more than 1 million streams and continues to grow, spotlighting his ability to craft music that is both deeply authentic and universally relatable.\nFrom enchanting nights at the New Orleans Jazz Fest to electrifying 70,000-strong audiences at Austin City Limits Festival 2024, Ruben’s performances are vibrant canvases where passion meets innovation. With international tours, competition accolades, and congressional recognition for his community contributions, Ruben Moreno continues to light the way—blending the timeless spirit of Zydeco with the pulse of tomorrow.",
 "url": "https://happeningnext.com/event/ruben-moreno-eid3a0ec642tk",
 "image": "https://cdn.happeningnext.com/events3/banners/a7e0b3d9f86ce003791da66f5da8b01086250b8fe785b74246678d614322fcf6-rimg-w1200-h630-dc080808-gmir?v=1795356913",
-"source": "Happening Next (performances)",
+"source": "Happening Next (Lafayette live music)",
 "alsoOn": [
 "Happening Next (music)",
+"Happening Next (performances)",
 "Hideaway on Lee"
 ],
 "hot": true,
@@ -3515,10 +3463,11 @@
 "desc": "Julian Primeaux is the bastard son of rock’n’roll and southern gospel. Hailing from the swamps of Louisiana and sounding like a Gritty Rock 'N' Roll Freight Train guided through a Dirty Blues Spiritual Explosion. The blues runs deep in his songs of both heartache & joy. Revelation don’t come on the mountain, it comes way down in the valley where you’ll find him preaching his electric sermons.\n\nAs a fourth generation musician, Julian has been groomed from a young age to perform. His passion for playing guitar started when he was 8 and by age 12, Julian was performing live on a regular basis. Ever since, he has sang & played everywhere from clubs in Louisiana to Times Square in New York to concert halls & festivals all over Europe.��In 2009 he released his first solo album, 'Flowers From My Bones'. 'Rock 'n Roll Boy' followed in 2011 and his third album, 'This Guilded, Swaying Heart' in 2016.\nHe has performed and/or opened for a who’s who of local, national and international artists/acts, including Gary Clark Jr., Dr. John, Dick Dale, Rev. Horton Heat, Dax Riggs, Lazy Lester, Lil’ Nathan & The Zydeco Big Timers, Grammy-nominee Corey Ledet, and many more.",
 "url": "https://happeningnext.com/event/julian-primeaux-eid3a0ec6437f",
 "image": "https://cdn.happeningnext.com/events5/banners/d9a49d8a4ec70251527165d5f689f391d9e46e0b0339f80bd9175680eb3de84e-rimg-w1200-h675-dc683838-gmir?v=1795356916",
-"source": "Happening Next (performances)",
+"source": "Happening Next (Lafayette live music)",
 "alsoOn": [
 "Happening Next (festivals)",
 "Happening Next (music)",
+"Happening Next (performances)",
 "Hideaway on Lee"
 ],
 "hot": true,
@@ -3976,6 +3925,26 @@
 "id": "8cf29f0b06"
 },
 {
+"title": "Nik-L Beer | Rock'n'Bowl® de Lafayette",
+"start": "2026-12-12T21:00",
+"end": null,
+"allDay": false,
+"ongoing": false,
+"venue": "Rock'n'Bowl de Lafayette",
+"address": "905 Jefferson St, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"music",
+"food"
+],
+"desc": "Pop the top on Saturday night! Nik-L Beer, the party band, takes over Rock'n'Bowl® de Lafayette on Saturday, December 12. Bring your crew and party with us!",
+"url": "https://happeningnext.com/event/nik-l-beer-rocknbowl-de-lafayette-eid3a0ec65q56",
+"image": "https://cdn.happeningnext.com/events4/banners/1f242155142bbd4ad950068c09340f32cc1a90ec9d67a9bb747a61441e8e65e6-rimg-w1200-h628-dc080818-gmir?v=1795357652",
+"source": "Happening Next (Lafayette live music)",
+"id": "e781ae1be0"
+},
+{
 "title": "Christmas at The Bayou Christmas Concert",
 "start": "2026-12-13T00:00",
 "end": null,
@@ -4192,7 +4161,7 @@
 ],
 "desc": "Mayrunner, Drive, Doctor! Drive!, and Elle H live at the Loose Caboose for Mayrunner’s curtain call!",
 "url": "https://www.instagram.com/p/DdVA0UoteHz/?cnvx=MWIzNHp5M2IyZzlyZw==",
-"image": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=rvneqkKWuL0Q7kNvwG3_WYz&_nc_oc=Adq85yA4X83SiHIawO0pBfAbneRU7LQQdL5OEsAofhSQWjKWZ00lO7mwc48e7Tmuw00&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=zxwz1ZXUp1K-DwKEuKO3gA&_nc_ss=7b60f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQSsKKM25BNC0342YIF9CUbvuQjPfOhElGB7NvReOg82uA&oe=6B0960F5",
+"image": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=rvneqkKWuL0Q7kNvwHcArg4&_nc_oc=AdorHvpnM4pORUOBwx8Q5kMh54wO4_qqlIjkDyXNOM3hBtnMmD95IOV-pTCHyGZo41w&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=DHVD3-Mam8xiFJld88idCA&_nc_ss=7b60f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQSajnEZ-waXpbnTH8B7rrhlPgyXiQeKQFbYvS1M1RLUEg&oe=6B099935",
 "source": "Submitted",
 "id": "213b36c084"
 },
@@ -4489,10 +4458,11 @@
 "desc": "EARLY and free show starting off with a group caroling then we'll invite a singer or groups of singers to sing their faves (like a live karaoke with Wilson on piano) - special guests musicians to join",
 "url": "https://happeningnext.com/event/6th-annual-christmas-caroling-with-wilson-savoy-eid3a0ec642qm",
 "image": "https://cdn.happeningnext.com/events1/banners/be1299bc456cd506eb2544b8636f61affe40cecf7db8cfd28ca2fd8358f9e707-rimg-w1200-h675-dc181808-gmir?v=1795356913",
-"source": "Happening Next (performances)",
+"source": "Happening Next (Lafayette live music)",
 "alsoOn": [
 "Happening Next (concerts)",
 "Happening Next (music)",
+"Happening Next (performances)",
 "Hideaway on Lee"
 ],
 "id": "db0703545b"
@@ -4829,9 +4799,8 @@
 "desc": "Experience the magic of the holidays, Louisiana style! Join us for The Creole Nutcracker on Saturday, December 19, 2026, at the Heymann Performing Arts Center in Lafayette, Louisiana. This reimagining of the beloved holiday classic celebrates the rich culture, vibrant traditions, and joyful spirit of Louisiana through dance, music, and storytelling. Gather your family and friends for a journey filled with familiar Louisiana flavor, festive surprises, and holiday wonder. Make The Creole Nutcracker part of your holiday tradition! Visit thecreolenutcracker.com for tickets and more information.",
 "url": "https://happeningnext.com/event/the-creole-nutcracker-eid3a0e832i7q",
 "image": "https://cdn.happeningnext.com/events2/banners/7ebd83de6ee5125bf20ed3f8a2bed88bdeb8173962431d23c75408ded1a9cd02-rimg-w1200-h1200-dc082808-gmir?v=1792973216",
-"source": "Happening Next (performances)",
+"source": "Happening Next (dance)",
 "alsoOn": [
-"Happening Next (dance)",
 "Happening Next (music)",
 "Heymann Performing Arts Center"
 ],

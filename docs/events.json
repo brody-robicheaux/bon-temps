@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-24T05:17:13Z",
+"updated": "2026-11-24T07:26:33Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -19,7 +19,7 @@
 {
 "name": "Moncus Park",
 "ok": true,
-"count": 10
+"count": 9
 },
 {
 "name": "Lafayette Travel",
@@ -44,7 +44,7 @@
 {
 "name": "Happening Next (Lafayette live music)",
 "ok": true,
-"count": 47
+"count": 51
 },
 {
 "name": "Happening Next (theatre)",
@@ -54,7 +54,7 @@
 {
 "name": "Happening Next (performances)",
 "ok": true,
-"count": 52
+"count": 56
 },
 {
 "name": "Happening Next (comedy)",
@@ -69,17 +69,17 @@
 {
 "name": "Happening Next (concerts)",
 "ok": true,
-"count": 29
+"count": 33
 },
 {
 "name": "Happening Next (music)",
 "ok": true,
-"count": 66
+"count": 70
 },
 {
 "name": "Happening Next (art)",
 "ok": true,
-"count": 33
+"count": 36
 },
 {
 "name": "Happening Next (exhibitions)",
@@ -224,7 +224,7 @@
 },
 {
 "title": "Artists’ Alliance",
-"start": "2026-11-23T09:00",
+"start": "2026-11-24T09:00",
 "end": "2027-01-09T17:00",
 "allDay": false,
 "ongoing": true,
@@ -236,79 +236,14 @@
 "arts"
 ],
 "desc": "",
-"url": "https://acadianacenterforthearts.org/artists-alliance/?occurrence=2026-11-23",
+"url": "https://acadianacenterforthearts.org/artists-alliance/?occurrence=2026-11-24",
 "image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/08/Spring-Summer-Fall-and-Winter-Light-2026-oil-on-canvas-24_-x-36_.jpeg",
 "source": "Acadiana Center for the Arts",
 "alsoOn": [
 "Acadiana Center for the Arts (all events)"
 ],
+"hot": true,
 "id": "d5773c2e0f"
-},
-{
-"title": "Philip Gould: A Selection of Works",
-"start": "2026-11-23T09:00",
-"end": "2026-11-28T17:00",
-"allDay": false,
-"ongoing": true,
-"venue": "Acadiana Center for the Arts",
-"address": "",
-"price": "Free",
-"free": true,
-"cats": [
-"arts"
-],
-"desc": "",
-"url": "https://acadianacenterforthearts.org/philip-gould-2026?occurrence=2026-11-23",
-"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/11/GouldHeader.jpg",
-"source": "Acadiana Center for the Arts",
-"alsoOn": [
-"Acadiana Center for the Arts (all events)"
-],
-"id": "c7f5af1cb0"
-},
-{
-"title": "Sebastian Lodrige: Burden | Artificial & Natural",
-"start": "2026-11-23T09:00",
-"end": "2026-12-23T17:00",
-"allDay": false,
-"ongoing": true,
-"venue": "Acadiana Center for the Arts",
-"address": "",
-"price": "Free",
-"free": true,
-"cats": [
-"arts"
-],
-"desc": "",
-"url": "https://acadianacenterforthearts.org/sebastian-lodrige/?occurrence=2026-11-23",
-"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/10/Asset-1-scaled.png",
-"source": "Acadiana Center for the Arts",
-"alsoOn": [
-"Acadiana Center for the Arts (all events)"
-],
-"id": "87f8b83e87"
-},
-{
-"title": "Valcour Records | 20 Years",
-"start": "2026-11-23T09:00",
-"end": "2027-02-27T17:00",
-"allDay": false,
-"ongoing": true,
-"venue": "Acadiana Center for the Arts",
-"address": "",
-"price": "Free",
-"free": true,
-"cats": [
-"arts"
-],
-"desc": "",
-"url": "https://acadianacenterforthearts.org/valcour-records?occurrence=2026-11-23",
-"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/11/ValcourHeader.jpg",
-"source": "Acadiana Center for the Arts",
-"alsoOn": [
-"Acadiana Center for the Arts (all events)"
-],
-"id": "e607e2d6a3"
 },
 {
 "title": "Kate Gordon: Tender Terrain",
@@ -331,6 +266,73 @@
 "Acadiana Center for the Arts (all events)"
 ],
 "id": "23ee0e5910"
+},
+{
+"title": "Philip Gould: A Selection of Works",
+"start": "2026-11-24T09:00",
+"end": "2026-11-28T17:00",
+"allDay": false,
+"ongoing": true,
+"venue": "Acadiana Center for the Arts",
+"address": "",
+"price": "Free",
+"free": true,
+"cats": [
+"arts"
+],
+"desc": "",
+"url": "https://acadianacenterforthearts.org/philip-gould-2026?occurrence=2026-11-24",
+"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/11/GouldHeader.jpg",
+"source": "Acadiana Center for the Arts",
+"alsoOn": [
+"Acadiana Center for the Arts (all events)"
+],
+"id": "c7f5af1cb0"
+},
+{
+"title": "Sebastian Lodrige: Burden | Artificial & Natural",
+"start": "2026-11-24T09:00",
+"end": "2026-12-23T17:00",
+"allDay": false,
+"ongoing": true,
+"venue": "Acadiana Center for the Arts",
+"address": "",
+"price": "Free",
+"free": true,
+"cats": [
+"arts"
+],
+"desc": "",
+"url": "https://acadianacenterforthearts.org/sebastian-lodrige/?occurrence=2026-11-24",
+"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/10/Asset-1-scaled.png",
+"source": "Acadiana Center for the Arts",
+"alsoOn": [
+"Acadiana Center for the Arts (all events)"
+],
+"hot": true,
+"id": "87f8b83e87"
+},
+{
+"title": "Valcour Records | 20 Years",
+"start": "2026-11-24T09:00",
+"end": "2027-02-27T17:00",
+"allDay": false,
+"ongoing": true,
+"venue": "Acadiana Center for the Arts",
+"address": "",
+"price": "Free",
+"free": true,
+"cats": [
+"arts"
+],
+"desc": "",
+"url": "https://acadianacenterforthearts.org/valcour-records?occurrence=2026-11-24",
+"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/11/ValcourHeader.jpg",
+"source": "Acadiana Center for the Arts",
+"alsoOn": [
+"Acadiana Center for the Arts (all events)"
+],
+"id": "e607e2d6a3"
 },
 {
 "title": "Yin Yoga with Sound Bath - Cami",
@@ -467,6 +469,7 @@
 "source": "Ragin' Cajuns home games",
 "imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
 "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
+"hot": true,
 "id": "5547485764"
 },
 {
@@ -585,6 +588,7 @@
 "url": "https://www.hideawayonlee.com/events/bonsoir-catin-turkey-giveaway-special-show",
 "image": "https://images.squarespace-cdn.com/content/v1/5e5959c0bfd4157aee22bd55/1794768867550-RO1SL72ZXCCUZJPIX76G/884789974_1744985494293322_6294533251426956489_n.jpg",
 "source": "Hideaway on Lee",
+"hot": true,
 "id": "64106f5fcb"
 },
 {
@@ -1222,7 +1226,7 @@
 "end": null,
 "allDay": false,
 "ongoing": false,
-"venue": "Petroleum Club of Lafayette",
+"venue": "PC53 - Petroleum Club of Lafayette",
 "address": "111 Heymann Blvd, Lafayette",
 "price": "",
 "free": false,
@@ -4053,7 +4057,7 @@
 ],
 "desc": "Mayrunner, Drive, Doctor! Drive!, and Elle H live at the Loose Caboose for Mayrunner’s curtain call!",
 "url": "https://www.instagram.com/p/DdVA0UoteHz/?cnvx=MWIzNHp5M2IyZzlyZw==",
-"image": "https://scontent-sea5-2.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=JqcaSNl7vvAQ7kNvwHFqIVi&_nc_oc=Adqt5BO6gAC35zSECWEuoyqHnCmxZ-H80DvsEuG8iiZGdRuybnOD-ITHoii7Rxyt-QQ&_nc_zt=23&_nc_ht=scontent-sea5-2.cdninstagram.com&_nc_gid=ah12qvsuIlc0HxIbHls6Sw&_nc_ss=7b70f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQRIX38igN7349cnLGqWNUi6C44ZVHAOQML4U5Vi2NLjgg&oe=6B0AEAB5",
+"image": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=JqcaSNl7vvAQ7kNvwGjfqdi&_nc_oc=Adq18klyOLdN2krbJ6NdjDK5Z_7sMws141uzkoGOZeqyQzrrSVdJ7CI68uasYHLK1dM&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=6iy-fgkeItG6E4RyCn74iQ&_nc_ss=7b70f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQSMsfl3fz0vOlFylOOXgrAJzTcy4jqJV7hLR9aoToEBmA&oe=6B0B22F5",
 "source": "Submitted",
 "id": "213b36c084"
 },
@@ -6074,6 +6078,85 @@
 "imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
 "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
 "id": "4944b18bb3"
+},
+{
+"title": "Candlelight: Tribute to Adele",
+"start": "2027-01-22T18:00",
+"end": "2027-01-22T20:00",
+"allDay": false,
+"ongoing": false,
+"venue": "Petroleum Club of Lafayette",
+"address": "111 Heymann Boulevard, Lafayette//, Lafayette",
+"price": "$35",
+"free": false,
+"cats": [
+"music",
+"arts",
+"theater"
+],
+"desc": "⭐ Candlelight concerts bring the magic of a live, multi-sensory musical experience to awe-inspiring locations like never seen before in Lafayette. Get your tickets now to relive the music of Adele at Petroleum Club of Lafayette under the gentle glow of candlelight. This is a tribute concert experience. It is not affiliated with, endorsed by, or sponsored by the artist, their estate, or official representatives. General Info 📍 Venue: Petroleum Club of Lafayette 📅 Dates and times: select your dates/times directly in the ticket selector ⏳ Duration: 60 minutes. Doors open 60 minutes before the show. No entry once it starts. 👤 Age requirement: 8 years old or older. Anyone under the age of 16 must be accompanied by an adult ♿ Accessibility: this venue is ADA compliant ❓ View the FAQs for this event here 🪑 Seating is assigned on a first come first served basis in each zone 🕯️ If you would like to book a private concert or buy regular tickets for a large group (+30 people), click here 🎻 Check out all the Candlelight concerts in Lafayette 🎁 To treat your friends and family to a Candlelight gift card, click here Tentative Program Hello Rumour Has It Make You Feel My Love Water Under the Bridge Oh My God Someone Like You Send My Love (To Your New Lover) Chasing Pavements Skyfall When We Were Young Set Fire to the Rain Easy On Me Rolling in the Deep Performers Listeso String Quartet Seating Map",
+"url": "https://happeningnext.com/event/candlelight-tribute-to-adele-eid1afw9hhchcg",
+"image": "https://cdn.happeningnext.com/events7/banners/19e969a0-de85-11f1-a7be-298b5c0ef5b1-rimg-w550-h550-dc080808-gmir.jpg?v=1794480090",
+"source": "Happening Next (Lafayette live music)",
+"alsoOn": [
+"Happening Next (art)",
+"Happening Next (concerts)",
+"Happening Next (music)",
+"Happening Next (performances)"
+],
+"id": "0f66dfb07c"
+},
+{
+"title": "Candlelight: Queen vs. The Beatles",
+"start": "2027-01-22T20:30",
+"end": "2027-01-22T22:30",
+"allDay": false,
+"ongoing": false,
+"venue": "Petroleum Club of Lafayette",
+"address": "111 Heymann Boulevard, Lafayette//, Lafayette",
+"price": "$32",
+"free": false,
+"cats": [
+"music",
+"arts",
+"theater"
+],
+"desc": "⭐ Candlelight concerts bring the magic of a live, multi-sensory musical experience to awe-inspiring locations like never seen before in Lafayette. Get your tickets now to discover the music of Queen and The Beatles at Petroleum Club of Lafayette under the gentle glow of candlelight. This is a tribute concert experience. It is not affiliated with, endorsed by, or sponsored by the artist, their estate, or official representatives. General Info 📍 Venue: Petroleum Club of Lafayette 📅 Dates and times: select your dates/times directly in the ticket selector ⏳ Duration: 60 minutes. Doors open 60 minutes before the show. No entry once it starts. 👤 Age requirement: 8 years old or older. Anyone under the age of 16 must be accompanied by an adult ♿ Accessibility: this venue is ADA compliant ❓ View the FAQs for this event here 🪑 Seating is assigned on a first come first served basis in each zone 🕯️ If you would like to book a private concert or buy regular tickets for a large group (+30 people), click here 🎻 Check out all the Candlelight concerts in Lafayette 🎁 To treat your friends and family to a Candlelight gift card, click here Tentative Program Here Comes the Sun - The Beatles Blackbird - The Beatles Help! - The Beatles Come Together - The Beatles Yesterday - The Beatles All You Need Is Love - The Beatles Love of My Life - Queen Another One Bites the Dust - Queen I Want to Break Free - Queen We Are the Champions - Queen We Will Rock You - Queen Radio Ga-Ga - Queen Bohemian Rhapsody - Queen Performers Listeso String Quartet Seating Map",
+"url": "https://happeningnext.com/event/candlelight-queen-vs-the-beatles-eid1afw9lkixe8",
+"image": "https://cdn.happeningnext.com/events8/banners/b942fb20-de84-11f1-a7be-298b5c0ef5b1-rimg-w550-h550-dc480808-gmir.jpg?v=1794480083",
+"source": "Happening Next (Lafayette live music)",
+"alsoOn": [
+"Happening Next (art)",
+"Happening Next (concerts)",
+"Happening Next (music)",
+"Happening Next (performances)"
+],
+"id": "74274b4a8b"
+},
+{
+"title": "Candlelight: Tribute to British Rock Legends | Lafayette",
+"start": "2027-01-22T20:30",
+"end": null,
+"allDay": false,
+"ongoing": false,
+"venue": "PC53 - Petroleum Club of Lafayette",
+"address": "111 Heymann Blvd, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"music"
+],
+"desc": "👉 Tickets https://tinyurl.com/cndl8-tribute-to-queen-and-20\n⭐ Candlelight concerts bring the magic of a live, multi-sensory musical experience to awe-inspiring locations like never seen before in Lafayette. Get your tickets now to discover the music of Queen and The Beatles at Petroleum Club of Lafayette under the gentle glow of candlelight.\nThis is a tribute concert experience. It is not affiliated with, endorsed by, or sponsored by the artist, their estate, or official representatives.\nGeneral Info\n📍 Venue: Petroleum Club of Lafayette\n📅 Dates and times: select your dates/times directly in the ticket selector\n⏳ Duration: 60 minutes. Doors open 60 minutes before the show. No entry once it starts.\n👤 Age requirement: 8 years old or older. Anyone under the age of 16 must be accompanied by an adult\n♿ Accessibility: this venue is ADA compliant\n🪑 Seating is assigned on a first come first served basis in each zone\nTentative Program\n• Here Comes the Sun - The Beatles\n• Blackbird - The Beatles\n• Help! - The Beatles\n• Come Together - The Beatles\n• Yesterday - The Beatles\n• All You Need Is Love - The Beatles\n• Love of My Life - Queen\n• Another One Bites the Dust - Queen\n• I Want to Break Free - Queen\n• We Are the Champions - Queen\n• We Will Rock You - Queen\n• Radio Ga-Ga - Queen\n• Bohemian Rhapsody - Queen\nPerformers\n• Listeso String Quartet\n📣 Please share this event with your friends! 🎶👫",
+"url": "https://happeningnext.com/event/candlelight-tribute-to-british-rock-legends-lafayette-eid3a0dvplpwt",
+"image": "https://dyn-image.allevents.in/generate-image?v=4&title=Candlelight%3A+Tribute+to+British+Rock+Legends+%7C+Lafayette&date=Fri%2C+22+Jan%2C+2027+at+08%3A30+pm&bg=1",
+"source": "Happening Next (Lafayette live music)",
+"alsoOn": [
+"Happening Next (art)",
+"Happening Next (concerts)",
+"Happening Next (music)",
+"Happening Next (performances)"
+],
+"id": "7e2a6c7da8"
 }
 ]
 }

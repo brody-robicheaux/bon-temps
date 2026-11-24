@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-24T01:18:21Z",
+"updated": "2026-11-24T03:00:09Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -79,7 +79,7 @@
 {
 "name": "Happening Next (art)",
 "ok": true,
-"count": 31
+"count": 33
 },
 {
 "name": "Happening Next (exhibitions)",
@@ -1766,6 +1766,7 @@
 "image": "https://cdn.happeningnext.com/events4/banners/5160398dc447cabac5519847683eb9d4449245d366201cccbaa214fe44a77291-rimg-w1200-h628-dc080808-gmir?v=1795356920",
 "source": "Happening Next (performances)",
 "alsoOn": [
+"Happening Next (art)",
 "Happening Next (festivals)",
 "Happening Next (music)",
 "Hideaway on Lee"
@@ -3354,6 +3355,7 @@
 "image": "https://cdn.happeningnext.com/events5/banners/d9a49d8a4ec70251527165d5f689f391d9e46e0b0339f80bd9175680eb3de84e-rimg-w1200-h675-dc683838-gmir?v=1795356916",
 "source": "Happening Next (Lafayette live music)",
 "alsoOn": [
+"Happening Next (art)",
 "Happening Next (concerts)",
 "Happening Next (festivals)",
 "Happening Next (music)",
@@ -4077,7 +4079,7 @@
 ],
 "desc": "Mayrunner, Drive, Doctor! Drive!, and Elle H live at the Loose Caboose for Mayrunner’s curtain call!",
 "url": "https://www.instagram.com/p/DdVA0UoteHz/?cnvx=MWIzNHp5M2IyZzlyZw==",
-"image": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=JqcaSNl7vvAQ7kNvwFTlvaW&_nc_oc=AdqLM1zHR5jICU9GDaev17B9i6W1AJuQ4UDPC4rjXo_WYTeytzUS6k0jvamgVTnNWog&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=4mQtIRLapJINNrzgG9sKjw&_nc_ss=7b30f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQSK2J_ZWkF4Vbyaldpp5SOacbbDCuTVTU0xYw9uinxj6g&oe=6B0AB275",
+"image": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=JqcaSNl7vvAQ7kNvwE5s6Ck&_nc_oc=Adpr2YG3HyBxT9XiYQf8EwspWVFx0q8DFvT-28unZ9PI0ABcy6Oc4HQz-hu1Cb4_u0s&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=ov3yn91Pgeu4NyzfLUfOVw&_nc_ss=7b70f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQSO5G4SDNvGnUX3Sj0BjlUhzt5Lx2fLw4oA1mM75k_DUg&oe=6B0AEAB5",
 "source": "Submitted",
 "id": "213b36c084"
 },

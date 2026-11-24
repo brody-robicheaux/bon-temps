@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-24T03:00:09Z",
+"updated": "2026-11-24T05:17:13Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -44,7 +44,7 @@
 {
 "name": "Happening Next (Lafayette live music)",
 "ok": true,
-"count": 46
+"count": 47
 },
 {
 "name": "Happening Next (theatre)",
@@ -54,7 +54,7 @@
 {
 "name": "Happening Next (performances)",
 "ok": true,
-"count": 53
+"count": 52
 },
 {
 "name": "Happening Next (comedy)",
@@ -69,7 +69,7 @@
 {
 "name": "Happening Next (concerts)",
 "ok": true,
-"count": 30
+"count": 29
 },
 {
 "name": "Happening Next (music)",
@@ -242,7 +242,6 @@
 "alsoOn": [
 "Acadiana Center for the Arts (all events)"
 ],
-"hot": true,
 "id": "d5773c2e0f"
 },
 {
@@ -287,7 +286,6 @@
 "alsoOn": [
 "Acadiana Center for the Arts (all events)"
 ],
-"hot": true,
 "id": "87f8b83e87"
 },
 {
@@ -311,29 +309,6 @@
 "Acadiana Center for the Arts (all events)"
 ],
 "id": "e607e2d6a3"
-},
-{
-"title": "\"This Place\" UL Lafayette Choirs Fall Concert",
-"start": "2026-11-23T19:00",
-"end": null,
-"allDay": false,
-"ongoing": false,
-"venue": "Ducrest/Gilfry Auditorium at Angelle Hall",
-"address": "Lafayette",
-"price": "",
-"free": false,
-"cats": [
-"music"
-],
-"desc": "Join our three choirs as we explore the idea of Home and place. From family to community, from spirituality to belonging, this music is a celebration of what it feels like to be home.",
-"url": "https://happeningnext.com/event/andquotthis-placeandquot-ul-lafayette-choirs-fall-concert-eid3a0e0kld99",
-"image": "https://cdn.happeningnext.com/events5/banners/94fd197bf5300a73d8a3f287fa8d97f8fe4e9d98b0087959fd910d4b81901d43-rimg-w1138-h1106-dc181808-gmir?v=1788716436",
-"source": "Happening Next (Lafayette live music)",
-"alsoOn": [
-"Happening Next (concerts)",
-"Happening Next (performances)"
-],
-"id": "a4cefae2c0"
 },
 {
 "title": "Kate Gordon: Tender Terrain",
@@ -492,7 +467,6 @@
 "source": "Ragin' Cajuns home games",
 "imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
 "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
-"hot": true,
 "id": "5547485764"
 },
 {
@@ -611,7 +585,6 @@
 "url": "https://www.hideawayonlee.com/events/bonsoir-catin-turkey-giveaway-special-show",
 "image": "https://images.squarespace-cdn.com/content/v1/5e5959c0bfd4157aee22bd55/1794768867550-RO1SL72ZXCCUZJPIX76G/884789974_1744985494293322_6294533251426956489_n.jpg",
 "source": "Hideaway on Lee",
-"hot": true,
 "id": "64106f5fcb"
 },
 {
@@ -1764,11 +1737,12 @@
 "desc": "John Buckelew- fiddle and vocals is a Louisiana native and songwriter that learned to play fiddle from James Marvin Choate, whose band The Melody Aces backed rising country stars such as George Jones and Jimmy C. Newman at The Louisiana Hayride in Shreveport, LA. He is from Jonesboro, Louisiana and moved to South Louisiana in the late 70’s where he mentored under Cajun Swing fiddler, Hadley J. Castille and often performed with Hadley and his band The Sharecroppers. He is an original member of NSB and also an original member of the all star Lafayette musicians Western Swing ensemble Stop the Clock Cowboy Jazz.\nDrummer, vocalist Danny Kimball began his performing and recording journey in the mid 60’s with the rock n’ roll of The Bad Roads. For the next five decades his musical road took him through rhythm n’ blues, cajun, zydeco, country blues, Americana roots rock, honky tonk country, and on to the country jazz swing of the Nouveau String Band’s Great American Road Trip. Along the way he has performed with legendary artists Bobby Charles, Jimmy C. Newman, Rufus Thibodeaux, Lightning Hopkins, and Paul Simon among others. His long history with Jazz Fest includes performances with The Red Beans and Rice Revue, Coteau, Sonny Landreth, Marcia Ball, File’, Little Queenie and Backtalk, The Traituers, Hadley Castille and the Sharecroppers, and Paula and the Pontiacs. With the Nouveau String Band Danny provides the backbeat and swing of the groove; “cause it ain’t no thing, if it don’t got that swing!”\nLee Tedrow- guitar and vocals began playing when he was five years old. Lee has been hailed as a “wizard of six string technique” and …. The best slide guitarists in Minnesota with the notable exception of Leo Kottke. He had opened or played with such greats as Willie Dixon, Albert King, Sonny Landreth, The Hawaiian Slack Key Masters and Geno Delafose and French Rocking Boogie.\nDave Trainer- mandolin, fiddle and vocals, began his musical career playing in West Coast Bluegrass bands opening for such notable legends as Ralph Stanley and Bill Monroe. Proficient on fiddle, mandolin, guitar and piano, Dave lives and teaches music in Lafayette, Louisiana and is in demand as a versatile and talented multi instrumentalist.\nJimmie Duhon- upright bass and vocals grew up in a musical family and has been playing since he was eight years old. A music graduate of UL Lafayette, Jimmie has played in many bands throughout his career and plays guitar, bass and French horn. He is known as an experienced and knowledgeable sound engineer and has provided sound for many years at Festival Acadiens et Creole. Jimmie lives in Lafayette and is a proud family man and grandfather.",
 "url": "https://happeningnext.com/event/nouveau-string-band-eid3a0ec643m9",
 "image": "https://cdn.happeningnext.com/events4/banners/5160398dc447cabac5519847683eb9d4449245d366201cccbaa214fe44a77291-rimg-w1200-h628-dc080808-gmir?v=1795356920",
-"source": "Happening Next (performances)",
+"source": "Happening Next (Lafayette live music)",
 "alsoOn": [
 "Happening Next (art)",
 "Happening Next (festivals)",
 "Happening Next (music)",
+"Happening Next (performances)",
 "Hideaway on Lee"
 ],
 "id": "de12670ac4"
@@ -4079,7 +4053,7 @@
 ],
 "desc": "Mayrunner, Drive, Doctor! Drive!, and Elle H live at the Loose Caboose for Mayrunner’s curtain call!",
 "url": "https://www.instagram.com/p/DdVA0UoteHz/?cnvx=MWIzNHp5M2IyZzlyZw==",
-"image": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=JqcaSNl7vvAQ7kNvwHNr0ux&_nc_oc=AdoTDSK5YW1Y_vuWhrPeUwjjk5w_9iwb5I4IKLZZRKpb65xKiTvdtXL7X51dQ3u3HEc&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=rUneWp2f8mqYWA1qEBCPaw&_nc_ss=7b70f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQTQIO8suNVjigl7uIOGf3mJISg29CYKkxaT6RLyHmOGwA&oe=6B0AEAB5",
+"image": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=JqcaSNl7vvAQ7kNvwFXUcbM&_nc_oc=Ado_usevxVC7x70rk-Cvvd8XvtkQ2UMcgubzoAKUv89nUU1RwO4byH1VHqaLGPaPQBU&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=PIzDfHeTCVR8-eIj8jUZUA&_nc_ss=7b70f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQTNg6pMgTkVuKjwScNOBd85JyUFmh6BaQkM3SdROEwCfw&oe=6B0AEAB5",
 "source": "Submitted",
 "id": "213b36c084"
 },
@@ -4971,6 +4945,7 @@
 "image": "https://images.squarespace-cdn.com/content/v1/5e5959c0bfd4157aee22bd55/1789927430139-KXL1Q4LI6ZVNS9LO7WG8/805924360_1692821042843101_6953230594546101094_n.jpg",
 "source": "Hideaway on Lee",
 "alsoOn": [
+"Happening Next (Lafayette live music)",
 "Happening Next (music)"
 ],
 "id": "a3d7d11d8b"

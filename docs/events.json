@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-24T11:01:43Z",
+"updated": "2026-11-24T13:25:21Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -74,7 +74,7 @@
 {
 "name": "Happening Next (music)",
 "ok": true,
-"count": 70
+"count": 76
 },
 {
 "name": "Happening Next (art)",
@@ -817,7 +817,6 @@
 "url": "https://happeningnext.com/event/vibe-25-celebrating-25-years-of-the-blue-moon-eid3a0ec65sk2",
 "image": "https://cdn.happeningnext.com/events1/banners/1b6575efe85e17b5551364dc674d8d98bf290541da0570862cab21b24202b3a9-rimg-w530-h812-dce8b808-gmir?v=1795357730",
 "source": "Happening Next (music)",
-"hot": true,
 "id": "97c6efac74"
 },
 {
@@ -1993,10 +1992,13 @@
 "cats": [
 "music"
 ],
-"desc": "",
-"url": "https://www.hideawayonlee.com/events/nik-parr-the-selfless-lovers-1",
-"image": "https://images.squarespace-cdn.com/content/v1/5e5959c0bfd4157aee22bd55/1795030553659-2SVXMD8BPLUS8HBWVOC4/889839367_1752166650241873_4865865995739926162_n.jpg",
-"source": "Hideaway on Lee",
+"desc": "Nik Parr & The Selfless Lovers",
+"url": "https://happeningnext.com/event/nik-parr-andamp-the-selfless-lovers-eid3a0eci7ghp",
+"image": "https://cdn.happeningnext.com/events7/banners/f1905e700175da0997ac7f91bbde18f74252d416e5bf1f24eab733076cfdc605-rimg-w1200-h675-dc181818-gmir?v=1795494519",
+"source": "Happening Next (music)",
+"alsoOn": [
+"Hideaway on Lee"
+],
 "id": "3500db7739"
 },
 {
@@ -2935,6 +2937,25 @@
 "id": "bd33f6cf07"
 },
 {
+"title": "OPEN MIC STONER ROCK JAM",
+"start": "2026-12-09T20:00",
+"end": "2026-12-09T23:00",
+"allDay": false,
+"ongoing": false,
+"venue": "300 McKinley Street, Lafayette",
+"address": "",
+"price": "",
+"free": false,
+"cats": [
+"music"
+],
+"desc": "JOIN US FOR OUR WEEKLY OPEN JAM!\nHouse drum kit and amps provided, so bring your guitars, cymbals, and pedals, and let's jam!\n\nNo Cover!",
+"url": "https://happeningnext.com/event/open-mic-stoner-rock-jam-eid3a0eci7xwt",
+"image": "https://dyn-image.allevents.in/generate-image?v=4&title=OPEN+MIC+STONER+ROCK+JAM&date=Wed%2C+09+Dec%2C+2026+at+08%3A00+pm&bg=1",
+"source": "Happening Next (music)",
+"id": "26128279c6"
+},
+{
 "title": "Hilliard Society Holiday Party",
 "start": "2026-12-10T00:00",
 "end": "2026-12-10T23:59",
@@ -3788,10 +3809,14 @@
 "cats": [
 "music"
 ],
-"desc": "",
-"url": "https://www.hideawayonlee.com/events/alphonse-ardoin-zydeco-kingz-1-cadkj-shc62-f3aml",
-"image": "https://images.squarespace-cdn.com/content/v1/5e5959c0bfd4157aee22bd55/1774912731994-TWPPA6OD1K0PT3IC2BYH/656431149_1531621428963064_1708108463270663372_n.jpg",
-"source": "Hideaway on Lee",
+"desc": "Alphonse Ardoin & Zydeco Kingz",
+"url": "https://happeningnext.com/event/alphonse-ardoin-andamp-zydeco-kingz-eid3a0eci7fp7",
+"image": "https://cdn.happeningnext.com/events5/banners/6d455f4594a6513fedc8f9875bb890caaf83669cfb25a32409eb0fd116115462-rimg-w1200-h675-dcc8a898-gmir?v=1795494517",
+"source": "Happening Next (music)",
+"alsoOn": [
+"Hideaway on Lee"
+],
+"hot": true,
 "id": "8cf29f0b06"
 },
 {
@@ -4057,7 +4082,7 @@
 ],
 "desc": "Mayrunner, Drive, Doctor! Drive!, and Elle H live at the Loose Caboose for Mayrunner’s curtain call!",
 "url": "https://www.instagram.com/p/DdVA0UoteHz/?cnvx=MWIzNHp5M2IyZzlyZw==",
-"image": "https://scontent-sea5-2.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=JqcaSNl7vvAQ7kNvwF5EnCL&_nc_oc=AdpBHco2aGsxiyo7ddwSi1ZM5lI9dcJnfwSioYP_jqYrmomfq4BSzg9TA43qxJlbo98&_nc_zt=23&_nc_ht=scontent-sea5-2.cdninstagram.com&_nc_gid=C6iEGsGy2byG8K0wIB4rvg&_nc_ss=7b70f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQTx1vjsKmzspxTWICeovpt_16Uie2G2Q5r3Muqto7Acag&oe=6B0B5B35",
+"image": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=JqcaSNl7vvAQ7kNvwFAPw5y&_nc_oc=AdqOyjSm-SGtTe5bEpJCRwvcdr3JndmYDaCacFEsqY8S16bvDRBfzQFqOGqBlljNVJs&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=T2XA3a3aVf5JSB8A40XS4w&_nc_ss=7b70f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQ8uOMsWukwCvtVS3xpTWSUDvYGvIKv74Z0UuCvDd-sPA&oe=6B0B5B35",
 "source": "Submitted",
 "id": "213b36c084"
 },
@@ -5102,6 +5127,25 @@
 "id": "cc37ff3044"
 },
 {
+"title": "OPEN MIC STONER ROCK JAM",
+"start": "2026-12-23T20:00",
+"end": "2026-12-23T23:00",
+"allDay": false,
+"ongoing": false,
+"venue": "300 McKinley Street, Lafayette",
+"address": "",
+"price": "",
+"free": false,
+"cats": [
+"music"
+],
+"desc": "JOIN US FOR OUR WEEKLY OPEN JAM!\nHouse drum kit and amps provided, so bring your guitars, cymbals, and pedals, and let's jam!\n\nNo Cover!",
+"url": "https://happeningnext.com/event/open-mic-stoner-rock-jam-eid3a0eci8t53",
+"image": "https://dyn-image.allevents.in/generate-image?v=4&title=OPEN+MIC+STONER+ROCK+JAM&date=Wed%2C+23+Dec%2C+2026+at+08%3A00+pm&bg=2",
+"source": "Happening Next (music)",
+"id": "acba5bd2a0"
+},
+{
 "title": "Z-ro live in concert Christmas Night at Grant Street",
 "start": "2026-12-25T21:00",
 "end": "2026-12-26T02:00",
@@ -5266,6 +5310,25 @@
 "image": "https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54756026/Cajun%20Jam_L9F2.png",
 "source": "Blue Moon Saloon",
 "id": "f70e8583a3"
+},
+{
+"title": "OPEN MIC STONER ROCK JAM",
+"start": "2026-12-30T20:00",
+"end": "2026-12-30T23:00",
+"allDay": false,
+"ongoing": false,
+"venue": "300 McKinley Street, Lafayette",
+"address": "",
+"price": "",
+"free": false,
+"cats": [
+"music"
+],
+"desc": "JOIN US FOR OUR WEEKLY OPEN JAM!\nHouse drum kit and amps provided, so bring your guitars, cymbals, and pedals, and let's jam!\n\nNo Cover!",
+"url": "https://happeningnext.com/event/open-mic-stoner-rock-jam-eid3a0eci96ch",
+"image": "https://dyn-image.allevents.in/generate-image?v=4&title=OPEN+MIC+STONER+ROCK+JAM&date=Wed%2C+30+Dec%2C+2026+at+08%3A00+pm&bg=5",
+"source": "Happening Next (music)",
+"id": "3f4ffb27d8"
 },
 {
 "title": "New Year's Noon Carnival and Countdown",
@@ -5895,6 +5958,26 @@
 "image": "https://static.wixstatic.com/media/62d2c2_9af69d489525450587f61416748f3f06~mv2.jpeg/v1/fill/w_480,h_640,al_c,q_80/62d2c2_9af69d489525450587f61416748f3f06~mv2.jpeg",
 "source": "Cité des Arts",
 "id": "cc02ce3637"
+},
+{
+"title": "2027 Festival de la Vie",
+"start": "2027-01-16T10:00",
+"end": null,
+"allDay": false,
+"ongoing": false,
+"venue": "Parc Sans Souci",
+"address": "201 E Vermilion St, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"community"
+],
+"desc": "",
+"url": "https://happeningnext.com/event/2027-festival-de-la-vie-eid3a0ecgd829",
+"image": "https://cdn.happeningnext.com/events9/banners/1448a87c8bad1a997d5c921f08ad4ee3b5f44379ab41ee875e9e95a81b27ee38-rimg-w1200-h857-dcf8f8f8-gmir?v=1795481057",
+"source": "Happening Next (music)",
+"hot": true,
+"id": "0847fd4427"
 },
 {
 "title": "Ragin' Cajuns Women's Basketball vs South Alabama",

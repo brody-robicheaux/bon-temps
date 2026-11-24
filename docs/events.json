@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-24T13:25:21Z",
+"updated": "2026-11-24T15:11:16Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -79,7 +79,7 @@
 {
 "name": "Happening Next (art)",
 "ok": true,
-"count": 36
+"count": 38
 },
 {
 "name": "Happening Next (exhibitions)",
@@ -262,9 +262,6 @@
 "url": "https://acadianacenterforthearts.org/kate-gordon/?occurrence=2026-11-24",
 "image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/11/King_Kate-Gordon-1.jpg",
 "source": "Acadiana Center for the Arts",
-"alsoOn": [
-"Acadiana Center for the Arts (all events)"
-],
 "id": "23ee0e5910"
 },
 {
@@ -471,6 +468,25 @@
 "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
 "hot": true,
 "id": "5547485764"
+},
+{
+"title": "Kate Gordon: Tender Terrain",
+"start": "2026-11-25T09:00",
+"end": "2026-11-25T17:00",
+"allDay": false,
+"ongoing": false,
+"venue": "Acadiana Center for the Arts",
+"address": "",
+"price": "Free",
+"free": true,
+"cats": [
+"arts"
+],
+"desc": "",
+"url": "https://acadianacenterforthearts.org/kate-gordon/?occurrence=2026-11-25",
+"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/11/King_Kate-Gordon-1.jpg",
+"source": "Acadiana Center for the Arts (all events)",
+"id": "dc2aba12c4"
 },
 {
 "title": "HIT Tennis",
@@ -1473,6 +1489,9 @@
 "url": "https://hilliardartmuseum.org/event/museum-makers-portraits-in-blue-an-introduction-to-cyanotype-photography/",
 "image": "https://hilliardartmuseum.org/wp-content/uploads/2026/11/HAM_MuseumMakers_WebsiteFeature.webp",
 "source": "Hilliard Art Museum",
+"alsoOn": [
+"Happening Next (art)"
+],
 "id": "c5a0413100"
 },
 {
@@ -4082,7 +4101,7 @@
 ],
 "desc": "Mayrunner, Drive, Doctor! Drive!, and Elle H live at the Loose Caboose for Mayrunner’s curtain call!",
 "url": "https://www.instagram.com/p/DdVA0UoteHz/?cnvx=MWIzNHp5M2IyZzlyZw==",
-"image": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=JqcaSNl7vvAQ7kNvwHxPsKg&_nc_oc=Adpsn_9vCJVqD7lYeG_MHHkw-h1UBSHHPJ269TP5dGz8qJeRc9Gke4xJXBiiDAt7gVE&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=arGHeWO5UR-YSRPpZ8t1bg&_nc_ss=7b70f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQSuPb7E2f8Z8IVDGO8i9tqh6jYYNOj44A-4da4-cJ-YEw&oe=6B0B5B35",
+"image": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=JqcaSNl7vvAQ7kNvwFbMKIR&_nc_oc=AdqDIXLelBlFFnu-eHQb_iyZDe6BJplDAYka1hsR5UzTEHY7PD8Jg1Dny84GC0Q6JG8&_nc_zt=23&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_gid=md6D3WJmaoLhElYvQYkzHQ&_nc_ss=7b70f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQsrWSsI1NOdiuZAMrg_1QN9uvFZP0eSbsSvsjNtz_uuA&oe=6B0B9375",
 "source": "Submitted",
 "id": "213b36c084"
 },
@@ -4797,6 +4816,7 @@
 "source": "Hideaway on Lee",
 "alsoOn": [
 "Happening Next (Lafayette live music)",
+"Happening Next (art)",
 "Happening Next (music)",
 "Happening Next (performances)"
 ],

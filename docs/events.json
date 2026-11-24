@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-24T17:13:15Z",
+"updated": "2026-11-24T19:08:12Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -44,7 +44,7 @@
 {
 "name": "Happening Next (Lafayette live music)",
 "ok": true,
-"count": 51
+"count": 58
 },
 {
 "name": "Happening Next (theatre)",
@@ -54,7 +54,7 @@
 {
 "name": "Happening Next (performances)",
 "ok": true,
-"count": 56
+"count": 58
 },
 {
 "name": "Happening Next (comedy)",
@@ -64,12 +64,12 @@
 {
 "name": "Happening Next (dance)",
 "ok": true,
-"count": 15
+"count": 16
 },
 {
 "name": "Happening Next (concerts)",
 "ok": true,
-"count": 33
+"count": 34
 },
 {
 "name": "Happening Next (music)",
@@ -94,7 +94,7 @@
 {
 "name": "Happening Next (health wellness)",
 "ok": true,
-"count": 17
+"count": 19
 },
 {
 "name": "Happening Next (fitness)",
@@ -673,6 +673,25 @@
 "id": "d8ea2e0cf8"
 },
 {
+"title": "OPEN MIC STONER ROCK JAM",
+"start": "2026-11-25T20:00",
+"end": "2026-11-25T23:00",
+"allDay": false,
+"ongoing": false,
+"venue": "300 McKinley Street, Lafayette",
+"address": "",
+"price": "",
+"free": false,
+"cats": [
+"music"
+],
+"desc": "JOIN US FOR OUR WEEKLY OPEN JAM!\nHouse drum kit and amps provided, so bring your guitars, cymbals, and pedals, and let's jam!\n\nNo Cover!",
+"url": "https://happeningnext.com/event/open-mic-stoner-rock-jam-eid3a0eci7gnl",
+"image": "https://dyn-image.allevents.in/generate-image?v=4&title=OPEN+MIC+STONER+ROCK+JAM&date=Wed%2C+25+Nov%2C+2026+at+08%3A00+pm&bg=5",
+"source": "Happening Next (Lafayette live music)",
+"id": "53b403fa39"
+},
+{
 "title": "Community Thanksgiving Dinner – Free Meal & Delivery Available",
 "start": "2026-11-26T00:00",
 "end": null,
@@ -1164,6 +1183,7 @@
 "image": "https://cdn.happeningnext.com/events1/banners/d3b00c4395ec316f7685b12740e6abd289d1f25ff7922f604e15e51a37fcc494-rimg-w960-h540-dc080808-gmir?v=1795427332",
 "source": "Happening Next (performances)",
 "alsoOn": [
+"Happening Next (health wellness)",
 "Happening Next (music)",
 "Hideaway on Lee"
 ],
@@ -1621,6 +1641,28 @@
 "id": "bc3ee80ca6"
 },
 {
+"title": "OPEN MIC STONER ROCK JAM",
+"start": "2026-12-02T20:00",
+"end": "2026-12-02T23:00",
+"allDay": false,
+"ongoing": false,
+"venue": "300 McKinley Street, Lafayette",
+"address": "",
+"price": "",
+"free": false,
+"cats": [
+"music"
+],
+"desc": "JOIN US FOR OUR WEEKLY OPEN JAM!\nHouse drum kit and amps provided, so bring your guitars, cymbals, and pedals, and let's jam!\n\nNo Cover!",
+"url": "https://happeningnext.com/event/open-mic-stoner-rock-jam-eid3a0eci7p7v",
+"image": "https://dyn-image.allevents.in/generate-image?v=4&title=OPEN+MIC+STONER+ROCK+JAM&date=Wed%2C+02+Dec%2C+2026+at+08%3A00+pm&bg=5",
+"source": "Happening Next (Lafayette live music)",
+"alsoOn": [
+"Happening Next (performances)"
+],
+"id": "6939e367d9"
+},
+{
 "title": "Coffee with the Wedding Krewe | Lafayette, LA (December 2026)",
 "start": "2026-12-03T00:00",
 "end": "2026-12-03T11:30",
@@ -2014,8 +2056,10 @@
 "desc": "Nik Parr & The Selfless Lovers",
 "url": "https://happeningnext.com/event/nik-parr-andamp-the-selfless-lovers-eid3a0eci7ghp",
 "image": "https://cdn.happeningnext.com/events7/banners/f1905e700175da0997ac7f91bbde18f74252d416e5bf1f24eab733076cfdc605-rimg-w1200-h675-dc181818-gmir?v=1795494519",
-"source": "Happening Next (music)",
+"source": "Happening Next (Lafayette live music)",
 "alsoOn": [
+"Happening Next (concerts)",
+"Happening Next (music)",
 "Hideaway on Lee"
 ],
 "id": "3500db7739"
@@ -2971,7 +3015,11 @@
 "desc": "JOIN US FOR OUR WEEKLY OPEN JAM!\nHouse drum kit and amps provided, so bring your guitars, cymbals, and pedals, and let's jam!\n\nNo Cover!",
 "url": "https://happeningnext.com/event/open-mic-stoner-rock-jam-eid3a0eci7xwt",
 "image": "https://dyn-image.allevents.in/generate-image?v=4&title=OPEN+MIC+STONER+ROCK+JAM&date=Wed%2C+09+Dec%2C+2026+at+08%3A00+pm&bg=1",
-"source": "Happening Next (music)",
+"source": "Happening Next (Lafayette live music)",
+"alsoOn": [
+"Happening Next (music)",
+"Happening Next (performances)"
+],
 "id": "26128279c6"
 },
 {
@@ -3831,8 +3879,9 @@
 "desc": "Alphonse Ardoin & Zydeco Kingz",
 "url": "https://happeningnext.com/event/alphonse-ardoin-andamp-zydeco-kingz-eid3a0eci7fp7",
 "image": "https://cdn.happeningnext.com/events5/banners/6d455f4594a6513fedc8f9875bb890caaf83669cfb25a32409eb0fd116115462-rimg-w1200-h675-dcc8a898-gmir?v=1795494517",
-"source": "Happening Next (music)",
+"source": "Happening Next (Lafayette live music)",
 "alsoOn": [
+"Happening Next (music)",
 "Hideaway on Lee"
 ],
 "hot": true,
@@ -4101,7 +4150,7 @@
 ],
 "desc": "Mayrunner, Drive, Doctor! Drive!, and Elle H live at the Loose Caboose for Mayrunner’s curtain call!",
 "url": "https://www.instagram.com/p/DdVA0UoteHz/?cnvx=MWIzNHp5M2IyZzlyZw==",
-"image": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=JqcaSNl7vvAQ7kNvwHkLk3C&_nc_oc=Adp42YHcfdhCQtaaXZqNQOD_ejwGyNcqDcDPzGeWfjIxj4GW4F3Q3XJrcIuML7qGSBI&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=AYTKNxnA1mPLlZ6akgRDFg&_nc_ss=7b70f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQTjg4ZUF7-s9I07hUnX1E5SdtdvoxYCx6uWzxQBWWoAhA&oe=6B0B9375",
+"image": "https://scontent-sea5-2.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=JqcaSNl7vvAQ7kNvwHef7GD&_nc_oc=Adra9VGtPjkYd8DNAQFjSUSwDazubvdWsouSfb7nkkcgD-jIi22EwdK61cwz8wJ2Xno&_nc_zt=23&_nc_ht=scontent-sea5-2.cdninstagram.com&_nc_gid=DizICTcEKGQHbLYBvP6hzQ&_nc_ss=7b70f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQRewFCbEKubIXCNYqgsF50iktPKMx1brbQ0Lcyej7Wt9w&oe=6B0BCBB5",
 "source": "Submitted",
 "id": "213b36c084"
 },
@@ -4342,6 +4391,25 @@
 "image": "https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54756026/Cajun%20Jam_L9F2.png",
 "source": "Blue Moon Saloon",
 "id": "64ca9f440c"
+},
+{
+"title": "OPEN MIC STONER ROCK JAM",
+"start": "2026-12-16T20:00",
+"end": "2026-12-16T23:00",
+"allDay": false,
+"ongoing": false,
+"venue": "300 McKinley Street, Lafayette",
+"address": "",
+"price": "",
+"free": false,
+"cats": [
+"music"
+],
+"desc": "JOIN US FOR OUR WEEKLY OPEN JAM!\nHouse drum kit and amps provided, so bring your guitars, cymbals, and pedals, and let's jam!\n\nNo Cover!",
+"url": "https://happeningnext.com/event/open-mic-stoner-rock-jam-eid3a0eci8fj7",
+"image": "https://dyn-image.allevents.in/generate-image?v=4&title=OPEN+MIC+STONER+ROCK+JAM&date=Wed%2C+16+Dec%2C+2026+at+08%3A00+pm&bg=3",
+"source": "Happening Next (Lafayette live music)",
+"id": "0c96b72d47"
 },
 {
 "title": "Sparkle & Drip Gingerbread House Decorating",
@@ -4817,6 +4885,7 @@
 "alsoOn": [
 "Happening Next (Lafayette live music)",
 "Happening Next (art)",
+"Happening Next (dance)",
 "Happening Next (music)",
 "Happening Next (performances)"
 ],
@@ -5347,7 +5416,10 @@
 "desc": "JOIN US FOR OUR WEEKLY OPEN JAM!\nHouse drum kit and amps provided, so bring your guitars, cymbals, and pedals, and let's jam!\n\nNo Cover!",
 "url": "https://happeningnext.com/event/open-mic-stoner-rock-jam-eid3a0eci96ch",
 "image": "https://dyn-image.allevents.in/generate-image?v=4&title=OPEN+MIC+STONER+ROCK+JAM&date=Wed%2C+30+Dec%2C+2026+at+08%3A00+pm&bg=5",
-"source": "Happening Next (music)",
+"source": "Happening Next (Lafayette live music)",
+"alsoOn": [
+"Happening Next (music)"
+],
 "id": "3f4ffb27d8"
 },
 {

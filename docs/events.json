@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-23T23:00:32Z",
+"updated": "2026-11-24T01:18:21Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -74,7 +74,7 @@
 {
 "name": "Happening Next (music)",
 "ok": true,
-"count": 65
+"count": 66
 },
 {
 "name": "Happening Next (art)",
@@ -246,25 +246,6 @@
 "id": "d5773c2e0f"
 },
 {
-"title": "Kate Gordon: Tender Terrain",
-"start": "2026-11-23T09:00",
-"end": "2026-11-23T17:00",
-"allDay": false,
-"ongoing": false,
-"venue": "Acadiana Center for the Arts",
-"address": "",
-"price": "Free",
-"free": true,
-"cats": [
-"arts"
-],
-"desc": "",
-"url": "https://acadianacenterforthearts.org/kate-gordon/?occurrence=2026-11-23",
-"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/11/King_Kate-Gordon-1.jpg",
-"source": "Acadiana Center for the Arts",
-"id": "f837b93ee6"
-},
-{
 "title": "Philip Gould: A Selection of Works",
 "start": "2026-11-23T09:00",
 "end": "2026-11-28T17:00",
@@ -350,7 +331,6 @@
 "source": "Happening Next (Lafayette live music)",
 "alsoOn": [
 "Happening Next (concerts)",
-"Happening Next (music)",
 "Happening Next (performances)"
 ],
 "id": "a4cefae2c0"
@@ -371,7 +351,10 @@
 "desc": "",
 "url": "https://acadianacenterforthearts.org/kate-gordon/?occurrence=2026-11-24",
 "image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/11/King_Kate-Gordon-1.jpg",
-"source": "Acadiana Center for the Arts (all events)",
+"source": "Acadiana Center for the Arts",
+"alsoOn": [
+"Acadiana Center for the Arts (all events)"
+],
 "id": "23ee0e5910"
 },
 {
@@ -3849,6 +3832,9 @@
 "url": "https://happeningnext.com/event/nik-l-beer-rocknbowl-de-lafayette-eid3a0ec65q56",
 "image": "https://cdn.happeningnext.com/events4/banners/1f242155142bbd4ad950068c09340f32cc1a90ec9d67a9bb747a61441e8e65e6-rimg-w1200-h628-dc080818-gmir?v=1795357652",
 "source": "Happening Next (Lafayette live music)",
+"alsoOn": [
+"Happening Next (music)"
+],
 "id": "e781ae1be0"
 },
 {
@@ -4008,6 +3994,9 @@
 "url": "https://happeningnext.com/event/sounds-of-the-season-eid3a0ec643v4",
 "image": "https://cdn.happeningnext.com/events2/banners/99841b079339c1a2159bebf906c4cedba37618d1426c67ad101063624d5ef149-rimg-w1200-h797-dc080808-gmir?v=1795356922",
 "source": "Happening Next (concerts)",
+"alsoOn": [
+"Happening Next (music)"
+],
 "id": "1888e105c5"
 },
 {
@@ -4088,7 +4077,7 @@
 ],
 "desc": "Mayrunner, Drive, Doctor! Drive!, and Elle H live at the Loose Caboose for Mayrunner’s curtain call!",
 "url": "https://www.instagram.com/p/DdVA0UoteHz/?cnvx=MWIzNHp5M2IyZzlyZw==",
-"image": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=JqcaSNl7vvAQ7kNvwE6_uym&_nc_oc=Adr1_UgPr3Ff67fBqRaIAX1qIO7FjJwYaEDvaaj894LhxgweTSBNo0wNNhOiX9PmUOk&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=LOFjHdUlCr_QBApxy2LdMg&_nc_ss=7b60f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQTyoc2bHkcyyxLSn3r0pZHJOYLuVuKo1XnWg29z8hUVTw&oe=6B0AB275",
+"image": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=JqcaSNl7vvAQ7kNvwEqojov&_nc_oc=Adr3kK4rLvCiokiY6yQrGfkTv9Uk0saA-LfDU6v0ilsLDC0LSb4_LmuYBiB0VTCJtYM&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=4Pz4y3fmzg98PKH-HtfCaA&_nc_ss=7b60f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQZ_69TSzCYw15bzSYpWVKZt-v6GcS5RneZHhJK7HN_-g&oe=6B0AB275",
 "source": "Submitted",
 "id": "213b36c084"
 },

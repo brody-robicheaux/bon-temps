@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-24T09:16:58Z",
+"updated": "2026-11-24T11:01:43Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -242,6 +242,7 @@
 "alsoOn": [
 "Acadiana Center for the Arts (all events)"
 ],
+"hot": true,
 "id": "d5773c2e0f"
 },
 {
@@ -308,6 +309,7 @@
 "alsoOn": [
 "Acadiana Center for the Arts (all events)"
 ],
+"hot": true,
 "id": "87f8b83e87"
 },
 {
@@ -467,6 +469,7 @@
 "source": "Ragin' Cajuns home games",
 "imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
 "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
+"hot": true,
 "id": "5547485764"
 },
 {
@@ -585,6 +588,7 @@
 "url": "https://www.hideawayonlee.com/events/bonsoir-catin-turkey-giveaway-special-show",
 "image": "https://images.squarespace-cdn.com/content/v1/5e5959c0bfd4157aee22bd55/1794768867550-RO1SL72ZXCCUZJPIX76G/884789974_1744985494293322_6294533251426956489_n.jpg",
 "source": "Hideaway on Lee",
+"hot": true,
 "id": "64106f5fcb"
 },
 {
@@ -4053,7 +4057,7 @@
 ],
 "desc": "Mayrunner, Drive, Doctor! Drive!, and Elle H live at the Loose Caboose for Mayrunner’s curtain call!",
 "url": "https://www.instagram.com/p/DdVA0UoteHz/?cnvx=MWIzNHp5M2IyZzlyZw==",
-"image": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=JqcaSNl7vvAQ7kNvwGViiY4&_nc_oc=AdpArBjP3lGYLOz_rzUnpMnXXtx3ewsZqVBoEQ-t5hQlOxmnC2O-DA7X9vuQBbQn38M&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=tKUh6OAQB47aJULYNod8hA&_nc_ss=7b70f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQTjMjsI3ux72WtlZX9iw3gqvgAMjNZwOaaSsQT8n57c1g&oe=6B0B22F5",
+"image": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=JqcaSNl7vvAQ7kNvwHnHBKJ&_nc_oc=AdqHXxCBi__94WYCMYC0wfTkvZnd2hgaZ6UoU4axk-B8aaigsVuT1F_f5LdxawnPAL8&_nc_zt=23&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_gid=LI3cxLYuqFkxUNZOkb6slg&_nc_ss=7b70f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQRyqdnp3Lc8d6H9KLcDqtNpYVdsrGgD16V8m5WMG9ylrw&oe=6B0B5B35",
 "source": "Submitted",
 "id": "213b36c084"
 },

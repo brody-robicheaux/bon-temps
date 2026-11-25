@@ -1,10 +1,10 @@
 {
-"updated": "2026-11-25T19:00:30Z",
+"updated": "2026-11-25T21:08:14Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
 "ok": true,
-"count": 4
+"count": 5
 },
 {
 "name": "Acadiana Center for the Arts",
@@ -89,12 +89,12 @@
 {
 "name": "Happening Next (food & drinks)",
 "ok": true,
-"count": 28
+"count": 29
 },
 {
 "name": "Happening Next (health wellness)",
 "ok": true,
-"count": 17
+"count": 20
 },
 {
 "name": "Happening Next (fitness)",
@@ -354,6 +354,25 @@
 "Happening Next (performances)"
 ],
 "id": "e88562ce05"
+},
+{
+"title": "Thanksgiving Food Giveaway at New Beginnings",
+"start": "2026-11-25T12:00",
+"end": null,
+"allDay": false,
+"ongoing": false,
+"venue": "1914 Cameron Street, Lafayette",
+"address": "",
+"price": "",
+"free": false,
+"cats": [
+"food"
+],
+"desc": "Thanksgiving Food Giveaway! Wed Nov 25th at 12 Noon!",
+"url": "https://happeningnext.com/event/thanksgiving-food-giveaway-at-new-beginnings-eid3a0ecq115b",
+"image": "https://cdn.happeningnext.com/events6/banners/957210016476df28c2989773fac6f239329f9ebf7f36bffc1f9aa0960f786a27-rimg-w1200-h1553-dcf8f8f8-gmir?v=1795592141",
+"source": "Happening Next (food & drinks)",
+"id": "613730f00c"
 },
 {
 "title": "Camellia Crossing: Acadiana’s Gleaux Run",
@@ -1359,6 +1378,25 @@
 "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy8wMWEwYmRjNjMyM2E5ZjkwOGY1MTg4ZDAwMDUxNDRkNzlhMDRlM2ZmMTBkNzUzZmNmNjc1ODM1NTczNjZiMTUyLXJpbWctdzEyMDAtaDM3Ni1kY2U4ZThlOC1nbWlyP3Y9MTc5NTQ5NDUxOA.avif",
 "source": "Happening Next (art)",
 "id": "c5a0413100"
+},
+{
+"title": "Museum Makers: Exploring Cyanotype Through Nature",
+"start": "2026-12-02T17:00",
+"end": "2026-12-02T20:00",
+"allDay": false,
+"ongoing": false,
+"venue": "Hilliard Art Museum",
+"address": "710 E St Mary Blvd, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"arts"
+],
+"desc": "Explore cyanotype, a historic photographic process distinguished by its rich blue tones, in a hands-on workshop with artist Jeni Battaglia Guidry . Using leaves, flowers, and found objects, participants will experiment with composition, texture, and silhouette to create blue-and-white prints through exposure to UV light. Finished prints will become handmade greeting cards or bookmarks to keep or give.\n\nNo previous art experience is necessary. All supplies are included.\n\nMember Rate: $65 per person\n\nNon-Member Rate: $75 per person\n\nAdvance registration is required, as space is limited.",
+"url": "https://hilliardartmuseum.org/event/museum-makers-exploring-cyanotype-through-nature/",
+"image": "https://hilliardartmuseum.org/wp-content/uploads/2026/11/Hero-Image.-July-23-2026-Workshop-2026-94.webp",
+"source": "Hilliard Art Museum",
+"id": "829ab1a623"
 },
 {
 "title": "Noël Acadien au Village",
@@ -4999,6 +5037,25 @@
 "id": "80d47c3a49"
 },
 {
+"title": "🎾 Cardio Tennis 🎾",
+"start": "2026-12-22T18:00",
+"end": "2026-12-22T19:00",
+"allDay": false,
+"ongoing": false,
+"venue": "City Club at River Ranch",
+"address": "1100 Camellia Blvd, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"sports"
+],
+"desc": "*Member Only Event*\nJoin us every Tuesday from 6:00–7:00 PM for Cardio Tennis, a complimentary group tennis clinic designed for all skill levels! Set to upbeat music, this high-energy class combines repetition drills, match play, and cardio for a fun workout on the courts.\nWhether you’re looking to improve your game, break a sweat, or just have fun with friends, Cardio Tennis is a great way to spend your Tuesday evening.\n✨ All levels welcome\n🎶 Upbeat music & energetic atmosphere\n💪 Cardio + tennis drills + match play\n📍 Meet at the City Club at River Ranch tennis courts\n✅ No sign up necessary\nJust show up ready to play! 🎾",
+"url": "https://happeningnext.com/event/cardio-tennis-eid3a0ecta5mw",
+"image": "https://cdn.happeningnext.com/events4/banners/d419c7c1ee0156473a3ff0f0c1a0130ee9cca00c53d8677060b1e6215716474e-rimg-w960-h540-dcd8c8b8-gmir?v=1795602008",
+"source": "Happening Next (health wellness)",
+"id": "2dbefa42eb"
+},
+{
 "title": "The Collaboratory Open Jam Night",
 "start": "2026-12-22T20:00",
 "end": null,
@@ -5436,6 +5493,25 @@
 "Happening Next (performances)"
 ],
 "id": "a713981777"
+},
+{
+"title": "🎾 Cardio Tennis 🎾",
+"start": "2027-01-05T18:00",
+"end": "2027-01-05T19:00",
+"allDay": false,
+"ongoing": false,
+"venue": "City Club at River Ranch",
+"address": "1100 Camellia Blvd, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"sports"
+],
+"desc": "*Member Only Event*\nJoin us every Tuesday from 6:00–7:00 PM for Cardio Tennis, a complimentary group tennis clinic designed for all skill levels! Set to upbeat music, this high-energy class combines repetition drills, match play, and cardio for a fun workout on the courts.\nWhether you’re looking to improve your game, break a sweat, or just have fun with friends, Cardio Tennis is a great way to spend your Tuesday evening.\n✨ All levels welcome\n🎶 Upbeat music & energetic atmosphere\n💪 Cardio + tennis drills + match play\n📍 Meet at the City Club at River Ranch tennis courts\n✅ No sign up necessary\nJust show up ready to play! 🎾",
+"url": "https://happeningnext.com/event/cardio-tennis-eid3a0ecta78c",
+"image": "https://cdn.happeningnext.com/events2/banners/f49b77b6cf55f4680428fc6bc675843d4936ad9d3c7979d8953c5a7e48714453-rimg-w960-h540-dcd8c8b8-gmir?v=1795602024",
+"source": "Happening Next (health wellness)",
+"id": "628b2ee34e"
 },
 {
 "title": "Mid-Winter Fair Rodeo",

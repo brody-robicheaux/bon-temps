@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-25T05:19:47Z",
+"updated": "2026-11-25T07:31:19Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -19,12 +19,12 @@
 {
 "name": "Moncus Park",
 "ok": true,
-"count": 9
+"count": 8
 },
 {
 "name": "Lafayette Travel",
 "ok": true,
-"count": 18
+"count": 19
 },
 {
 "name": "Heymann Performing Arts Center",
@@ -34,7 +34,7 @@
 {
 "name": "Downtown Lafayette",
 "ok": true,
-"count": 8
+"count": 7
 },
 {
 "name": "Hideaway on Lee",
@@ -44,7 +44,7 @@
 {
 "name": "Happening Next (Lafayette live music)",
 "ok": true,
-"count": 58
+"count": 59
 },
 {
 "name": "Happening Next (theatre)",
@@ -54,7 +54,7 @@
 {
 "name": "Happening Next (performances)",
 "ok": true,
-"count": 58
+"count": 60
 },
 {
 "name": "Happening Next (comedy)",
@@ -64,7 +64,7 @@
 {
 "name": "Happening Next (dance)",
 "ok": true,
-"count": 16
+"count": 17
 },
 {
 "name": "Happening Next (concerts)",
@@ -74,12 +74,12 @@
 {
 "name": "Happening Next (music)",
 "ok": true,
-"count": 75
+"count": 76
 },
 {
 "name": "Happening Next (art)",
 "ok": true,
-"count": 38
+"count": 42
 },
 {
 "name": "Happening Next (exhibitions)",
@@ -94,7 +94,7 @@
 {
 "name": "Happening Next (health wellness)",
 "ok": true,
-"count": 19
+"count": 17
 },
 {
 "name": "Happening Next (fitness)",
@@ -104,12 +104,12 @@
 {
 "name": "Happening Next (festivals)",
 "ok": true,
-"count": 13
+"count": 15
 },
 {
 "name": "Cité des Arts",
 "ok": true,
-"count": 13
+"count": 14
 },
 {
 "name": "Lafayette city government",
@@ -150,7 +150,7 @@
 {
 "name": "Blue Moon Saloon",
 "ok": true,
-"count": 33
+"count": 32
 },
 {
 "name": "Wonderland Performing Arts",
@@ -184,25 +184,6 @@
 "id": "2bc6311c38"
 },
 {
-"title": "Guided Meditation - Jenni",
-"start": "2026-11-20T16:00",
-"end": "2026-11-24T16:30",
-"allDay": false,
-"ongoing": true,
-"venue": "Paths to Restoration",
-"address": "107 Montrose Ave, Lafayette",
-"price": "",
-"free": false,
-"cats": [
-"wellness"
-],
-"desc": "This class offers a guided experience to slow down, quiet the mind, and reconnect with yourself through breath,\nreflection, stillness, and nature-inspired meditation.",
-"url": "https://happeningnext.com/event/guided-meditation-jenni-eid3a0ebra8x1",
-"image": "https://cdn.happeningnext.com/events3/banners/84cdff9238978ae1355512514674bd599d9d8aa1dd68cba91783c8d507633648-rimg-w960-h540-dc080808-gmir?v=1795101023",
-"source": "Happening Next (health wellness)",
-"id": "9c7a50f827"
-},
-{
 "title": "Miracle on Jefferson St",
 "start": "2026-11-21T16:30",
 "end": "2026-12-31T23:00",
@@ -224,7 +205,7 @@
 },
 {
 "title": "Artists’ Alliance",
-"start": "2026-11-24T09:00",
+"start": "2026-11-25T09:00",
 "end": "2027-01-09T17:00",
 "allDay": false,
 "ongoing": true,
@@ -236,7 +217,7 @@
 "arts"
 ],
 "desc": "",
-"url": "https://acadianacenterforthearts.org/artists-alliance/?occurrence=2026-11-24",
+"url": "https://acadianacenterforthearts.org/artists-alliance/?occurrence=2026-11-25",
 "image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/08/Spring-Summer-Fall-and-Winter-Light-2026-oil-on-canvas-24_-x-36_.jpeg",
 "source": "Acadiana Center for the Arts",
 "alsoOn": [
@@ -244,192 +225,6 @@
 ],
 "hot": true,
 "id": "d5773c2e0f"
-},
-{
-"title": "Philip Gould: A Selection of Works",
-"start": "2026-11-24T09:00",
-"end": "2026-11-28T17:00",
-"allDay": false,
-"ongoing": true,
-"venue": "Acadiana Center for the Arts",
-"address": "",
-"price": "Free",
-"free": true,
-"cats": [
-"arts"
-],
-"desc": "",
-"url": "https://acadianacenterforthearts.org/philip-gould-2026?occurrence=2026-11-24",
-"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/11/GouldHeader.jpg",
-"source": "Acadiana Center for the Arts",
-"alsoOn": [
-"Acadiana Center for the Arts (all events)"
-],
-"id": "c7f5af1cb0"
-},
-{
-"title": "Sebastian Lodrige: Burden | Artificial & Natural",
-"start": "2026-11-24T09:00",
-"end": "2026-12-23T17:00",
-"allDay": false,
-"ongoing": true,
-"venue": "Acadiana Center for the Arts",
-"address": "",
-"price": "Free",
-"free": true,
-"cats": [
-"arts"
-],
-"desc": "",
-"url": "https://acadianacenterforthearts.org/sebastian-lodrige/?occurrence=2026-11-24",
-"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/10/Asset-1-scaled.png",
-"source": "Acadiana Center for the Arts",
-"alsoOn": [
-"Acadiana Center for the Arts (all events)"
-],
-"hot": true,
-"id": "87f8b83e87"
-},
-{
-"title": "Valcour Records | 20 Years",
-"start": "2026-11-24T09:00",
-"end": "2027-02-27T17:00",
-"allDay": false,
-"ongoing": true,
-"venue": "Acadiana Center for the Arts",
-"address": "",
-"price": "Free",
-"free": true,
-"cats": [
-"arts"
-],
-"desc": "",
-"url": "https://acadianacenterforthearts.org/valcour-records?occurrence=2026-11-24",
-"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/11/ValcourHeader.jpg",
-"source": "Acadiana Center for the Arts",
-"alsoOn": [
-"Acadiana Center for the Arts (all events)"
-],
-"id": "e607e2d6a3"
-},
-{
-"title": "Yin Yoga with Sound Bath - Cami",
-"start": "2026-11-24T09:00",
-"end": "2026-11-24T10:00",
-"allDay": false,
-"ongoing": false,
-"venue": "Paths to Restoration",
-"address": "107 Montrose Ave, Lafayette",
-"price": "",
-"free": false,
-"cats": [
-"wellness"
-],
-"desc": "Slow down, settle into the moment, and discover the power of stillness.\nYin Yoga is a slow, meditative practice that invites you to hold gentle poses for several minutes, allowing you to gradually work into the body's deeper connective tissues. Rather than flowing from pose to pose, you'll be encouraged to breathe, observe, and explore your own edge with patience and mindfulness.\nAs you remain in each posture, you'll have the opportunity to notice areas of tension, practice staying present through mild discomfort, and cultivate greater flexibility, self-awareness, and inner calm. Throughout class, your instructor will offer gentle guidance to help quiet the mind and support your experience.\nThe practice concludes with an immersive sound bath during Savasana, the final resting pose. Crystal singing bowls, Tibetan singing bowls, gongs, and other therapeutic sound instruments create a rich landscape of resonant tones that encourage deep relaxation and a peaceful transition into rest.\nWhether you're looking to improve mobility, reduce stress, or simply carve out time to reconnect with yourself, this class offers a space to slow down, breathe deeply, and leave feeling refreshed and restored.\nNo prior yoga experience is necessary. All bodies and experience levels are welcome.",
-"url": "https://happeningnext.com/event/yin-yoga-with-sound-bath-cami-eid3a0ebra6ra",
-"image": "https://cdn.happeningnext.com/events1/banners/9c1e4fdd5444690bcb592676870228578ae00f2bca7e11935603894f96609d36-rimg-w1200-h675-dc383838-gmir?v=1795101016",
-"source": "Happening Next (health wellness)",
-"id": "6a1e2a26a2"
-},
-{
-"title": "Ragin' Cajuns Women's Basketball vs Nicholls",
-"start": "2026-11-24T17:00",
-"end": "2026-11-24T19:00",
-"allDay": false,
-"ongoing": false,
-"venue": "Cajundome",
-"address": "444 Cajundome Blvd, Lafayette",
-"price": "",
-"free": false,
-"cats": [
-"sports"
-],
-"desc": "",
-"url": "https://ragincajuns.com/calendar.aspx?game_id=15514&sport_id=10",
-"image": "img/cajundome.jpg",
-"source": "Ragin' Cajuns home games",
-"imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
-"imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
-"id": "721b3fc2ad"
-},
-{
-"title": "Night Hike",
-"start": "2026-11-24T17:30",
-"end": "2026-11-24T18:30",
-"allDay": false,
-"ongoing": false,
-"venue": "Moncus Park",
-"address": "2913 Johnston Street, Lafayette",
-"price": "Free",
-"free": true,
-"cats": [
-"wellness"
-],
-"desc": "Night Hike is a guided evening walk through Moncus Park after dark, led by our Conservation Team. As the Park transforms after sunset, guides point out the nocturnal wildlife and sounds that come alive once the sun goes down. Grab a flashlight and get ready to see (and hear!) the Park in a whole new light. Date: November 24th Time: 5:30–6:30 PM Location: Meet at the Veterans Memorial, Moncus Park Led by: Chris Adams, Moncus Park Conservation Team Sponsored by: MJ Sindler Family Fund for Culture & Media",
-"url": "https://moncuspark.org/calendar-events/night-hike-fall-2026/",
-"image": "https://moncuspark.org/wp-content/uploads/2026/08/Night-Hike-at-Moncus-Park-_-Fall-2026.png",
-"source": "Moncus Park",
-"id": "a039b51573"
-},
-{
-"title": "November Book du Mois!",
-"start": "2026-11-24T18:15",
-"end": "2026-11-24T19:30",
-"allDay": false,
-"ongoing": false,
-"venue": "Cavalier House Books",
-"address": "302A Jefferson St",
-"price": "Free",
-"free": true,
-"cats": [
-"arts"
-],
-"desc": "CHB Lafayette is reading The Sentence by Louise Erdrich for its November Book du Mois!\nWe’ll meet at 6:15 p.m. on Nov. 24 (a Tuesday!) at the bookstore to discuss Erdrich’s novel!\nPop by the bookshop to get your copy, or order online!: The Sentence: A Novel\nSynopsis:\nLouise Erdrich's latest novel, The Sentence, asks what we owe to the living, the dead, to the reader and to the book. A small independent bookstore in Minneapolis is haunted from November 2019 to November 2020 by the store's most annoying customer. Flora dies on All Souls' Day, but she simply won't leave the store. Tookie, who has landed a job selling books after years of incarceration that she survived by reading \"with murderous attention,\" must solve the mystery of this haunting while at the same time trying to understand all that occurs in Minneapolis during a year of grief, astonishment, isolation, and furious reckoning.\nBook du Mois is CHB Lafayette's monthly book club! A CHB Bookseller leads the discussion, and we vote at our meetings for our upcoming monthly picks.",
-"url": "https://www.downtownlafayette.org/event/november-book-du-mois",
-"image": "",
-"source": "Downtown Lafayette",
-"id": "5116154913"
-},
-{
-"title": "The Link Up with Sadney!",
-"start": "2026-11-24T19:00",
-"end": null,
-"allDay": false,
-"ongoing": false,
-"venue": "Blue Moon Saloon and Guest House",
-"address": "215 East Convent Street, Lafayette",
-"price": "",
-"free": false,
-"cats": [
-"music"
-],
-"desc": "🍽️🎶 THE LINK-UP: FRIENDSGIVING POTLUCK 🦃🖤\n\nLafayette musicians, artists, and creatives — let's get together!\n\nJoin us Tuesday, November 24th at 7 PM at the Blue Moon Saloon for an evening of good food, good people, fresh ideas, and new connections.\n\nHosted by Sadney, this is your chance to meet fellow creatives, swap ideas, find collaborators, and build community with the people making things happen right here in Lafayette.\n\n🥘 Bring a dish to share if you can.\n🎨 Bring your ideas.\n🎸 Bring your creative energy.\n🤝 Come ready to connect!\n\n$5 entry\n\nWe're thankful for each other, and we saved you a seat. ♡\n\n📍 Blue Moon Saloon | Lafayette, LA\n📅 Tuesday, November 24\n⏰ 7 PM",
-"url": "https://events.timely.fun/kw4jncf1/event/78522711/20261124190000",
-"image": "https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54756026/Link%20up%2011-24_dmIp.png",
-"source": "Blue Moon Saloon",
-"id": "be9579af97"
-},
-{
-"title": "Ragin' Cajuns Men's Basketball vs Louisiana Christian",
-"start": "2026-11-24T19:30",
-"end": "2026-11-24T21:30",
-"allDay": false,
-"ongoing": false,
-"venue": "Cajundome",
-"address": "444 Cajundome Blvd, Lafayette",
-"price": "",
-"free": false,
-"cats": [
-"sports"
-],
-"desc": "",
-"url": "https://ragincajuns.com/calendar.aspx?game_id=15531&sport_id=6",
-"image": "img/cajundome.jpg",
-"source": "Ragin' Cajuns home games",
-"imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
-"imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
-"hot": true,
-"id": "5547485764"
 },
 {
 "title": "Kate Gordon: Tender Terrain",
@@ -452,6 +247,73 @@
 "Acadiana Center for the Arts (all events)"
 ],
 "id": "dc2aba12c4"
+},
+{
+"title": "Philip Gould: A Selection of Works",
+"start": "2026-11-25T09:00",
+"end": "2026-11-28T17:00",
+"allDay": false,
+"ongoing": true,
+"venue": "Acadiana Center for the Arts",
+"address": "",
+"price": "Free",
+"free": true,
+"cats": [
+"arts"
+],
+"desc": "",
+"url": "https://acadianacenterforthearts.org/philip-gould-2026?occurrence=2026-11-25",
+"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/11/GouldHeader.jpg",
+"source": "Acadiana Center for the Arts",
+"alsoOn": [
+"Acadiana Center for the Arts (all events)"
+],
+"id": "c7f5af1cb0"
+},
+{
+"title": "Sebastian Lodrige: Burden | Artificial & Natural",
+"start": "2026-11-25T09:00",
+"end": "2026-12-23T17:00",
+"allDay": false,
+"ongoing": true,
+"venue": "Acadiana Center for the Arts",
+"address": "",
+"price": "Free",
+"free": true,
+"cats": [
+"arts"
+],
+"desc": "",
+"url": "https://acadianacenterforthearts.org/sebastian-lodrige/?occurrence=2026-11-25",
+"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/10/Asset-1-scaled.png",
+"source": "Acadiana Center for the Arts",
+"alsoOn": [
+"Acadiana Center for the Arts (all events)"
+],
+"hot": true,
+"id": "87f8b83e87"
+},
+{
+"title": "Valcour Records | 20 Years",
+"start": "2026-11-25T09:00",
+"end": "2027-02-27T17:00",
+"allDay": false,
+"ongoing": true,
+"venue": "Acadiana Center for the Arts",
+"address": "",
+"price": "Free",
+"free": true,
+"cats": [
+"arts"
+],
+"desc": "",
+"url": "https://acadianacenterforthearts.org/valcour-records?occurrence=2026-11-25",
+"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/11/ValcourHeader.jpg",
+"source": "Acadiana Center for the Arts",
+"alsoOn": [
+"Acadiana Center for the Arts (all events)"
+],
+"id": "e607e2d6a3"
 },
 {
 "title": "HIT Tennis",
@@ -483,12 +345,16 @@
 "price": "",
 "free": false,
 "cats": [
-"theater"
+"music"
 ],
 "desc": "",
 "url": "https://happeningnext.com/event/sissy-nobby-eid27punced6ap",
 "image": "https://cdn.happeningnext.com/events6/banners/7d720640-e6e5-11f1-b8a0-65efcc089f98-rimg-w1122-h1402-dc380808-gmir.png?v=1795400875",
-"source": "Happening Next (comedy)",
+"source": "Happening Next (Lafayette live music)",
+"alsoOn": [
+"Happening Next (comedy)",
+"Happening Next (performances)"
+],
 "id": "e88562ce05"
 },
 {
@@ -1046,6 +912,7 @@
 "source": "Ragin' Cajuns home games",
 "imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
 "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
+"hot": true,
 "id": "5cd63fbd7c"
 },
 {
@@ -4113,7 +3980,7 @@
 ],
 "desc": "Mayrunner, Drive, Doctor! Drive!, and Elle H live at the Loose Caboose for Mayrunner’s curtain call!",
 "url": "https://www.instagram.com/p/DdVA0UoteHz/?cnvx=MWIzNHp5M2IyZzlyZw==",
-"image": "https://scontent-sea5-2.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=JqcaSNl7vvAQ7kNvwFadLRt&_nc_oc=AdrZglS0s47Yhto-iFsba7J4cgl0aYsA49mFw-OMFT_NEhccuDA-cIyaKSPpmdk-5qE&_nc_zt=23&_nc_ht=scontent-sea5-2.cdninstagram.com&_nc_gid=aWmEbUuJHKqi6fHDk_-NLw&_nc_ss=7b70f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQR3y2bos8A3wGYX9pPmyfqYaPOnULa1y0oxscpBCqSbHw&oe=6B0C3C35",
+"image": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=JqcaSNl7vvAQ7kNvwHMTV7Z&_nc_oc=AdrCNc4_P_MdxvByC9uZ_mXJqth74nW6eREsvaInlwrAtH_DhIijIIo7NP5zAgn8qLs&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=G6ZbP_IFRPnb2ylkALJ_Fg&_nc_ss=7b70f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQSR73UhPuz5pozHXSOpJx2L6Gf6_DWCK1pkbL7jW_upoQ&oe=6B0C7475",
 "source": "Submitted",
 "id": "213b36c084"
 },
@@ -4849,6 +4716,7 @@
 "Happening Next (Lafayette live music)",
 "Happening Next (art)",
 "Happening Next (dance)",
+"Happening Next (festivals)",
 "Happening Next (music)",
 "Happening Next (performances)"
 ],
@@ -4895,6 +4763,25 @@
 "image": "",
 "source": "Blue Moon Saloon",
 "id": "e6f299b9f3"
+},
+{
+"title": "A Drag Brunch Christmas Special",
+"start": "2026-12-20T12:00",
+"end": "2026-12-20T14:30",
+"allDay": false,
+"ongoing": false,
+"venue": "Artmosphere",
+"address": "902 Johnston Street, Lafayette",
+"price": "$10",
+"free": false,
+"cats": [
+"food"
+],
+"desc": "Step into the Xmas Spirit with “Happy Fucking Holidays” A Drag Brunch Special!",
+"url": "https://happeningnext.com/event/a-drag-brunch-christmas-special-eid1ef0l9vsi2ha",
+"image": "https://cdn.happeningnext.com/events8/banners/b695c371e25b27807aeff39defefdf64a8c1806993b4a9c94f93553b1054168f-rimg-w1161-h1151-dcf8f8f8-gmir.jpg?v=1795559477",
+"source": "Happening Next (performances)",
+"id": "ceba6260d4"
 },
 {
 "title": "Bal du Dimanche -- Ray Thibodeaux & Allons Danser",
@@ -5977,6 +5864,25 @@
 "id": "b0d66e2542"
 },
 {
+"title": "January 2027 Workshop and Social Dance",
+"start": "2027-01-15T18:45",
+"end": null,
+"allDay": false,
+"ongoing": false,
+"venue": "328 Guilbeau Rd, Lafayette",
+"address": "",
+"price": "",
+"free": false,
+"cats": [
+"community"
+],
+"desc": "Lafayette Dance Nights (LDN) Social Dance\nJanuary 15, 2027\nStart the new year on the dance floor with Lafayette Dance Nights! Whether you're a regular or you've been thinking about coming out for the first time, there's no better time to join us than the beginning of a new year.\n🕺 Workshop\nTime: 6:45 PM\nCost: $5\nDance & Instructor: To Be Determined\nNo partner required\n💃 Social Dance\nTime: 7:30 PM (immediately following the workshop)\nCost: $10\nMusic by: DJ Queen Mona\nNo partner required\nDJ Queen Mona will be spinning an amazing mix of music to keep you dancing all night long. Whether you're brand new to social dancing or an experienced dancer, everyone is welcome.\nIf you've been wanting to come out and see what Lafayette Dance Nights is all about, now is the time. A new year is the perfect opportunity to try something new, meet new people, learn a new skill, and have a great time in a fun and welcoming environment.\nWe can't wait to kick off 2027 with you. Grab your dancing shoes and join us on January 15th!\nNo partner needed. Just bring yourself and be ready to dance! 🎶✨",
+"url": "https://happeningnext.com/event/january-2027-workshop-and-social-dance-eid3a0ecgd8vp",
+"image": "https://cdn.happeningnext.com/events7/banners/adfc7054e14c306a18a3102159623774a6d0be66ac9dcf78ba9b826cbb9d4ec4-rimg-w640-h960-dcf8e8d8-gmir?v=1795481059",
+"source": "Happening Next (dance)",
+"id": "6244b000aa"
+},
+{
 "title": "Bon Amis- Tacky Prom",
 "start": "2027-01-15T19:30",
 "end": "2027-01-15T23:30",
@@ -6031,6 +5937,9 @@
 "url": "https://happeningnext.com/event/2027-festival-de-la-vie-eid3a0ecgd829",
 "image": "https://cdn.happeningnext.com/events9/banners/1448a87c8bad1a997d5c921f08ad4ee3b5f44379ab41ee875e9e95a81b27ee38-rimg-w1200-h857-dcf8f8f8-gmir?v=1795481057",
 "source": "Happening Next (music)",
+"alsoOn": [
+"Happening Next (festivals)"
+],
 "hot": true,
 "id": "0847fd4427"
 },
@@ -6295,6 +6204,150 @@
 "Happening Next (performances)"
 ],
 "id": "7e2a6c7da8"
+},
+{
+"title": "The Essentials of Tai Chi",
+"start": "2027-01-23T08:00",
+"end": "2027-01-23T09:00",
+"allDay": false,
+"ongoing": false,
+"venue": "Cité des Arts",
+"address": "109 Vine St, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"wellness"
+],
+"desc": "Classes are every Saturday morning from 8:00 a.m. to 9:00 a.m.",
+"url": "https://www.citedesarts.org/events/the-essentials-of-tai-chi-2027-01-23-08-00",
+"image": "https://static.wixstatic.com/media/62d2c2_9af69d489525450587f61416748f3f06~mv2.jpeg/v1/fill/w_480,h_640,al_c,q_80/62d2c2_9af69d489525450587f61416748f3f06~mv2.jpeg",
+"source": "Cité des Arts",
+"id": "8900bf6597"
+},
+{
+"title": "Mardi Gras Sip & Thrift",
+"start": "2027-01-23T10:00",
+"end": "2027-01-23T17:00",
+"allDay": false,
+"ongoing": false,
+"venue": "Acadiana Mall",
+"address": "5725 Johnston St, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"music",
+"food"
+],
+"desc": "MARDI GRAS SIP & THRIFT!\nSaturday, January 23 | 10 AM – 5 PM | $55 per person\nLaissez les bons temps rouler! Grab your thrift besties and join us for a Mardi Gras-themed day of shopping, sipping, music, and supporting local small businesses!\nOUR SHOPPING STOPS:\nOldies But Goodies\nThe Purple Lemon\nMore stores to be announced!\nWHAT'S INCLUDED:\nRound-trip charter bus transportation, goodie bags, onboard restroom, storage for purchases, and plenty of fun! Feel free to bring your favorite beverages and snacks!\nPARKING & DEPARTURE:\nAcadiana Mall – Dillard's entrance closest to the food court. Please arrive early for check-in. The tour runs from 10 AM – 5 PM.\nMUSIC DISCLAIMER:\nWe love loud music and a good time! Our DJ takes requests and attempts to play edited versions, but some songs may contain explicit language.\nNEW BAG POLICY:\nOnly clear bags or small stadium-sized purses are permitted inside stores. Don't have one? No worries! You can leave your purse on the bus and bring just your wallet.\nTICKET POLICY:\nALL SALES ARE FINAL. NO REFUNDS, EXCHANGES, OR DATE CHANGES. Please verify your availability before purchasing.\nOnly 56 seats available, and our tours sell out FAST!\nGrab your ticket, wear your purple, green, and gold, and get ready to SIP, THRIFT & LET THE GOOD TIMES ROLL!",
+"url": "https://happeningnext.com/event/mardi-gras-sip-andamp-thrift-eid3a0e8fsktm",
+"image": "https://cdn.happeningnext.com/events3/banners/acc2343ba55c028af12c216cd9c894a21b15512d7210d8c973d717bc4e7aff08-rimg-w1200-h1679-dc480878-gmir?v=1793161667",
+"source": "Happening Next (music)",
+"alsoOn": [
+"Happening Next (food & drinks)"
+],
+"id": "023b58cdcf"
+},
+{
+"title": "Mosaic Art Classes Lafayette: Turkish Lamp Workshop",
+"start": "2027-01-23T10:00",
+"end": "2027-01-24T18:00",
+"allDay": false,
+"ongoing": false,
+"venue": "Holiday Inn & Suites Lafayette North by IHG",
+"address": "2219 NW Evangeline Thruway, Lafayette//, Lafayette",
+"price": "$99",
+"free": false,
+"cats": [
+"arts",
+"community"
+],
+"desc": "⭐ Mosaic Art Classes Lafayette brings Turkish lamp-making to the table. Sip tea, choose your colors, and shape tiny glass pieces into a glowing design. Highlights 💡 Learn Turkish mosaic lamp-making step by step with expert artisan guidance 🍵 Sip authentic Turkish tea as colors and patterns spark creativity 🎨 Craft a personalized lamp that glows with your own character 👨‍👩‍👧‍👦 Bring ages 8+ for a welcoming session adults and kids share General Info 📅 Date & Time: select your date & time directly in the ticket selector ⏱️ Duration: 2.5 hours 📍 Location: Holiday Inn & Suites Lafayette North by IHG, 2219 NW Evangeline Thruway, Lafayette, LA 👤 Age requirement: 8+ with adult supervision required for children 🧠 Skill Level: no prior experience required Description Step into Holiday Inn & Suites Lafayette North by IHG and settle into a hands-on Turkish mosaic workshop. Guided by expert artisans, you’ll choose colors, set tiny glass pieces, and build a lasting keepsake lamp as authentic Turkish tea keeps the table warm. No experience is needed, so adults and kids 8+ can share the process and leave with a radiant reminder made by hand. Get your tickets now for Mosaic Art Classes Lafayette: Turkish Lamp Workshop in Lafayette, LA!",
+"url": "https://happeningnext.com/event/mosaic-art-classes-lafayette-turkish-lamp-workshop-eid1afwa6x9o5b",
+"image": "https://cdn.happeningnext.com/events1/banners/621b7fc0-e708-11f1-b8a0-65efcc089f98-rimg-w550-h550-dc080808-gmir.jpg?v=1795415861",
+"source": "Happening Next (art)",
+"alsoOn": [],
+"id": "f53746c40d"
+},
+{
+"title": "Painting Classes Lafayette: Ceramic Plates & Bowls",
+"start": "2027-01-23T10:00",
+"end": "2027-01-24T18:00",
+"allDay": false,
+"ongoing": false,
+"venue": "Holiday Inn & Suites Lafayette North by IHG",
+"address": "2219 Northwest Evangeline Thruway, Lafayette",
+"price": "$69",
+"free": false,
+"cats": [
+"arts"
+],
+"desc": "Lafayette ceramic paint classes offer a unique experience. Book Now on Eventbrite!\nAbout this Event\nExplore your artistic abilities at the Art Masterclass in Tyler !\n\nReady to unleash your creativity? Reserve your spot for our upcoming Ceramic Paint workshop. Engage in a unique experience filled with creation, laughter, sipping, and enjoyment!\n\nNo Prior Experience Required: Whether you're a seasoned painter or a complete beginner, everyone is welcome to join the fun. Our expert instructors will lead you through each step, ensuring you produce a masterpiece you can be proud of, regardless of your skill level.\n\nAn Ideal Evening Out: Searching for a distinctive date night or an unforgettable outing with friends? Our Ceramic Paint workshops offer the perfect setting. Revel in good company,and leave with a beautiful painting crafted by you!\nBook Now on Eventbrite!",
+"url": "https://happeningnext.com/event/painting-classes-lafayette-ceramic-plates-andamp-bowls-eid1ef0l9i8q6wa",
+"image": "https://cdn.happeningnext.com/events2/banners/7b3694538cac03e8f3d83abf866449d5e37b4ad617e3af73f8c2fc4f2d9dd422-rimg-w1200-h600-dc080808-gmir.jpg?v=1794573072",
+"source": "Happening Next (art)",
+"id": "09b19323c4"
+},
+{
+"title": "Carencro Mardi Gras Parade",
+"start": "2027-01-23T11:00",
+"end": null,
+"allDay": false,
+"ongoing": false,
+"venue": "City of Carencro",
+"address": "721 W Butcher Switch Rd, Carencro",
+"price": "",
+"free": false,
+"cats": [
+"community"
+],
+"desc": "Starts at Carencro High ends by Carencro Community Center. 10 a.m. CarencroParade.com.",
+"url": "https://www.lafayettetravel.com/event/carencro-mardi-gras-parade/46345/",
+"image": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/lafayette/MG-1_4673BAD0-96A3-3DA8-970706FA6968E66A_46742722-d98f-1063-8545b2c35b88d953.png",
+"source": "Lafayette Travel",
+"id": "459a66459f"
+},
+{
+"title": "Ragin' Cajuns Women's Basketball vs Southern Miss",
+"start": "2027-01-23T13:00",
+"end": "2027-01-23T15:00",
+"allDay": false,
+"ongoing": false,
+"venue": "Cajundome",
+"address": "444 Cajundome Blvd, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"sports"
+],
+"desc": "",
+"url": "https://ragincajuns.com/calendar.aspx?game_id=15450&sport_id=10",
+"image": "img/cajundome.jpg",
+"source": "Ragin' Cajuns home games",
+"imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
+"imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
+"id": "6dc36a7eb0"
+},
+{
+"title": "Ragin' Cajuns Men's Basketball vs Troy - Love Our Schools Day | Kid's Day",
+"start": "2027-01-23T16:00",
+"end": "2027-01-23T18:00",
+"allDay": false,
+"ongoing": false,
+"venue": "Cajundome",
+"address": "444 Cajundome Blvd, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"family",
+"sports"
+],
+"desc": "",
+"url": "https://ragincajuns.com/calendar.aspx?game_id=15468&sport_id=6",
+"image": "img/cajundome.jpg",
+"source": "Ragin' Cajuns home games",
+"imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
+"imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
+"id": "fab40f278e"
 }
 ]
 }

@@ -73,9 +73,7 @@
   "usual": 2
  },
  "Cajundome": {
-  "usual": 6,
-  "since": "2026-11-25T19:00:29+00:00",
-  "why": "RuntimeError: no event links on the events page (48057 bytes) (showing last good results)"
+  "usual": 7
  },
  "Rock'n'Bowl de Lafayette": {
   "usual": 2

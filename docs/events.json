@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-25T21:08:14Z",
+"updated": "2026-11-25T23:03:04Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -134,9 +134,8 @@
 },
 {
 "name": "Cajundome",
-"ok": false,
-"count": 6,
-"note": "RuntimeError: no event links on the events page (48057 bytes) (showing last good results)"
+"ok": true,
+"count": 7
 },
 {
 "name": "Rock'n'Bowl de Lafayette",
@@ -2655,8 +2654,7 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "ac7306e0d5",
-"alsoOn": []
+"id": "ac7306e0d5"
 },
 {
 "title": "Noël Acadien au Village",
@@ -2714,8 +2712,7 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "925c27b074",
-"alsoOn": []
+"id": "925c27b074"
 },
 {
 "title": "Noël Acadien au Village",
@@ -2773,8 +2770,7 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "4f89739324",
-"alsoOn": []
+"id": "4f89739324"
 },
 {
 "title": "Line Dance Class & Holiday Social",
@@ -2964,8 +2960,7 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "93bac03628",
-"alsoOn": []
+"id": "93bac03628"
 },
 {
 "title": "The American Creed in Words and Images",
@@ -3128,8 +3123,7 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "5876381c12",
-"alsoOn": []
+"id": "5876381c12"
 },
 {
 "title": "Holiday Chocolate Tasting",
@@ -3544,8 +3538,7 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "c0d1dca356",
-"alsoOn": []
+"id": "c0d1dca356"
 },
 {
 "title": "Fall '26 End of Season Shows: Day 1",
@@ -4841,6 +4834,25 @@
 "image": "",
 "source": "Blue Moon Saloon",
 "id": "e6f299b9f3"
+},
+{
+"title": "Jingle Jam: The All Red Affair",
+"start": "2026-12-19T21:00",
+"end": null,
+"allDay": false,
+"ongoing": false,
+"venue": "Cajundome",
+"address": "444 Cajundome Blvd, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"music"
+],
+"desc": "Jingle Jam, the All Red Affair, Hosted by The Distinguished Gentlemen featuring DJs DJ Troy-D, DJ Dolby-D, DJ Chill, and DJ Lex returns to the CAJUNDOME Convention Center on Saturday, December 19.\nMUST be 18yrs or older. EVERYONE NEEDS A TICKET!\nRed attire is not mandatory but suggested.\nTicket Information\n*Additional Fees will be applied when purchasing online through Ticketmaster.\nCalendar\nNov 2026\nCLOSE ×",
+"url": "https://www.cajundome.com/events/detail/all-red-affair-2026",
+"image": "",
+"source": "Cajundome",
+"id": "4022e39939"
 },
 {
 "title": "A Drag Brunch Christmas Special",

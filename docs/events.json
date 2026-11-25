@@ -1,10 +1,10 @@
 {
-"updated": "2026-11-25T17:13:36Z",
+"updated": "2026-11-25T19:00:30Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
 "ok": true,
-"count": 5
+"count": 4
 },
 {
 "name": "Acadiana Center for the Arts",
@@ -79,7 +79,7 @@
 {
 "name": "Happening Next (art)",
 "ok": true,
-"count": 42
+"count": 43
 },
 {
 "name": "Happening Next (exhibitions)",
@@ -134,8 +134,9 @@
 },
 {
 "name": "Cajundome",
-"ok": true,
-"count": 6
+"ok": false,
+"count": 6,
+"note": "RuntimeError: no event links on the events page (48057 bytes) (showing last good results)"
 },
 {
 "name": "Rock'n'Bowl de Lafayette",
@@ -1342,24 +1343,21 @@
 },
 {
 "title": "Museum Makers: Portraits in Blue — An Introduction to Cyanotype Photography",
-"start": "2026-12-02T17:00",
-"end": "2026-12-02T20:00",
-"allDay": false,
+"start": "2026-12-02T00:00",
+"end": null,
+"allDay": true,
 "ongoing": false,
-"venue": "Hilliard Art Museum",
-"address": "710 E St Mary Blvd, Lafayette",
+"venue": "710 E Saint Mary Blvd, Lafayette",
+"address": "Hilliard University Art Museum, 710 E Saint Mary Blvd, Lafayette",
 "price": "",
 "free": false,
 "cats": [
 "arts"
 ],
-"desc": "Discover one of photography’s oldest printing processes, led by James Billeaudeau. In this hands-on workshop, participants will explore the art of cyanotype, a historic photographic technique known for its rich blue tones. Each participant will have their portrait taken and learn how to transform it into a one-of-a-kind cyanotype print using light-sensitive paper and UV light. No photography experience is necessary, and everyone will leave with a handmade photographic portrait of their own.\n\nMember Rate: $65 per person\n\nNon-Member Rate: $75 per person\n\nAdvance registration is required, as space is limited.",
-"url": "https://hilliardartmuseum.org/event/museum-makers-portraits-in-blue-an-introduction-to-cyanotype-photography/",
-"image": "https://hilliardartmuseum.org/wp-content/uploads/2026/11/HAM_MuseumMakers_WebsiteFeature.webp",
-"source": "Hilliard Art Museum",
-"alsoOn": [
-"Happening Next (art)"
-],
+"desc": "",
+"url": "https://happeningnext.com/event/museum-makers-portraits-in-blue-—-an-introduction-to-cyanotype-photography-eid3a0eci7gbs",
+"image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy8wMWEwYmRjNjMyM2E5ZjkwOGY1MTg4ZDAwMDUxNDRkNzlhMDRlM2ZmMTBkNzUzZmNmNjc1ODM1NTczNjZiMTUyLXJpbWctdzEyMDAtaDM3Ni1kY2U4ZThlOC1nbWlyP3Y9MTc5NTQ5NDUxOA.avif",
+"source": "Happening Next (art)",
 "id": "c5a0413100"
 },
 {
@@ -2027,6 +2025,25 @@
 "id": "c1e5c2ada1"
 },
 {
+"title": "Holiday Card Art",
+"start": "2026-12-05T10:00",
+"end": "2026-12-05T12:00",
+"allDay": false,
+"ongoing": false,
+"venue": "Johnston St, Lafayette, LA, United States",
+"address": "100 Broadmoor Blvd, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"arts"
+],
+"desc": "Get creative and make your own holiday cards. We will cover simple layouts, lettering and decoration using card stock and acrylic markers. Suitable for beginners. Participants bring their own card stock and acrylic markers. Please note: the host is not trained to provide specialised support for students with additional needs.",
+"url": "https://happeningnext.com/event/holiday-card-art-eid3a0ecnpq2n",
+"image": "https://cdn.happeningnext.com/events1/banners/9e1f3c2fc0dea3c8c8df1c0c4fa01d05d2bae8233e64f347f3d57e3493807bf2-rimg-w900-h599-dcf8f8f8-gmir?v=1795583019",
+"source": "Happening Next (art)",
+"id": "27d68be7e7"
+},
+{
 "title": "Immersive Sound Bath w/ Violin & Handpan- Sara & Ryan",
 "start": "2026-12-05T10:00",
 "end": "2026-12-05T11:00",
@@ -2600,7 +2617,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "ac7306e0d5"
+"id": "ac7306e0d5",
+"alsoOn": []
 },
 {
 "title": "Noël Acadien au Village",
@@ -2658,7 +2676,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "925c27b074"
+"id": "925c27b074",
+"alsoOn": []
 },
 {
 "title": "Noël Acadien au Village",
@@ -2716,7 +2735,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "4f89739324"
+"id": "4f89739324",
+"alsoOn": []
 },
 {
 "title": "Line Dance Class & Holiday Social",
@@ -2906,7 +2926,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "93bac03628"
+"id": "93bac03628",
+"alsoOn": []
 },
 {
 "title": "The American Creed in Words and Images",
@@ -3069,7 +3090,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "5876381c12"
+"id": "5876381c12",
+"alsoOn": []
 },
 {
 "title": "Holiday Chocolate Tasting",
@@ -3484,7 +3506,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "c0d1dca356"
+"id": "c0d1dca356",
+"alsoOn": []
 },
 {
 "title": "Fall '26 End of Season Shows: Day 1",

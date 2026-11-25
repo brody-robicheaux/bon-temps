@@ -1,6 +1,6 @@
 {
  "Hilliard Art Museum": {
-  "usual": 5
+  "usual": 4
  },
  "Acadiana Center for the Arts": {
   "usual": 10
@@ -45,7 +45,7 @@
   "usual": 76
  },
  "Happening Next (art)": {
-  "usual": 42
+  "usual": 43
  },
  "Happening Next (exhibitions)": {
   "usual": 3
@@ -73,7 +73,9 @@
   "usual": 2
  },
  "Cajundome": {
-  "usual": 6
+  "usual": 6,
+  "since": "2026-11-25T19:00:29+00:00",
+  "why": "RuntimeError: no event links on the events page (48057 bytes) (showing last good results)"
  },
  "Rock'n'Bowl de Lafayette": {
   "usual": 2

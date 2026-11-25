@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-25T01:24:28Z",
+"updated": "2026-11-25T03:04:07Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -74,7 +74,7 @@
 {
 "name": "Happening Next (music)",
 "ok": true,
-"count": 76
+"count": 75
 },
 {
 "name": "Happening Next (art)",
@@ -389,25 +389,6 @@
 "image": "",
 "source": "Downtown Lafayette",
 "id": "5116154913"
-},
-{
-"title": "Name That Tune",
-"start": "2026-11-24T19:00",
-"end": null,
-"allDay": false,
-"ongoing": false,
-"venue": "BJ's Pizza House",
-"address": "2458 W Congress St, Lafayette",
-"price": "",
-"free": false,
-"cats": [
-"music"
-],
-"desc": "In this ALL AUDIO Trivia, come test your ability to Name That Tune to win prizes and bragging rights!\nFree to play. Prizes for Top 3 teams. Up to 7 players per team.",
-"url": "https://happeningnext.com/event/name-that-tune-eid3a0ebg3wh8",
-"image": "https://cdn.happeningnext.com/events10/banners/b0c9ccbb4e435a9a1329cadc26a20337a9730102ccb0584e8dab5362295cca59-rimg-w1200-h675-dc481898-gmir?v=1794938406",
-"source": "Happening Next (music)",
-"id": "6352ec1298"
 },
 {
 "title": "The Link Up with Sadney!",
@@ -836,6 +817,7 @@
 "url": "https://happeningnext.com/event/vibe-25-celebrating-25-years-of-the-blue-moon-eid3a0ec65sk2",
 "image": "https://cdn.happeningnext.com/events1/banners/1b6575efe85e17b5551364dc674d8d98bf290541da0570862cab21b24202b3a9-rimg-w530-h812-dce8b808-gmir?v=1795357730",
 "source": "Happening Next (music)",
+"hot": true,
 "id": "97c6efac74"
 },
 {
@@ -3868,7 +3850,6 @@
 "Happening Next (music)",
 "Hideaway on Lee"
 ],
-"hot": true,
 "id": "8cf29f0b06"
 },
 {
@@ -4134,7 +4115,7 @@
 ],
 "desc": "Mayrunner, Drive, Doctor! Drive!, and Elle H live at the Loose Caboose for Mayrunner’s curtain call!",
 "url": "https://www.instagram.com/p/DdVA0UoteHz/?cnvx=MWIzNHp5M2IyZzlyZw==",
-"image": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=JqcaSNl7vvAQ7kNvwGxxOsX&_nc_oc=Adpc2PVwj6LGwqCusDYca-bdm0RpzbtSnu12ICuxyuUFtl22MUdr_70-KTrQydRccTo&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=pxbFj5ugXvabEmXGgxISVw&_nc_ss=7b70f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQSP3-hgo_eZJc_O5Zf4BfnWTxizv6n4QzijruC3uAK1ag&oe=6B0C03F5",
+"image": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/795861605_18625704379009253_6132058296333620183_n.jpg?stp=c400.0.1200.1200a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=JqcaSNl7vvAQ7kNvwGDGBPx&_nc_oc=Adrjy3xtPKXyHjw1VQtdUy51wp6N6pRzcyT5KXYhNUT0i45HknHJl9zMrNd1QU2q3DA&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=DpQnmCcLtY2ZCG_k4oXo7Q&_nc_ss=7b70f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQStypH2lbV4Pfoxk1BLd9pNJrUgcyReyVsDVXu1CA7AMQ&oe=6B0C3C35",
 "source": "Submitted",
 "id": "213b36c084"
 },

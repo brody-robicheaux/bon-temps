@@ -9,9 +9,7 @@
   "usual": 9
  },
  "Moncus Park": {
-  "usual": 8,
-  "since": "2026-11-25T11:06:57+00:00",
-  "why": "TimeoutError: The read operation timed out (showing last good results)"
+  "usual": 8
  },
  "Lafayette Travel": {
   "usual": 19

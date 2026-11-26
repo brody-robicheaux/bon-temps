@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-26T03:02:48Z",
+"updated": "2026-11-26T05:20:14Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -39,7 +39,7 @@
 {
 "name": "Hideaway on Lee",
 "ok": true,
-"count": 18
+"count": 17
 },
 {
 "name": "Happening Next (Lafayette live music)",
@@ -74,7 +74,7 @@
 {
 "name": "Happening Next (music)",
 "ok": true,
-"count": 76
+"count": 78
 },
 {
 "name": "Happening Next (art)",
@@ -416,26 +416,6 @@
 "id": "6dfc61dd24"
 },
 {
-"title": "Bonsoir Catin TURKEY GIVEAWAY Special Show",
-"start": "2026-11-25T19:00",
-"end": "2026-11-25T21:00",
-"allDay": false,
-"ongoing": false,
-"venue": "Hideaway on Lee",
-"address": "407 Lee Ave, Lafayette",
-"price": "",
-"free": false,
-"cats": [
-"music"
-],
-"desc": "",
-"url": "https://www.hideawayonlee.com/events/bonsoir-catin-turkey-giveaway-special-show",
-"image": "https://images.squarespace-cdn.com/content/v1/5e5959c0bfd4157aee22bd55/1794768867550-RO1SL72ZXCCUZJPIX76G/884789974_1744985494293322_6294533251426956489_n.jpg",
-"source": "Hideaway on Lee",
-"hot": true,
-"id": "64106f5fcb"
-},
-{
 "title": "Keith Frank - Thanksgiving Eve Takeover",
 "start": "2026-11-25T19:00",
 "end": null,
@@ -453,9 +433,6 @@
 "url": "https://happeningnext.com/event/keith-frank-thanksgiving-eve-takeover-eid3a0ebmlp98",
 "image": "https://cdn.happeningnext.com/events10/banners/f368efc73d58572653aa660a706a428437313134627a3347244d8ff32971cf00-rimg-w1080-h1080-dc180808-gmir?v=1795016490",
 "source": "Happening Next (performances)",
-"alsoOn": [
-"Happening Next (music)"
-],
 "id": "29413b5c8f"
 },
 {
@@ -505,8 +482,8 @@
 "end": "2026-11-25T23:00",
 "allDay": false,
 "ongoing": false,
-"venue": "300 McKinley Street, Lafayette",
-"address": "",
+"venue": "The Freetown Boom Boom Room",
+"address": "300 McKinley St, Lafayette",
 "price": "",
 "free": false,
 "cats": [
@@ -998,8 +975,8 @@
 "end": null,
 "allDay": false,
 "ongoing": false,
-"venue": "300 McKinley Street, Lafayette",
-"address": "",
+"venue": "The Freetown Boom Boom Room",
+"address": "300 McKinley St, Lafayette",
 "price": "",
 "free": false,
 "cats": [
@@ -1015,6 +992,25 @@
 "Happening Next (performances)"
 ],
 "id": "b19ac60904"
+},
+{
+"title": "Giving thanks for heavy metal",
+"start": "2026-11-28T20:00",
+"end": "2026-11-29T02:00",
+"allDay": false,
+"ongoing": false,
+"venue": "The Freetown Boom Boom Room",
+"address": "300 McKinley Street, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"music"
+],
+"desc": "Freetown!\nIt’s been a while!\nCome party Thanksgiving weekend with us at the The Freetown Boom Boom Room!\nIt’s gonna get heavy!",
+"url": "https://happeningnext.com/event/giving-thanks-for-heavy-metal-eid3a0ecta3rk",
+"image": "https://cdn.happeningnext.com/events3/banners/d81fd7bb9074d5cf822e339a890d0806d29b31c764d6d2a9031ca918ca125186-rimg-w896-h1195-dc080808-gmir?v=1795601994",
+"source": "Happening Next (music)",
+"id": "5b7fc9b1ec"
 },
 {
 "title": "Marley's Ghost (West Coast/Cali/Washington)",
@@ -1513,8 +1509,8 @@
 "end": "2026-12-02T23:00",
 "allDay": false,
 "ongoing": false,
-"venue": "300 McKinley Street, Lafayette",
-"address": "",
+"venue": "The Freetown Boom Boom Room",
+"address": "300 McKinley St, Lafayette",
 "price": "",
 "free": false,
 "cats": [
@@ -2891,8 +2887,8 @@
 "end": "2026-12-09T23:00",
 "allDay": false,
 "ongoing": false,
-"venue": "300 McKinley Street, Lafayette",
-"address": "",
+"venue": "The Freetown Boom Boom Room",
+"address": "300 McKinley St, Lafayette",
 "price": "",
 "free": false,
 "cats": [
@@ -3009,6 +3005,29 @@
 "id": "5399829c44"
 },
 {
+"title": "*FREE SHOW!* the Has Beans",
+"start": "2026-12-10T19:00",
+"end": "2026-12-10T21:00",
+"allDay": false,
+"ongoing": false,
+"venue": "Hideaway on Lee",
+"address": "407 Lee Ave, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"music",
+"theater"
+],
+"desc": "The Has Beans perform an eclectic mix of Cajun, Zydeco, Americana, Swamp Blues as well as an ever expanding repertoire of original songs. Unafraid to color outside of the lines, but always keeping that strong South Louisiana groove going. The Has Beans are a band that could only have come out of the fertile musical climate of Lafayette, Louisiana!\nMusicians Danny Kimball (drums), Ward Lormand (accordion), Blake Castille (guitar), Phil Kaelin (guitar), Tommy Bodin (bass), Henry Hample (fiddle) all spent years playing, absorbing and learning from the legends of Cajun, Creole and Zydeco music. Has Beans inspiration and namesake comes from Red Beans and Rice Revue (including original \"Bean\" Danny Kimball), who were one of the early influences of Cajun music to the youth of South Louisiana in the mid 1970’s.\nIn the early 70's dancehalls like Jay’s Lounge, Bon Ton Rouler’ and Hamilton Club became the foundation for a growing appreciation of local music. This is where groups like Red Beans and Rice Revue, Zachary Richard and Michael Doucet's pre - Beausoleil group \"Coteau\" were setting the old dancehalls on fire. The music pouring out of the dances was exciting, very danceable and yes, rebellious; Traditional Cajun tunes and instruments blended with the melodic, improvisational lead guitar influence of the Allman Brothers and GratefulDead. The music blasting out of these old dance halls turned a whole younger generation onto the indigenous music of South Louisiana.",
+"url": "https://happeningnext.com/event/free-show-the-has-beans-eid3a0ecv4dbu",
+"image": "https://cdn.happeningnext.com/events8/banners/48a4af12b42efa60280a6362b4a366d14ec337034e30ea55fe06e2478a65d9a1-rimg-w960-h540-dc184878-gmir?v=1795627828",
+"source": "Happening Next (music)",
+"alsoOn": [
+"Hideaway on Lee"
+],
+"id": "229015b717"
+},
+{
 "title": "Dance This Holiday",
 "start": "2026-12-10T19:00",
 "end": "2026-12-10T20:30",
@@ -3029,25 +3048,6 @@
 "Happening Next (dance)"
 ],
 "id": "ef854b1c18"
-},
-{
-"title": "Has Beans - Free Show!",
-"start": "2026-12-10T19:00",
-"end": "2026-12-10T21:00",
-"allDay": false,
-"ongoing": false,
-"venue": "Hideaway on Lee",
-"address": "407 Lee Ave, Lafayette",
-"price": "",
-"free": false,
-"cats": [
-"music"
-],
-"desc": "",
-"url": "https://www.hideawayonlee.com/events/has-beans-free-show",
-"image": "https://images.squarespace-cdn.com/content/v1/5e5959c0bfd4157aee22bd55/1795119616398-ULBT3JTIS15U1EBN54BW/912163198_1773381811324968_7887654207071063082_n.jpg",
-"source": "Hideaway on Lee",
-"id": "2a000cebb0"
 },
 {
 "title": "Christmas at The Bayou Christmas Concert",
@@ -3772,6 +3772,25 @@
 "id": "8cf29f0b06"
 },
 {
+"title": "GOTH NIGHT @ THE CABOOSE",
+"start": "2026-12-12T21:00",
+"end": null,
+"allDay": false,
+"ongoing": false,
+"venue": "The Loose Caboose",
+"address": "201 McKinley St, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"music"
+],
+"desc": "Doors @ 7, DJs @ 9",
+"url": "https://happeningnext.com/event/goth-night-the-caboose-eid3a0ecta4q1",
+"image": "https://cdn.happeningnext.com/events8/banners/bb3bd12d00221739f17f0db1b94663eaa2be94ca3a921651ec41304e3c19bb03-rimg-w1080-h1382-dc080808-gmir?v=1795601997",
+"source": "Happening Next (music)",
+"id": "4770cef3c9"
+},
+{
 "title": "Nik-L Beer | Rock'n'Bowl® de Lafayette",
 "start": "2026-12-12T21:00",
 "end": null,
@@ -3981,12 +4000,12 @@
 "id": "9b656d9383"
 },
 {
-"title": "Rusty Metoyer & Zydeco Krush",
+"title": "Rusty Metoyer & Zydeco Krush | Rock'n'Bowl® de Lafayette",
 "start": "2026-12-13T17:00",
 "end": null,
 "allDay": false,
 "ongoing": false,
-"venue": "Rock'n'Bowl® de Lafayette",
+"venue": "Rock'n'Bowl de Lafayette",
 "address": "905 Jefferson St, Lafayette",
 "price": "",
 "free": false,
@@ -3994,10 +4013,13 @@
 "music"
 ],
 "desc": "Zydeco Sunday!",
-"url": "https://www.rocknbowl.com/events/rusty-metoyer-zydeco-krush-12-13-26",
-"image": "https://static.wixstatic.com/media/ddf1fb_baa6309f10604b6e9a34dacd12d3d16f~mv2.jpg/v1/fill/w_638,h_409,al_c,q_80/ddf1fb_baa6309f10604b6e9a34dacd12d3d16f~mv2.jpg",
-"source": "Rock'n'Bowl de Lafayette",
-"id": "46be7579c7"
+"url": "https://happeningnext.com/event/rusty-metoyer-andamp-zydeco-krush-rocknbowl-de-lafayette-eid3a0ecv4dwm",
+"image": "https://cdn.happeningnext.com/events5/banners/4603726e218a3d0f0fe3b70a780c8226598f86552b4e6fbbee149b665a2138cf-rimg-w1200-h628-dce8e8d8-gmir?v=1795627832",
+"source": "Happening Next (music)",
+"alsoOn": [
+"Rock'n'Bowl de Lafayette"
+],
+"id": "0a06593c7e"
 },
 {
 "title": "Noël Acadien au Village",
@@ -4282,8 +4304,8 @@
 "end": "2026-12-16T23:00",
 "allDay": false,
 "ongoing": false,
-"venue": "300 McKinley Street, Lafayette",
-"address": "",
+"venue": "The Freetown Boom Boom Room",
+"address": "300 McKinley St, Lafayette",
 "price": "",
 "free": false,
 "cats": [
@@ -4986,8 +5008,7 @@
 "image": "https://images.squarespace-cdn.com/content/v1/5e5959c0bfd4157aee22bd55/1789927430139-KXL1Q4LI6ZVNS9LO7WG8/805924360_1692821042843101_6953230594546101094_n.jpg",
 "source": "Hideaway on Lee",
 "alsoOn": [
-"Happening Next (Lafayette live music)",
-"Happening Next (music)"
+"Happening Next (Lafayette live music)"
 ],
 "id": "a3d7d11d8b"
 },
@@ -5163,8 +5184,8 @@
 "end": "2026-12-23T23:00",
 "allDay": false,
 "ongoing": false,
-"venue": "300 McKinley Street, Lafayette",
-"address": "",
+"venue": "The Freetown Boom Boom Room",
+"address": "300 McKinley St, Lafayette",
 "price": "",
 "free": false,
 "cats": [
@@ -5348,8 +5369,8 @@
 "end": "2026-12-30T23:00",
 "allDay": false,
 "ongoing": false,
-"venue": "300 McKinley Street, Lafayette",
-"address": "",
+"venue": "The Freetown Boom Boom Room",
+"address": "300 McKinley St, Lafayette",
 "price": "",
 "free": false,
 "cats": [

@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-26T01:25:24Z",
+"updated": "2026-11-26T03:02:48Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -456,7 +456,6 @@
 "alsoOn": [
 "Happening Next (music)"
 ],
-"hot": true,
 "id": "29413b5c8f"
 },
 {
@@ -702,6 +701,7 @@
 "url": "https://happeningnext.com/event/vibe-25-celebrating-25-years-of-the-blue-moon-eid3a0ec65sk2",
 "image": "https://cdn.happeningnext.com/events1/banners/1b6575efe85e17b5551364dc674d8d98bf290541da0570862cab21b24202b3a9-rimg-w530-h812-dce8b808-gmir?v=1795357730",
 "source": "Happening Next (music)",
+"hot": true,
 "id": "97c6efac74"
 },
 {
@@ -3314,7 +3314,6 @@
 "Happening Next (performances)",
 "Hideaway on Lee"
 ],
-"hot": true,
 "id": "14f2e62a25"
 },
 {

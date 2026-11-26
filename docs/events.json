@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-26T05:20:14Z",
+"updated": "2026-11-26T07:29:10Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -19,7 +19,7 @@
 {
 "name": "Moncus Park",
 "ok": true,
-"count": 8
+"count": 7
 },
 {
 "name": "Lafayette Travel",
@@ -34,7 +34,7 @@
 {
 "name": "Downtown Lafayette",
 "ok": true,
-"count": 7
+"count": 6
 },
 {
 "name": "Hideaway on Lee",
@@ -44,7 +44,7 @@
 {
 "name": "Happening Next (Lafayette live music)",
 "ok": true,
-"count": 59
+"count": 58
 },
 {
 "name": "Happening Next (theatre)",
@@ -54,12 +54,12 @@
 {
 "name": "Happening Next (performances)",
 "ok": true,
-"count": 60
+"count": 59
 },
 {
 "name": "Happening Next (comedy)",
 "ok": true,
-"count": 9
+"count": 10
 },
 {
 "name": "Happening Next (dance)",
@@ -89,17 +89,17 @@
 {
 "name": "Happening Next (food & drinks)",
 "ok": true,
-"count": 29
+"count": 26
 },
 {
 "name": "Happening Next (health wellness)",
 "ok": true,
-"count": 20
+"count": 18
 },
 {
 "name": "Happening Next (fitness)",
 "ok": true,
-"count": 10
+"count": 8
 },
 {
 "name": "Happening Next (festivals)",
@@ -130,7 +130,7 @@
 {
 "name": "Submitted",
 "ok": true,
-"count": 2
+"count": 1
 },
 {
 "name": "Cajundome",
@@ -150,7 +150,7 @@
 {
 "name": "Blue Moon Saloon",
 "ok": true,
-"count": 32
+"count": 31
 },
 {
 "name": "Wonderland Performing Arts",
@@ -184,6 +184,25 @@
 "id": "2bc6311c38"
 },
 {
+"title": "Philip Gould: A Selection of Works",
+"start": "2026-11-14T09:00",
+"end": "2026-11-28T17:00",
+"allDay": false,
+"ongoing": true,
+"venue": "Acadiana Center for the Arts",
+"address": "",
+"price": "Free",
+"free": true,
+"cats": [
+"arts"
+],
+"desc": "",
+"url": "https://acadianacenterforthearts.org/philip-gould-2026?occurrence=2026-11-14",
+"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/11/GouldHeader.jpg",
+"source": "Acadiana Center for the Arts (all events)",
+"id": "c7f5af1cb0"
+},
+{
 "title": "Miracle on Jefferson St",
 "start": "2026-11-21T16:30",
 "end": "2026-12-31T23:00",
@@ -202,115 +221,6 @@
 "image": "",
 "source": "Downtown Lafayette",
 "id": "59f28890ec"
-},
-{
-"title": "Artists’ Alliance",
-"start": "2026-11-25T09:00",
-"end": "2027-01-09T17:00",
-"allDay": false,
-"ongoing": true,
-"venue": "Acadiana Center for the Arts - Main Gallery",
-"address": "101 W Vermilion St, Lafayette",
-"price": "Free",
-"free": true,
-"cats": [
-"arts"
-],
-"desc": "",
-"url": "https://acadianacenterforthearts.org/artists-alliance/?occurrence=2026-11-25",
-"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/08/Spring-Summer-Fall-and-Winter-Light-2026-oil-on-canvas-24_-x-36_.jpeg",
-"source": "Acadiana Center for the Arts",
-"alsoOn": [
-"Acadiana Center for the Arts (all events)"
-],
-"hot": true,
-"id": "d5773c2e0f"
-},
-{
-"title": "Philip Gould: A Selection of Works",
-"start": "2026-11-25T09:00",
-"end": "2026-11-28T17:00",
-"allDay": false,
-"ongoing": true,
-"venue": "Acadiana Center for the Arts",
-"address": "",
-"price": "Free",
-"free": true,
-"cats": [
-"arts"
-],
-"desc": "",
-"url": "https://acadianacenterforthearts.org/philip-gould-2026?occurrence=2026-11-25",
-"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/11/GouldHeader.jpg",
-"source": "Acadiana Center for the Arts",
-"alsoOn": [
-"Acadiana Center for the Arts (all events)"
-],
-"id": "c7f5af1cb0"
-},
-{
-"title": "Sebastian Lodrige: Burden | Artificial & Natural",
-"start": "2026-11-25T09:00",
-"end": "2026-12-23T17:00",
-"allDay": false,
-"ongoing": true,
-"venue": "Acadiana Center for the Arts",
-"address": "",
-"price": "Free",
-"free": true,
-"cats": [
-"arts"
-],
-"desc": "",
-"url": "https://acadianacenterforthearts.org/sebastian-lodrige/?occurrence=2026-11-25",
-"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/10/Asset-1-scaled.png",
-"source": "Acadiana Center for the Arts",
-"alsoOn": [
-"Acadiana Center for the Arts (all events)"
-],
-"hot": true,
-"id": "87f8b83e87"
-},
-{
-"title": "Valcour Records | 20 Years",
-"start": "2026-11-25T09:00",
-"end": "2027-02-27T17:00",
-"allDay": false,
-"ongoing": true,
-"venue": "Acadiana Center for the Arts",
-"address": "",
-"price": "Free",
-"free": true,
-"cats": [
-"arts"
-],
-"desc": "",
-"url": "https://acadianacenterforthearts.org/valcour-records?occurrence=2026-11-25",
-"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/11/ValcourHeader.jpg",
-"source": "Acadiana Center for the Arts",
-"alsoOn": [
-"Acadiana Center for the Arts (all events)"
-],
-"id": "e607e2d6a3"
-},
-{
-"title": "HIT Tennis",
-"start": "2026-11-25T11:30",
-"end": "2026-11-25T12:30",
-"allDay": false,
-"ongoing": false,
-"venue": "City Club at River Ranch",
-"address": "1100 Camellia Blvd, Lafayette",
-"price": "",
-"free": false,
-"cats": [
-"sports"
-],
-"desc": "Looking to level up your game?\nHigh Intensity Tennis takes place every Wednesday from 11:30 AM–12:30 PM, featuring fast drills, footwork, and a great workout. All levels are welcome and no sign up is needed. Just show up ready to play!\nMembers $28 | Non-members $30\nCall the Pro Shop with any questions at 337.216.6588.",
-"url": "https://happeningnext.com/event/hit-tennis-eid3a0ebra9as",
-"image": "https://cdn.happeningnext.com/events10/banners/0107e8dd8030c373ca5ea319af4208655daf9c1412380a8f55b5cc56a128a23c-rimg-w1200-h675-dc586868-gmir?v=1795101024",
-"source": "Happening Next (fitness)",
-"id": "f90efdda61"
 },
 {
 "title": "Sissy Nobby",
@@ -334,147 +244,6 @@
 "Happening Next (performances)"
 ],
 "id": "e88562ce05"
-},
-{
-"title": "Thanksgiving Food Giveaway at New Beginnings",
-"start": "2026-11-25T12:00",
-"end": null,
-"allDay": false,
-"ongoing": false,
-"venue": "1914 Cameron Street, Lafayette",
-"address": "",
-"price": "",
-"free": false,
-"cats": [
-"food"
-],
-"desc": "Thanksgiving Food Giveaway! Wed Nov 25th at 12 Noon!",
-"url": "https://happeningnext.com/event/thanksgiving-food-giveaway-at-new-beginnings-eid3a0ecq115b",
-"image": "https://cdn.happeningnext.com/events6/banners/957210016476df28c2989773fac6f239329f9ebf7f36bffc1f9aa0960f786a27-rimg-w1200-h1553-dcf8f8f8-gmir?v=1795592141",
-"source": "Happening Next (food & drinks)",
-"id": "613730f00c"
-},
-{
-"title": "Pre-Feast Party 🎉",
-"start": "2026-11-25T18:00",
-"end": null,
-"allDay": false,
-"ongoing": false,
-"venue": "329 Dulles Dr, Lafayette",
-"address": "",
-"price": "",
-"free": false,
-"cats": [
-"food"
-],
-"desc": "Get out of the kitchen and come drink!",
-"url": "https://happeningnext.com/event/pre-feast-party-eid3a0ebra5h0",
-"image": "https://cdn.happeningnext.com/events2/banners/d9bcd2206c8f6741ebe114eafb86700179b3c7717b1963be131f9af74715cd67-rimg-w1080-h1350-dc080808-gmir?v=1795101010",
-"source": "Happening Next (food & drinks)",
-"id": "ef1a669e0d"
-},
-{
-"title": "Yoga in the Park",
-"start": "2026-11-25T18:00",
-"end": "2026-11-25T19:00",
-"allDay": false,
-"ongoing": false,
-"venue": "Moncus Park",
-"address": "2913 Johnston St, Lafayette",
-"price": "Free",
-"free": true,
-"cats": [
-"wellness"
-],
-"desc": "Join us for Yoga in the Park, part of the \"Fit For All\" series presented by Louisiana Orthopaedic Specialists & Orthopedic Urgent Care. Every Wednesday at 6:00 PM, unroll your mat and unwind with a free community yoga session at Moncus Park. Whether you're a seasoned yogi or trying it for the first time, it's an easy way to reset midweek and move alongside your neighbors. Location: First Horizon Amphitheater, unless otherwise noted What to know: Every Wednesday at 6:00 PM All ages and experience levels welcome Bring your own mat and water Wear comfortable clothing No registration required Completely free Class may be canceled or moved due to rain or excessive heat, check our social media stories each Wednesday for updates and location Instructer Schedule: 9/16- Neil Gresham 9/23 -Zoe Wingate 9/30 -Zoe Wingate 10/7- Jeanne Marie Lousao 10/14- Tammy Marlin *waiting for documents* 10/21- Neil Gresham 10/28- Zoe Wingate 11/4- Jeanne Marie Lousao 11/11- Zoe Wingate 11/18- Kayla Duhon 11/25- Allie Edge See you on the mat!",
-"url": "https://moncuspark.org/calendar-events/yoga2026/",
-"image": "https://moncuspark.org/wp-content/uploads/2026/01/Yoga-in-the-Park-_-Spring-2026-_-Moncus-Park-Fit-For-All-1.png",
-"source": "Moncus Park",
-"alsoOn": [
-"Happening Next (fitness)",
-"Happening Next (health wellness)"
-],
-"id": "6dfc61dd24"
-},
-{
-"title": "Keith Frank - Thanksgiving Eve Takeover",
-"start": "2026-11-25T19:00",
-"end": null,
-"allDay": false,
-"ongoing": false,
-"venue": "1919 Kaliste Saloom Rd Suite 303, Lafayette",
-"address": "",
-"price": "",
-"free": false,
-"cats": [
-"music",
-"family"
-],
-"desc": "THE BOSS IS COMING TO THE RUINS!\nThat's right, we're bringing in the one and only KEITH FRANK & THE SOILEAU ZYDECO BAND!\nThe Zydeco Boss is taking over Thanksgiving Eve, bringing his signature high-energy Louisiana zydeco sound, accordion-driven grooves, and dance-floor favorites to Lafayette!\nGet the family, call your friends, and get ready for one BIG Thanksgiving Eve celebration. There's no better way to kick off the holiday than with one of Louisiana's most recognizable zydeco entertainers!\n🚪 DOORS OPEN AT 8PM!",
-"url": "https://happeningnext.com/event/keith-frank-thanksgiving-eve-takeover-eid3a0ebmlp98",
-"image": "https://cdn.happeningnext.com/events10/banners/f368efc73d58572653aa660a706a428437313134627a3347244d8ff32971cf00-rimg-w1080-h1080-dc180808-gmir?v=1795016490",
-"source": "Happening Next (performances)",
-"id": "29413b5c8f"
-},
-{
-"title": "Overstuffed Trivia Night at Legends Annex",
-"start": "2026-11-25T19:00",
-"end": "2026-11-25T20:30",
-"allDay": false,
-"ongoing": false,
-"venue": "Legends Annex",
-"address": "110 Polk St",
-"price": "Free",
-"free": true,
-"cats": [
-"family"
-],
-"desc": "Join us at the Legends Annex patio (or indoors if the weather is not agreeable) for FIVE rounds of general knowledge trivia. Great way to spend the evening with visiting family or friends. Teams can have up to 8 players. Trivia starts at 7pm sharp.",
-"url": "https://www.downtownlafayette.org/event/overstuffed-trivia-night-at-legends-annex",
-"image": "https://cdn.happeningnext.com/events7/banners/320280cd4484810a647fa15e42c2e5e20c883ddc841f723bde7d454dac385bb4-rimg-w1200-h630-dcf8b848-gmir?v=1795427340",
-"source": "Downtown Lafayette",
-"alsoOn": [
-"Happening Next (food & drinks)"
-],
-"id": "ac0372ad1a"
-},
-{
-"title": "Cajun Jam Hosted by Blake Miller",
-"start": "2026-11-25T20:00",
-"end": null,
-"allDay": false,
-"ongoing": false,
-"venue": "Blue Moon Saloon and Guest House",
-"address": "215 East Convent Street, Lafayette",
-"price": "",
-"free": false,
-"cats": [
-"music"
-],
-"desc": "Cajun Jam Hosted by Blake Miller\n\n \n\n• Happy Hour ALL NIGHT starts at 5 PM • $3 Crown • $3 Jameson • $4 local beers • $5 double wells • Music kicks off at 8 PM Bring your instrument and join the fun!\n\n \n\nComing to the show? If you book a room at Blue Moon Saloon the night of the gig, you get free entry + a free drink. Stay where the show is  https://shr.pn/BookNow",
-"url": "https://events.timely.fun/kw4jncf1/event/78437885/20261125200000",
-"image": "https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54756026/Cajun%20Jam%20blake%20Miller%20%2011-25_bBrR.png",
-"source": "Blue Moon Saloon",
-"id": "d8ea2e0cf8"
-},
-{
-"title": "OPEN MIC STONER ROCK JAM",
-"start": "2026-11-25T20:00",
-"end": "2026-11-25T23:00",
-"allDay": false,
-"ongoing": false,
-"venue": "The Freetown Boom Boom Room",
-"address": "300 McKinley St, Lafayette",
-"price": "",
-"free": false,
-"cats": [
-"music"
-],
-"desc": "JOIN US FOR OUR WEEKLY OPEN JAM!\nHouse drum kit and amps provided, so bring your guitars, cymbals, and pedals, and let's jam!\n\nNo Cover!",
-"url": "https://happeningnext.com/event/open-mic-stoner-rock-jam-eid3a0eci7gnl",
-"image": "https://dyn-image.allevents.in/generate-image?v=4&title=OPEN+MIC+STONER+ROCK+JAM&date=Wed%2C+25+Nov%2C+2026+at+08%3A00+pm&bg=5",
-"source": "Happening Next (Lafayette live music)",
-"id": "53b403fa39"
 },
 {
 "title": "Community Thanksgiving Dinner – Free Meal & Delivery Available",
@@ -536,6 +305,29 @@
 "id": "b873ec5c5f"
 },
 {
+"title": "Artists’ Alliance",
+"start": "2026-11-26T09:00",
+"end": "2027-01-09T17:00",
+"allDay": false,
+"ongoing": true,
+"venue": "Acadiana Center for the Arts - Main Gallery",
+"address": "101 W Vermilion St, Lafayette",
+"price": "Free",
+"free": true,
+"cats": [
+"arts"
+],
+"desc": "",
+"url": "https://acadianacenterforthearts.org/artists-alliance/?occurrence=2026-11-26",
+"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/08/Spring-Summer-Fall-and-Winter-Light-2026-oil-on-canvas-24_-x-36_.jpeg",
+"source": "Acadiana Center for the Arts",
+"alsoOn": [
+"Acadiana Center for the Arts (all events)"
+],
+"hot": true,
+"id": "d5773c2e0f"
+},
+{
 "title": "JPJ Memorial Turkey Trot",
 "start": "2026-11-26T09:00",
 "end": "2026-11-26T11:00",
@@ -579,6 +371,70 @@
 "Acadiana Center for the Arts (all events)"
 ],
 "id": "4fee67b29e"
+},
+{
+"title": "Philip Gould: A Selection of Works",
+"start": "2026-11-26T09:00",
+"end": "2026-11-28T17:00",
+"allDay": false,
+"ongoing": false,
+"venue": "Acadiana Center for the Arts",
+"address": "",
+"price": "Free",
+"free": true,
+"cats": [
+"arts"
+],
+"desc": "",
+"url": "https://acadianacenterforthearts.org/philip-gould-2026?occurrence=2026-11-26",
+"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/11/GouldHeader.jpg",
+"source": "Acadiana Center for the Arts",
+"id": "7cf5cc46ed"
+},
+{
+"title": "Sebastian Lodrige: Burden | Artificial & Natural",
+"start": "2026-11-26T09:00",
+"end": "2026-12-23T17:00",
+"allDay": false,
+"ongoing": true,
+"venue": "Acadiana Center for the Arts",
+"address": "",
+"price": "Free",
+"free": true,
+"cats": [
+"arts"
+],
+"desc": "",
+"url": "https://acadianacenterforthearts.org/sebastian-lodrige/?occurrence=2026-11-26",
+"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/10/Asset-1-scaled.png",
+"source": "Acadiana Center for the Arts",
+"alsoOn": [
+"Acadiana Center for the Arts (all events)"
+],
+"hot": true,
+"id": "87f8b83e87"
+},
+{
+"title": "Valcour Records | 20 Years",
+"start": "2026-11-26T09:00",
+"end": "2027-02-27T17:00",
+"allDay": false,
+"ongoing": true,
+"venue": "Acadiana Center for the Arts",
+"address": "",
+"price": "Free",
+"free": true,
+"cats": [
+"arts"
+],
+"desc": "",
+"url": "https://acadianacenterforthearts.org/valcour-records?occurrence=2026-11-26",
+"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/11/ValcourHeader.jpg",
+"source": "Acadiana Center for the Arts",
+"alsoOn": [
+"Acadiana Center for the Arts (all events)"
+],
+"id": "e607e2d6a3"
 },
 {
 "title": "Thanksgiving Brunch",
@@ -6461,6 +6317,25 @@
 "imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
 "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
 "id": "fab40f278e"
+},
+{
+"title": "Harland Williams: COMZILLA Comedy Tour 2027",
+"start": "2027-01-24T18:30",
+"end": "2027-01-24T22:00",
+"allDay": false,
+"ongoing": false,
+"venue": "Club 337",
+"address": "1521 W Pinhook Rd, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"theater"
+],
+"desc": "Harland Williams: COMZILLA Comedy Tour 2027\nLafayette Comedy presents Harland Williams: COMZILLA Comedy Tour\nSunday, January 24th at 6:30PM & 8:30PM\nTickets go on sale on Friday, Aug. 14th to the general public at 8:00 AM. Mailing list subscribers get early access now (check your email)\nVIP (reserved seating in the first 3 rows) and General Admission tickets available (plus taxes/fees).\nComedian and Actor Harland Williams is known the world over for his hilarious movie roles and outlandish stand up and sketch comedy routines. From his unforgettable roles in films such as Dumb and Dumber, Something about Mary, Half Baked, Rocketman, Sorority Boys, Down Periscope and so many more.\nHarland has been described as a scene stealing actor whose unique portrayals of his characters keep them etched in the minds of filmgoers everywhere. Add to this his incredible stand up comedy routines, which have been seen on Letterman, The Tonight Show, Conan O’Brian, HBO, Comedy Central and everywhere else.\nDescribed as sharp, witty, unpredictable and original; Harland is the true master of joke telling and crowd interaction. His improvisational skills led to him winning the award for best improviser on NBC’s prime time series, ‘Thank God You Are Here’ (available on YouTube ).\nHarland Williams is the rare comic artist who has managed to master both Stand Up and Sketch comedy and combine them both masterfully into his shows. Fresh, funny and always full of the unexpected, Harland’s incredible shows are not to be missed.\n\nUnless otherwise stated, please consider all of our shows as “adult subject matter.”\nNo refunds will be issued unless the show is canceled or rescheduled.\nNo third-party tickets allowed (do not purchase from StubHub or other 3rd party sites)\nClub 337 is inside the DoubleTree Hotel at 1521 W Pinhook Rd, Lafayette, LA. (Free Parking)\nClub 337 has theater-style seating on a first-come, first-served basis | Drinks can be purchased at the bar | 2 full bars and a restaurant on-site.",
+"url": "https://happeningnext.com/event/harland-williams-comzilla-comedy-tour-2027-eid3a0e1u4r9t",
+"image": "https://cdn.happeningnext.com/events5/banners/b82e68413f547932c0f6619397f719d9371aa47c4133bc5bddac6e800073e0d3-rimg-w1200-h675-dc080808-gmir?v=1788804678",
+"source": "Happening Next (comedy)",
+"id": "cb8f8181c6"
 }
 ]
 }

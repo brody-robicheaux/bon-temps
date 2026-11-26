@@ -45,7 +45,7 @@
   "usual": 79
  },
  "Happening Next (art)": {
-  "usual": 43
+  "usual": 42
  },
  "Happening Next (exhibitions)": {
   "usual": 3
@@ -67,15 +67,15 @@
  },
  "Lafayette city government": {},
  "Ragin' Cajuns home games": {
-  "usual": 17,
-  "since": "2026-11-26T19:08:39+00:00",
-  "why": "HTTPError: HTTP Error 504: Gateway Time-out (showing last good results)"
+  "usual": 17
  },
  "Submitted": {
   "usual": 1
  },
  "Cajundome": {
-  "usual": 7
+  "usual": 7,
+  "since": "2026-11-26T21:06:06+00:00",
+  "why": "RuntimeError: no event links on the events page (48131 bytes) (showing last good results)"
  },
  "Rock'n'Bowl de Lafayette": {
   "usual": 2

@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-26T19:08:41Z",
+"updated": "2026-11-26T21:06:07Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -79,7 +79,7 @@
 {
 "name": "Happening Next (art)",
 "ok": true,
-"count": 43
+"count": 42
 },
 {
 "name": "Happening Next (exhibitions)",
@@ -118,9 +118,8 @@
 },
 {
 "name": "Ragin' Cajuns home games",
-"ok": false,
-"count": 17,
-"note": "HTTPError: HTTP Error 504: Gateway Time-out (showing last good results)"
+"ok": true,
+"count": 17
 },
 {
 "name": "Ticketmaster (Cajundome & touring shows)",
@@ -135,8 +134,9 @@
 },
 {
 "name": "Cajundome",
-"ok": true,
-"count": 7
+"ok": false,
+"count": 7,
+"note": "RuntimeError: no event links on the events page (48131 bytes) (showing last good results)"
 },
 {
 "name": "Rock'n'Bowl de Lafayette",
@@ -763,8 +763,7 @@
 "imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
 "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
 "hot": true,
-"id": "5cd63fbd7c",
-"alsoOn": []
+"id": "5cd63fbd7c"
 },
 {
 "title": "The Slackers",
@@ -997,8 +996,7 @@
 "source": "Ragin' Cajuns home games",
 "imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
 "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
-"id": "8d0efbb06f",
-"alsoOn": []
+"id": "8d0efbb06f"
 },
 {
 "title": "SOSAWRLD 2",
@@ -1214,25 +1212,6 @@
 "id": "345b9e370d"
 },
 {
-"title": "Museum Makers: Portraits in Blue — An Introduction to Cyanotype Photography",
-"start": "2026-12-02T00:00",
-"end": null,
-"allDay": true,
-"ongoing": false,
-"venue": "710 E Saint Mary Blvd, Lafayette",
-"address": "Hilliard University Art Museum, 710 E Saint Mary Blvd, Lafayette",
-"price": "",
-"free": false,
-"cats": [
-"arts"
-],
-"desc": "",
-"url": "https://happeningnext.com/event/museum-makers-portraits-in-blue-—-an-introduction-to-cyanotype-photography-eid3a0eci7gbs",
-"image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy8wMWEwYmRjNjMyM2E5ZjkwOGY1MTg4ZDAwMDUxNDRkNzlhMDRlM2ZmMTBkNzUzZmNmNjc1ODM1NTczNjZiMTUyLXJpbWctdzEyMDAtaDM3Ni1kY2U4ZThlOC1nbWlyP3Y9MTc5NTQ5NDUxOA.avif",
-"source": "Happening Next (art)",
-"id": "c5a0413100"
-},
-{
 "title": "Museum Makers: Exploring Cyanotype Through Nature",
 "start": "2026-12-02T17:00",
 "end": "2026-12-02T20:00",
@@ -1337,8 +1316,7 @@
 "source": "Ragin' Cajuns home games",
 "imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
 "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
-"id": "4cf8c03852",
-"alsoOn": []
+"id": "4cf8c03852"
 },
 {
 "title": "Trivia Night with Jay Steiner",
@@ -2509,7 +2487,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "ac7306e0d5"
+"id": "ac7306e0d5",
+"alsoOn": []
 },
 {
 "title": "Noël Acadien au Village",
@@ -2567,7 +2546,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "925c27b074"
+"id": "925c27b074",
+"alsoOn": []
 },
 {
 "title": "Noël Acadien au Village",
@@ -2644,7 +2624,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "4f89739324"
+"id": "4f89739324",
+"alsoOn": []
 },
 {
 "title": "Line Dance Class & Holiday Social",
@@ -2834,7 +2815,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "93bac03628"
+"id": "93bac03628",
+"alsoOn": []
 },
 {
 "title": "The American Creed in Words and Images",
@@ -3004,7 +2986,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "5876381c12"
+"id": "5876381c12",
+"alsoOn": []
 },
 {
 "title": "Holiday Chocolate Tasting",
@@ -3418,7 +3401,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "c0d1dca356"
+"id": "c0d1dca356",
+"alsoOn": []
 },
 {
 "title": "Fall '26 End of Season Shows: Day 1",
@@ -4175,8 +4159,7 @@
 "source": "Ragin' Cajuns home games",
 "imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
 "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
-"id": "58faff33e2",
-"alsoOn": []
+"id": "58faff33e2"
 },
 {
 "title": "Trivia Night with Jay Steiner",
@@ -4547,8 +4530,7 @@
 "source": "Ragin' Cajuns home games",
 "imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
 "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
-"id": "f3f04fc572",
-"alsoOn": []
+"id": "f3f04fc572"
 },
 {
 "title": "S.T.A.R.S. (Siblings Talk About Real Stuff)",
@@ -4593,8 +4575,7 @@
 "source": "Ragin' Cajuns home games",
 "imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
 "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
-"id": "5651f18d4c",
-"alsoOn": []
+"id": "5651f18d4c"
 },
 {
 "title": "Noël Acadien au Village",
@@ -4777,7 +4758,8 @@
 "url": "https://www.cajundome.com/events/detail/all-red-affair-2026",
 "image": "",
 "source": "Cajundome",
-"id": "4022e39939"
+"id": "4022e39939",
+"alsoOn": []
 },
 {
 "title": "A Drag Brunch Christmas Special",
@@ -5266,8 +5248,7 @@
 "source": "Ragin' Cajuns home games",
 "imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
 "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
-"id": "5205e3c8e7",
-"alsoOn": []
+"id": "5205e3c8e7"
 },
 {
 "title": "🎾 Cardio Tennis 🎾",
@@ -5368,8 +5349,7 @@
 "source": "Ragin' Cajuns home games",
 "imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
 "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
-"id": "3e20fb37d5",
-"alsoOn": []
+"id": "3e20fb37d5"
 },
 {
 "title": "Bag of Donuts | Rock'n'Bowl® de Lafayette",
@@ -5428,8 +5408,7 @@
 "source": "Ragin' Cajuns home games",
 "imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
 "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
-"id": "2c6853d3ec",
-"alsoOn": []
+"id": "2c6853d3ec"
 },
 {
 "title": "Wayne Toups | Rock'n'Bowl® de Lafayette",
@@ -5517,8 +5496,7 @@
 "source": "Ragin' Cajuns home games",
 "imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
 "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
-"id": "9b2abffb53",
-"alsoOn": []
+"id": "9b2abffb53"
 },
 {
 "title": "Mid Winter Fair Rodeo",
@@ -5715,8 +5693,7 @@
 "source": "Ragin' Cajuns home games",
 "imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
 "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
-"id": "3b5f504e3d",
-"alsoOn": []
+"id": "3b5f504e3d"
 },
 {
 "title": "Bayou Mardi Gras Parade",
@@ -5917,8 +5894,7 @@
 "source": "Ragin' Cajuns home games",
 "imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
 "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
-"id": "b826009fcf",
-"alsoOn": []
+"id": "b826009fcf"
 },
 {
 "title": "We Will Rock You (Streva Productions)",
@@ -6065,8 +6041,7 @@
 "source": "Ragin' Cajuns home games",
 "imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
 "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
-"id": "ef8432ce0f",
-"alsoOn": []
+"id": "ef8432ce0f"
 },
 {
 "title": "A Knight to Toast the Saints",
@@ -6188,8 +6163,7 @@
 "source": "Ragin' Cajuns home games",
 "imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
 "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
-"id": "08ffd50c1d",
-"alsoOn": []
+"id": "08ffd50c1d"
 },
 {
 "title": "GOODWOLF 200hr RYT Yoga Teacher Training",
@@ -6229,8 +6203,7 @@
 "source": "Ragin' Cajuns home games",
 "imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
 "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
-"id": "4944b18bb3",
-"alsoOn": []
+"id": "4944b18bb3"
 },
 {
 "title": "Candlelight: Tribute to Adele",
@@ -6431,8 +6404,7 @@
 "source": "Ragin' Cajuns home games",
 "imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
 "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
-"id": "6dc36a7eb0",
-"alsoOn": []
+"id": "6dc36a7eb0"
 },
 {
 "title": "Ragin' Cajuns Men's Basketball vs Troy - Love Our Schools Day | Kid's Day",
@@ -6454,8 +6426,7 @@
 "source": "Ragin' Cajuns home games",
 "imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
 "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
-"id": "fab40f278e",
-"alsoOn": []
+"id": "fab40f278e"
 },
 {
 "title": "Harland Williams: COMZILLA Comedy Tour 2027",

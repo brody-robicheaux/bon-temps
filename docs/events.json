@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-26T21:06:07Z",
+"updated": "2026-11-26T23:05:42Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -44,7 +44,7 @@
 {
 "name": "Happening Next (Lafayette live music)",
 "ok": true,
-"count": 60
+"count": 59
 },
 {
 "name": "Happening Next (theatre)",
@@ -89,12 +89,12 @@
 {
 "name": "Happening Next (food & drinks)",
 "ok": true,
-"count": 26
+"count": 27
 },
 {
 "name": "Happening Next (health wellness)",
 "ok": true,
-"count": 18
+"count": 19
 },
 {
 "name": "Happening Next (fitness)",
@@ -134,9 +134,8 @@
 },
 {
 "name": "Cajundome",
-"ok": false,
-"count": 7,
-"note": "RuntimeError: no event links on the events page (48131 bytes) (showing last good results)"
+"ok": true,
+"count": 7
 },
 {
 "name": "Rock'n'Bowl de Lafayette",
@@ -1210,6 +1209,26 @@
 "Happening Next (music)"
 ],
 "id": "345b9e370d"
+},
+{
+"title": "Acadiana Myco | Growing Gourmet Mushrooms Together 🍄",
+"start": "2026-12-02T16:30",
+"end": "2026-12-02T19:30",
+"allDay": false,
+"ongoing": false,
+"venue": "211-A Guilbeau Rd, Lafayette",
+"address": "211 Guilbeau Rd, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"food",
+"family"
+],
+"desc": "🍄 Growing Mushrooms. Growing Community.\nJoin Acadiana Myco for another evening of hands-on mushroom cultivation, education and community!\nAt our last gathering, we welcomed three new members who each inoculated and took home a bag of Oyster mushroom grain spawn.\nThey’ll be bringing their grain bags back, and we’ll demonstrate the next stage of cultivation by transferring fully colonized grain spawn into Master’s Mix, a hardwood and soybean hull substrate.\nWhether you’re an experienced grower, a complete beginner or just curious about the fascinating world of fungi, there’s something for everyone.\n🍄 Hands-on mushroom cultivation\n🍄 Learn about grain spawn and substrate\n🍄 Free beginner mushroom grow kits, one per new growing family\n🍄 Connect with fellow mushroom enthusiasts\nNo experience necessary. Growing is optional, and families are always welcome.\n😋 Coming hungry? There’s also a food truck at the location that a couple of our members have tried and recommend, if it’s open that evening.\n📅 Wednesday, December 2\n⏰ 4:30–7:30 PM\n📍 211-A Guilbeau Rd, Lafayette, LA 70506\nOur gatherings are always FREE and open to the public.\nCome grow with us!\n#AcadianaMyco #GrowingMushrooms #GrowingCommunity #GourmetMushrooms #Acadiana",
+"url": "https://happeningnext.com/event/acadiana-myco-growing-gourmet-mushrooms-together-eid3a0ecta5jx",
+"image": "https://cdn.happeningnext.com/events1/banners/82887a5f37f8dd6ed70df55923ca2601312cdd42721df11d9bd534e9f5610eff-rimg-w1200-h1335-dc080808-gmir?v=1795602007",
+"source": "Happening Next (food & drinks)",
+"id": "1aefd7d08e"
 },
 {
 "title": "Museum Makers: Exploring Cyanotype Through Nature",
@@ -2487,8 +2506,7 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "ac7306e0d5",
-"alsoOn": []
+"id": "ac7306e0d5"
 },
 {
 "title": "Noël Acadien au Village",
@@ -2546,8 +2564,7 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "925c27b074",
-"alsoOn": []
+"id": "925c27b074"
 },
 {
 "title": "Noël Acadien au Village",
@@ -2624,8 +2641,7 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "4f89739324",
-"alsoOn": []
+"id": "4f89739324"
 },
 {
 "title": "Line Dance Class & Holiday Social",
@@ -2815,8 +2831,7 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "93bac03628",
-"alsoOn": []
+"id": "93bac03628"
 },
 {
 "title": "The American Creed in Words and Images",
@@ -2986,8 +3001,7 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "5876381c12",
-"alsoOn": []
+"id": "5876381c12"
 },
 {
 "title": "Holiday Chocolate Tasting",
@@ -3401,8 +3415,7 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "c0d1dca356",
-"alsoOn": []
+"id": "c0d1dca356"
 },
 {
 "title": "Fall '26 End of Season Shows: Day 1",
@@ -4758,8 +4771,7 @@
 "url": "https://www.cajundome.com/events/detail/all-red-affair-2026",
 "image": "",
 "source": "Cajundome",
-"id": "4022e39939",
-"alsoOn": []
+"id": "4022e39939"
 },
 {
 "title": "A Drag Brunch Christmas Special",
@@ -4910,7 +4922,6 @@
 "image": "https://images.squarespace-cdn.com/content/v1/5e5959c0bfd4157aee22bd55/1789927430139-KXL1Q4LI6ZVNS9LO7WG8/805924360_1692821042843101_6953230594546101094_n.jpg",
 "source": "Hideaway on Lee",
 "alsoOn": [
-"Happening Next (Lafayette live music)",
 "Happening Next (music)"
 ],
 "id": "a3d7d11d8b"

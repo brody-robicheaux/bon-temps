@@ -24,7 +24,7 @@
   "usual": 17
  },
  "Happening Next (Lafayette live music)": {
-  "usual": 60
+  "usual": 59
  },
  "Happening Next (theatre)": {
   "usual": 11
@@ -51,10 +51,10 @@
   "usual": 3
  },
  "Happening Next (food & drinks)": {
-  "usual": 26
+  "usual": 27
  },
  "Happening Next (health wellness)": {
-  "usual": 18
+  "usual": 19
  },
  "Happening Next (fitness)": {
   "usual": 15
@@ -73,9 +73,7 @@
   "usual": 1
  },
  "Cajundome": {
-  "usual": 7,
-  "since": "2026-11-26T21:06:06+00:00",
-  "why": "RuntimeError: no event links on the events page (48131 bytes) (showing last good results)"
+  "usual": 7
  },
  "Rock'n'Bowl de Lafayette": {
   "usual": 2

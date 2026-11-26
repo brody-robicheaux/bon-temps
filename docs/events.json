@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-26T07:29:10Z",
+"updated": "2026-11-26T09:18:26Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -44,7 +44,7 @@
 {
 "name": "Happening Next (Lafayette live music)",
 "ok": true,
-"count": 58
+"count": 60
 },
 {
 "name": "Happening Next (theatre)",
@@ -54,7 +54,7 @@
 {
 "name": "Happening Next (performances)",
 "ok": true,
-"count": 59
+"count": 60
 },
 {
 "name": "Happening Next (comedy)",
@@ -69,7 +69,7 @@
 {
 "name": "Happening Next (concerts)",
 "ok": true,
-"count": 34
+"count": 35
 },
 {
 "name": "Happening Next (music)",
@@ -99,7 +99,7 @@
 {
 "name": "Happening Next (fitness)",
 "ok": true,
-"count": 8
+"count": 15
 },
 {
 "name": "Happening Next (festivals)",
@@ -1109,6 +1109,25 @@
 "image": "https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54756026/AT%2012-1%20Instagram%20Post%2045_xzut.png",
 "source": "Blue Moon Saloon",
 "id": "1139f5bade"
+},
+{
+"title": "🎾 Cardio Tennis 🎾",
+"start": "2026-12-01T18:00",
+"end": "2026-12-01T19:00",
+"allDay": false,
+"ongoing": false,
+"venue": "City Club at River Ranch",
+"address": "1100 Camellia Blvd, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"sports"
+],
+"desc": "*Member Only Event*\nJoin us every Tuesday from 6:00–7:00 PM for Cardio Tennis, a complimentary group tennis clinic designed for all skill levels! Set to upbeat music, this high-energy class combines repetition drills, match play, and cardio for a fun workout on the courts.\nWhether you’re looking to improve your game, break a sweat, or just have fun with friends, Cardio Tennis is a great way to spend your Tuesday evening.\n✨ All levels welcome\n🎶 Upbeat music & energetic atmosphere\n💪 Cardio + tennis drills + match play\n📍 Meet at the City Club at River Ranch tennis courts\n✅ No sign up necessary\nJust show up ready to play! 🎾",
+"url": "https://happeningnext.com/event/cardio-tennis-eid3a0ecta3ui",
+"image": "https://cdn.happeningnext.com/events8/banners/690bc8786a42ad937ff50f4bc2a006c128c5f86741d183228863c5aee3b892fd-rimg-w960-h540-dcd8c8b8-gmir?v=1795601994",
+"source": "Happening Next (fitness)",
+"id": "b9d7aaa58a"
 },
 {
 "title": "Ragin' Roots Traditional Music Ensemble Showcase",
@@ -2552,6 +2571,25 @@
 "id": "892c9b87b9"
 },
 {
+"title": "🎾 Cardio Tennis 🎾",
+"start": "2026-12-08T18:00",
+"end": "2026-12-08T19:00",
+"allDay": false,
+"ongoing": false,
+"venue": "City Club at River Ranch",
+"address": "1100 Camellia Blvd, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"sports"
+],
+"desc": "*Member Only Event*\nJoin us every Tuesday from 6:00–7:00 PM for Cardio Tennis, a complimentary group tennis clinic designed for all skill levels! Set to upbeat music, this high-energy class combines repetition drills, match play, and cardio for a fun workout on the courts.\nWhether you’re looking to improve your game, break a sweat, or just have fun with friends, Cardio Tennis is a great way to spend your Tuesday evening.\n✨ All levels welcome\n🎶 Upbeat music & energetic atmosphere\n💪 Cardio + tennis drills + match play\n📍 Meet at the City Club at River Ranch tennis courts\n✅ No sign up necessary\nJust show up ready to play! 🎾",
+"url": "https://happeningnext.com/event/cardio-tennis-eid3a0ecta48b",
+"image": "https://cdn.happeningnext.com/events7/banners/ac97165479fe6d1227896627230fe586b9512828b76d9fd80b576dfa7fceca4e-rimg-w960-h540-dcd8c8b8-gmir?v=1795601995",
+"source": "Happening Next (fitness)",
+"id": "d7556321fa"
+},
+{
 "title": "Mahj & Music",
 "start": "2026-12-09T08:30",
 "end": null,
@@ -2858,8 +2896,11 @@
 "desc": "The Has Beans perform an eclectic mix of Cajun, Zydeco, Americana, Swamp Blues as well as an ever expanding repertoire of original songs. Unafraid to color outside of the lines, but always keeping that strong South Louisiana groove going. The Has Beans are a band that could only have come out of the fertile musical climate of Lafayette, Louisiana!\nMusicians Danny Kimball (drums), Ward Lormand (accordion), Blake Castille (guitar), Phil Kaelin (guitar), Tommy Bodin (bass), Henry Hample (fiddle) all spent years playing, absorbing and learning from the legends of Cajun, Creole and Zydeco music. Has Beans inspiration and namesake comes from Red Beans and Rice Revue (including original \"Bean\" Danny Kimball), who were one of the early influences of Cajun music to the youth of South Louisiana in the mid 1970’s.\nIn the early 70's dancehalls like Jay’s Lounge, Bon Ton Rouler’ and Hamilton Club became the foundation for a growing appreciation of local music. This is where groups like Red Beans and Rice Revue, Zachary Richard and Michael Doucet's pre - Beausoleil group \"Coteau\" were setting the old dancehalls on fire. The music pouring out of the dances was exciting, very danceable and yes, rebellious; Traditional Cajun tunes and instruments blended with the melodic, improvisational lead guitar influence of the Allman Brothers and GratefulDead. The music blasting out of these old dance halls turned a whole younger generation onto the indigenous music of South Louisiana.",
 "url": "https://happeningnext.com/event/free-show-the-has-beans-eid3a0ecv4dbu",
 "image": "https://cdn.happeningnext.com/events8/banners/48a4af12b42efa60280a6362b4a366d14ec337034e30ea55fe06e2478a65d9a1-rimg-w960-h540-dc184878-gmir?v=1795627828",
-"source": "Happening Next (music)",
+"source": "Happening Next (Lafayette live music)",
 "alsoOn": [
+"Happening Next (concerts)",
+"Happening Next (music)",
+"Happening Next (performances)",
 "Hideaway on Lee"
 ],
 "id": "229015b717"
@@ -3852,8 +3893,9 @@
 "desc": "Zydeco Sunday!",
 "url": "https://happeningnext.com/event/rusty-metoyer-andamp-zydeco-krush-rocknbowl-de-lafayette-eid3a0ecv4dwm",
 "image": "https://cdn.happeningnext.com/events5/banners/4603726e218a3d0f0fe3b70a780c8226598f86552b4e6fbbee149b665a2138cf-rimg-w1200-h628-dce8e8d8-gmir?v=1795627832",
-"source": "Happening Next (music)",
+"source": "Happening Next (Lafayette live music)",
 "alsoOn": [
+"Happening Next (music)",
 "Rock'n'Bowl de Lafayette"
 ],
 "id": "0a06593c7e"
@@ -4012,6 +4054,25 @@
 "image": "https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54756026/AT%20open%20mic%20final%20postable_UUGU.png",
 "source": "Blue Moon Saloon",
 "id": "6309d38c40"
+},
+{
+"title": "🎾 Cardio Tennis 🎾",
+"start": "2026-12-15T18:00",
+"end": "2026-12-15T19:00",
+"allDay": false,
+"ongoing": false,
+"venue": "City Club at River Ranch",
+"address": "1100 Camellia Blvd, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"sports"
+],
+"desc": "*Member Only Event*\nJoin us every Tuesday from 6:00–7:00 PM for Cardio Tennis, a complimentary group tennis clinic designed for all skill levels! Set to upbeat music, this high-energy class combines repetition drills, match play, and cardio for a fun workout on the courts.\nWhether you’re looking to improve your game, break a sweat, or just have fun with friends, Cardio Tennis is a great way to spend your Tuesday evening.\n✨ All levels welcome\n🎶 Upbeat music & energetic atmosphere\n💪 Cardio + tennis drills + match play\n📍 Meet at the City Club at River Ranch tennis courts\n✅ No sign up necessary\nJust show up ready to play! 🎾",
+"url": "https://happeningnext.com/event/cardio-tennis-eid3a0ecta524",
+"image": "https://cdn.happeningnext.com/events1/banners/2b747a45a2c534b0c5d621fba9227f9a807846153c846ab2b8f7c61f10c19d72-rimg-w960-h540-dcd8c8b8-gmir?v=1795602000",
+"source": "Happening Next (fitness)",
+"id": "8908535b38"
 },
 {
 "title": "Holiday Concert",
@@ -4906,6 +4967,9 @@
 "url": "https://happeningnext.com/event/cardio-tennis-eid3a0ecta5mw",
 "image": "https://cdn.happeningnext.com/events4/banners/d419c7c1ee0156473a3ff0f0c1a0130ee9cca00c53d8677060b1e6215716474e-rimg-w960-h540-dcd8c8b8-gmir?v=1795602008",
 "source": "Happening Next (health wellness)",
+"alsoOn": [
+"Happening Next (fitness)"
+],
 "id": "2dbefa42eb"
 },
 {
@@ -5182,6 +5246,25 @@
 "id": "5205e3c8e7"
 },
 {
+"title": "🎾 Cardio Tennis 🎾",
+"start": "2026-12-29T18:00",
+"end": "2026-12-29T19:00",
+"allDay": false,
+"ongoing": false,
+"venue": "City Club at River Ranch",
+"address": "1100 Camellia Blvd, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"sports"
+],
+"desc": "*Member Only Event*\nJoin us every Tuesday from 6:00–7:00 PM for Cardio Tennis, a complimentary group tennis clinic designed for all skill levels! Set to upbeat music, this high-energy class combines repetition drills, match play, and cardio for a fun workout on the courts.\nWhether you’re looking to improve your game, break a sweat, or just have fun with friends, Cardio Tennis is a great way to spend your Tuesday evening.\n✨ All levels welcome\n🎶 Upbeat music & energetic atmosphere\n💪 Cardio + tennis drills + match play\n📍 Meet at the City Club at River Ranch tennis courts\n✅ No sign up necessary\nJust show up ready to play! 🎾",
+"url": "https://happeningnext.com/event/cardio-tennis-eid3a0ecta6ol",
+"image": "https://cdn.happeningnext.com/events1/banners/2aa93609920b1517039fbed6a96562176a242da6a2170f41fda712832fe43abe-rimg-w1200-h675-dcd8c8b8-gmir?v=1795602021",
+"source": "Happening Next (fitness)",
+"id": "f5e6410fe0"
+},
+{
 "title": "Cajun Jam",
 "start": "2026-12-30T20:00",
 "end": null,
@@ -5364,6 +5447,9 @@
 "url": "https://happeningnext.com/event/cardio-tennis-eid3a0ecta78c",
 "image": "https://cdn.happeningnext.com/events2/banners/f49b77b6cf55f4680428fc6bc675843d4936ad9d3c7979d8953c5a7e48714453-rimg-w960-h540-dcd8c8b8-gmir?v=1795602024",
 "source": "Happening Next (health wellness)",
+"alsoOn": [
+"Happening Next (fitness)"
+],
 "id": "628b2ee34e"
 },
 {
@@ -5745,6 +5831,25 @@
 "Heymann Performing Arts Center"
 ],
 "id": "664e331244"
+},
+{
+"title": "🎾 Cardio Tennis 🎾",
+"start": "2027-01-12T18:00",
+"end": "2027-01-12T19:00",
+"allDay": false,
+"ongoing": false,
+"venue": "City Club at River Ranch",
+"address": "1100 Camellia Blvd, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"sports"
+],
+"desc": "*Member Only Event*\nJoin us every Tuesday from 6:00–7:00 PM for Cardio Tennis, a complimentary group tennis clinic designed for all skill levels! Set to upbeat music, this high-energy class combines repetition drills, match play, and cardio for a fun workout on the courts.\nWhether you’re looking to improve your game, break a sweat, or just have fun with friends, Cardio Tennis is a great way to spend your Tuesday evening.\n✨ All levels welcome\n🎶 Upbeat music & energetic atmosphere\n💪 Cardio + tennis drills + match play\n📍 Meet at the City Club at River Ranch tennis courts\n✅ No sign up necessary\nJust show up ready to play! 🎾",
+"url": "https://happeningnext.com/event/cardio-tennis-eid3a0ecta8on",
+"image": "https://cdn.happeningnext.com/events8/banners/0d4213562dcb6993202c7de4c85f19614b461ba91be2d8e1d7d3b83816396f8c-rimg-w1200-h675-dcd8c8b8-gmir?v=1795602035",
+"source": "Happening Next (fitness)",
+"id": "7c0db90252"
 },
 {
 "title": "Harlem Globetrotters: Rivalry Tour Presented By Sprite",

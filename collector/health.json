@@ -42,7 +42,7 @@
   "usual": 35
  },
  "Happening Next (music)": {
-  "usual": 78
+  "usual": 79
  },
  "Happening Next (art)": {
   "usual": 43
@@ -67,7 +67,9 @@
  },
  "Lafayette city government": {},
  "Ragin' Cajuns home games": {
-  "usual": 17
+  "usual": 17,
+  "since": "2026-11-26T19:08:39+00:00",
+  "why": "HTTPError: HTTP Error 504: Gateway Time-out (showing last good results)"
  },
  "Submitted": {
   "usual": 1

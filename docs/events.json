@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-26T17:18:41Z",
+"updated": "2026-11-26T19:08:41Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -74,7 +74,7 @@
 {
 "name": "Happening Next (music)",
 "ok": true,
-"count": 78
+"count": 79
 },
 {
 "name": "Happening Next (art)",
@@ -118,8 +118,9 @@
 },
 {
 "name": "Ragin' Cajuns home games",
-"ok": true,
-"count": 17
+"ok": false,
+"count": 17,
+"note": "HTTPError: HTTP Error 504: Gateway Time-out (showing last good results)"
 },
 {
 "name": "Ticketmaster (Cajundome & touring shows)",
@@ -762,7 +763,8 @@
 "imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
 "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
 "hot": true,
-"id": "5cd63fbd7c"
+"id": "5cd63fbd7c",
+"alsoOn": []
 },
 {
 "title": "The Slackers",
@@ -995,7 +997,8 @@
 "source": "Ragin' Cajuns home games",
 "imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
 "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
-"id": "8d0efbb06f"
+"id": "8d0efbb06f",
+"alsoOn": []
 },
 {
 "title": "SOSAWRLD 2",
@@ -1334,7 +1337,8 @@
 "source": "Ragin' Cajuns home games",
 "imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
 "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
-"id": "4cf8c03852"
+"id": "4cf8c03852",
+"alsoOn": []
 },
 {
 "title": "Trivia Night with Jay Steiner",
@@ -4171,7 +4175,8 @@
 "source": "Ragin' Cajuns home games",
 "imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
 "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
-"id": "58faff33e2"
+"id": "58faff33e2",
+"alsoOn": []
 },
 {
 "title": "Trivia Night with Jay Steiner",
@@ -4542,7 +4547,8 @@
 "source": "Ragin' Cajuns home games",
 "imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
 "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
-"id": "f3f04fc572"
+"id": "f3f04fc572",
+"alsoOn": []
 },
 {
 "title": "S.T.A.R.S. (Siblings Talk About Real Stuff)",
@@ -4587,7 +4593,8 @@
 "source": "Ragin' Cajuns home games",
 "imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
 "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
-"id": "5651f18d4c"
+"id": "5651f18d4c",
+"alsoOn": []
 },
 {
 "title": "Noël Acadien au Village",
@@ -4921,7 +4928,8 @@
 "image": "https://images.squarespace-cdn.com/content/v1/5e5959c0bfd4157aee22bd55/1789927430139-KXL1Q4LI6ZVNS9LO7WG8/805924360_1692821042843101_6953230594546101094_n.jpg",
 "source": "Hideaway on Lee",
 "alsoOn": [
-"Happening Next (Lafayette live music)"
+"Happening Next (Lafayette live music)",
+"Happening Next (music)"
 ],
 "id": "a3d7d11d8b"
 },
@@ -5258,7 +5266,8 @@
 "source": "Ragin' Cajuns home games",
 "imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
 "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
-"id": "5205e3c8e7"
+"id": "5205e3c8e7",
+"alsoOn": []
 },
 {
 "title": "🎾 Cardio Tennis 🎾",
@@ -5359,7 +5368,8 @@
 "source": "Ragin' Cajuns home games",
 "imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
 "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
-"id": "3e20fb37d5"
+"id": "3e20fb37d5",
+"alsoOn": []
 },
 {
 "title": "Bag of Donuts | Rock'n'Bowl® de Lafayette",
@@ -5418,7 +5428,8 @@
 "source": "Ragin' Cajuns home games",
 "imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
 "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
-"id": "2c6853d3ec"
+"id": "2c6853d3ec",
+"alsoOn": []
 },
 {
 "title": "Wayne Toups | Rock'n'Bowl® de Lafayette",
@@ -5506,7 +5517,8 @@
 "source": "Ragin' Cajuns home games",
 "imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
 "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
-"id": "9b2abffb53"
+"id": "9b2abffb53",
+"alsoOn": []
 },
 {
 "title": "Mid Winter Fair Rodeo",
@@ -5703,7 +5715,8 @@
 "source": "Ragin' Cajuns home games",
 "imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
 "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
-"id": "3b5f504e3d"
+"id": "3b5f504e3d",
+"alsoOn": []
 },
 {
 "title": "Bayou Mardi Gras Parade",
@@ -5904,7 +5917,8 @@
 "source": "Ragin' Cajuns home games",
 "imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
 "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
-"id": "b826009fcf"
+"id": "b826009fcf",
+"alsoOn": []
 },
 {
 "title": "We Will Rock You (Streva Productions)",
@@ -6051,7 +6065,8 @@
 "source": "Ragin' Cajuns home games",
 "imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
 "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
-"id": "ef8432ce0f"
+"id": "ef8432ce0f",
+"alsoOn": []
 },
 {
 "title": "A Knight to Toast the Saints",
@@ -6173,7 +6188,8 @@
 "source": "Ragin' Cajuns home games",
 "imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
 "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
-"id": "08ffd50c1d"
+"id": "08ffd50c1d",
+"alsoOn": []
 },
 {
 "title": "GOODWOLF 200hr RYT Yoga Teacher Training",
@@ -6213,7 +6229,8 @@
 "source": "Ragin' Cajuns home games",
 "imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
 "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
-"id": "4944b18bb3"
+"id": "4944b18bb3",
+"alsoOn": []
 },
 {
 "title": "Candlelight: Tribute to Adele",
@@ -6414,7 +6431,8 @@
 "source": "Ragin' Cajuns home games",
 "imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
 "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
-"id": "6dc36a7eb0"
+"id": "6dc36a7eb0",
+"alsoOn": []
 },
 {
 "title": "Ragin' Cajuns Men's Basketball vs Troy - Love Our Schools Day | Kid's Day",
@@ -6436,7 +6454,8 @@
 "source": "Ragin' Cajuns home games",
 "imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
 "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
-"id": "fab40f278e"
+"id": "fab40f278e",
+"alsoOn": []
 },
 {
 "title": "Harland Williams: COMZILLA Comedy Tour 2027",

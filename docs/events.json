@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-27T19:05:47Z",
+"updated": "2026-11-27T21:07:07Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -74,7 +74,7 @@
 {
 "name": "Happening Next (music)",
 "ok": true,
-"count": 87
+"count": 82
 },
 {
 "name": "Happening Next (art)",
@@ -1254,25 +1254,6 @@
 "id": "bc3ee80ca6"
 },
 {
-"title": "Gloria's Thanksgiving Eve Open Jam",
-"start": "2026-12-02T20:00",
-"end": "2026-12-02T23:00",
-"allDay": false,
-"ongoing": false,
-"venue": "Gloria's Bar & Grill",
-"address": "106 Merchants Blvd, Lafayette",
-"price": "",
-"free": false,
-"cats": [
-"music"
-],
-"desc": "Kick off the holiday with us - great company, good music, and a great time!\nCome and join us Thanksgiving Eve at Gloria's for our monthly open jam! We'll have all the instruments you need, but you can of course bring your own! Not a musician? Just come for the good time and great music.\nYes, it's the night before Thanksgiving, but everyone is off work the next morning so why not come out and have a good time with us?\nAll skill levels are welcome! 21+",
-"url": "https://happeningnext.com/event/glorias-thanksgiving-eve-open-jam-eid3a0ed3leh0",
-"image": "https://cdn.happeningnext.com/events10/banners/3222499439f62f5ab7cb93aa9ba8a394945c766c03a41a5d244ab0940e7d1e1d-rimg-w1200-h1500-dc183868-gmir?v=1795664862",
-"source": "Happening Next (music)",
-"id": "7bf36847b9"
-},
-{
 "title": "OPEN MIC STONER ROCK JAM",
 "start": "2026-12-02T20:00",
 "end": "2026-12-02T23:00",
@@ -1463,26 +1444,6 @@
 "id": "5daccc2ba0"
 },
 {
-"title": "Good Vibes Happy Hour ft. DJ Snuz Butt’n · Reba Water Tasting",
-"start": "2026-12-04T00:00",
-"end": null,
-"allDay": true,
-"ongoing": false,
-"venue": "425 Jefferson Street, Lafayette",
-"address": "",
-"price": "",
-"free": false,
-"cats": [
-"music",
-"food"
-],
-"desc": "",
-"url": "https://happeningnext.com/event/good-vibes-happy-hour-ft-dj-snuz-butt’n-·-reba-water-tasting-eid3a0ed4r9ml",
-"image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy8wZmJmYTVmOGVmNTBlZDIxNmU0M2I2MjZlNjY5Y2VkZWFkMzE5YTkwYjkyZmVkNjc3MDdkNGNmN2I3NGY4Mjk2LXJpbWctdzk2MC1oNTAzLWRjMjgyODI4LWdtaXI_dj0xNzk1NjkxNTMz.avif",
-"source": "Happening Next (music)",
-"id": "889ed41989"
-},
-{
 "title": "The Real Story of Christmas",
 "start": "2026-12-04T10:00",
 "end": "2026-12-06T10:00",
@@ -1592,26 +1553,6 @@
 "id": "ac89a3a911"
 },
 {
-"title": "Bluegrass for Charity Concert",
-"start": "2026-12-04T19:00",
-"end": null,
-"allDay": false,
-"ongoing": false,
-"venue": "Parish Church",
-"address": "1400 W University Ave, Lafayette",
-"price": "",
-"free": false,
-"cats": [
-"music",
-"community"
-],
-"desc": "🎵 BLUEGRASS FOR CHARITY on 12/4 🎵\nJoin us for a bluegrass concert to benefit The Sparrow Foundation, helping victims of human trafficking.\nSwampland String Band formed out of a bluegrass jam in 2021, bringing together some of the top pickers from across Louisiana. The band performs a variety of bluegrass standards, swing, and more on festival stages, back porches, and anywhere in between.\nShowtime is 7:00pm, doors open at 6:00. Tickets are $12 at the door, kids 16 and under get in free. All proceeds go to The Sparrow Foundation.\nMore details about The Sparrow Foundation at http://thesparrow.foundation",
-"url": "https://happeningnext.com/event/bluegrass-for-charity-concert-eid3a0ed4r97t",
-"image": "https://cdn.happeningnext.com/events8/banners/27e2c82dc82d9c0f57b4c9d943a15b3f425d4711b52535d8976bbb0600bc949b-rimg-w1200-h1553-dce8e8d8-gmir?v=1795691531",
-"source": "Happening Next (music)",
-"id": "29208558b5"
-},
-{
 "title": "Chorale Acadienne Presents: Christmas by Candlelight",
 "start": "2026-12-04T19:00",
 "end": null,
@@ -1711,25 +1652,6 @@
 "image": "https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54756026/dom%20francis%20pic_UW1F.jpg",
 "source": "Blue Moon Saloon",
 "id": "5851a331a4"
-},
-{
-"title": "Live at Sala: Dwight James & the Royals + The Debtors",
-"start": "2026-12-04T20:00",
-"end": "2026-12-04T23:45",
-"allDay": false,
-"ongoing": false,
-"venue": "425 Jefferson Street, Lafayette",
-"address": "",
-"price": "",
-"free": false,
-"cats": [
-"music"
-],
-"desc": "Dwight James & the Royals + The Debtors live at Sala Good Vibes, night 2 of 9 of 12 Days of Good Vibes. Doors at 8:00 PM, music until midnight. $10 Thanksgiving Special tickets through Sunday, Nov 29 · $15 online from Monday, Nov 30 (plus taxes & fees) · $20 at the door. Only 50 spots per show. Tickets: https://www.socialentertainment.net/events · Bora pra Sala!",
-"url": "https://happeningnext.com/event/live-at-sala-dwight-james-andamp-the-royals-the-debtors-eid3a0ed4r8o4",
-"image": "https://cdn.happeningnext.com/events3/banners/daeda84fbecf07d7a08d11d3d44d0749b4c556a6b3a4d559f5021c68fd364b25-rimg-w1200-h628-dc282828-gmir?v=1795691527",
-"source": "Happening Next (music)",
-"id": "b4f2142d70"
 },
 {
 "title": "Nik Parr & The Selfless Lovers",
@@ -2277,6 +2199,25 @@
 "image": "https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54756026/the%20links%20red_TRH8.jpg",
 "source": "Blue Moon Saloon",
 "id": "bee7490a72"
+},
+{
+"title": "Domingão Braziliana ft. DJ RV",
+"start": "2026-12-06T00:00",
+"end": null,
+"allDay": true,
+"ongoing": false,
+"venue": "425 Jefferson Street, Lafayette",
+"address": "",
+"price": "",
+"free": false,
+"cats": [
+"music"
+],
+"desc": "",
+"url": "https://happeningnext.com/event/domingão-braziliana-ft-dj-rv-eid3a0ed4r94s",
+"image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy80YmY3OGZiNTg1NDU5NTUwODFlMTU3MzE4NjI2ODY3YzkxOGU4ZTE1MTU4NDI3OGU3OTI2YWJlMTdlN2IyMzgyLXJpbWctdzEyMDAtaDYyOC1kYzM4MjgyOC1nbWlyP3Y9MTc5NTY5MTUyOA.avif",
+"source": "Happening Next (music)",
+"id": "4cde17d265"
 },
 {
 "title": "Teddy Bear Tea 2026",
@@ -3436,10 +3377,7 @@
 "desc": "Downtown ArtWalk stops at Sala: local artists and DJ Hit-N-Run. Free · RSVP at https://www.socialentertainment.net/events (only 50 spots). Part of 12 Days of Good Vibes at Sala Good Vibes. Bora pra Sala!",
 "url": "https://happeningnext.com/event/saturday-matinee-art-walk-vibes-ft-dj-hit-n-run-eid3a0ed4r9pj",
 "image": "https://cdn.happeningnext.com/events8/banners/a45d4fe5fc3bb6a201a744de7ee6db8508ab24397ab28c71db161252b921f414-rimg-w960-h503-dc282828-gmir?v=1795691533",
-"source": "Happening Next (music)",
-"alsoOn": [
-"Happening Next (art)"
-],
+"source": "Happening Next (art)",
 "id": "a8e26c3b96"
 },
 {
@@ -3727,25 +3665,6 @@
 "id": "b2a5f02f83"
 },
 {
-"title": "Domingão Braziliana ft. DJ RV",
-"start": "2026-12-13T00:00",
-"end": null,
-"allDay": true,
-"ongoing": false,
-"venue": "425 Jefferson Street, Lafayette",
-"address": "",
-"price": "",
-"free": false,
-"cats": [
-"music"
-],
-"desc": "",
-"url": "https://happeningnext.com/event/domingão-braziliana-ft-dj-rv-eid3a0ed4r94s",
-"image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy80YmY3OGZiNTg1NDU5NTUwODFlMTU3MzE4NjI2ODY3YzkxOGU4ZTE1MTU4NDI3OGU3OTI2YWJlMTdlN2IyMzgyLXJpbWctdzEyMDAtaDYyOC1kYzM4MjgyOC1nbWlyP3Y9MTc5NTY5MTUyOA.avif",
-"source": "Happening Next (music)",
-"id": "b678f234ca"
-},
-{
 "title": "Champions Course 5K",
 "start": "2026-12-13T10:00",
 "end": "2026-12-13T13:00",
@@ -3843,6 +3762,27 @@
 "image": "https://static.wixstatic.com/media/62d2c2_859eeda219ab432cb5506f85fae87fe2~mv2.jpeg/v1/fill/w_1079,h_880,al_c,q_85/62d2c2_859eeda219ab432cb5506f85fae87fe2~mv2.jpeg",
 "source": "Cité des Arts",
 "id": "9141c8ae71"
+},
+{
+"title": "A Christmas Cantata",
+"start": "2026-12-13T15:00",
+"end": "2026-12-13T16:00",
+"allDay": false,
+"ongoing": false,
+"venue": "Trinity Christian Methodist Episcopal Church",
+"address": "604 Lee Ave, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"music",
+"family",
+"community"
+],
+"desc": "To celebrate the holidays the Acadiana Ecumenical choir of the Gospel Music Workshop of America will present music by the late great Glen Burleigh’s Christmas Cantata. Free to the public and family friendly event.",
+"url": "https://happeningnext.com/event/a-christmas-cantata-eid3a0e7lfwgf",
+"image": "https://cdn.happeningnext.com/events1/banners/57ca94334a7c8173143888f6fc35674ce0bd5939e93c403a35f78956b50106fa-rimg-w1103-h1470-dce8e8e8-gmir?v=1792789451",
+"source": "Happening Next (music)",
+"id": "7d98a7febf"
 },
 {
 "title": "Sounds of the Season",
@@ -4292,25 +4232,6 @@
 "Hideaway on Lee"
 ],
 "id": "db0703545b"
-},
-{
-"title": "Live at Sala: Kelli Jones + Gee Scott & Pocket",
-"start": "2026-12-17T19:00",
-"end": "2026-12-17T23:45",
-"allDay": false,
-"ongoing": false,
-"venue": "425 Jefferson Street, Lafayette",
-"address": "",
-"price": "",
-"free": false,
-"cats": [
-"music"
-],
-"desc": "Kelli Jones + Gee Scott & Pocket live at Sala Good Vibes, night 7 of 9 of 12 Days of Good Vibes. Doors at 7:00 PM, music until midnight. $10 Thanksgiving Special tickets through Sunday, Nov 29 · $15 online from Monday, Nov 30 (plus taxes & fees) · $20 at the door. Only 50 spots per show. Tickets: https://www.socialentertainment.net/events · Bora pra Sala!",
-"url": "https://happeningnext.com/event/live-at-sala-kelli-jones-gee-scott-andamp-pocket-eid3a0ed4r9si",
-"image": "https://cdn.happeningnext.com/events8/banners/3775bd9352ffb2c7e3845a120cc2b8ec4d7ba7997d8a363bdbd0c79a2d1186e1-rimg-w1200-h628-dc282828-gmir?v=1795691534",
-"source": "Happening Next (music)",
-"id": "37caaf6a71"
 },
 {
 "title": "Nether Hour",

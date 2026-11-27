@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-27T07:28:30Z",
+"updated": "2026-11-27T09:17:18Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -79,7 +79,7 @@
 {
 "name": "Happening Next (art)",
 "ok": true,
-"count": 42
+"count": 44
 },
 {
 "name": "Happening Next (exhibitions)",
@@ -134,8 +134,9 @@
 },
 {
 "name": "Cajundome",
-"ok": true,
-"count": 7
+"ok": false,
+"count": 7,
+"note": "RuntimeError: no event links on the events page (48036 bytes) (showing last good results)"
 },
 {
 "name": "Rock'n'Bowl de Lafayette",
@@ -261,7 +262,6 @@
 "alsoOn": [
 "Acadiana Center for the Arts (all events)"
 ],
-"hot": true,
 "id": "d5773c2e0f"
 },
 {
@@ -325,7 +325,6 @@
 "alsoOn": [
 "Acadiana Center for the Arts (all events)"
 ],
-"hot": true,
 "id": "87f8b83e87"
 },
 {
@@ -620,7 +619,6 @@
 "source": "Ragin' Cajuns home games",
 "imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
 "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
-"hot": true,
 "id": "5cd63fbd7c"
 },
 {
@@ -1106,6 +1104,9 @@
 "url": "https://hilliardartmuseum.org/event/museum-makers-exploring-cyanotype-through-nature/",
 "image": "https://hilliardartmuseum.org/wp-content/uploads/2026/11/Hero-Image.-July-23-2026-Workshop-2026-94.webp",
 "source": "Hilliard Art Museum",
+"alsoOn": [
+"Happening Next (art)"
+],
 "id": "829ab1a623"
 },
 {
@@ -2443,7 +2444,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "ac7306e0d5"
+"id": "ac7306e0d5",
+"alsoOn": []
 },
 {
 "title": "Noël Acadien au Village",
@@ -2501,7 +2503,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "925c27b074"
+"id": "925c27b074",
+"alsoOn": []
 },
 {
 "title": "Noël Acadien au Village",
@@ -2578,7 +2581,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "4f89739324"
+"id": "4f89739324",
+"alsoOn": []
 },
 {
 "title": "Line Dance Class & Holiday Social",
@@ -2768,7 +2772,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "93bac03628"
+"id": "93bac03628",
+"alsoOn": []
 },
 {
 "title": "The American Creed in Words and Images",
@@ -2958,7 +2963,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "5876381c12"
+"id": "5876381c12",
+"alsoOn": []
 },
 {
 "title": "Holiday Chocolate Tasting",
@@ -3372,7 +3378,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "c0d1dca356"
+"id": "c0d1dca356",
+"alsoOn": []
 },
 {
 "title": "Fall '26 End of Season Shows: Day 1",
@@ -3418,6 +3425,9 @@
 "url": "https://happeningnext.com/event/saturday-matinee-art-walk-vibes-ft-dj-hit-n-run-eid3a0ed4r9pj",
 "image": "https://cdn.happeningnext.com/events8/banners/a45d4fe5fc3bb6a201a744de7ee6db8508ab24397ab28c71db161252b921f414-rimg-w960-h503-dc282828-gmir?v=1795691533",
 "source": "Happening Next (music)",
+"alsoOn": [
+"Happening Next (art)"
+],
 "id": "a8e26c3b96"
 },
 {
@@ -4766,7 +4776,8 @@
 "url": "https://www.cajundome.com/events/detail/all-red-affair-2026",
 "image": "",
 "source": "Cajundome",
-"id": "4022e39939"
+"id": "4022e39939",
+"alsoOn": []
 },
 {
 "title": "Downtown Holiday Block Party",

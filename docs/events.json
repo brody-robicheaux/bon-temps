@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-27T01:28:30Z",
+"updated": "2026-11-27T03:04:42Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -59,7 +59,7 @@
 {
 "name": "Happening Next (comedy)",
 "ok": true,
-"count": 10
+"count": 9
 },
 {
 "name": "Happening Next (dance)",
@@ -240,7 +240,6 @@
 "image": "https://cdn.happeningnext.com/events6/banners/7d720640-e6e5-11f1-b8a0-65efcc089f98-rimg-w1122-h1402-dc380808-gmir.png?v=1795400875",
 "source": "Happening Next (Lafayette live music)",
 "alsoOn": [
-"Happening Next (comedy)",
 "Happening Next (performances)"
 ],
 "id": "e88562ce05"
@@ -262,7 +261,6 @@
 "url": "https://happeningnext.com/event/community-thanksgiving-dinner-–-free-meal-andamp-delivery-available-eid3a0ec6qba0",
 "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvOGQ3NDBkMTljMTVhNGFjNjViZDA0ZjkyNGIzODFlZmJhZGYxZGQ4Y2NiNGY4YzMyODRmZjI0YjBmM2MzMWY3My1yaW1nLXc5NjAtaDk2MC1kY2Y4ZjhmOC1nbWlyP3Y9MTc5NTM2NzM4MA.avif",
 "source": "Happening Next (food & drinks)",
-"hot": true,
 "id": "72917e823e"
 },
 {

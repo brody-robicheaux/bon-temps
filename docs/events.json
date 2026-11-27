@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-27T11:02:03Z",
+"updated": "2026-11-27T13:24:47Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -44,7 +44,7 @@
 {
 "name": "Happening Next (Lafayette live music)",
 "ok": true,
-"count": 58
+"count": 59
 },
 {
 "name": "Happening Next (theatre)",
@@ -89,7 +89,7 @@
 {
 "name": "Happening Next (food & drinks)",
 "ok": true,
-"count": 23
+"count": 24
 },
 {
 "name": "Happening Next (health wellness)",
@@ -390,6 +390,7 @@
 "url": "https://happeningnext.com/event/vibe-25-celebrating-25-years-of-the-blue-moon-eid3a0ec65sk2",
 "image": "https://cdn.happeningnext.com/events1/banners/1b6575efe85e17b5551364dc674d8d98bf290541da0570862cab21b24202b3a9-rimg-w530-h812-dce8b808-gmir?v=1795357730",
 "source": "Happening Next (music)",
+"hot": true,
 "id": "97c6efac74"
 },
 {
@@ -4793,6 +4794,9 @@
 "url": "https://happeningnext.com/event/downtown-holiday-block-party-eid3a0ed4rb5g",
 "image": "https://cdn.happeningnext.com/events3/banners/4d12c755df0505ffd4965ebaed09c17f06193018d3de9800792f22a656774c93-rimg-w1200-h628-dc382828-gmir?v=1795691562",
 "source": "Happening Next (music)",
+"alsoOn": [
+"Happening Next (food & drinks)"
+],
 "id": "f7df87cdee"
 },
 {
@@ -4944,6 +4948,7 @@
 "image": "https://images.squarespace-cdn.com/content/v1/5e5959c0bfd4157aee22bd55/1789927430139-KXL1Q4LI6ZVNS9LO7WG8/805924360_1692821042843101_6953230594546101094_n.jpg",
 "source": "Hideaway on Lee",
 "alsoOn": [
+"Happening Next (Lafayette live music)",
 "Happening Next (music)"
 ],
 "id": "a3d7d11d8b"
@@ -5217,7 +5222,6 @@
 "Happening Next (concerts)",
 "Happening Next (performances)"
 ],
-"hot": true,
 "id": "c68863470c"
 },
 {
@@ -6052,7 +6056,6 @@
 "alsoOn": [
 "Happening Next (festivals)"
 ],
-"hot": true,
 "id": "0847fd4427"
 },
 {

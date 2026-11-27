@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-27T05:20:31Z",
+"updated": "2026-11-27T07:28:30Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -19,7 +19,7 @@
 {
 "name": "Moncus Park",
 "ok": true,
-"count": 7
+"count": 6
 },
 {
 "name": "Lafayette Travel",
@@ -44,7 +44,7 @@
 {
 "name": "Happening Next (Lafayette live music)",
 "ok": true,
-"count": 59
+"count": 58
 },
 {
 "name": "Happening Next (theatre)",
@@ -54,7 +54,7 @@
 {
 "name": "Happening Next (performances)",
 "ok": true,
-"count": 60
+"count": 59
 },
 {
 "name": "Happening Next (comedy)",
@@ -74,7 +74,7 @@
 {
 "name": "Happening Next (music)",
 "ok": true,
-"count": 79
+"count": 87
 },
 {
 "name": "Happening Next (art)",
@@ -89,7 +89,7 @@
 {
 "name": "Happening Next (food & drinks)",
 "ok": true,
-"count": 27
+"count": 23
 },
 {
 "name": "Happening Next (health wellness)",
@@ -99,7 +99,7 @@
 {
 "name": "Happening Next (fitness)",
 "ok": true,
-"count": 15
+"count": 14
 },
 {
 "name": "Happening Next (festivals)",
@@ -223,88 +223,27 @@
 "id": "59f28890ec"
 },
 {
-"title": "Sissy Nobby",
-"start": "2026-11-25T12:00",
-"end": "2026-11-26T01:30",
+"title": "Dranksgiving : TEC & Friends Live",
+"start": "2026-11-26T22:00",
+"end": "2026-11-27T02:00",
 "allDay": false,
 "ongoing": false,
-"venue": "Truth",
-"address": "114 McKinley St, Lafayette",
-"price": "",
+"venue": "Club truth",
+"address": "114 McKinley Street, Lafayette",
+"price": "$25",
 "free": false,
 "cats": [
 "music"
 ],
-"desc": "",
-"url": "https://happeningnext.com/event/sissy-nobby-eid27punced6ap",
-"image": "https://cdn.happeningnext.com/events6/banners/7d720640-e6e5-11f1-b8a0-65efcc089f98-rimg-w1122-h1402-dc380808-gmir.png?v=1795400875",
-"source": "Happening Next (Lafayette live music)",
-"alsoOn": [
-"Happening Next (performances)"
-],
-"id": "e88562ce05"
-},
-{
-"title": "Community Thanksgiving Dinner – Free Meal & Delivery Available",
-"start": "2026-11-26T00:00",
-"end": null,
-"allDay": true,
-"ongoing": false,
-"venue": "Caffe Cottage",
-"address": "1013 E St Mary Blvd, Lafayette",
-"price": "",
-"free": false,
-"cats": [
-"food"
-],
-"desc": "",
-"url": "https://happeningnext.com/event/community-thanksgiving-dinner-–-free-meal-andamp-delivery-available-eid3a0ec6qba0",
-"image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvOGQ3NDBkMTljMTVhNGFjNjViZDA0ZjkyNGIzODFlZmJhZGYxZGQ4Y2NiNGY4YzMyODRmZjI0YjBmM2MzMWY3My1yaW1nLXc5NjAtaDk2MC1kY2Y4ZjhmOC1nbWlyP3Y9MTc5NTM2NzM4MA.avif",
-"source": "Happening Next (food & drinks)",
-"id": "72917e823e"
-},
-{
-"title": "El Sidos Zydeco & Blues ANNUAL food drive",
-"start": "2026-11-26T00:00",
-"end": null,
-"allDay": false,
-"ongoing": false,
-"venue": "Fairfield",
-"address": "Lafayette",
-"price": "",
-"free": false,
-"cats": [
-"music",
-"food"
-],
-"desc": "El Sido's Thanksgiving Food Drive :\nEl Sido's family, let's fill some tables. 🧡 Our annual Holiday Food Drive is Wednesday, November 18 at El Sido's, 1523 N Saint Antoine St. Doors 6pm, music 7pm till late, $20, DJ Pugg — with Nathan Williams, Leroy Thomas, Jeffery Broussard, Corey Ledet, Leon Chavis, Alphonse Ardoin, Koray Broussard, Buckwheat Jr, Jeremy Fruge, Step Rideau and Lance George. Bring a non-perishable if you can. Info: Michael Dugas (337) 446-1617. That's what this house was always about. 🎶",
-"url": "https://happeningnext.com/event/el-sidos-zydeco-andamp-blues-annual-food-drive-eid3a0eahxl7q",
-"image": "https://cdn.happeningnext.com/events2/banners/d86b4b5adc44d0859dd4f4d72ddf7b1f7d3e0ca63a4760b8646fb3628fefd2d8-rimg-w960-h960-dc381858-gmir?v=1794390540",
+"desc": "Dranksgiving : TEC & Friends Live",
+"url": "https://happeningnext.com/event/dranksgiving-tec-andamp-friends-live-eid1ef0l9x8nb0a",
+"image": "https://cdn.happeningnext.com/events2/banners/38abbfd84df9c0bc5fa535dfb5c9f2d096d749bcce3745d0eebdc49cad6aa6b1-rimg-w1092-h1440-dc280808-gmir.jpg?v=1795653967",
 "source": "Happening Next (music)",
-"id": "dbc9ed7734"
-},
-{
-"title": "Thankful Thursdays",
-"start": "2026-11-26T07:00",
-"end": "2026-11-26T07:01",
-"allDay": false,
-"ongoing": false,
-"venue": "111 Rena Drive, Lafayette",
-"address": "",
-"price": "",
-"free": false,
-"cats": [
-"food"
-],
-"desc": "We are thankful for you! Join us for Thankful Thursdays every Thursday in November. 14% off ALL groceries with your Sandra’s blue bag! Stock up for Thanksgiving with the BEST prices in town. Don’t have a blue bag? Grab one for only $3 and save all year long. Added November bonus… 7% off all groceries every single day with your blue bag!",
-"url": "https://happeningnext.com/event/thankful-thursdays-eid3a0ebw1v8c",
-"image": "https://cdn.happeningnext.com/events6/banners/ce84a96bb151acfc400f87c28fbd272573bd1b903bb7a945e03034374352bf3e-rimg-w960-h365-dcc88848-gmir?v=1795177816",
-"source": "Happening Next (food & drinks)",
-"id": "b873ec5c5f"
+"id": "35f891f830"
 },
 {
 "title": "Artists’ Alliance",
-"start": "2026-11-26T09:00",
+"start": "2026-11-27T09:00",
 "end": "2027-01-09T17:00",
 "allDay": false,
 "ongoing": true,
@@ -316,7 +255,7 @@
 "arts"
 ],
 "desc": "",
-"url": "https://acadianacenterforthearts.org/artists-alliance/?occurrence=2026-11-26",
+"url": "https://acadianacenterforthearts.org/artists-alliance/?occurrence=2026-11-27",
 "image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/08/Spring-Summer-Fall-and-Winter-Light-2026-oil-on-canvas-24_-x-36_.jpeg",
 "source": "Acadiana Center for the Arts",
 "alsoOn": [
@@ -324,132 +263,6 @@
 ],
 "hot": true,
 "id": "d5773c2e0f"
-},
-{
-"title": "JPJ Memorial Turkey Trot",
-"start": "2026-11-26T09:00",
-"end": "2026-11-26T11:00",
-"allDay": false,
-"ongoing": false,
-"venue": "Moncus Park",
-"address": "2913 Johnston Street, Lafayette",
-"price": "Free",
-"free": true,
-"cats": [
-"food",
-"family"
-],
-"desc": "*This is an externally hosted event produced by JPJ Memorial.* Join us for the 5th Annual JPJ Memorial 1-mile Turkey Trot! The event will be held at 9am on Thanksgiving morning at Moncus Park in memory of Jean Paul Judice. Jean Paul believed that his message of loving our world began with family and friends; but, he hoped that by spreading a message of unconditional love among his closest relationships, change would be rippled across the universe. He knew that every person mattered and he loved them unconditionally. This year we are raising funds for St. Joseph Diner. The diner has served meals to those experiencing hunger and food insecurity since 1983. This race is the perfect setting to come together to show gratitude with your community. Learn more and register here: JPJ MEMORIAL TURKEY TROT",
-"url": "https://moncuspark.org/calendar-events/jpj-memorial-turkey-trot-2026/",
-"image": "https://moncuspark.org/wp-content/uploads/2023/09/JPJMemorialTrot.jpg",
-"source": "Moncus Park",
-"alsoOn": [
-"Happening Next (fitness)"
-],
-"id": "77fea69738"
-},
-{
-"title": "Philip Gould: A Selection of Works",
-"start": "2026-11-26T09:00",
-"end": "2026-11-28T17:00",
-"allDay": false,
-"ongoing": false,
-"venue": "Acadiana Center for the Arts",
-"address": "",
-"price": "Free",
-"free": true,
-"cats": [
-"arts"
-],
-"desc": "",
-"url": "https://acadianacenterforthearts.org/philip-gould-2026?occurrence=2026-11-26",
-"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/11/GouldHeader.jpg",
-"source": "Acadiana Center for the Arts",
-"id": "7cf5cc46ed"
-},
-{
-"title": "Sebastian Lodrige: Burden | Artificial & Natural",
-"start": "2026-11-26T09:00",
-"end": "2026-12-23T17:00",
-"allDay": false,
-"ongoing": true,
-"venue": "Acadiana Center for the Arts",
-"address": "",
-"price": "Free",
-"free": true,
-"cats": [
-"arts"
-],
-"desc": "",
-"url": "https://acadianacenterforthearts.org/sebastian-lodrige/?occurrence=2026-11-26",
-"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/10/Asset-1-scaled.png",
-"source": "Acadiana Center for the Arts",
-"alsoOn": [
-"Acadiana Center for the Arts (all events)"
-],
-"hot": true,
-"id": "87f8b83e87"
-},
-{
-"title": "Valcour Records | 20 Years",
-"start": "2026-11-26T09:00",
-"end": "2027-02-27T17:00",
-"allDay": false,
-"ongoing": true,
-"venue": "Acadiana Center for the Arts",
-"address": "",
-"price": "Free",
-"free": true,
-"cats": [
-"arts"
-],
-"desc": "",
-"url": "https://acadianacenterforthearts.org/valcour-records?occurrence=2026-11-26",
-"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/11/ValcourHeader.jpg",
-"source": "Acadiana Center for the Arts",
-"alsoOn": [
-"Acadiana Center for the Arts (all events)"
-],
-"id": "e607e2d6a3"
-},
-{
-"title": "Thanksgiving Brunch",
-"start": "2026-11-26T11:00",
-"end": null,
-"allDay": false,
-"ongoing": false,
-"venue": "City Club at River Ranch",
-"address": "1100 Camellia Blvd, Lafayette",
-"price": "",
-"free": false,
-"cats": [
-"food"
-],
-"desc": "Celebrate Thanksgiving with your family at City Club! Reserve your table for our annual Thanksgiving Brunch on Thursday, November 26th. Enjoy a grand buffet sure to delight your taste buds. Available seatings are at 11 AM, 11:30 AM, 1 PM, and 1:30 PM.\nAdults: $46.95++\nAges 11 & under: $20.95++\nAges 3 & under: Free\nSeats fill up fast, so don’t wait to RSVP at (337) 216-6507. Gather with us for a memorable holiday celebration\nRSVP>>https://qrco.de/ThanksBrunch",
-"url": "https://happeningnext.com/event/thanksgiving-brunch-eid3a0e8gmpb8",
-"image": "https://cdn.happeningnext.com/events4/banners/5a0967f90113520a3819b7f70a9ab2bf41557f6384e1bc2613bb5561febd65c2-rimg-w1200-h1527-dcf8f8f8-gmir?v=1793187493",
-"source": "Happening Next (food & drinks)",
-"id": "c80583b76f"
-},
-{
-"title": "FAITH FAMILY AND FRIENDS THANKSGIVING DINNER",
-"start": "2026-11-26T16:00",
-"end": null,
-"allDay": false,
-"ongoing": false,
-"venue": "Fellowship Hall",
-"address": "104 Rue Fountaine, Lafayette",
-"price": "",
-"free": false,
-"cats": [
-"food",
-"family"
-],
-"desc": "🍂🦃 Faith Family & Friends Thanksgiving Dinner 🦃🍂\nThis year, Faith Lutheran is starting a new tradition—gathering around the table with our church family and friends for a Thanksgiving meal!\nWhether your family lives far away or you’d simply love to share the holiday with others, we invite you to join us. Bring a friend who would enjoy a warm meal and good company, too! ❤️\n📅 Thanksgiving Day: Thursday, November 26\n🕓 4:00 PM\n📍 Fellowship Hall\nA sign-up sheet will be available to help us estimate how many people to prepare for.\nLet’s give thanks, share fellowship, and begin a beautiful new tradition together. There’s a place at the table for you! 🍁",
-"url": "https://happeningnext.com/event/faith-family-and-friends-thanksgiving-dinner-eid3a0e832ijl",
-"image": "https://cdn.happeningnext.com/events5/banners/ccad9ef4d8c87b4455109aa795a3f6f051a91dc46e2413bf3811679fd1607511-rimg-w1200-h1200-dcf8f8e8-gmir?v=1792973219",
-"source": "Happening Next (food & drinks)",
-"id": "f114383ac9"
 },
 {
 "title": "Kate Gordon: Tender Terrain",
@@ -472,6 +285,70 @@
 "Acadiana Center for the Arts (all events)"
 ],
 "id": "759f33eb53"
+},
+{
+"title": "Philip Gould: A Selection of Works",
+"start": "2026-11-27T09:00",
+"end": "2026-11-28T17:00",
+"allDay": false,
+"ongoing": false,
+"venue": "Acadiana Center for the Arts",
+"address": "",
+"price": "Free",
+"free": true,
+"cats": [
+"arts"
+],
+"desc": "",
+"url": "https://acadianacenterforthearts.org/philip-gould-2026?occurrence=2026-11-27",
+"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/11/GouldHeader.jpg",
+"source": "Acadiana Center for the Arts",
+"id": "f6525921e8"
+},
+{
+"title": "Sebastian Lodrige: Burden | Artificial & Natural",
+"start": "2026-11-27T09:00",
+"end": "2026-12-23T17:00",
+"allDay": false,
+"ongoing": true,
+"venue": "Acadiana Center for the Arts",
+"address": "",
+"price": "Free",
+"free": true,
+"cats": [
+"arts"
+],
+"desc": "",
+"url": "https://acadianacenterforthearts.org/sebastian-lodrige/?occurrence=2026-11-27",
+"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/10/Asset-1-scaled.png",
+"source": "Acadiana Center for the Arts",
+"alsoOn": [
+"Acadiana Center for the Arts (all events)"
+],
+"hot": true,
+"id": "87f8b83e87"
+},
+{
+"title": "Valcour Records | 20 Years",
+"start": "2026-11-27T09:00",
+"end": "2027-02-27T17:00",
+"allDay": false,
+"ongoing": true,
+"venue": "Acadiana Center for the Arts",
+"address": "",
+"price": "Free",
+"free": true,
+"cats": [
+"arts"
+],
+"desc": "",
+"url": "https://acadianacenterforthearts.org/valcour-records?occurrence=2026-11-27",
+"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/11/ValcourHeader.jpg",
+"source": "Acadiana Center for the Arts",
+"alsoOn": [
+"Acadiana Center for the Arts (all events)"
+],
+"id": "e607e2d6a3"
 },
 {
 "title": "Van Way & Cousin II",
@@ -1358,6 +1235,25 @@
 "id": "bc3ee80ca6"
 },
 {
+"title": "Gloria's Thanksgiving Eve Open Jam",
+"start": "2026-12-02T20:00",
+"end": "2026-12-02T23:00",
+"allDay": false,
+"ongoing": false,
+"venue": "Gloria's Bar & Grill",
+"address": "106 Merchants Blvd, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"music"
+],
+"desc": "Kick off the holiday with us - great company, good music, and a great time!\nCome and join us Thanksgiving Eve at Gloria's for our monthly open jam! We'll have all the instruments you need, but you can of course bring your own! Not a musician? Just come for the good time and great music.\nYes, it's the night before Thanksgiving, but everyone is off work the next morning so why not come out and have a good time with us?\nAll skill levels are welcome! 21+",
+"url": "https://happeningnext.com/event/glorias-thanksgiving-eve-open-jam-eid3a0ed3leh0",
+"image": "https://cdn.happeningnext.com/events10/banners/3222499439f62f5ab7cb93aa9ba8a394945c766c03a41a5d244ab0940e7d1e1d-rimg-w1200-h1500-dc183868-gmir?v=1795664862",
+"source": "Happening Next (music)",
+"id": "7bf36847b9"
+},
+{
 "title": "OPEN MIC STONER ROCK JAM",
 "start": "2026-12-02T20:00",
 "end": "2026-12-02T23:00",
@@ -1548,6 +1444,26 @@
 "id": "5daccc2ba0"
 },
 {
+"title": "Good Vibes Happy Hour ft. DJ Snuz Butt’n · Reba Water Tasting",
+"start": "2026-12-04T00:00",
+"end": null,
+"allDay": true,
+"ongoing": false,
+"venue": "425 Jefferson Street, Lafayette",
+"address": "",
+"price": "",
+"free": false,
+"cats": [
+"music",
+"food"
+],
+"desc": "",
+"url": "https://happeningnext.com/event/good-vibes-happy-hour-ft-dj-snuz-butt’n-·-reba-water-tasting-eid3a0ed4r9ml",
+"image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy8wZmJmYTVmOGVmNTBlZDIxNmU0M2I2MjZlNjY5Y2VkZWFkMzE5YTkwYjkyZmVkNjc3MDdkNGNmN2I3NGY4Mjk2LXJpbWctdzk2MC1oNTAzLWRjMjgyODI4LWdtaXI_dj0xNzk1NjkxNTMz.avif",
+"source": "Happening Next (music)",
+"id": "889ed41989"
+},
+{
 "title": "The Real Story of Christmas",
 "start": "2026-12-04T10:00",
 "end": "2026-12-06T10:00",
@@ -1657,6 +1573,26 @@
 "id": "ac89a3a911"
 },
 {
+"title": "Bluegrass for Charity Concert",
+"start": "2026-12-04T19:00",
+"end": null,
+"allDay": false,
+"ongoing": false,
+"venue": "Parish Church",
+"address": "1400 W University Ave, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"music",
+"community"
+],
+"desc": "🎵 BLUEGRASS FOR CHARITY on 12/4 🎵\nJoin us for a bluegrass concert to benefit The Sparrow Foundation, helping victims of human trafficking.\nSwampland String Band formed out of a bluegrass jam in 2021, bringing together some of the top pickers from across Louisiana. The band performs a variety of bluegrass standards, swing, and more on festival stages, back porches, and anywhere in between.\nShowtime is 7:00pm, doors open at 6:00. Tickets are $12 at the door, kids 16 and under get in free. All proceeds go to The Sparrow Foundation.\nMore details about The Sparrow Foundation at http://thesparrow.foundation",
+"url": "https://happeningnext.com/event/bluegrass-for-charity-concert-eid3a0ed4r97t",
+"image": "https://cdn.happeningnext.com/events8/banners/27e2c82dc82d9c0f57b4c9d943a15b3f425d4711b52535d8976bbb0600bc949b-rimg-w1200-h1553-dce8e8d8-gmir?v=1795691531",
+"source": "Happening Next (music)",
+"id": "29208558b5"
+},
+{
 "title": "Chorale Acadienne Presents: Christmas by Candlelight",
 "start": "2026-12-04T19:00",
 "end": null,
@@ -1756,6 +1692,25 @@
 "image": "https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54756026/dom%20francis%20pic_UW1F.jpg",
 "source": "Blue Moon Saloon",
 "id": "5851a331a4"
+},
+{
+"title": "Live at Sala: Dwight James & the Royals + The Debtors",
+"start": "2026-12-04T20:00",
+"end": "2026-12-04T23:45",
+"allDay": false,
+"ongoing": false,
+"venue": "425 Jefferson Street, Lafayette",
+"address": "",
+"price": "",
+"free": false,
+"cats": [
+"music"
+],
+"desc": "Dwight James & the Royals + The Debtors live at Sala Good Vibes, night 2 of 9 of 12 Days of Good Vibes. Doors at 8:00 PM, music until midnight. $10 Thanksgiving Special tickets through Sunday, Nov 29 · $15 online from Monday, Nov 30 (plus taxes & fees) · $20 at the door. Only 50 spots per show. Tickets: https://www.socialentertainment.net/events · Bora pra Sala!",
+"url": "https://happeningnext.com/event/live-at-sala-dwight-james-andamp-the-royals-the-debtors-eid3a0ed4r8o4",
+"image": "https://cdn.happeningnext.com/events3/banners/daeda84fbecf07d7a08d11d3d44d0749b4c556a6b3a4d559f5021c68fd364b25-rimg-w1200-h628-dc282828-gmir?v=1795691527",
+"source": "Happening Next (music)",
+"id": "b4f2142d70"
 },
 {
 "title": "Nik Parr & The Selfless Lovers",
@@ -2945,6 +2900,26 @@
 "id": "074fbb368e"
 },
 {
+"title": "Good Vibes Happy Hour ft. DJ Snuz Butt’n · Sojourn Tea & Goods Tasting",
+"start": "2026-12-11T00:00",
+"end": null,
+"allDay": true,
+"ongoing": false,
+"venue": "425 Jefferson Street, Lafayette",
+"address": "",
+"price": "",
+"free": false,
+"cats": [
+"music",
+"food"
+],
+"desc": "",
+"url": "https://happeningnext.com/event/good-vibes-happy-hour-ft-dj-snuz-butt’n-·-sojourn-tea-andamp-goods-tasting-eid3a0ed4r8r2",
+"image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvZWQwZTlhMmI5YTc0NzBlYTgzYWVlZTQ4MzU3MjRiZTk5ODEyNGNmM2QyOTgxMDM1NmM3YmZiOTNjZTJjMTRiNy1yaW1nLXc5NjAtaDUwMy1kYzI4MjgyOC1nbWlyP3Y9MTc5NTY5MTUyNw.avif",
+"source": "Happening Next (music)",
+"id": "b2bfab3a37"
+},
+{
 "title": "Lafayette Gay Men’s Chorus Inaugural Holiday Concert",
 "start": "2026-12-11T00:00",
 "end": null,
@@ -3425,6 +3400,27 @@
 "id": "53d7dc403e"
 },
 {
+"title": "Saturday Matinee: Art Walk Vibes ft. DJ Hit-N-Run",
+"start": "2026-12-12T16:00",
+"end": "2026-12-12T19:00",
+"allDay": false,
+"ongoing": false,
+"venue": "425 Jefferson Street, Lafayette",
+"address": "",
+"price": "",
+"free": false,
+"cats": [
+"music",
+"arts",
+"wellness"
+],
+"desc": "Downtown ArtWalk stops at Sala: local artists and DJ Hit-N-Run. Free · RSVP at https://www.socialentertainment.net/events (only 50 spots). Part of 12 Days of Good Vibes at Sala Good Vibes. Bora pra Sala!",
+"url": "https://happeningnext.com/event/saturday-matinee-art-walk-vibes-ft-dj-hit-n-run-eid3a0ed4r9pj",
+"image": "https://cdn.happeningnext.com/events8/banners/a45d4fe5fc3bb6a201a744de7ee6db8508ab24397ab28c71db161252b921f414-rimg-w960-h503-dc282828-gmir?v=1795691533",
+"source": "Happening Next (music)",
+"id": "a8e26c3b96"
+},
+{
 "title": "Artist Talk: Artists’ Alliance & Tattooed Walls",
 "start": "2026-12-12T16:30",
 "end": "2026-12-12T18:30",
@@ -3709,6 +3705,25 @@
 "id": "b2a5f02f83"
 },
 {
+"title": "Domingão Braziliana ft. DJ RV",
+"start": "2026-12-13T00:00",
+"end": null,
+"allDay": true,
+"ongoing": false,
+"venue": "425 Jefferson Street, Lafayette",
+"address": "",
+"price": "",
+"free": false,
+"cats": [
+"music"
+],
+"desc": "",
+"url": "https://happeningnext.com/event/domingão-braziliana-ft-dj-rv-eid3a0ed4r94s",
+"image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy80YmY3OGZiNTg1NDU5NTUwODFlMTU3MzE4NjI2ODY3YzkxOGU4ZTE1MTU4NDI3OGU3OTI2YWJlMTdlN2IyMzgyLXJpbWctdzEyMDAtaDYyOC1kYzM4MjgyOC1nbWlyP3Y9MTc5NTY5MTUyOA.avif",
+"source": "Happening Next (music)",
+"id": "b678f234ca"
+},
+{
 "title": "Champions Course 5K",
 "start": "2026-12-13T10:00",
 "end": "2026-12-13T13:00",
@@ -3806,27 +3821,6 @@
 "image": "https://static.wixstatic.com/media/62d2c2_859eeda219ab432cb5506f85fae87fe2~mv2.jpeg/v1/fill/w_1079,h_880,al_c,q_85/62d2c2_859eeda219ab432cb5506f85fae87fe2~mv2.jpeg",
 "source": "Cité des Arts",
 "id": "9141c8ae71"
-},
-{
-"title": "A Christmas Cantata",
-"start": "2026-12-13T15:00",
-"end": "2026-12-13T16:00",
-"allDay": false,
-"ongoing": false,
-"venue": "Trinity Christian Methodist Episcopal Church",
-"address": "604 Lee Ave, Lafayette",
-"price": "",
-"free": false,
-"cats": [
-"music",
-"family",
-"community"
-],
-"desc": "To celebrate the holidays the Acadiana Ecumenical choir of the Gospel Music Workshop of America will present music by the late great Glen Burleigh’s Christmas Cantata. Free to the public and family friendly event.",
-"url": "https://happeningnext.com/event/a-christmas-cantata-eid3a0e7lfwgf",
-"image": "https://cdn.happeningnext.com/events1/banners/57ca94334a7c8173143888f6fc35674ce0bd5939e93c403a35f78956b50106fa-rimg-w1103-h1470-dce8e8e8-gmir?v=1792789451",
-"source": "Happening Next (music)",
-"id": "7d98a7febf"
 },
 {
 "title": "Sounds of the Season",
@@ -4276,6 +4270,25 @@
 "Hideaway on Lee"
 ],
 "id": "db0703545b"
+},
+{
+"title": "Live at Sala: Kelli Jones + Gee Scott & Pocket",
+"start": "2026-12-17T19:00",
+"end": "2026-12-17T23:45",
+"allDay": false,
+"ongoing": false,
+"venue": "425 Jefferson Street, Lafayette",
+"address": "",
+"price": "",
+"free": false,
+"cats": [
+"music"
+],
+"desc": "Kelli Jones + Gee Scott & Pocket live at Sala Good Vibes, night 7 of 9 of 12 Days of Good Vibes. Doors at 7:00 PM, music until midnight. $10 Thanksgiving Special tickets through Sunday, Nov 29 · $15 online from Monday, Nov 30 (plus taxes & fees) · $20 at the door. Only 50 spots per show. Tickets: https://www.socialentertainment.net/events · Bora pra Sala!",
+"url": "https://happeningnext.com/event/live-at-sala-kelli-jones-gee-scott-andamp-pocket-eid3a0ed4r9si",
+"image": "https://cdn.happeningnext.com/events8/banners/3775bd9352ffb2c7e3845a120cc2b8ec4d7ba7997d8a363bdbd0c79a2d1186e1-rimg-w1200-h628-dc282828-gmir?v=1795691534",
+"source": "Happening Next (music)",
+"id": "37caaf6a71"
 },
 {
 "title": "Nether Hour",
@@ -4754,6 +4767,27 @@
 "image": "",
 "source": "Cajundome",
 "id": "4022e39939"
+},
+{
+"title": "Downtown Holiday Block Party",
+"start": "2026-12-20T11:00",
+"end": "2026-12-20T18:00",
+"allDay": false,
+"ongoing": false,
+"venue": "425 Jefferson Street, Lafayette",
+"address": "",
+"price": "",
+"free": false,
+"cats": [
+"music",
+"food",
+"arts"
+],
+"desc": "The Day 12 finale on the 400 block of Jefferson St: DJ RV at 11 AM, Saints vs. Buccaneers on a giant outdoor screen at noon, the Braziliana Chef’s Challenge at 2 PM (Team South Louisiana vs. Team Brasil, $5 tasting plates, you vote), awards at 3:30 PM and the Braziliana House Band at 4 PM. Free · RSVP at https://www.socialentertainment.net/events (only 50 spots). Part of 12 Days of Good Vibes at Sala Good Vibes. Bora pra Sala!",
+"url": "https://happeningnext.com/event/downtown-holiday-block-party-eid3a0ed4rb5g",
+"image": "https://cdn.happeningnext.com/events3/banners/4d12c755df0505ffd4965ebaed09c17f06193018d3de9800792f22a656774c93-rimg-w1200-h628-dc382828-gmir?v=1795691562",
+"source": "Happening Next (music)",
+"id": "f7df87cdee"
 },
 {
 "title": "A Drag Brunch Christmas Special",

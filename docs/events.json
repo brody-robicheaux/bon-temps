@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-27T21:07:07Z",
+"updated": "2026-11-27T23:04:42Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -79,7 +79,7 @@
 {
 "name": "Happening Next (art)",
 "ok": true,
-"count": 44
+"count": 42
 },
 {
 "name": "Happening Next (exhibitions)",
@@ -135,7 +135,7 @@
 {
 "name": "Cajundome",
 "ok": true,
-"count": 7
+"count": 8
 },
 {
 "name": "Rock'n'Bowl de Lafayette",
@@ -387,7 +387,6 @@
 "url": "https://happeningnext.com/event/vibe-25-celebrating-25-years-of-the-blue-moon-eid3a0ec65sk2",
 "image": "https://cdn.happeningnext.com/events1/banners/1b6575efe85e17b5551364dc674d8d98bf290541da0570862cab21b24202b3a9-rimg-w530-h812-dce8b808-gmir?v=1795357730",
 "source": "Happening Next (music)",
-"hot": true,
 "id": "97c6efac74"
 },
 {
@@ -576,6 +575,7 @@
 "Happening Next (food & drinks)",
 "Happening Next (music)"
 ],
+"hot": true,
 "id": "1e4ed9a36e"
 },
 {
@@ -1122,9 +1122,6 @@
 "url": "https://hilliardartmuseum.org/event/museum-makers-exploring-cyanotype-through-nature/",
 "image": "https://hilliardartmuseum.org/wp-content/uploads/2026/11/Hero-Image.-July-23-2026-Workshop-2026-94.webp",
 "source": "Hilliard Art Museum",
-"alsoOn": [
-"Happening Next (art)"
-],
 "id": "829ab1a623"
 },
 {
@@ -3360,27 +3357,6 @@
 "id": "53d7dc403e"
 },
 {
-"title": "Saturday Matinee: Art Walk Vibes ft. DJ Hit-N-Run",
-"start": "2026-12-12T16:00",
-"end": "2026-12-12T19:00",
-"allDay": false,
-"ongoing": false,
-"venue": "425 Jefferson Street, Lafayette",
-"address": "",
-"price": "",
-"free": false,
-"cats": [
-"music",
-"arts",
-"wellness"
-],
-"desc": "Downtown ArtWalk stops at Sala: local artists and DJ Hit-N-Run. Free · RSVP at https://www.socialentertainment.net/events (only 50 spots). Part of 12 Days of Good Vibes at Sala Good Vibes. Bora pra Sala!",
-"url": "https://happeningnext.com/event/saturday-matinee-art-walk-vibes-ft-dj-hit-n-run-eid3a0ed4r9pj",
-"image": "https://cdn.happeningnext.com/events8/banners/a45d4fe5fc3bb6a201a744de7ee6db8508ab24397ab28c71db161252b921f414-rimg-w960-h503-dc282828-gmir?v=1795691533",
-"source": "Happening Next (art)",
-"id": "a8e26c3b96"
-},
-{
 "title": "Artist Talk: Artists’ Alliance & Tattooed Walls",
 "start": "2026-12-12T16:30",
 "end": "2026-12-12T18:30",
@@ -4712,6 +4688,25 @@
 "id": "4022e39939"
 },
 {
+"title": "Universal Cheer Association: Louisiana Regional",
+"start": "2026-12-20T08:00",
+"end": null,
+"allDay": false,
+"ongoing": false,
+"venue": "Cajundome",
+"address": "444 Cajundome Blvd, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"family"
+],
+"desc": "Universal Cheerleaders Association: Louisiana Regional\nWe look forward to seeing you at this exciting Varsity Spirit event. Get ready for incredible performances that showcase skill and teamwork in a series of non-stop routines. Bring your friends and family to share in the fun and make memories to last a lifetime!\nTicket Information\nBox Office Opens at 6:30 AM\nTicket Prices*\nAdults (17-64): $18.75\nKids (6-16) / Military (w/ID) / Seniors (65+): $13.50\n*Additional convenience fees apply to online Ticketmaster purchases.",
+"url": "https://www.cajundome.com/events/detail/ucala2025-2",
+"image": "",
+"source": "Cajundome",
+"id": "97310f388e"
+},
+{
 "title": "Downtown Holiday Block Party",
 "start": "2026-12-20T11:00",
 "end": "2026-12-20T18:00",
@@ -5158,6 +5153,7 @@
 "Happening Next (concerts)",
 "Happening Next (performances)"
 ],
+"hot": true,
 "id": "c68863470c"
 },
 {
@@ -5992,6 +5988,7 @@
 "alsoOn": [
 "Happening Next (festivals)"
 ],
+"hot": true,
 "id": "0847fd4427"
 },
 {

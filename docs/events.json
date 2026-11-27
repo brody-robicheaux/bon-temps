@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-27T13:24:47Z",
+"updated": "2026-11-27T15:05:30Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -134,8 +134,9 @@
 },
 {
 "name": "Cajundome",
-"ok": true,
-"count": 7
+"ok": false,
+"count": 7,
+"note": "RuntimeError: no event links on the events page (48036 bytes) (showing last good results)"
 },
 {
 "name": "Rock'n'Bowl de Lafayette",
@@ -281,9 +282,6 @@
 "url": "https://acadianacenterforthearts.org/kate-gordon/?occurrence=2026-11-27",
 "image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/11/King_Kate-Gordon-1.jpg",
 "source": "Acadiana Center for the Arts",
-"alsoOn": [
-"Acadiana Center for the Arts (all events)"
-],
 "id": "759f33eb53"
 },
 {
@@ -579,8 +577,26 @@
 "Happening Next (food & drinks)",
 "Happening Next (music)"
 ],
-"hot": true,
 "id": "1e4ed9a36e"
+},
+{
+"title": "Kate Gordon: Tender Terrain",
+"start": "2026-11-28T09:00",
+"end": "2026-11-28T17:00",
+"allDay": false,
+"ongoing": false,
+"venue": "Acadiana Center for the Arts",
+"address": "",
+"price": "Free",
+"free": true,
+"cats": [
+"arts"
+],
+"desc": "",
+"url": "https://acadianacenterforthearts.org/kate-gordon/?occurrence=2026-11-28",
+"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/11/King_Kate-Gordon-1.jpg",
+"source": "Acadiana Center for the Arts (all events)",
+"id": "22021b1d5a"
 },
 {
 "title": "Elise Riley Band",
@@ -2447,7 +2463,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "ac7306e0d5"
+"id": "ac7306e0d5",
+"alsoOn": []
 },
 {
 "title": "Noël Acadien au Village",
@@ -2505,7 +2522,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "925c27b074"
+"id": "925c27b074",
+"alsoOn": []
 },
 {
 "title": "Noël Acadien au Village",
@@ -2582,7 +2600,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "4f89739324"
+"id": "4f89739324",
+"alsoOn": []
 },
 {
 "title": "Line Dance Class & Holiday Social",
@@ -2772,7 +2791,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "93bac03628"
+"id": "93bac03628",
+"alsoOn": []
 },
 {
 "title": "The American Creed in Words and Images",
@@ -2962,7 +2982,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "5876381c12"
+"id": "5876381c12",
+"alsoOn": []
 },
 {
 "title": "Holiday Chocolate Tasting",
@@ -3376,7 +3397,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "c0d1dca356"
+"id": "c0d1dca356",
+"alsoOn": []
 },
 {
 "title": "Fall '26 End of Season Shows: Day 1",
@@ -4773,7 +4795,8 @@
 "url": "https://www.cajundome.com/events/detail/all-red-affair-2026",
 "image": "",
 "source": "Cajundome",
-"id": "4022e39939"
+"id": "4022e39939",
+"alsoOn": []
 },
 {
 "title": "Downtown Holiday Block Party",

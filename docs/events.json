@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-28T14:58:40Z",
+"updated": "2026-11-28T16:57:36Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -49,7 +49,7 @@
 {
 "name": "Happening Next (theatre)",
 "ok": true,
-"count": 10
+"count": 11
 },
 {
 "name": "Happening Next (performances)",
@@ -348,9 +348,6 @@
 "url": "https://acadianacenterforthearts.org/kate-gordon/?occurrence=2026-11-28",
 "image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/11/King_Kate-Gordon-1.jpg",
 "source": "Acadiana Center for the Arts",
-"alsoOn": [
-"Acadiana Center for the Arts (all events)"
-],
 "id": "22021b1d5a"
 },
 {
@@ -620,6 +617,25 @@
 "image": "https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54756026/KITC%20timely_30hy.png",
 "source": "Blue Moon Saloon",
 "id": "ce270e28d8"
+},
+{
+"title": "Kate Gordon: Tender Terrain",
+"start": "2026-11-29T09:00",
+"end": "2026-11-29T17:00",
+"allDay": false,
+"ongoing": false,
+"venue": "Acadiana Center for the Arts",
+"address": "",
+"price": "Free",
+"free": true,
+"cats": [
+"arts"
+],
+"desc": "",
+"url": "https://acadianacenterforthearts.org/kate-gordon/?occurrence=2026-11-29",
+"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/11/King_Kate-Gordon-1.jpg",
+"source": "Acadiana Center for the Arts (all events)",
+"id": "7d1f4b9488"
 },
 {
 "title": "Bal du Dimanche -- Kristi Guillory & Friends",
@@ -5783,20 +5799,23 @@
 {
 "title": "The Wiz",
 "start": "2027-01-11T19:30",
-"end": null,
+"end": "2027-01-11T21:30",
 "allDay": false,
 "ongoing": false,
 "venue": "Heymann Performing Arts Center",
-"address": "1373 S College Rd, Lafayette",
+"address": "1373 S. College Rd, Lafayette",
 "price": "",
 "free": false,
 "cats": [
 "theater"
 ],
 "desc": "AGES 1 AND UP NEED A TICKET\nThe Tony® Award-winning Best Musical that took the world by storm is back.",
-"url": "https://www.heymanncenter.com/events/2025/the-wiz",
-"image": "https://cdn.saffire.com/images.ashx?t=ig&rid=HeymannCenter&i=LAF26_VENUE_250x250_WIZ.jpg&cb=4192c330",
-"source": "Heymann Performing Arts Center",
+"url": "https://happeningnext.com/event/the-wiz-eid13twljmsou8",
+"image": "https://cdn.happeningnext.com/events2/banners/de5c5240-eb1c-11f1-ae7e-31c56c87bd9f-rimg-w1170-h700-dc080808-gmir.jpg?v=1795864465",
+"source": "Happening Next (theatre)",
+"alsoOn": [
+"Heymann Performing Arts Center"
+],
 "id": "23f2205ce6"
 },
 {

@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-28T05:09:51Z",
+"updated": "2026-11-28T07:23:20Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -39,7 +39,7 @@
 {
 "name": "Hideaway on Lee",
 "ok": true,
-"count": 17
+"count": 16
 },
 {
 "name": "Happening Next (Lafayette live music)",
@@ -74,12 +74,12 @@
 {
 "name": "Happening Next (music)",
 "ok": true,
-"count": 82
+"count": 77
 },
 {
 "name": "Happening Next (art)",
 "ok": true,
-"count": 42
+"count": 39
 },
 {
 "name": "Happening Next (exhibitions)",
@@ -134,8 +134,9 @@
 },
 {
 "name": "Cajundome",
-"ok": true,
-"count": 8
+"ok": false,
+"count": 8,
+"note": "RuntimeError: no event links on the events page (48082 bytes) (showing last good results)"
 },
 {
 "name": "Rock'n'Bowl de Lafayette",
@@ -145,12 +146,12 @@
 {
 "name": "Lafayette Public Library",
 "ok": true,
-"count": 3
+"count": 4
 },
 {
 "name": "Blue Moon Saloon",
 "ok": true,
-"count": 31
+"count": 28
 },
 {
 "name": "Wonderland Performing Arts",
@@ -223,251 +224,6 @@
 "id": "59f28890ec"
 },
 {
-"title": "Dranksgiving : TEC & Friends Live",
-"start": "2026-11-26T22:00",
-"end": "2026-11-27T02:00",
-"allDay": false,
-"ongoing": false,
-"venue": "Club truth",
-"address": "114 McKinley Street, Lafayette",
-"price": "$25",
-"free": false,
-"cats": [
-"music"
-],
-"desc": "Dranksgiving : TEC & Friends Live",
-"url": "https://happeningnext.com/event/dranksgiving-tec-andamp-friends-live-eid1ef0l9x8nb0a",
-"image": "https://cdn.happeningnext.com/events2/banners/38abbfd84df9c0bc5fa535dfb5c9f2d096d749bcce3745d0eebdc49cad6aa6b1-rimg-w1092-h1440-dc280808-gmir.jpg?v=1795653967",
-"source": "Happening Next (music)",
-"id": "35f891f830"
-},
-{
-"title": "Artists’ Alliance",
-"start": "2026-11-27T09:00",
-"end": "2027-01-09T17:00",
-"allDay": false,
-"ongoing": true,
-"venue": "Acadiana Center for the Arts - Main Gallery",
-"address": "101 W Vermilion St, Lafayette",
-"price": "Free",
-"free": true,
-"cats": [
-"arts"
-],
-"desc": "",
-"url": "https://acadianacenterforthearts.org/artists-alliance/?occurrence=2026-11-27",
-"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/08/Spring-Summer-Fall-and-Winter-Light-2026-oil-on-canvas-24_-x-36_.jpeg",
-"source": "Acadiana Center for the Arts",
-"alsoOn": [
-"Acadiana Center for the Arts (all events)"
-],
-"hot": true,
-"id": "d5773c2e0f"
-},
-{
-"title": "Philip Gould: A Selection of Works",
-"start": "2026-11-27T09:00",
-"end": "2026-11-28T17:00",
-"allDay": false,
-"ongoing": false,
-"venue": "Acadiana Center for the Arts",
-"address": "",
-"price": "Free",
-"free": true,
-"cats": [
-"arts"
-],
-"desc": "",
-"url": "https://acadianacenterforthearts.org/philip-gould-2026?occurrence=2026-11-27",
-"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/11/GouldHeader.jpg",
-"source": "Acadiana Center for the Arts",
-"id": "f6525921e8"
-},
-{
-"title": "Sebastian Lodrige: Burden | Artificial & Natural",
-"start": "2026-11-27T09:00",
-"end": "2026-12-23T17:00",
-"allDay": false,
-"ongoing": true,
-"venue": "Acadiana Center for the Arts",
-"address": "",
-"price": "Free",
-"free": true,
-"cats": [
-"arts"
-],
-"desc": "",
-"url": "https://acadianacenterforthearts.org/sebastian-lodrige/?occurrence=2026-11-27",
-"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/10/Asset-1-scaled.png",
-"source": "Acadiana Center for the Arts",
-"alsoOn": [
-"Acadiana Center for the Arts (all events)"
-],
-"hot": true,
-"id": "87f8b83e87"
-},
-{
-"title": "Valcour Records | 20 Years",
-"start": "2026-11-27T09:00",
-"end": "2027-02-27T17:00",
-"allDay": false,
-"ongoing": true,
-"venue": "Acadiana Center for the Arts",
-"address": "",
-"price": "Free",
-"free": true,
-"cats": [
-"arts"
-],
-"desc": "",
-"url": "https://acadianacenterforthearts.org/valcour-records?occurrence=2026-11-27",
-"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/11/ValcourHeader.jpg",
-"source": "Acadiana Center for the Arts",
-"alsoOn": [
-"Acadiana Center for the Arts (all events)"
-],
-"id": "e607e2d6a3"
-},
-{
-"title": "Van Way & Cousin II",
-"start": "2026-11-27T17:15",
-"end": null,
-"allDay": false,
-"ongoing": false,
-"venue": "The Hidden Gator",
-"address": "1604 W Pinhook Rd, Lafayette",
-"price": "",
-"free": false,
-"cats": [
-"arts"
-],
-"desc": "Please join us at the Hidden Gator on Black Friday for 'Van Way & Cousin II'! Collages, paintings and \"figural art\" by Dillon Van Way & James Van Way.",
-"url": "https://happeningnext.com/event/van-way-andamp-cousin-ii-eid3a0e9178hu",
-"image": "https://cdn.happeningnext.com/events10/banners/928258da6a5efe30afb2b02d6b66165c669309558d492cca28c432e9fdaa8d3b-rimg-w1200-h945-dce8e8e8-gmir?v=1793625972",
-"source": "Happening Next (art)",
-"id": "717cfebdb8"
-},
-{
-"title": "Vibe 25: Celebrating 25 Years of the Blue Moon",
-"start": "2026-11-27T18:00",
-"end": null,
-"allDay": false,
-"ongoing": false,
-"venue": "Blue Moon Saloon",
-"address": "215 E Convent St, Lafayette",
-"price": "",
-"free": false,
-"cats": [
-"music",
-"food"
-],
-"desc": "The Blue Moon Saloon is turning 25, and we're throwing a two-day party to celebrate! Join us November 27 & 28 for an incredible lineup of old friends and favorite bands, a gumbo cookoff, and plenty of good times. Come celebrate 25 years of music, memories, and keepin' the vibe alive!\nFriday, November 27\nDoors Open 6:00 PM\nMusic Starts 7:00 PM\nFeaturing Troy Richard (Solo), Roddie Romero & the Hub City Allstars, and $ideQue$t.\nSaturday, November 28\n1-3pm Front porch Cajun jam and Gumbo cook off\n3pm Elise Riley Band\n5pm Slackers\n7pm Grand Nathaniel\n9pm BrassBed\n11pm Knives in the Champion",
-"url": "https://happeningnext.com/event/vibe-25-celebrating-25-years-of-the-blue-moon-eid3a0ec65sk2",
-"image": "https://cdn.happeningnext.com/events1/banners/1b6575efe85e17b5551364dc674d8d98bf290541da0570862cab21b24202b3a9-rimg-w530-h812-dce8b808-gmir?v=1795357730",
-"source": "Happening Next (music)",
-"id": "97c6efac74"
-},
-{
-"title": "Troy Richard",
-"start": "2026-11-27T19:00",
-"end": null,
-"allDay": false,
-"ongoing": false,
-"venue": "Blue Moon Saloon and Guest House",
-"address": "215 East Convent Street, Lafayette",
-"price": "",
-"free": false,
-"cats": [
-"music"
-],
-"desc": "Hailing from Lafayette, Louisiana, and rooted deep in Cajun culture, Troy Richard serves up his own unique blend of musical gumbo. Bringing together a rich mix of sounds, influences, and Louisiana flavor, Troy delivers a solo performance that is as authentic and soulful as the roots he comes from.\n\nBest known as a member of The Richard Revue, Troy steps out on his own to showcase his musical versatility and personality in a more intimate setting. With a sound steeped in South Louisiana tradition and a style all his own, he brings a little something for everyone.\n\nFrom the heart of Acadiana to the stage, Troy Richard brings the flavor, the soul, and the spirit of Louisiana to every performance. Come hungry for some good music and get ready for a musical gumbo like no other!",
-"url": "https://events.timely.fun/kw4jncf1/event/78504055/20261127190000",
-"image": "https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54756026/troy%20richard%20%20timely_xx4k.png",
-"source": "Blue Moon Saloon",
-"id": "a9b08f46d4"
-},
-{
-"title": "Savoy Family Cajun Band",
-"start": "2026-11-27T20:00",
-"end": "2026-11-27T22:00",
-"allDay": false,
-"ongoing": false,
-"venue": "Hideaway on Lee",
-"address": "407 Lee Ave, Lafayette",
-"price": "",
-"free": false,
-"cats": [
-"music",
-"family"
-],
-"desc": "Savoy Family Cajun Band",
-"url": "https://happeningnext.com/event/savoy-family-cajun-band-eid3a0ec6boft",
-"image": "https://cdn.happeningnext.com/events9/banners/e0caec1ad4ddbb687245b3967518d11d859c70b4376b44b1dc6a0e0a0693914f-rimg-w1200-h675-dc180808-gmir?v=1795360994",
-"source": "Happening Next (music)",
-"alsoOn": [
-"Hideaway on Lee"
-],
-"hot": true,
-"id": "82d4e009f7"
-},
-{
-"title": "Roddie Romero and The Hub City Allstars",
-"start": "2026-11-27T20:30",
-"end": null,
-"allDay": false,
-"ongoing": false,
-"venue": "Blue Moon Saloon and Guest House",
-"address": "215 East Convent Street, Lafayette",
-"price": "",
-"free": false,
-"cats": [
-"music"
-],
-"desc": "Straight out of the heart of Acadiana, Roddie Romero & The Hub City Allstars bring the unmistakable sound and spirit of South Louisiana to the stage. Blending traditional Cajun and Creole music with zydeco, swamp pop, blues, funk, soul, and rock 'n' roll, this powerhouse Louisiana band delivers a sound that is as deeply rooted as it is refreshingly original.\n\nLed by singer, songwriter, accordionist, and slide guitarist Roddie Romero, the band celebrates the rich musical heritage of Louisiana while pushing its boundaries into exciting new territory. With soulful vocals, fiery accordion, masterful guitar work, and infectious rhythms, their music captures everything that makes South Louisiana special.\n\nA three-time Grammy-nominated group, the Hub City Allstars have spent more than two decades performing at prestigious festivals and venues, earning recognition for their musicianship, original songwriting, and electrifying live performances. Their critically acclaimed albums, including The La Louisianne Sessions and Gulfstream , showcase a band equally comfortable honoring Louisiana's musical traditions and creating something entirely their own.",
-"url": "https://events.timely.fun/kw4jncf1/event/78485755/20261127203000",
-"image": "https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54756026/roddie%20timely_Lapl.png",
-"source": "Blue Moon Saloon",
-"id": "a8d9afd9d6"
-},
-{
-"title": "The Good Dudes plus Tobias Lund | Rock'n'Bowl® de Lafayette",
-"start": "2026-11-27T21:00",
-"end": null,
-"allDay": false,
-"ongoing": false,
-"venue": "Rock'n'Bowl de Lafayette",
-"address": "905 Jefferson St, Lafayette",
-"price": "",
-"free": false,
-"cats": [
-"music"
-],
-"desc": "Dance off that Thanksgiving dinner! The Good Dudes bring their rock and soul to Rock'n'Bowl® de Lafayette on Friday, November 27 at 9:00 PM, with special guest Tobias Lund opening the show. Bring the whole family crew!",
-"url": "https://happeningnext.com/event/the-good-dudes-plus-tobias-lund-rocknbowl-de-lafayette-eid3a0e7u6i5i",
-"image": "https://cdn.happeningnext.com/events2/banners/795ce74829d45eae9f7baafad1ff86578fd40857266af81deb3953ab27dd1523-rimg-w1200-h628-dcf8e8d8-gmir?v=1792848641",
-"source": "Happening Next (music)",
-"id": "b1a13d6fde"
-},
-{
-"title": "$ideQue$t",
-"start": "2026-11-27T23:00",
-"end": null,
-"allDay": false,
-"ongoing": false,
-"venue": "Blue Moon Saloon and Guest House",
-"address": "215 East Convent Street, Lafayette",
-"price": "",
-"free": false,
-"cats": [
-"music"
-],
-"desc": "SideQuest LA\n\nTwo powerhouse Louisiana musicians, one shared love of great music. SideQuest LA brings together vocalist, songwriter, and drummer Gino V. and guitarist, vocalist, and songwriter Zach Edwards for a musical collaboration that refuses to stay in one lane.\n\nRooted in the sounds of South Louisiana but reaching well beyond its musical borders, SideQuest blends soul, blues, R&B, funk, hip-hop, and good old-fashioned rock and roll. The duo combines original songwriting with unexpected takes on some of their favorite songs, creating a show that is as versatile as it is entertaining.\n\nGino V., born and raised in Delcambre, Louisiana, is a seasoned musician known for his commanding vocals, deep grooves, and dynamic musicianship. He has performed with some of Acadiana's respected artists and notably played drums for Louisiana music legend Wayne Toups.\n\nZach Edwards adds his own distinctive guitar work, vocals, and songwriting to the mix, bringing together the blues, rock, and roots influences that make the SideQuest sound uniquely their own.\n\nWhether delivering soulful originals, stretching out on a blues-rock groove, or putting their own spin on familiar favorites, SideQuest LA brings plenty of musical firepower and personality to the stage.\n\nExpect big grooves, soulful vocals, killer guitar work, and a little bit of everything. SideQuest is anything but an ordinary night of live music.",
-"url": "https://events.timely.fun/kw4jncf1/event/78504058/20261127230000",
-"image": "https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54756026/sidequest%20timely_4p95.png",
-"source": "Blue Moon Saloon",
-"id": "eb1d0866c4"
-},
-{
 "title": "Lafayette Farmers & Artisans Market",
 "start": "2026-11-28T08:00",
 "end": "2026-11-28T12:00",
@@ -529,6 +285,29 @@
 "id": "0300f2f260"
 },
 {
+"title": "Artists’ Alliance",
+"start": "2026-11-28T09:00",
+"end": "2027-01-09T17:00",
+"allDay": false,
+"ongoing": true,
+"venue": "Acadiana Center for the Arts - Main Gallery",
+"address": "101 W Vermilion St, Lafayette",
+"price": "Free",
+"free": true,
+"cats": [
+"arts"
+],
+"desc": "",
+"url": "https://acadianacenterforthearts.org/artists-alliance/?occurrence=2026-11-28",
+"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/08/Spring-Summer-Fall-and-Winter-Light-2026-oil-on-canvas-24_-x-36_.jpeg",
+"source": "Acadiana Center for the Arts",
+"alsoOn": [
+"Acadiana Center for the Arts (all events)"
+],
+"hot": true,
+"id": "d5773c2e0f"
+},
+{
 "title": "Christmas at Couret Holiday Market",
 "start": "2026-11-28T09:00",
 "end": "2026-11-28T15:00",
@@ -574,6 +353,70 @@
 "Acadiana Center for the Arts (all events)"
 ],
 "id": "22021b1d5a"
+},
+{
+"title": "Philip Gould: A Selection of Works",
+"start": "2026-11-28T09:00",
+"end": "2026-11-28T17:00",
+"allDay": false,
+"ongoing": false,
+"venue": "Acadiana Center for the Arts",
+"address": "",
+"price": "Free",
+"free": true,
+"cats": [
+"arts"
+],
+"desc": "",
+"url": "https://acadianacenterforthearts.org/philip-gould-2026?occurrence=2026-11-28",
+"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/11/GouldHeader.jpg",
+"source": "Acadiana Center for the Arts",
+"id": "a528f5b6a9"
+},
+{
+"title": "Sebastian Lodrige: Burden | Artificial & Natural",
+"start": "2026-11-28T09:00",
+"end": "2026-12-23T17:00",
+"allDay": false,
+"ongoing": true,
+"venue": "Acadiana Center for the Arts",
+"address": "",
+"price": "Free",
+"free": true,
+"cats": [
+"arts"
+],
+"desc": "",
+"url": "https://acadianacenterforthearts.org/sebastian-lodrige/?occurrence=2026-11-28",
+"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/10/Asset-1-scaled.png",
+"source": "Acadiana Center for the Arts",
+"alsoOn": [
+"Acadiana Center for the Arts (all events)"
+],
+"hot": true,
+"id": "87f8b83e87"
+},
+{
+"title": "Valcour Records | 20 Years",
+"start": "2026-11-28T09:00",
+"end": "2027-02-27T17:00",
+"allDay": false,
+"ongoing": true,
+"venue": "Acadiana Center for the Arts",
+"address": "",
+"price": "Free",
+"free": true,
+"cats": [
+"arts"
+],
+"desc": "",
+"url": "https://acadianacenterforthearts.org/valcour-records?occurrence=2026-11-28",
+"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/11/ValcourHeader.jpg",
+"source": "Acadiana Center for the Arts",
+"alsoOn": [
+"Acadiana Center for the Arts (all events)"
+],
+"id": "e607e2d6a3"
 },
 {
 "title": "Elise Riley Band",
@@ -848,6 +691,7 @@
 "source": "Ragin' Cajuns home games",
 "imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
 "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
+"hot": true,
 "id": "8d0efbb06f"
 },
 {
@@ -1928,9 +1772,6 @@
 "url": "https://acadianacenterforthearts.org/events/community-zine-2/?occurrence=2026-12-05",
 "image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/08/Artist-Talk-Kate-Gordon-Website.jpg",
 "source": "Acadiana Center for the Arts",
-"alsoOn": [
-"Acadiana Center for the Arts (all events)"
-],
 "id": "e187bd1c8a"
 },
 {
@@ -2463,7 +2304,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "ac7306e0d5"
+"id": "ac7306e0d5",
+"alsoOn": []
 },
 {
 "title": "Noël Acadien au Village",
@@ -2521,7 +2363,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "925c27b074"
+"id": "925c27b074",
+"alsoOn": []
 },
 {
 "title": "Noël Acadien au Village",
@@ -2598,7 +2441,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "4f89739324"
+"id": "4f89739324",
+"alsoOn": []
 },
 {
 "title": "Line Dance Class & Holiday Social",
@@ -2662,9 +2506,6 @@
 "url": "https://acadianacenterforthearts.org/events/artist-round-up-dioramas/?occurrence=2026-12-09",
 "image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/08/Artist-Talk-Kate-Gordon-Website.jpg",
 "source": "Acadiana Center for the Arts",
-"alsoOn": [
-"Acadiana Center for the Arts (all events)"
-],
 "id": "fd5875d152"
 },
 {
@@ -2788,7 +2629,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "93bac03628"
+"id": "93bac03628",
+"alsoOn": []
 },
 {
 "title": "The American Creed in Words and Images",
@@ -2978,7 +2820,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "5876381c12"
+"id": "5876381c12",
+"alsoOn": []
 },
 {
 "title": "Holiday Chocolate Tasting",
@@ -3392,7 +3235,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "c0d1dca356"
+"id": "c0d1dca356",
+"alsoOn": []
 },
 {
 "title": "Fall '26 End of Season Shows: Day 1",
@@ -4251,6 +4095,25 @@
 "id": "354f53a5cc"
 },
 {
+"title": "Movies at Main",
+"start": "2026-12-17T17:30",
+"end": "2026-12-17T19:30",
+"allDay": false,
+"ongoing": false,
+"venue": "Main Library",
+"address": "",
+"price": "",
+"free": false,
+"cats": [
+"arts"
+],
+"desc": "Enjoy nostalgic movies at the Main Library. No registration required. Ages 14 and up. December 10: The Nightmare Before Christmas (PG, 1993). December 17: A Christmas Carol (PG, 2009).",
+"url": "https://lafayettela.libcal.com/event/17532849",
+"image": "",
+"source": "Lafayette Public Library",
+"id": "818299a2fa"
+},
+{
 "title": "Noël Acadien au Village",
 "start": "2026-12-17T17:30",
 "end": "2026-12-17T21:00",
@@ -4810,7 +4673,8 @@
 "url": "https://www.cajundome.com/events/detail/all-red-affair-2026",
 "image": "",
 "source": "Cajundome",
-"id": "4022e39939"
+"id": "4022e39939",
+"alsoOn": []
 },
 {
 "title": "Universal Cheer Association: Louisiana Regional",
@@ -4829,7 +4693,8 @@
 "url": "https://www.cajundome.com/events/detail/ucala2025-2",
 "image": "",
 "source": "Cajundome",
-"id": "97310f388e"
+"id": "97310f388e",
+"alsoOn": []
 },
 {
 "title": "Downtown Holiday Block Party",
@@ -5593,6 +5458,28 @@
 "id": "9b2abffb53"
 },
 {
+"title": "South for Winter",
+"start": "2027-01-07T19:30",
+"end": "2027-01-07T21:30",
+"allDay": false,
+"ongoing": false,
+"venue": "Acadiana Center for the Arts",
+"address": "101 W Vermilion St, Lafayette",
+"price": "$45",
+"free": false,
+"cats": [
+"music"
+],
+"desc": "With a blend of dreamy acoustic duets, foot-stomping folk and bluesy murder ballads, New Zealand-formed and Nashville-based South for Winter’s sound is as eclectic as their origins. The award-winning act melds three-part harmonies, fingerstyle guitar, mandolin, banjo, cello, foot percussion, and more into a genre-bending sound described by American Songwriter as “impeccable”. Between releases, they have toured relentlessly, selling out shows and bringing audiences to their feet around the world.",
+"url": "https://acadianacenterforthearts.org/events/south-for-winter/?occurrence=2027-01-07",
+"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/11/2027-Performance-Website-Images_South-for-Winter.jpg",
+"source": "Acadiana Center for the Arts",
+"alsoOn": [
+"Acadiana Center for the Arts (all events)"
+],
+"id": "478cd4284a"
+},
+{
 "title": "Mid Winter Fair Rodeo",
 "start": "2027-01-08T03:30",
 "end": "2027-01-08T05:30",
@@ -5988,28 +5875,27 @@
 "id": "b826009fcf"
 },
 {
-"title": "We Will Rock You (Streva Productions)",
+"title": "We Will Rock You",
 "start": "2027-01-14T19:00",
-"end": "2027-01-16T21:45",
+"end": "2027-01-14T21:30",
 "allDay": false,
 "ongoing": false,
 "venue": "Acadiana Center for the Arts",
 "address": "101 W Vermilion St, Lafayette",
-"price": "Free",
-"free": true,
+"price": "",
+"free": false,
 "cats": [
 "music"
 ],
-"desc": "WE WILL ROCK YOU, produced by Streva Productions and directed by Jenny Ballard, the worldwide smash-hit musical by Queen and Ben Elton is coming to Acadiana Center for the Arts January 14-16 for four electrifying performances! This multi- million dollar show dazzles all the senses in breathtaking style. Guaranteed to blow your mind, this global theatrical masterpiece is not to be missed! We Will Rock You is a high-energy jukebox musical featuring the iconic songs of Queen, set in a dystopian future where a powerful corporation has outlawed individuality and live music. When a group of rebellious outsiders known as the Bohemians rise up against the conformist regime of the Killer Queen, two young misfits—Galileo and Scaramouche—embark on a quest to rediscover real rock music and the freedom it represents. Packed with humor, heart, and legendary anthems like “Bohemian Rhapsody,” “We Will Rock You,” “Under Pressure,” “Another One Bites the Dust,” “We Are the Champions,” and many other Queen classics, the show celebrates self-expression, community, and the enduring power of rock ’n’ roll. Dates & Times: Thursday, 1/14/2027 7:00–9:45pm Friday, 1/15/2027 7:00–9:45pm Saturday, 1/16/2027 1:00–3:45pm 7:00–9:45pm",
-"url": "https://acadianacenterforthearts.org/events/we-will-rock-you/?occurrence=2027-01-14",
-"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/04/WWRY-with-Words-1-1.jpg",
-"source": "Acadiana Center for the Arts",
+"desc": "🎸 WE WILL ROCK YOU! 👑\nTHE MUSIC OF QUEEN COMES ALIVE IN LAFAYETTE!\nGet ready, Acadiana — WE WILL ROCK YOU! 🤘🔥\nStreva Productions proudly presents WE WILL ROCK YOU, the electrifying rock musical featuring the legendary music of QUEEN!\nDirected by Jenny Ballard, this high-energy theatrical experience brings Queen's unforgettable anthems to life with powerhouse vocals, explosive performances, and all the rock 'n' roll energy you can handle!\n🎶 Featuring legendary hits including:\n🎤 Bohemian Rhapsody\n⚡ We Are the Champions\n❤️ Somebody to Love\n🔥 Another One Bites the Dust\n🤘 We Will Rock You\nSet in a futuristic world where individuality and rock music are forbidden, a group of young rebels dares to challenge the system and bring back the power of ROCK!\nIt's a celebration of freedom, individuality, and the music that defined generations.\n🎭 Produced by Streva Productions\n🎬 Directed by Jenny Ballard\nWhether you're a lifelong Queen fan or discovering these iconic songs for the first time, this is one theatrical experience you won't want to miss!\n👑 THE LEGENDS. THE MUSIC. THE REVOLUTION.\nInvite your friends, spread the word, and get ready to ROCK Lafayette!\n#WeWillRockYou #Queen #StrevaProductions #JennyBallard #LafayetteLA #AcadianaArts #LiveTheatre #RockMusical",
+"url": "https://happeningnext.com/event/we-will-rock-you-eid3a0e9kc225",
+"image": "https://cdn.happeningnext.com/events7/banners/82de412070c77cb61506f485f837ed89a16c191809fd4b79302de9d89d21ef37-rimg-w1200-h800-dc080808-gmir?v=1793936984",
+"source": "Happening Next (Lafayette live music)",
 "alsoOn": [
-"Happening Next (Lafayette live music)",
 "Happening Next (music)",
 "Happening Next (theatre)"
 ],
-"id": "4e17ff0663"
+"id": "69eb2afaea"
 },
 {
 "title": "Miss Louisiana Ultimate USA Scholarship Pageant",
@@ -6295,6 +6181,26 @@
 "imageCredit": "Photo: TheLionHasSeen, CC BY-SA 4.0, via Wikimedia Commons",
 "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cajundome_June_2023.jpg",
 "id": "4944b18bb3"
+},
+{
+"title": "When I Go Away: Remembering Jo-El Sonnier",
+"start": "2027-01-21T19:30",
+"end": "2027-01-21T21:30",
+"allDay": false,
+"ongoing": false,
+"venue": "Acadiana Center for the Arts",
+"address": "101 W Vermilion St, Lafayette",
+"price": "Free",
+"free": true,
+"cats": [
+"music",
+"theater"
+],
+"desc": "Celebrate the enduring legacy of Jo-El Sonnier, one of Louisiana’s most beloved musical ambassadors. With his unmistakable accordion sound, soulful voice, and signature blend of Cajun tradition and country roots, Sonnier carried the spirit of Acadiana to audiences around the world. This special concert honors his extraordinary musical journey and celebrates the release of his posthumous album, When I Go Away. A fitting tribute to a Louisiana legend whose music transcends generations and whose legacy will forever be woven into the fabric of South Louisiana. Presented by",
+"url": "https://acadianacenterforthearts.org/events/when-i-go-away-remembering-jo-el-sonnier/?occurrence=2027-01-21",
+"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/11/2027-Performance-Website-Images_Jo-El.jpg",
+"source": "Acadiana Center for the Arts (all events)",
+"id": "e8af0eb07e"
 },
 {
 "title": "Candlelight: Tribute to Adele",

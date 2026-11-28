@@ -21,7 +21,7 @@
   "usual": 6
  },
  "Hideaway on Lee": {
-  "usual": 17
+  "usual": 16
  },
  "Happening Next (Lafayette live music)": {
   "usual": 60
@@ -42,10 +42,10 @@
   "usual": 36
  },
  "Happening Next (music)": {
-  "usual": 82
+  "usual": 77
  },
  "Happening Next (art)": {
-  "usual": 42
+  "usual": 39
  },
  "Happening Next (exhibitions)": {
   "usual": 3
@@ -73,16 +73,18 @@
   "usual": 1
  },
  "Cajundome": {
-  "usual": 8
+  "usual": 8,
+  "since": "2026-11-28T07:23:19+00:00",
+  "why": "RuntimeError: no event links on the events page (48082 bytes) (showing last good results)"
  },
  "Rock'n'Bowl de Lafayette": {
   "usual": 2
  },
  "Lafayette Public Library": {
-  "usual": 3
+  "usual": 4
  },
  "Blue Moon Saloon": {
-  "usual": 31
+  "usual": 28
  },
  "Wonderland Performing Arts": {},
  "Bon Temps": {

@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-28T09:00:10Z",
+"updated": "2026-11-28T10:57:46Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -74,7 +74,7 @@
 {
 "name": "Happening Next (music)",
 "ok": true,
-"count": 77
+"count": 85
 },
 {
 "name": "Happening Next (art)",
@@ -1005,6 +1005,9 @@
 "url": "https://happeningnext.com/event/sola-shop-concert-paul-daigle-andamp-cajun-gold-eid3a0ed9q77d",
 "image": "https://cdn.happeningnext.com/events8/banners/fc47719b2db5c2cc0b4c91fc51d9470de483c91e7009c95a2fb1aa3fac6aa35e-rimg-w1200-h778-dcf8f8f8-gmir?v=1795764419",
 "source": "Happening Next (concerts)",
+"alsoOn": [
+"Happening Next (music)"
+],
 "id": "c854d8bfe3"
 },
 {
@@ -1089,6 +1092,25 @@
 "image": "https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54756026/Cajun%20Jam%20drew%20simon%20%2012-2_Tqey.png",
 "source": "Blue Moon Saloon",
 "id": "bc3ee80ca6"
+},
+{
+"title": "Gloria's Thanksgiving Eve Open Jam",
+"start": "2026-12-02T20:00",
+"end": "2026-12-02T23:00",
+"allDay": false,
+"ongoing": false,
+"venue": "Gloria's Bar & Grill",
+"address": "106 Merchants Blvd, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"music"
+],
+"desc": "Kick off the holiday with us - great company, good music, and a great time!\nCome and join us Thanksgiving Eve at Gloria's for our monthly open jam! We'll have all the instruments you need, but you can of course bring your own! Not a musician? Just come for the good time and great music.\nYes, it's the night before Thanksgiving, but everyone is off work the next morning so why not come out and have a good time with us?\nAll skill levels are welcome! 21+",
+"url": "https://happeningnext.com/event/glorias-thanksgiving-eve-open-jam-eid3a0ed3leh0",
+"image": "https://cdn.happeningnext.com/events10/banners/3222499439f62f5ab7cb93aa9ba8a394945c766c03a41a5d244ab0940e7d1e1d-rimg-w1200-h1500-dc183868-gmir?v=1795664862",
+"source": "Happening Next (music)",
+"id": "7bf36847b9"
 },
 {
 "title": "OPEN MIC STONER ROCK JAM",
@@ -1281,6 +1303,26 @@
 "id": "5daccc2ba0"
 },
 {
+"title": "Good Vibes Happy Hour ft. DJ Snuz Butt’n · Reba Water Tasting",
+"start": "2026-12-04T00:00",
+"end": null,
+"allDay": true,
+"ongoing": false,
+"venue": "425 Jefferson Street, Lafayette",
+"address": "",
+"price": "",
+"free": false,
+"cats": [
+"music",
+"food"
+],
+"desc": "",
+"url": "https://happeningnext.com/event/good-vibes-happy-hour-ft-dj-snuz-butt’n-·-reba-water-tasting-eid3a0ed4r9ml",
+"image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy8wZmJmYTVmOGVmNTBlZDIxNmU0M2I2MjZlNjY5Y2VkZWFkMzE5YTkwYjkyZmVkNjc3MDdkNGNmN2I3NGY4Mjk2LXJpbWctdzk2MC1oNTAzLWRjMjgyODI4LWdtaXI_dj0xNzk1NjkxNTMz.avif",
+"source": "Happening Next (music)",
+"id": "889ed41989"
+},
+{
 "title": "The Real Story of Christmas",
 "start": "2026-12-04T10:00",
 "end": "2026-12-06T10:00",
@@ -1408,7 +1450,8 @@
 "image": "https://cdn.happeningnext.com/events8/banners/27e2c82dc82d9c0f57b4c9d943a15b3f425d4711b52535d8976bbb0600bc949b-rimg-w1200-h1553-dce8e8d8-gmir?v=1795691531",
 "source": "Happening Next (Lafayette live music)",
 "alsoOn": [
-"Happening Next (concerts)"
+"Happening Next (concerts)",
+"Happening Next (music)"
 ],
 "id": "29208558b5"
 },
@@ -1531,6 +1574,7 @@
 "image": "https://cdn.happeningnext.com/events3/banners/daeda84fbecf07d7a08d11d3d44d0749b4c556a6b3a4d559f5021c68fd364b25-rimg-w1200-h628-dc282828-gmir?v=1795691527",
 "source": "Happening Next (Lafayette live music)",
 "alsoOn": [
+"Happening Next (music)",
 "Happening Next (performances)"
 ],
 "id": "b4f2142d70"
@@ -3274,7 +3318,10 @@
 "desc": "Downtown ArtWalk stops at Sala: local artists and DJ Hit-N-Run. Free · RSVP at https://www.socialentertainment.net/events (only 50 spots). Part of 12 Days of Good Vibes at Sala Good Vibes. Bora pra Sala!",
 "url": "https://happeningnext.com/event/saturday-matinee-art-walk-vibes-ft-dj-hit-n-run-eid3a0ed4r9pj",
 "image": "https://cdn.happeningnext.com/events8/banners/a45d4fe5fc3bb6a201a744de7ee6db8508ab24397ab28c71db161252b921f414-rimg-w960-h503-dc282828-gmir?v=1795691533",
-"source": "Happening Next (exhibitions)",
+"source": "Happening Next (music)",
+"alsoOn": [
+"Happening Next (exhibitions)"
+],
 "id": "a8e26c3b96"
 },
 {
@@ -3660,27 +3707,6 @@
 "image": "https://static.wixstatic.com/media/62d2c2_859eeda219ab432cb5506f85fae87fe2~mv2.jpeg/v1/fill/w_1079,h_880,al_c,q_85/62d2c2_859eeda219ab432cb5506f85fae87fe2~mv2.jpeg",
 "source": "Cité des Arts",
 "id": "9141c8ae71"
-},
-{
-"title": "A Christmas Cantata",
-"start": "2026-12-13T15:00",
-"end": "2026-12-13T16:00",
-"allDay": false,
-"ongoing": false,
-"venue": "Trinity Christian Methodist Episcopal Church",
-"address": "604 Lee Ave, Lafayette",
-"price": "",
-"free": false,
-"cats": [
-"music",
-"family",
-"community"
-],
-"desc": "To celebrate the holidays the Acadiana Ecumenical choir of the Gospel Music Workshop of America will present music by the late great Glen Burleigh’s Christmas Cantata. Free to the public and family friendly event.",
-"url": "https://happeningnext.com/event/a-christmas-cantata-eid3a0e7lfwgf",
-"image": "https://cdn.happeningnext.com/events1/banners/57ca94334a7c8173143888f6fc35674ce0bd5939e93c403a35f78956b50106fa-rimg-w1103-h1470-dce8e8e8-gmir?v=1792789451",
-"source": "Happening Next (music)",
-"id": "7d98a7febf"
 },
 {
 "title": "Sounds of the Season",
@@ -4168,6 +4194,9 @@
 "url": "https://happeningnext.com/event/live-at-sala-kelli-jones-gee-scott-andamp-pocket-eid3a0ed4r9si",
 "image": "https://cdn.happeningnext.com/events8/banners/3775bd9352ffb2c7e3845a120cc2b8ec4d7ba7997d8a363bdbd0c79a2d1186e1-rimg-w1200-h628-dc282828-gmir?v=1795691534",
 "source": "Happening Next (Lafayette live music)",
+"alsoOn": [
+"Happening Next (music)"
+],
 "id": "37caaf6a71"
 },
 {
@@ -4206,7 +4235,10 @@
 "desc": "",
 "url": "https://happeningnext.com/event/good-vibes-happy-hour-ft-dj-snuz-butt’n-·-rêve-coffee-tasting-eid3a0ed9q7kc",
 "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvZjc5ZDk4YzRiNDU0MTNjMGYwMjc3ODA2ZjIwMDcwNDg3ZDM1Yzk4MTU0M2ZlZWQ3M2ZhYjYzNzUyYjQ3YjZjOC1yaW1nLXc5NjAtaDUwMy1kYzI4MjgyOC1nbWlyP3Y9MTc5NTc2NDQyMA.avif",
-"source": "Happening Next (food & drinks)",
+"source": "Happening Next (music)",
+"alsoOn": [
+"Happening Next (food & drinks)"
+],
 "id": "3ae3966772"
 },
 {
@@ -4342,6 +4374,25 @@
 "image": "https://dyn-image.allevents.in/generate-image?v=4&title=Storytelling+%26+Book+Signing+of+%22The+Cajun+Nativity+%22&date=Fri%2C+18+Dec%2C+2026+at+07%3A00+pm&bg=1",
 "source": "Happening Next (performances)",
 "id": "704d90ad28"
+},
+{
+"title": "Live at Sala: SEAUXLEAUX ft. Louis Michot + Tasche de la Rocha",
+"start": "2026-12-18T20:00",
+"end": "2026-12-18T23:45",
+"allDay": false,
+"ongoing": false,
+"venue": "425 Jefferson Street, Lafayette",
+"address": "",
+"price": "",
+"free": false,
+"cats": [
+"music"
+],
+"desc": "SEAUXLEAUX ft. Louis Michot + Tasche de la Rocha live at Sala Good Vibes, night 8 of 9 of 12 Days of Good Vibes. Doors at 8:00 PM, music until midnight. $10 Thanksgiving Special tickets through Sunday, Nov 29 · $15 online from Monday, Nov 30 (plus taxes & fees) · $20 at the door. Only 50 spots per show. Tickets: https://www.socialentertainment.net/events · Bora pra Sala!",
+"url": "https://happeningnext.com/event/live-at-sala-seauxleaux-ft-louis-michot-tasche-de-la-rocha-eid3a0ed9q7he",
+"image": "https://cdn.happeningnext.com/events6/banners/09ce28398584dc12c10a7716e09608676478c594d57141f9f7268f1c6644b711-rimg-w1200-h628-dc282828-gmir?v=1795764420",
+"source": "Happening Next (music)",
+"id": "5222bac50d"
 },
 {
 "title": "Mama Jingle's Campy Christmas",

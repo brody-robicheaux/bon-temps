@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-27T23:04:42Z",
+"updated": "2026-11-28T01:22:47Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -263,25 +263,6 @@
 ],
 "hot": true,
 "id": "d5773c2e0f"
-},
-{
-"title": "Kate Gordon: Tender Terrain",
-"start": "2026-11-27T09:00",
-"end": "2026-11-27T17:00",
-"allDay": false,
-"ongoing": false,
-"venue": "Acadiana Center for the Arts",
-"address": "",
-"price": "Free",
-"free": true,
-"cats": [
-"arts"
-],
-"desc": "",
-"url": "https://acadianacenterforthearts.org/kate-gordon/?occurrence=2026-11-27",
-"image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/11/King_Kate-Gordon-1.jpg",
-"source": "Acadiana Center for the Arts",
-"id": "759f33eb53"
 },
 {
 "title": "Philip Gould: A Selection of Works",
@@ -594,7 +575,10 @@
 "desc": "",
 "url": "https://acadianacenterforthearts.org/kate-gordon/?occurrence=2026-11-28",
 "image": "https://acadianacenterforthearts.org/wp-content/uploads/2026/11/King_Kate-Gordon-1.jpg",
-"source": "Acadiana Center for the Arts (all events)",
+"source": "Acadiana Center for the Arts",
+"alsoOn": [
+"Acadiana Center for the Arts (all events)"
+],
 "id": "22021b1d5a"
 },
 {

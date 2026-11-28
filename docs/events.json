@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-28T01:22:47Z",
+"updated": "2026-11-28T03:00:18Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -44,12 +44,12 @@
 {
 "name": "Happening Next (Lafayette live music)",
 "ok": true,
-"count": 59
+"count": 60
 },
 {
 "name": "Happening Next (theatre)",
 "ok": true,
-"count": 11
+"count": 10
 },
 {
 "name": "Happening Next (performances)",
@@ -69,7 +69,7 @@
 {
 "name": "Happening Next (concerts)",
 "ok": true,
-"count": 35
+"count": 36
 },
 {
 "name": "Happening Next (music)",
@@ -94,12 +94,12 @@
 {
 "name": "Happening Next (health wellness)",
 "ok": true,
-"count": 19
+"count": 18
 },
 {
 "name": "Happening Next (fitness)",
 "ok": true,
-"count": 14
+"count": 13
 },
 {
 "name": "Happening Next (festivals)",
@@ -134,8 +134,9 @@
 },
 {
 "name": "Cajundome",
-"ok": true,
-"count": 8
+"ok": false,
+"count": 8,
+"note": "RuntimeError: no event links on the events page (48082 bytes) (showing last good results)"
 },
 {
 "name": "Rock'n'Bowl de Lafayette",
@@ -345,9 +346,6 @@
 "url": "https://happeningnext.com/event/van-way-andamp-cousin-ii-eid3a0e9178hu",
 "image": "https://cdn.happeningnext.com/events10/banners/928258da6a5efe30afb2b02d6b66165c669309558d492cca28c432e9fdaa8d3b-rimg-w1200-h945-dce8e8e8-gmir?v=1793625972",
 "source": "Happening Next (art)",
-"alsoOn": [
-"Happening Next (exhibitions)"
-],
 "id": "717cfebdb8"
 },
 {
@@ -406,11 +404,8 @@
 "desc": "Savoy Family Cajun Band",
 "url": "https://happeningnext.com/event/savoy-family-cajun-band-eid3a0ec6boft",
 "image": "https://cdn.happeningnext.com/events9/banners/e0caec1ad4ddbb687245b3967518d11d859c70b4376b44b1dc6a0e0a0693914f-rimg-w1200-h675-dc180808-gmir?v=1795360994",
-"source": "Happening Next (Lafayette live music)",
+"source": "Happening Next (music)",
 "alsoOn": [
-"Happening Next (concerts)",
-"Happening Next (music)",
-"Happening Next (performances)",
 "Hideaway on Lee"
 ],
 "hot": true,
@@ -1152,6 +1147,25 @@
 "id": "1e8a1ca490"
 },
 {
+"title": "🎶 SOLA SHOP CONCERT: Paul Daigle & Cajun Gold! 🎻🔥",
+"start": "2026-12-02T18:30",
+"end": "2026-12-02T20:30",
+"allDay": false,
+"ongoing": false,
+"venue": "100 E Vermilion St, Ste 102, Lafayette",
+"address": "",
+"price": "",
+"free": false,
+"cats": [
+"music"
+],
+"desc": "Paul Daigle & Cajun Gold Trio\nA celebrated name in traditional Cajun music, Paul Daigle is best known for his work with Paul Daigle, Robert Elkins & Cajun Gold, a band recognized for its authentic Cajun sound and dedication to preserving French music. With his distinctive accordion playing and vocals, Daigle has long been a respected figure in the Cajun music community.\nFor this special trio performance, Daigle joins talented Cajun musicians Mark Latiolais and Cameron Fontenot, bringing together three musicians who share a passion for Acadiana's rich musical heritage. The group will play the tunes Pierre Varmon Daigle created for Cajun Gold and recorded, as well as talk about the stories behind the music and the band.",
+"url": "https://happeningnext.com/event/sola-shop-concert-paul-daigle-andamp-cajun-gold-eid3a0ed9q77d",
+"image": "https://cdn.happeningnext.com/events8/banners/fc47719b2db5c2cc0b4c91fc51d9470de483c91e7009c95a2fb1aa3fac6aa35e-rimg-w1200-h778-dcf8f8f8-gmir?v=1795764419",
+"source": "Happening Next (concerts)",
+"id": "c854d8bfe3"
+},
+{
 "title": "Maria Bamford (Lady Dynamite, The Comedians of Comedy, Bob's Burgers)",
 "start": "2026-12-02T19:00",
 "end": "2026-12-02T20:30",
@@ -1534,6 +1548,29 @@
 "id": "ac89a3a911"
 },
 {
+"title": "Bluegrass for Charity Concert",
+"start": "2026-12-04T19:00",
+"end": null,
+"allDay": false,
+"ongoing": false,
+"venue": "Parish Church",
+"address": "1400 W University Ave, Lafayette",
+"price": "",
+"free": false,
+"cats": [
+"music",
+"community"
+],
+"desc": "🎵 BLUEGRASS FOR CHARITY on 12/4 🎵\nJoin us for a bluegrass concert to benefit The Sparrow Foundation, helping victims of human trafficking.\nSwampland String Band formed out of a bluegrass jam in 2021, bringing together some of the top pickers from across Louisiana. The band performs a variety of bluegrass standards, swing, and more on festival stages, back porches, and anywhere in between.\nShowtime is 7:00pm, doors open at 6:00. Tickets are $12 at the door, kids 16 and under get in free. All proceeds go to The Sparrow Foundation.\nMore details about The Sparrow Foundation at http://thesparrow.foundation",
+"url": "https://happeningnext.com/event/bluegrass-for-charity-concert-eid3a0ed4r97t",
+"image": "https://cdn.happeningnext.com/events8/banners/27e2c82dc82d9c0f57b4c9d943a15b3f425d4711b52535d8976bbb0600bc949b-rimg-w1200-h1553-dce8e8d8-gmir?v=1795691531",
+"source": "Happening Next (Lafayette live music)",
+"alsoOn": [
+"Happening Next (concerts)"
+],
+"id": "29208558b5"
+},
+{
 "title": "Chorale Acadienne Presents: Christmas by Candlelight",
 "start": "2026-12-04T19:00",
 "end": null,
@@ -1633,6 +1670,28 @@
 "image": "https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54756026/dom%20francis%20pic_UW1F.jpg",
 "source": "Blue Moon Saloon",
 "id": "5851a331a4"
+},
+{
+"title": "Live at Sala: Dwight James & the Royals + The Debtors",
+"start": "2026-12-04T20:00",
+"end": "2026-12-04T23:45",
+"allDay": false,
+"ongoing": false,
+"venue": "425 Jefferson Street, Lafayette",
+"address": "",
+"price": "",
+"free": false,
+"cats": [
+"music"
+],
+"desc": "Dwight James & the Royals + The Debtors live at Sala Good Vibes, night 2 of 9 of 12 Days of Good Vibes. Doors at 8:00 PM, music until midnight. $10 Thanksgiving Special tickets through Sunday, Nov 29 · $15 online from Monday, Nov 30 (plus taxes & fees) · $20 at the door. Only 50 spots per show. Tickets: https://www.socialentertainment.net/events · Bora pra Sala!",
+"url": "https://happeningnext.com/event/live-at-sala-dwight-james-andamp-the-royals-the-debtors-eid3a0ed4r8o4",
+"image": "https://cdn.happeningnext.com/events3/banners/daeda84fbecf07d7a08d11d3d44d0749b4c556a6b3a4d559f5021c68fd364b25-rimg-w1200-h628-dc282828-gmir?v=1795691527",
+"source": "Happening Next (Lafayette live music)",
+"alsoOn": [
+"Happening Next (performances)"
+],
+"id": "b4f2142d70"
 },
 {
 "title": "Nik Parr & The Selfless Lovers",
@@ -1913,6 +1972,27 @@
 "image": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/lafayette/Noel-a-Broussard_2C8E24B2-AB80-4AFA-B0B22F95F9F4DBBB_779359b1-0f64-4ffe-ad0c70cddb2cdeb0.png",
 "source": "Lafayette Travel",
 "id": "c23b462224"
+},
+{
+"title": "Saturday Matinee: Poetry & Good Vibes ft. DJ Hit-N-Run",
+"start": "2026-12-05T16:00",
+"end": "2026-12-05T19:00",
+"allDay": false,
+"ongoing": false,
+"venue": "425 Jefferson Street, Lafayette",
+"address": "",
+"price": "",
+"free": false,
+"cats": [
+"music",
+"arts",
+"wellness"
+],
+"desc": "An afternoon of spoken word powered by Lyrically Inclined, with DJ Hit-N-Run. Free · RSVP at https://www.socialentertainment.net/events (only 50 spots). Part of 12 Days of Good Vibes at Sala Good Vibes. Bora pra Sala!",
+"url": "https://happeningnext.com/event/saturday-matinee-poetry-andamp-good-vibes-ft-dj-hit-n-run-eid3a0ed4rafc",
+"image": "https://cdn.happeningnext.com/events3/banners/f17a0f1e404a49e1f4a66fd7b85ab25c139117ed3a45357cb1382433cabaeecc-rimg-w1200-h628-dc282828-gmir?v=1795691542",
+"source": "Happening Next (performances)",
+"id": "ef94210fcd"
 },
 {
 "title": "Fightingville Holiday Stroll",
@@ -2384,7 +2464,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "ac7306e0d5"
+"id": "ac7306e0d5",
+"alsoOn": []
 },
 {
 "title": "Noël Acadien au Village",
@@ -2442,7 +2523,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "925c27b074"
+"id": "925c27b074",
+"alsoOn": []
 },
 {
 "title": "Noël Acadien au Village",
@@ -2519,7 +2601,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "4f89739324"
+"id": "4f89739324",
+"alsoOn": []
 },
 {
 "title": "Line Dance Class & Holiday Social",
@@ -2709,7 +2792,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "93bac03628"
+"id": "93bac03628",
+"alsoOn": []
 },
 {
 "title": "The American Creed in Words and Images",
@@ -2899,7 +2983,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "5876381c12"
+"id": "5876381c12",
+"alsoOn": []
 },
 {
 "title": "Holiday Chocolate Tasting",
@@ -3313,7 +3398,8 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "c0d1dca356"
+"id": "c0d1dca356",
+"alsoOn": []
 },
 {
 "title": "Fall '26 End of Season Shows: Day 1",
@@ -3339,6 +3425,27 @@
 "Happening Next (music)"
 ],
 "id": "53d7dc403e"
+},
+{
+"title": "Saturday Matinee: Art Walk Vibes ft. DJ Hit-N-Run",
+"start": "2026-12-12T16:00",
+"end": "2026-12-12T19:00",
+"allDay": false,
+"ongoing": false,
+"venue": "425 Jefferson Street, Lafayette",
+"address": "",
+"price": "",
+"free": false,
+"cats": [
+"music",
+"arts",
+"wellness"
+],
+"desc": "Downtown ArtWalk stops at Sala: local artists and DJ Hit-N-Run. Free · RSVP at https://www.socialentertainment.net/events (only 50 spots). Part of 12 Days of Good Vibes at Sala Good Vibes. Bora pra Sala!",
+"url": "https://happeningnext.com/event/saturday-matinee-art-walk-vibes-ft-dj-hit-n-run-eid3a0ed4r9pj",
+"image": "https://cdn.happeningnext.com/events8/banners/a45d4fe5fc3bb6a201a744de7ee6db8508ab24397ab28c71db161252b921f414-rimg-w960-h503-dc282828-gmir?v=1795691533",
+"source": "Happening Next (exhibitions)",
+"id": "a8e26c3b96"
 },
 {
 "title": "Artist Talk: Artists’ Alliance & Tattooed Walls",
@@ -3500,6 +3607,7 @@
 "alsoOn": [
 "Happening Next (food & drinks)"
 ],
+"hot": true,
 "id": "620ef67a0a"
 },
 {
@@ -3789,6 +3897,7 @@
 "alsoOn": [
 "Happening Next (food & drinks)"
 ],
+"hot": true,
 "id": "9b656d9383"
 },
 {
@@ -4194,6 +4303,25 @@
 "id": "db0703545b"
 },
 {
+"title": "Live at Sala: Kelli Jones + Gee Scott & Pocket",
+"start": "2026-12-17T19:00",
+"end": "2026-12-17T23:45",
+"allDay": false,
+"ongoing": false,
+"venue": "425 Jefferson Street, Lafayette",
+"address": "",
+"price": "",
+"free": false,
+"cats": [
+"music"
+],
+"desc": "Kelli Jones + Gee Scott & Pocket live at Sala Good Vibes, night 7 of 9 of 12 Days of Good Vibes. Doors at 7:00 PM, music until midnight. $10 Thanksgiving Special tickets through Sunday, Nov 29 · $15 online from Monday, Nov 30 (plus taxes & fees) · $20 at the door. Only 50 spots per show. Tickets: https://www.socialentertainment.net/events · Bora pra Sala!",
+"url": "https://happeningnext.com/event/live-at-sala-kelli-jones-gee-scott-andamp-pocket-eid3a0ed4r9si",
+"image": "https://cdn.happeningnext.com/events8/banners/3775bd9352ffb2c7e3845a120cc2b8ec4d7ba7997d8a363bdbd0c79a2d1186e1-rimg-w1200-h628-dc282828-gmir?v=1795691534",
+"source": "Happening Next (Lafayette live music)",
+"id": "37caaf6a71"
+},
+{
 "title": "Nether Hour",
 "start": "2026-12-17T20:00",
 "end": null,
@@ -4211,6 +4339,26 @@
 "image": "https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54756026/nether%20hour%20pic_K5gg.png",
 "source": "Blue Moon Saloon",
 "id": "7fb3b67b7b"
+},
+{
+"title": "Good Vibes Happy Hour ft. DJ Snuz Butt’n · Rêve Coffee Tasting",
+"start": "2026-12-18T00:00",
+"end": null,
+"allDay": true,
+"ongoing": false,
+"venue": "425 Jefferson Street, Lafayette",
+"address": "",
+"price": "",
+"free": false,
+"cats": [
+"music",
+"food"
+],
+"desc": "",
+"url": "https://happeningnext.com/event/good-vibes-happy-hour-ft-dj-snuz-butt’n-·-rêve-coffee-tasting-eid3a0ed9q7kc",
+"image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvZjc5ZDk4YzRiNDU0MTNjMGYwMjc3ODA2ZjIwMDcwNDg3ZDM1Yzk4MTU0M2ZlZWQ3M2ZhYjYzNzUyYjQ3YjZjOC1yaW1nLXc5NjAtaDUwMy1kYzI4MjgyOC1nbWlyP3Y9MTc5NTc2NDQyMA.avif",
+"source": "Happening Next (food & drinks)",
+"id": "3ae3966772"
 },
 {
 "title": "Noël Acadien au Village",
@@ -4669,7 +4817,8 @@
 "url": "https://www.cajundome.com/events/detail/all-red-affair-2026",
 "image": "",
 "source": "Cajundome",
-"id": "4022e39939"
+"id": "4022e39939",
+"alsoOn": []
 },
 {
 "title": "Universal Cheer Association: Louisiana Regional",
@@ -4688,7 +4837,8 @@
 "url": "https://www.cajundome.com/events/detail/ucala2025-2",
 "image": "",
 "source": "Cajundome",
-"id": "97310f388e"
+"id": "97310f388e",
+"alsoOn": []
 },
 {
 "title": "Downtown Holiday Block Party",
@@ -5708,23 +5858,20 @@
 {
 "title": "The Wiz",
 "start": "2027-01-11T19:30",
-"end": "2027-01-11T21:30",
+"end": null,
 "allDay": false,
 "ongoing": false,
 "venue": "Heymann Performing Arts Center",
-"address": "1373 S. College Rd, Lafayette",
+"address": "1373 S College Rd, Lafayette",
 "price": "",
 "free": false,
 "cats": [
 "theater"
 ],
 "desc": "AGES 1 AND UP NEED A TICKET\nThe Tony® Award-winning Best Musical that took the world by storm is back.",
-"url": "https://happeningnext.com/event/the-wiz-eid13twljmsou8",
-"image": "https://cdn.happeningnext.com/events9/banners/9ca061e0-e363-11f1-8fb8-85ebc5aef943-rimg-w1170-h700-dc080808-gmir.jpg?v=1795015244",
-"source": "Happening Next (theatre)",
-"alsoOn": [
-"Heymann Performing Arts Center"
-],
+"url": "https://www.heymanncenter.com/events/2025/the-wiz",
+"image": "https://cdn.saffire.com/images.ashx?t=ig&rid=HeymannCenter&i=LAF26_VENUE_250x250_WIZ.jpg&cb=4192c330",
+"source": "Heymann Performing Arts Center",
 "id": "23f2205ce6"
 },
 {

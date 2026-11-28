@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-28T07:23:20Z",
+"updated": "2026-11-28T09:00:10Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -134,9 +134,8 @@
 },
 {
 "name": "Cajundome",
-"ok": false,
-"count": 8,
-"note": "RuntimeError: no event links on the events page (48082 bytes) (showing last good results)"
+"ok": true,
+"count": 8
 },
 {
 "name": "Rock'n'Bowl de Lafayette",
@@ -2304,8 +2303,7 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "ac7306e0d5",
-"alsoOn": []
+"id": "ac7306e0d5"
 },
 {
 "title": "Noël Acadien au Village",
@@ -2363,8 +2361,7 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "925c27b074",
-"alsoOn": []
+"id": "925c27b074"
 },
 {
 "title": "Noël Acadien au Village",
@@ -2441,8 +2438,7 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "4f89739324",
-"alsoOn": []
+"id": "4f89739324"
 },
 {
 "title": "Line Dance Class & Holiday Social",
@@ -2629,8 +2625,7 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "93bac03628",
-"alsoOn": []
+"id": "93bac03628"
 },
 {
 "title": "The American Creed in Words and Images",
@@ -2820,8 +2815,7 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "5876381c12",
-"alsoOn": []
+"id": "5876381c12"
 },
 {
 "title": "Holiday Chocolate Tasting",
@@ -3235,8 +3229,7 @@
 "url": "https://www.cajundome.com/events/detail/usa-boxing-2026",
 "image": "",
 "source": "Cajundome",
-"id": "c0d1dca356",
-"alsoOn": []
+"id": "c0d1dca356"
 },
 {
 "title": "Fall '26 End of Season Shows: Day 1",
@@ -4673,8 +4666,7 @@
 "url": "https://www.cajundome.com/events/detail/all-red-affair-2026",
 "image": "",
 "source": "Cajundome",
-"id": "4022e39939",
-"alsoOn": []
+"id": "4022e39939"
 },
 {
 "title": "Universal Cheer Association: Louisiana Regional",
@@ -4693,8 +4685,7 @@
 "url": "https://www.cajundome.com/events/detail/ucala2025-2",
 "image": "",
 "source": "Cajundome",
-"id": "97310f388e",
-"alsoOn": []
+"id": "97310f388e"
 },
 {
 "title": "Downtown Holiday Block Party",

@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-28T10:57:46Z",
+"updated": "2026-11-28T13:07:05Z",
 "sources": [
 {
 "name": "Hilliard Art Museum",
@@ -64,7 +64,7 @@
 {
 "name": "Happening Next (dance)",
 "ok": true,
-"count": 17
+"count": 18
 },
 {
 "name": "Happening Next (concerts)",
@@ -79,7 +79,7 @@
 {
 "name": "Happening Next (art)",
 "ok": true,
-"count": 39
+"count": 41
 },
 {
 "name": "Happening Next (exhibitions)",
@@ -943,6 +943,9 @@
 "url": "https://hilliardartmuseum.org/event/museum-makers-exploring-cyanotype-through-nature/",
 "image": "https://hilliardartmuseum.org/wp-content/uploads/2026/11/Hero-Image.-July-23-2026-Workshop-2026-94.webp",
 "source": "Hilliard Art Museum",
+"alsoOn": [
+"Happening Next (art)"
+],
 "id": "829ab1a623"
 },
 {
@@ -3318,9 +3321,11 @@
 "desc": "Downtown ArtWalk stops at Sala: local artists and DJ Hit-N-Run. Free · RSVP at https://www.socialentertainment.net/events (only 50 spots). Part of 12 Days of Good Vibes at Sala Good Vibes. Bora pra Sala!",
 "url": "https://happeningnext.com/event/saturday-matinee-art-walk-vibes-ft-dj-hit-n-run-eid3a0ed4r9pj",
 "image": "https://cdn.happeningnext.com/events8/banners/a45d4fe5fc3bb6a201a744de7ee6db8508ab24397ab28c71db161252b921f414-rimg-w960-h503-dc282828-gmir?v=1795691533",
-"source": "Happening Next (music)",
+"source": "Happening Next (dance)",
 "alsoOn": [
-"Happening Next (exhibitions)"
+"Happening Next (art)",
+"Happening Next (exhibitions)",
+"Happening Next (music)"
 ],
 "id": "a8e26c3b96"
 },
